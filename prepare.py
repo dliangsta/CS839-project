@@ -3,7 +3,7 @@ import re
 
 CRYPTO = '1'
 UNSURE = '`'
-DIRECTORY = 'data/documents/'
+DIRECTORY = 'data/unlabeled/'
 
 def main():
     with open('data/cryptocurrencies_list.json') as f:
@@ -37,7 +37,7 @@ def main():
         out += '\n'
 
         # print(out)    
-        with open('data/labeled_documents/' + str(i),'w') as f:
+        with open('data/labeled/' + str(i),'w') as f:
             f.write(out)
 
 # Manually label easy cases, like all occurrences of 'bitcoin'

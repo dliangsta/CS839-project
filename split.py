@@ -5,9 +5,9 @@ def main():
         data = json.load(f)
         print(data)
     for i, article in enumerate(data):
-        print(i)
-        with open('data/documents/' + str(i), 'w') as ff:
-            json.dump(article, ff)
+        if i < 330:
+            with open('data/unlabeled/' + str(i+1), 'w') as ff:
+                json.dump(article, ff)
         
 if __name__ == '__main__':
     main()

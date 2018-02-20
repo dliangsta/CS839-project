@@ -4,7 +4,7 @@ def main():
     one_count = 0
     bitcoin_count = 0
     for i in range(1,331):
-        with open('data/labeled_documents/' + str(i)) as f:
+        with open('data/labeled/' + str(i)) as f:
             data = [line.strip() for line in f.readlines()]
             for i, line in enumerate(data):
                 if i % 2 == 1:

@@ -36,7 +36,6 @@ def main():
 
         out += '\n'
 
-        # print(out)    
         with open('data/labeled/' + str(i),'w') as f:
             f.write(out)
 

@@ -3,12 +3,11 @@ import json
 def main():
     with open('data/cryptocurrencies_html.html') as f:
         lines = [line.strip() for line in f.readlines()]
-        cryptocurrencies = []
+        cryptocurrencies = ["Ether"]
         for line in lines:
             # print(line)
             crptocurrency_name = find_cryptocurrency_name(line)
             if crptocurrency_name:
-                print(crptocurrency_name)
                 cryptocurrencies.append(crptocurrency_name)
     with open('data/cryptocurrencies_list.json','w') as f:
         json.dump(cryptocurrencies, f)

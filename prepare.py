@@ -1,10 +1,22 @@
 import json
-import sys
+import re
+
+CRYPTO = '1'
+UNSURE = '`'
 
 def main():
 
     directory = 'data/'
     names = ['aishwarya','david','vish']
+
+    with open('data/cryptocurrencies_list.json') as f:
+        # Take top n currencies.
+        n = 10
+        cryptocurrencies = [cryptocurrency_name.lower() for cryptocurrency_name in json.load(f)[:n]]
+
+    # Manual exceptions.
+    blacklist = []
+
     for name in names:
         
         with open(directory + name + '_raw.json') as f:
@@ -24,22 +36,31 @@ def main():
                     out += line + '\n'
                     words = line.split(' ')
 
-                    for i in range(len(words)):
-                        out_line = '`' + '_' * (len(words[i])-1) + ' '
+                    for i, word in enumerate(words):
+                        out_line = label(cryptocurrencies, blacklist, word) + '_' * (len(words[i])-1) + ' '
                         out += out_line
 
                     out += '\n'
 
             out += '\n'
 
-        print(out)    
+        # print(out)    
         with open(directory + name + '_prepared.txt','w') as f:
             f.write(out)
-        
 
-def write(out):
-    sys.stdout.write(out)
-    sys.stdout.flush()
+# Manually label easy cases, like all occurrences of 'bitcoin'
+def label(cryptocurrencies, blacklist, original_word):
+    # Remove some punctuation
+    word = original_word.strip().replace('(','').replace(')','').replace('.','')
+    # Some words like "Ripple's" won't be in our list
+    word = re.split('\'', word)[0].lower()
+
+    if word in cryptocurrencies and original_word not in blacklist:
+
+        return CRYPTO
+
+    return UNSURE
+        
 
 if __name__ == '__main__':
     main()

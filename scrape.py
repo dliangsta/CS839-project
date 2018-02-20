@@ -11,11 +11,16 @@ def main():
                         
     # Note, the results are not the same every time.
     results = q.execQuery(er, sortBy = 'date', maxItems=1000)
-    data = [article['body'] for article in results]
-    print(data)
+
+    text = []
+    for article in results:
+        # Results are not guaranteed to be unique.
+        if article['body'] not in text:
+            text.append(article['body'])
+    print(text)
 
     with open('data/raw.json','w') as f:
-        json.dump(data, f)
+        json.dump(text, f)
 
 if __name__ == '__main__':
     main()

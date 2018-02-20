@@ -3,7 +3,7 @@ import json
 def main():
     with open('data/raw.json') as f:
         data = json.load(f)
-        print(data)
+        print(len(data))
     for i, article in enumerate(data):
         if i < 330:
             with open('data/unlabeled/' + str(i+1), 'w') as ff:

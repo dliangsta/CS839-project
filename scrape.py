@@ -8,6 +8,7 @@ def main():
     q = QueryArticlesIter(keywords=QueryItems.AND(['cryptocurrency','$','price']), 
                         lang='eng')
                         
+    # Note, the results are not the same every time.
     results = q.execQuery(er, sortBy = 'date', maxItems=1000)
     data = [article['body'] for article in results]
     print(data)

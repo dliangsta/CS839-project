@@ -18,7 +18,7 @@ def main():
 
         out = ''
         # Clean article.
-        article = article.replace('-',' - ').replace('  ',' ').replace(' \n','\n').replace('\n ','\n').replace('\n\n','\n')
+        article = article.replace('  ',' ').replace(' \n','\n').replace('\n ','\n').replace('\n\n','\n')
         # Split into lines.
         lines = article.split('\n')
 

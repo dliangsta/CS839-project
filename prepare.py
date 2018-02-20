@@ -43,11 +43,11 @@ def main():
 # Manually label easy cases, like all occurrences of 'bitcoin'
 def label(original_word, cryptocurrencies):
     # Remove some punctuation
-    word = original_word.strip().replace('(','').replace(')','').replace('.','').replace('"','')
+    word = original_word.strip().replace('(','').replace(')','').replace('.','').replace('"','').replace(',','')
     # Some words like "Ripple's" won't be in our list
     word = re.split('\'', word)[0].lower()
 
-    return CRYPTO if word in cryptocurrencies else UNSURE
+    return CRYPTO if word in cryptocurrencies or word[:-1] in cryptocurrencies else UNSURE
         
 
 if __name__ == '__main__':

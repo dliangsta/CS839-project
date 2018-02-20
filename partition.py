@@ -2,34 +2,38 @@ import json
 import random
 import numpy as np
 
-directory = 'data/'
-names = ['aishwarya','david','vish']
+DIRECTORY = 'data/'
+NAMES = ['aishwarya','david','vish']
 
-with open(directory + 'raw.json') as f:
-    data = json.load(f)
+def main():
+    with open(DIRECTORY + 'raw.json') as f:
+        data = json.load(f)
 
-article_lengths = []
-for article in data:
-    article_lengths.append(len(article))
+    article_lengths = []
+    for article in data:
+        article_lengths.append(len(article))
 
-article_lengths.sort()
-print(article_lengths)
-print(np.mean(article_lengths))
+    article_lengths.sort()
+    print(article_lengths)
+    print(np.mean(article_lengths))
 
-# select shortest 330 articles
-selected_articles = []
-for article in data:
-    if len(article) < article_lengths[330]:
-        print(article)
-        selected_articles.append(article)
+    # select shortest 330 articles
+    selected_articles = []
+    for article in data:
+        if len(article) < article_lengths[330]:
+            print(article)
+            selected_articles.append(article)
 
-selected_articles = np.array(selected_articles)
+    selected_articles = np.array(selected_articles)
 
-for i in range(len(names)): 
-    indices = range(i,len(selected_articles),len(names))
-    partition = selected_articles[indices]
-    with open(directory + names[i] + '_raw.json', 'w') as f:
-        json.dump(partition.tolist(), f)
+    for i in range(len(NAMES)): 
+        indices = range(i,len(selected_articles),len(NAMES))
+        partition = selected_articles[indices]
+        with open(DIRECTORY + NAMES[i] + '_raw.json', 'w') as f:
+            json.dump(partition.tolist(), f)
 
-    print(len(partition))
+        print(len(partition))
+        
+if __name__ == '__main__':
+    main()
     

@@ -26,9 +26,14 @@ def main():
 
     selected_articles = np.array(selected_articles)
 
+    counter = 1
     for i in range(len(NAMES)): 
         indices = range(i,len(selected_articles),len(NAMES))
         partition = selected_articles[indices]
+        for article in partition:
+            with open(DIRECTORY + 'documents/' + str(counter),'w') as f:
+                json.dump(article, f)
+                counter += 1
         with open(DIRECTORY + NAMES[i] + '_raw.json', 'w') as f:
             json.dump(partition.tolist(), f)
 

@@ -3,45 +3,41 @@ import re
 
 CRYPTO = '1'
 UNSURE = '`'
-DIRECTORY = 'data/'
-NAMES = ['aishwarya','david','vish']
+DIRECTORY = 'data/documents/'
 
 def main():
-
     with open('data/cryptocurrencies_list.json') as f:
         # Take top n currencies.
-        n = 10
+        n = 100
         cryptocurrencies = [cryptocurrency_name.lower() for cryptocurrency_name in json.load(f)[:n]]
 
-    for name in NAMES:
-        
-        with open(DIRECTORY + name + '_raw.json') as f:
-            data = json.load(f) 
+    for i in range(1,331):
+        with open(DIRECTORY + str(i)) as f:
+            article = json.load(f) 
 
 
         out = ''
-        for article in data:
-            # Clean article.
-            article = article.replace('-',' - ').replace('  ',' ').replace(' \n','\n').replace('\n ','\n').replace('\n\n','\n')
-            # Split into lines.
-            lines = article.split('\n')
+        # Clean article.
+        article = article.replace('-',' - ').replace('  ',' ').replace(' \n','\n').replace('\n ','\n').replace('\n\n','\n')
+        # Split into lines.
+        lines = article.split('\n')
 
-            for line in lines:
-                line = line.strip() + '.'
-                if len(line) > 0:
-                    out += line + '\n'
-                    words = line.split(' ')
+        for line in lines:
+            line = line.strip() + '.'
+            if len(line) > 0:
+                out += line + '\n'
+                words = line.split(' ')
 
-                    for i, word in enumerate(words):
-                        out_line = label(word, cryptocurrencies) + '_' * (len(words[i])-1) + ' '
-                        out += out_line
+                for j, word in enumerate(words):
+                    out_line = label(word, cryptocurrencies) + '_' * (len(words[j])-1) + ' '
+                    out += out_line
 
-                    out += '\n'
+                out += '\n'
 
-            out += '\n'
+        out += '\n'
 
         # print(out)    
-        with open(DIRECTORY + name + '_prepared.txt','w') as f:
+        with open('data/labeled_documents/' + str(i),'w') as f:
             f.write(out)
 
 # Manually label easy cases, like all occurrences of 'bitcoin'

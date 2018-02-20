@@ -1,4 +1,4 @@
-import json
+import pickle
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import SVC
@@ -6,7 +6,9 @@ from sklearn.linear_model import LinearRegression, LogisticRegression
 import numpy as np
 
 def main():
-    
+    with open('data/instances.pkl','rb') as f:
+        dataset = pickle.load(f)
+    print(dataset[0])
 
 def decision_tree(X, y):
     clf = DecisionTreeClassifier(random_state=0)

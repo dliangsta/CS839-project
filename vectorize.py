@@ -10,6 +10,8 @@ def main():
     with open('data/prune_list.json') as f:
         prune_list = json.load(f)
 
+    one_count = 0
+    zero_count = 0
     for i in range(1,331):
         with open('data/labeled/' + str(i)) as f:
             data = [line.strip() for line in f.readlines()]
@@ -27,32 +29,38 @@ def main():
                         label = 1 if labeled_line[k] == '1' else 0
                         # Index of end of label.
                         l = labeled_line.find(' ', k)
+                        if l < k:
+                            break
+
 
                         word = original_line[k:l]
-                        if not shouldPruneWord(word, prune_list):
-                            # Make features.
-                            print(word)
-                            # features = []
-                            # features.append(hasAllCaps(word))
-                            # features.append(surroundedByParentheses(word))
-                            # features.append(wordLength(word))
-                            # features.append(firstLetterCapitalized(word))
-                            # features.append(containsCashSubstring(word))
-                            # features.append(containsCoinSubstring(word))
-                            # features.append(numCapitals(word))
+                        if len(word) and any([c.isalpha() for c in word]):
+                            if not shouldPruneWord(word, prune_list):
+                                if label == 1:
+                                    one_count += 1
+                                else:
+                                    zero_count += 1
+                                # Make features.
+                                features = []
+                                features.append(hasAllCaps(word))
+                                features.append(surroundedByParentheses(word))
+                                features.append(wordLength(word))
+                                features.append(firstLetterCapitalized(word))
+                                features.append(containsCashSubstring(word))
+                                features.append(containsCoinSubstring(word))
+                                features.append(numCapitals(word))
 
+                                location = Location(i, j, k)
+                                instance = Instance(location=location, 
+                                                    label=label, 
+                                                    word=word,
+                                                    features=features)
+                                instances.append(instance)
 
-                            # location = Location(i, j, k)
-                            # instance = Instance(location=location, 
-                            #                     label=label, 
-                            #                     word=word,
-                            #                     features=features)
-                            # instances.append(instance)
-
-                            # print(instance)
-
+                                print(instance)
                         k = l+1
 
+    print(one_count, zero_count)
     # Save dataset.
     with open('data/instances.pkl','wb') as f:
         pickle.dump(instances, f)

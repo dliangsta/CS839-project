@@ -33,6 +33,7 @@ def main():
     with open('data/instances.pkl','wb') as f:
         pickle.dump(instances, f)
 
+
 def hasAllCaps(word):
     word = removePunctuation(word)
     return int(word.upper() == word)
@@ -41,6 +42,11 @@ def surroundedByParentheses(word):
     # Remove leading and trailing quotations
     word = removePunctuation(word)
     return int(word[0] == '(' and word[-1] == ')')
+
+def containsSubstring(word):
+    # Determines if any of these key words are substrings.
+    substrings = ['cash','coin']
+    return any([substring in word for substring in substrings])
 
 def removePunctuation(word):
     punctuation = ['\'','"','.','?','!',',',';',':']

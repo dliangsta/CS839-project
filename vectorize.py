@@ -8,21 +8,27 @@ prune_list = ["the",  "be",  "to",  "of",  "and",  "a",  "in",  "that",  "have",
 
 def main():
     instances = []
+    # Iterate over all documents.
     for i in range(1,331):
         with open('data/labeled/' + str(i)) as f:
             data = [line.strip() for line in f.readlines()]
+
+            # Iterate over lines in document.
             for j, labeled_line in enumerate(data):
                 original_line = data[j-1]
-                if j % 2 == 1:
-                    # Positive example.
+                # Skip every other line, because we handle the lines in pais.
+                if j % 2 == 1: 
+                    # Iterate over each character in the line.
                     for k in range(len(labeled_line)):
-                        if labeled_line[k] == '1':
-                            l = labeled_line.find(' ',k)
-                            label = labeled_line[k:l]
-                            word = original_line[k:l]
-                            # print(label)
-                            # print(word)
-                            # Make features
+                        label = 1 if labeled_line[k] == '1' else 0
+                        # Index of end of label.
+                        l = labeled_line.find(' ', k)
+
+                        label = labeled_line[k:l]
+                        word = original_line[k:l]
+
+                        if not shouldPruneWord(word):
+                            # Make features.
                             features = []
                             features.append(hasAllCaps(word))
                             features.append(surroundedByParentheses(word))
@@ -35,19 +41,20 @@ def main():
 
                             location = Location(i, j, k)
                             instance = Instance(location=location, 
-                                                label=1, 
+                                                label=label, 
                                                 word=word,
                                                 features=features)
                             instances.append(instance)
 
                             print(instance)
 
-                        else:
-                            # Negative example.
-                            pass
 
+    # Save dataset.
     with open('data/instances.pkl','wb') as f:
         pickle.dump(instances, f)
+
+def shouldPruneWord(word):
+    return False
 
 # Features
 def hasAllCaps(word):

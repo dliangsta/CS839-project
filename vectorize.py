@@ -16,7 +16,8 @@ def main():
             # Iterate over lines in document.
             for j, labeled_line in enumerate(data):
                 original_line = data[j-1]
-                # Skip every other line, because we handle the lines in pais.
+
+                # Skip every other line, because we handle the lines in pairs.
                 if j % 2 == 1: 
                     # Iterate over each character in the line.
                     for k in range(len(labeled_line)):

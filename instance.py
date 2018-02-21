@@ -6,4 +6,4 @@ class Instance:
         self.features = features
         
     def __str__(self):
-        return "(location: {}, label: {})".format(self.location, self.label)
+        return "(location: {}, label: {}, features: {})".format(self.location, self.label, self.features)

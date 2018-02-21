@@ -4,17 +4,17 @@ from location import *
 
 def main():
     instances = []
-    for a in range(1,331):
-        with open('data/labeled/' + str(a)) as f:
+    for i in range(1,331):
+        with open('data/labeled/' + str(i)) as f:
             data = [line.strip() for line in f.readlines()]
-            for i, labeled_line in enumerate(data):
-                original_line = data[i-1]
-                if i % 2 == 1:
-                    for j in range(len(labeled_line)):
-                        if labeled_line[j] == '1':
-                            k = labeled_line.find(' ',j)
-                            label = labeled_line[j:k]
-                            word = original_line[j:k]
+            for j, labeled_line in enumerate(data):
+                original_line = data[j-1]
+                if j % 2 == 1:
+                    for k in range(len(labeled_line)):
+                        if labeled_line[k] == '1':
+                            l = labeled_line.find(' ',k)
+                            label = labeled_line[k:l]
+                            word = original_line[k:l]
                             print(label)
                             print(word)
                             # Make features
@@ -26,15 +26,16 @@ def main():
                             features.append(containsCashSubstring(word))
                             features.append(containsCoinSubstring(word))
                             features.append(numCapitals(word))
-                            print(features)
 
 
-                            location = Location(i, j)
+                            location = Location(i, j, k)
                             instance = Instance(location=location, 
                                                 label=1, 
                                                 features=features)
                             instances.append(instance)
 
+                            print(instance)
+                            
     with open('data/instances.pkl','wb') as f:
         pickle.dump(instances, f)
 

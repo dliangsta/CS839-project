@@ -21,6 +21,8 @@ def main():
                             features = []
                             features.append(hasAllCaps(word))
                             features.append(surroundedByParentheses(word))
+                            features.append(wordLength(word))
+                            features.append(firstLetterCapitalized(word))
                             print(features)
 
 
@@ -41,6 +43,14 @@ def surroundedByParentheses(word):
     # Remove leading and trailing quotations
     word = removePunctuation(word)
     return int(word[0] == '(' and word[-1] == ')')
+
+def wordLength(word):
+	word = removePunctuation(word)
+	return len(word)
+
+def firstLetterCapitalized(word):
+	word = removePunctuation(word)
+	return int(word[0].isupper())
 
 def removePunctuation(word):
     punctuation = ['\'','"','.','?','!',',',';',':']

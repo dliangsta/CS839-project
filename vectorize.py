@@ -21,6 +21,9 @@ def main():
                             features = []
                             features.append(hasAllCaps(word))
                             features.append(surroundedByParentheses(word))
+                            features.append(wordLength(word))
+                            features.append(firstLetterCapitalized(word))
+                            features.append(containsSubstring(word))
                             print(features)
 
 
@@ -46,7 +49,15 @@ def surroundedByParentheses(word):
 def containsSubstring(word):
     # Determines if any of these key words are substrings.
     substrings = ['cash','coin']
-    return any([substring in word for substring in substrings])
+    return int(any([substring in word for substring in substrings]))
+
+def wordLength(word):
+	word = removePunctuation(word)
+	return len(word)
+
+def firstLetterCapitalized(word):
+	word = removePunctuation(word)
+	return int(word[0].isupper())
 
 def removePunctuation(word):
     punctuation = ['\'','"','.','?','!',',',';',':']

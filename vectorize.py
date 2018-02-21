@@ -4,8 +4,8 @@ from location import *
 
 def main():
     instances = []
-    for i in range(1,331):
-        with open('data/labeled/' + str(i)) as f:
+    for a in range(1,331):
+        with open('data/labeled/' + str(a)) as f:
             data = [line.strip() for line in f.readlines()]
             for i, labeled_line in enumerate(data):
                 original_line = data[i-1]

@@ -25,6 +25,7 @@ def main():
                             features.append(firstLetterCapitalized(word))
                             features.append(containsCashSubstring(word))
                             features.append(containsCoinSubstring(word))
+                            features.append(numCapitals(word))
                             print(features)
 
 
@@ -37,7 +38,7 @@ def main():
     with open('data/instances.pkl','wb') as f:
         pickle.dump(instances, f)
 
-
+# Features
 def hasAllCaps(word):
     word = removePunctuation(word)
     return int(word.upper() == word)
@@ -47,14 +48,6 @@ def surroundedByParentheses(word):
     word = removePunctuation(word)
     return int(word[0] == '(' and word[-1] == ')')
 
-def containsCashSubstring(word):
-    # Determines if any of these key words are substrings.
-    return int('cash' in word.lower())
-
-def containsCoinSubstring(word):
-    return int('coin' in word.lower())
-
-
 def wordLength(word):
 	word = removePunctuation(word)
 	return len(word)
@@ -63,6 +56,18 @@ def firstLetterCapitalized(word):
 	word = removePunctuation(word)
 	return int(word[0].isupper())
 
+def containsCashSubstring(word):
+    # Determines if any of these key words are substrings.
+    return int('cash' in word.lower())
+
+def containsCoinSubstring(word):
+    return int('coin' in word.lower())
+
+def numCapitals(word):
+    word = removePunctuation(word)
+    return sum(1 for c in word if c.isupper() and c.isalpha())
+
+# Utilities
 def removePunctuation(word):
     punctuation = ['\'','"','.','?','!',',',';',':']
     while word[0] in punctuation:

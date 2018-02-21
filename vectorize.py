@@ -10,13 +10,14 @@ def main():
             for j, labeled_line in enumerate(data):
                 original_line = data[j-1]
                 if j % 2 == 1:
+                    # Positive example.
                     for k in range(len(labeled_line)):
                         if labeled_line[k] == '1':
                             l = labeled_line.find(' ',k)
                             label = labeled_line[k:l]
                             word = original_line[k:l]
-                            print(label)
-                            print(word)
+                            # print(label)
+                            # print(word)
                             # Make features
                             features = []
                             features.append(hasAllCaps(word))
@@ -31,11 +32,16 @@ def main():
                             location = Location(i, j, k)
                             instance = Instance(location=location, 
                                                 label=1, 
+                                                word=word,
                                                 features=features)
                             instances.append(instance)
 
                             print(instance)
-                            
+
+                        else:
+                            # Negative example.
+                            pass
+
     with open('data/instances.pkl','wb') as f:
         pickle.dump(instances, f)
 

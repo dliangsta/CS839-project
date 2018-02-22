@@ -1,10 +1,12 @@
 import pickle
 import json
+import numpy as np
 from instance import *
 from location import *
 
 def main():
-    instances = []
+    I_instances = []
+    J_instances = []
     # Iterate over all documents.
 
     with open('data/prune_list.json') as f:
@@ -12,8 +14,17 @@ def main():
 
     one_count = 0
     zero_count = 0
-    for i in range(1,331):
-        with open('data/labeled/' + str(i)) as f:
+
+    NUM_DOCS = 330
+    docs = np.arange(1,NUM_DOCS+1)
+    np.random.shuffle(docs)
+    I_size = int(NUM_DOCS * (2.0/3))
+    J_size = NUM_DOCS - I_size
+    I_docs = docs[:I_size]
+    J_docs = docs[I_size:]
+
+    for i in range(1,NUM_DOCS+1):
+        with open('data/labeled/' + str(i), encoding='utf8') as f:
             data = [line.strip() for line in f.readlines()]
 
             # Iterate over lines in document.
@@ -55,15 +66,27 @@ def main():
                                                     label=label, 
                                                     word=word,
                                                     features=features)
-                                instances.append(instance)
-
+                                
+                                if i in I_docs:
+                                    I_instances.append(instance)
+                                else:
+                                    J_instances.append(instance)
+                                    
                                 print(instance)
                         k = l+1
 
     print(one_count, zero_count)
     # Save dataset.
-    with open('data/instances.pkl','wb') as f:
-        pickle.dump(instances, f)
+    with open('data/I_instances.pkl','wb') as f:
+        pickle.dump(I_instances, f)
+    with open('data/J_instances.pkl','wb') as f:
+    	pickle.dump(J_instances, f)
+    with open('data/I_docs','w') as f:
+        for doc in I_docs:
+            print(doc, file=f)
+    with open('data/J_docs','w') as f:
+        for doc in J_docs:
+            print(doc, file=f)
 
 def shouldPruneWord(word, prune_list):
     word = removePunctuation(word)

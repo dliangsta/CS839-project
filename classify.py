@@ -9,7 +9,7 @@ from instance import *
 from location import *
 import numpy as np
 
-SPLITS = 10
+SPLITS = 5
 
 def main():
     with open('data/I_instances.pkl','rb') as f:

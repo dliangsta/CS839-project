@@ -11,12 +11,15 @@ def main():
 
     with open('data/prune_list.json') as f:
         prune_list = json.load(f)
+    with open('data/duplicates.json') as f:
+        duplicates = json.load(f)
 
     one_count = 0
     zero_count = 0
 
     NUM_DOCS = 330
     docs = np.arange(1,NUM_DOCS+1)
+    docs[:] = [x for x in docs if x not in duplicates]
     np.random.shuffle(docs)
     I_size = int(NUM_DOCS * (2.0/3))
     J_size = NUM_DOCS - I_size

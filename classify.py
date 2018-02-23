@@ -4,7 +4,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import SVC
 from sklearn.linear_model import LinearRegression, LogisticRegression
 from sklearn.model_selection import KFold
-from sklearn.metrics import precision_score, recall_score
+from sklearn.metrics import precision_score, recall_score, accuracy_score
 from instance import *
 from location import *
 import numpy as np
@@ -108,42 +108,47 @@ def decision_tree(X_train, X_test, y_train, y_test):
     clf = DecisionTreeClassifier(random_state=0)
     clf.fit(X_train, y_train)
     y_predict = clf.predict(X_test)
+    accuracy = accuracy_score(y_test, y_predict)
     precision = precision_score(y_test, y_predict)
     recall = recall_score(y_test, y_predict)
-    return clf.score(X_test, y_test), precision, recall
+    return accuracy, precision, recall
 
 
 def random_forest(X_train, X_test, y_train, y_test):
     clf = RandomForestClassifier(random_state=0)
     clf.fit(X_train, y_train)
     y_predict = clf.predict(X_test)
+    accuracy = accuracy_score(y_test, y_predict)
     precision = precision_score(y_test, y_predict)
     recall = recall_score(y_test, y_predict)
-    return clf.score(X_test, y_test), precision, recall
+    return accuracy, precision, recall
 
 def svm(X_train, X_test, y_train, y_test):
     clf = SVC()
     clf.fit(X_train, y_train)
     y_predict = clf.predict(X_test)
+    accuracy = accuracy_score(y_test, y_predict)
     precision = precision_score(y_test, y_predict)
     recall = recall_score(y_test, y_predict)
-    return clf.score(X_test, y_test), precision, recall
+    return accuracy, precision, recall
 
 def linear_regression(X_train, X_test, y_train, y_test):
     lr = LinearRegression()
     lr.fit(X_train, y_train)
     y_predict = np.around(lr.predict(X_test))
+    accuracy = accuracy_score(y_test, y_predict)
     precision = precision_score(y_test, y_predict)
     recall = recall_score(y_test, y_predict)
-    return lr.score(X_test, y_test), precision, recall
+    return accuracy, precision, recall
 
 def logistic_regression(X_train, X_test, y_train, y_test):
     lr = LogisticRegression()
     lr.fit(X_train, y_train)
     y_predict = np.around(lr.predict(X_test))
+    accuracy = accuracy_score(y_test, y_predict)
     precision = precision_score(y_test, y_predict)
     recall = recall_score(y_test, y_predict)
-    return lr.score(X_test, y_test), precision, recall
+    return accuracy, precision, recall
         
 if __name__ == '__main__':
     main()

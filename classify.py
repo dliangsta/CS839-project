@@ -50,11 +50,11 @@ def main():
         lor_acc, lor_p, lor_r = logistic_regression(X_train, X_test, y_train, y_test)
 		
         print('fold %d' % k)		
-        print('decision tree accuracy: %f, precision: %f, recall: %f' % dt_acc, dt_p, dt_r)		
-        print('random forest accuracy: %f, precision: %f, recall: %f' % rf_acc, rf_p, rf_r)		
-        print('svm accuracy: %f, precision: %f, recall: %f' % svm_acc, svm_p, svm_r)		
-        print('linear regression accuracy: %f, precision: %f, recall: %f' % lir_acc, lir_p, lir_r)
-        print('logistic regression accuracy: %f, precision: %f, recall: %f' % lor_acc, lor_p, lor_r)
+        print('decision tree accuracy: %f, precision: %f, recall: %f' % (dt_acc, dt_p, dt_r))		
+        print('random forest accuracy: %f, precision: %f, recall: %f' % (rf_acc, rf_p, rf_r))		
+        print('svm accuracy: %f, precision: %f, recall: %f' % (svm_acc, svm_p, svm_r))
+        print('linear regression accuracy: %f, precision: %f, recall: %f' % (lir_acc, lir_p, lir_r))
+        print('logistic regression accuracy: %f, precision: %f, recall: %f' % (lor_acc, lor_p, lor_r))
 		
         dt_acc_cv += dt_acc		
         rf_acc_cv += rf_acc		
@@ -93,11 +93,11 @@ def main():
     lor_r_cv /= SPLITS
 	
     print('Final Results')	
-    print('decision tree accuracy: %f, precision: %f, recall: %f' % dt_acc_cv, dt_p_cv, dt_r_cv)     
-    print('random forest accuracy: %f, precision: %f, recall: %f' % rf_acc_cv, rf_p_cv, rf_r_cv)     
-    print('svm accuracy: %f, precision: %f, recall: %f' % svm_acc_cv, svm_p_cv, svm_r_cv)        
-    print('linear regression accuracy: %f, precision: %f, recall: %f' % lir_acc_cv, lir_p_cv, lir_r_cv)
-    print('logistic regression accuracy: %f, precision: %f, recall: %f' % lor_acc_cv, lor_p_cv, lor_r_cv)
+    print('decision tree accuracy: %f, precision: %f, recall: %f' % (dt_acc_cv, dt_p_cv, dt_r_cv))     
+    print('random forest accuracy: %f, precision: %f, recall: %f' % (rf_acc_cv, rf_p_cv, rf_r_cv))     
+    print('svm accuracy: %f, precision: %f, recall: %f' % (svm_acc_cv, svm_p_cv, svm_r_cv))        
+    print('linear regression accuracy: %f, precision: %f, recall: %f' % (lir_acc_cv, lir_p_cv, lir_r_cv))
+    print('logistic regression accuracy: %f, precision: %f, recall: %f' % (lor_acc_cv, lor_p_cv, lor_r_cv))
     
     clfs = ['Decision Tree', 'Random Forest', 'SVM', 'Linear Regression', 'Logistic Regression']
     accs = [dt_acc_cv, rf_acc_cv, svm_acc_cv, lir_acc_cv, lor_acc_cv]
@@ -132,7 +132,7 @@ def svm(X_train, X_test, y_train, y_test):
 def linear_regression(X_train, X_test, y_train, y_test):
     lr = LinearRegression()
     lr.fit(X_train, y_train)
-    y_predict = lr.predict(X_test)
+    y_predict = np.around(lr.predict(X_test))
     precision = precision_score(y_test, y_predict)
     recall = recall_score(y_test, y_predict)
     return lr.score(X_test, y_test), precision, recall
@@ -140,7 +140,7 @@ def linear_regression(X_train, X_test, y_train, y_test):
 def logistic_regression(X_train, X_test, y_train, y_test):
     lr = LogisticRegression()
     lr.fit(X_train, y_train)
-    y_predict = lr.predict(X_test)
+    y_predict = np.around(lr.predict(X_test))
     precision = precision_score(y_test, y_predict)
     recall = recall_score(y_test, y_predict)
     return lr.score(X_test, y_test), precision, recall

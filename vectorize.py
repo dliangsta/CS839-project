@@ -1,5 +1,6 @@
 import pickle
 import json
+import string
 import numpy as np
 from instance import *
 from location import *
@@ -11,15 +12,17 @@ def main():
 
     with open('data/prune_list.json') as f:
         prune_list = json.load(f)
-    with open('data/duplicates.json') as f:
-        duplicates = json.load(f)
+    with open('data/duplicate_documents.json') as f:
+        # duplicates = json.load(f)
+        duplicates = []
 
     one_count = 0
     zero_count = 0
 
     NUM_DOCS = 330
-    docs = np.arange(1,NUM_DOCS+1)
-    docs[:] = [x for x in docs if x not in duplicates]
+    docs = np.arange(1, NUM_DOCS+1)
+    docs = [x for x in docs if x not in duplicates]
+    np.random.seed(0)
     np.random.shuffle(docs)
     I_size = int(NUM_DOCS * (2.0/3))
     J_size = NUM_DOCS - I_size
@@ -55,14 +58,24 @@ def main():
                                 else:
                                     zero_count += 1
                                 # Make features.
-                                features = []
-                                features.append(hasAllCaps(word))
-                                features.append(surroundedByParentheses(word))
-                                features.append(wordLength(word))
-                                features.append(firstLetterCapitalized(word))
-                                features.append(containsCashSubstring(word))
-                                features.append(containsCoinSubstring(word))
-                                features.append(numCapitals(word))
+                                feature_functions = [hasAllCaps,
+                                                     isSurroundedByParentheses,
+                                                     wordLength,
+                                                     numCapitals,
+                                                     firstLetterCapitalized,
+                                                     containsCashSubstring,
+                                                     containsCoinSubstring,
+                                                     containsTokenSubstring,
+                                                     containsForwardSlash,
+                                                     containsDash,
+                                                     containsApostrophe,
+                                                     containsDot,
+                                                     containsComma,
+                                                     containsMoneySign,
+                                                     containsPound,
+                                                     containsPlus
+                                                     ] 
+                                features = [func(word) for func in feature_functions] #+ charCounts(word)
 
                                 location = Location(i, j, k)
                                 instance = Instance(location=location, 
@@ -74,8 +87,9 @@ def main():
                                     I_instances.append(instance)
                                 else:
                                     J_instances.append(instance)
-                                    
-                                print(instance)
+
+                                # if label == 1:
+                                #     print(instance)
                         k = l+1
 
     print(one_count, zero_count)
@@ -100,8 +114,7 @@ def hasAllCaps(word):
     word = removePunctuation(word)
     return int(word.upper() == word)
 
-def surroundedByParentheses(word):
-    # Remove leading and trailing quotations
+def isSurroundedByParentheses(word):
     word = removePunctuation(word)
     return int(word[0] == '(' and word[-1] == ')')
 
@@ -109,24 +122,53 @@ def wordLength(word):
 	word = removePunctuation(word)
 	return len(word)
 
+def numCapitals(word):
+    word = removePunctuation(word)
+    return sum(1 for c in word if c.isupper() and c.isalpha())
+
 def firstLetterCapitalized(word):
 	word = removePunctuation(word)
 	return int(word[0].isupper())
 
 def containsCashSubstring(word):
-    # Determines if any of these key words are substrings.
     return int('cash' in word.lower())
 
 def containsCoinSubstring(word):
     return int('coin' in word.lower())
 
-def numCapitals(word):
-    word = removePunctuation(word)
-    return sum(1 for c in word if c.isupper() and c.isalpha())
+def containsTokenSubstring(word):
+    return int ('token' in word.lower())
+
+def containsForwardSlash(word):
+    return int('/' in word)
+
+def containsDash(word):
+    return int('-' in word)
+
+def containsApostrophe(word):
+    return int('\'' in word)
+
+def containsDot(word):
+    return int('.' in word)
+
+def containsComma(word):
+    return int(',' in word)
+
+def containsMoneySign(word):
+    return int('$' in word)
+
+def containsPound(word):
+    return int('#' in word)
+
+def containsPlus(word):
+    return int('+' in word)
+
+def charCounts(word):
+    return [word.count(chr(letter)) for letter in range(128)]
 
 # Utilities
 def removePunctuation(word):
-    punctuation = ['\'','"','.','?','!',',',';',':']
+    punctuation = ['\'','"','.','?','!',',',';',':','[',']']
     while len(word) and word[0] in punctuation:
         word = word[1:]
     while len(word) and word[-1] in punctuation:

@@ -19,7 +19,7 @@ def main():
     one_count = 0
     zero_count = 0
 
-    NUM_DOCS = 330
+    NUM_DOCS = 370
     docs = np.arange(1, NUM_DOCS+1)
     docs = [x for x in docs if x not in duplicates]
     np.random.seed(0)

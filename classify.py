@@ -1,5 +1,6 @@
 import pickle
 import json
+import argparse
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import SVC
@@ -12,8 +13,10 @@ import numpy as np
 
 class Classifier:
 
-    def __init__(self, clf_type, debug=False):
+    def __init__(self, clf_type, whitelist=None, blacklist=None, debug=False):
         self.clf_type = clf_type
+        self.whitelist = whitelist
+        self.blacklist=blacklist
         self.debug = debug
 
         if clf_type == 'dt':
@@ -32,8 +35,8 @@ class Classifier:
             self.clf = LogisticRegression()
             self.clf_name = 'Logistic Regression'
 
-    def classify(self, instances, whitelist=None, blacklist=None, train_indices=None, test_indices=None):
-        if train_indices is None and test_indices is None:
+    def classify(self, instances, train_indices=None, test_indices=None):
+        if train_indices is None and test_indices is None and len(instances) > 1:
             # Partition set into train and test sets.
             train_indices, test_indices = train_test_split(np.asarray(range(len(instances))), test_size=0.33, random_state=42)
         elif (train_indices is None) ^ (test_indices is None):
@@ -51,7 +54,7 @@ class Classifier:
         y_predict = self.clf.predict(X_test)
         
         # Any exact matches between our whitelist and the instance's word.
-        y_whitelist = [int(any([white == instance.stripped_lowered_word for white in whitelist])) for instance in instances[test_indices]]
+        y_whitelist = [int(any([white == instance.stripped_lowered_word for white in self.whitelist])) for instance in instances[test_indices]]
 
         # results are those that are either whitelisted or predicted by the classfier.
         results = [1 if y >= 1 else 0 for y in y_predict + y_whitelist]
@@ -60,15 +63,20 @@ class Classifier:
         accuracy = accuracy_score(y_test, results)
         precision = precision_score(y_test, results)
         recall = recall_score(y_test, results)
-        f1 = 2*precision*recall/(precision+recall)
+        try:
+            f1 = 2*precision*recall/(precision+recall)
+        except:
+            f1 = -1.
 
         if self.debug:
-            print('\n\nDebugging:')		
+            print('\n\nDebugging:')	
+            print('\nFalse positives:')	
             # Print false positives.
             for i in range(len(results)):
                 if results[i] != y_test[i] and y_test[i] == 0:
                     print("predicted: {}, actual: {}, instance: {}".format(results[i], y_test[i], instances[test_indices][i]))
 
+            print('\nFalse negatives')
             # Print false negatives.
             for i in range(len(results)):
                 if results[i] != y_test[i] and y_test[i] != 0:
@@ -79,6 +87,10 @@ class Classifier:
         return accuracy, precision, recall, f1
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--debug', type=bool, default=False, help='number of splits for cross-validation')
+    args = parser.parse_args()
+
     with open('data/I_instances.pkl','rb') as f:
         instances = np.asarray(pickle.load(f))
     with open('data/cryptocurrencies_list.json') as f:
@@ -87,8 +99,8 @@ def main():
         cryptocurrency_abbreviations = json.load(f)
 
     whitelist = [word.lower() for word in cryptocurrencies[:25] + cryptocurrency_abbreviations[:25]]
-    clf = Classifier('dt',debug=False)
-    clf.classify(instances, whitelist)
+    clf = Classifier('dt', whitelist=whitelist, debug=args.debug)
+    clf.classify(instances)
 
 if __name__ == '__main__':
     main()

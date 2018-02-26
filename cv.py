@@ -21,17 +21,16 @@ class CrossValidator:
         self.clfs.append(clf)
         [statistic.append([]) for statistic in self.statistics]
 
-    def cross_validate(self, instances, whitelist=None, blacklist=None):
+    def cross_validate(self, instances):
         kf = KFold(n_splits=self.n_splits)
         kf.get_n_splits(instances)
 
         for i, (train_indices, test_indices) in enumerate(kf.split(instances)):
-            print('fold: %d / %d' % (i, self.n_splits))
+            print('fold: %d / %d' % (i + 1, self.n_splits))
             for j, clf in enumerate(self.clfs):
                 results = clf.classify(instances=instances, 
-                                          whitelist=whitelist,
-                                          train_indices=train_indices,
-                                          test_indices=test_indices)
+                                       train_indices=train_indices,
+                                       test_indices=test_indices)
                 output_string = clf.clf_name
 
                 for k in range(len(results)):
@@ -46,14 +45,10 @@ class CrossValidator:
                 output_string += ' %s: %f' % (self.statistics_names[j], statistics_means[j])
             print(output_string)
 
-        print('Best classifier: ' + 
-            self.clfs[np.argmax([np.mean(statistic) for statistic in self.statistics[3]])].clf_name)
-            
-
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--n_splits', type=int, default=5, help='number of splits for cross-validation')
+    parser.add_argument('n_splits', type=int, default=5, help='number of splits for cross-validation')
     args = parser.parse_args()
 
     with open('data/I_instances.pkl','rb') as f:
@@ -66,12 +61,12 @@ def main():
     whitelist = [word.lower() for word in cryptocurrencies[:25] + cryptocurrency_abbreviations[:25]]
 
     cross_validator = CrossValidator(n_splits=args.n_splits)
-    cross_validator.add_classifier(Classifier('dt'))
-    cross_validator.add_classifier(Classifier('rf'))
-    cross_validator.add_classifier(Classifier('svm'))
-    cross_validator.add_classifier(Classifier('lir'))
-    cross_validator.add_classifier(Classifier('lor'))
-    cross_validator.cross_validate(instances, whitelist)
+    cross_validator.add_classifier(Classifier('dt', whitelist=whitelist))
+    cross_validator.add_classifier(Classifier('rf', whitelist=whitelist))
+    # cross_validator.add_classifier(Classifier('svm', whitelist=whitelist))
+    cross_validator.add_classifier(Classifier('lir', whitelist=whitelist))
+    cross_validator.add_classifier(Classifier('lor', whitelist=whitelist))
+    cross_validator.cross_validate(instances)
 
 if __name__ == '__main__':
     main()

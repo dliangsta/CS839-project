@@ -5,7 +5,7 @@ def similar(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
 data = []
-for i in range(1,361):
+for i in range(1,371):
     try:
         with open('data/unlabeled/'+str(i)) as f:
             data.append(json.load(f))
@@ -18,12 +18,12 @@ for i, article in enumerate(data):
     for j, article2 in enumerate(data):
         if j > i and j not in remove and i not in remove:
             s = similar(article, article2)
-            if s > .5:
+            if s > .9:
                 remove.append(j)
                 print(i,j,s)
                 S.append(s)
 
-with open ('data/duplicate_documents.json') as f:
+with open ('data/duplicate_documents.json','w') as f:
     json.dump(remove, f)
     
 print(remove)   

@@ -61,7 +61,9 @@ class Vectorizer:
                                         self.containsMoneySign,
                                         self.containsPound,
                                         self.containsPlus,
-                                        # self.inCryptocurrenciesList
+                                        self.containsIumSubstring,
+                                        self.containsEumSubstring,
+                                        #self.inCryptocurrenciesList
                                         ] 
                     features = [func(word) for func in feature_functions] #+ self.charCounts(word)
 
@@ -116,6 +118,12 @@ class Vectorizer:
     def containsTokenSubstring(self, word):
         return int ('token' in word.lower())
 
+    def containsEumSubstring(self, word):
+        return int('eum' in word.lower())
+
+    def containsIumSubstring(self, word):
+        return int('ium' in word.lower())
+
     def containsForwardSlash(self, word):
         return int('/' in word)
 
@@ -140,8 +148,10 @@ class Vectorizer:
     def containsPlus(self, word):
         return int('+' in word)
 
+
     def charCounts(self, word):
         return [word.count(chr(letter)) for letter in range(128)]
+
 
 
 def main():
@@ -188,12 +198,10 @@ def main():
         pickle.dump(I_instances, f)
     with open('data/J_instances.pkl','wb') as f:
     	pickle.dump(J_instances, f)
-    with open('data/I_docs','w') as f:
-        for doc in I_docs:
-            print(doc, file=f)
-    with open('data/J_docs','w') as f:
-        for doc in J_docs:
-            print(doc, file=f)
+    with open('data/I_docs.json','w') as f:
+        json.dump(I_docs, f)
+    with open('data/J_docs.json','w') as f:
+        json.dump(J_docs, f)
 
 # Utilities
 def removePunctuation(word):

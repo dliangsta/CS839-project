@@ -63,7 +63,7 @@ class Vectorizer:
                                         self.containsPlus,
                                         # self.inCryptocurrenciesList
                                         ] 
-                    features = [func(word) for func in feature_functions] #+ charCounts(word)
+                    features = [func(word) for func in feature_functions] #+ self.charCounts(word)
 
                     location = Location(i, j, k, l)
                     instance = Instance(location=location, 

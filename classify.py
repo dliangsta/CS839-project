@@ -13,10 +13,10 @@ import numpy as np
 
 class Classifier:
 
-    def __init__(self, clf_type, whitelist=None, blacklist=None, debug=False):
+    def __init__(self, clf_type, whitelist_path='data/whitelist.pkl', debug=False):
         self.clf_type = clf_type
-        self.whitelist = whitelist
-        self.blacklist=blacklist
+        with open(whitelist_path,'rb') as f:
+            self.whitelist = pickle.load(f)
         self.debug = debug
 
         if clf_type == 'dt':
@@ -88,9 +88,10 @@ class Classifier:
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--debug', type=bool, default=False, help='number of splits for cross-validation')
+    parser.add_argument('--debug', action='store_true', help='debug flag')
+    parser.add_argument('--whitelist_path', default='data/whitelist.pkl', help='path for whitelist')
     args = parser.parse_args()
-
+    print(args)
     with open('data/I_instances.pkl','rb') as f:
         instances = np.asarray(pickle.load(f))
     with open('data/cryptocurrencies_list.json') as f:
@@ -99,7 +100,7 @@ def main():
         cryptocurrency_abbreviations = json.load(f)
 
     whitelist = [word.lower() for word in cryptocurrencies[:25] + cryptocurrency_abbreviations[:25]]
-    clf = Classifier('dt', whitelist=whitelist, debug=args.debug)
+    clf = Classifier('dt', whitelist_path=args.whitelist_path, debug=args.debug)
     clf.classify(instances)
 
 if __name__ == '__main__':

@@ -49,23 +49,21 @@ class CrossValidator:
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('n_splits', type=int, default=5, help='number of splits for cross-validation')
+    parser.add_argument('--skip_svm', action='store_true', help='use SVM')
     args = parser.parse_args()
 
     with open('data/I_instances.pkl','rb') as f:
         instances = np.asarray(pickle.load(f))
-    with open('data/cryptocurrencies_list.json') as f:
-        cryptocurrencies = json.load(f)
-    with open('data/cryptocurrency_abbreviations_list.json') as f:
-        cryptocurrency_abbreviations = json.load(f)
-
-    whitelist = [word.lower() for word in cryptocurrencies[:25] + cryptocurrency_abbreviations[:25]]
 
     cross_validator = CrossValidator(n_splits=args.n_splits)
-    cross_validator.add_classifier(Classifier('dt', whitelist=whitelist))
-    cross_validator.add_classifier(Classifier('rf', whitelist=whitelist))
-    # cross_validator.add_classifier(Classifier('svm', whitelist=whitelist))
-    cross_validator.add_classifier(Classifier('lir', whitelist=whitelist))
-    cross_validator.add_classifier(Classifier('lor', whitelist=whitelist))
+    cross_validator.add_classifier(Classifier('dt'))
+    cross_validator.add_classifier(Classifier('rf'))
+    if not args.skip_svm:
+        cross_validator.add_classifier(Classifier('svm'))
+    else:
+        print('Skipping SVM') 
+    cross_validator.add_classifier(Classifier('lir'))
+    cross_validator.add_classifier(Classifier('lor'))
     cross_validator.cross_validate(instances)
 
 if __name__ == '__main__':

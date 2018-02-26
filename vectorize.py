@@ -159,19 +159,16 @@ def main():
 
     with open('data/prune_list.json') as f:
         prune_list = json.load(f)
-    with open('data/duplicate_documents.json') as f:
-        duplicate_documents = json.load(f)
     with open('data/cryptocurrencies_list.json') as f:
         cryptocurrencies = json.load(f)
 
-    docs = [x for x in np.arange(1, 371) if x not in duplicate_documents]
+    docs = list(range(1, 301))
 
     v = Vectorizer(prune_list, cryptocurrencies)
 
     instances = v.vectorize(docs)
     # for instance in instances:
     #     print(instance)
-
 
     np.random.seed(0)
     np.random.shuffle(docs)

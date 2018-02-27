@@ -50,20 +50,21 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('n_splits', type=int, default=5, help='number of splits for cross-validation')
     parser.add_argument('--skip_svm', action='store_true', help='use SVM')
+    parser.add_argument('--rules_on', action='store_true', help='whether to apply post processing rules after classification')
     args = parser.parse_args()
 
     with open('data/I_instances.pkl','rb') as f:
         instances = np.asarray(pickle.load(f))
 
     cross_validator = CrossValidator(n_splits=args.n_splits)
-    cross_validator.add_classifier(Classifier('dt'))
-    cross_validator.add_classifier(Classifier('rf'))
+    cross_validator.add_classifier(Classifier('dt', rules_on = args.rules_on))
+    cross_validator.add_classifier(Classifier('rf', rules_on = args.rules_on))
     if not args.skip_svm:
-        cross_validator.add_classifier(Classifier('svm'))
+        cross_validator.add_classifier(Classifier('svm', rules_on = args.rules_on))
     else:
         print('Skipping SVM') 
-    cross_validator.add_classifier(Classifier('lir'))
-    cross_validator.add_classifier(Classifier('lor'))
+    cross_validator.add_classifier(Classifier('lir', rules_on = args.rules_on))
+    cross_validator.add_classifier(Classifier('lor', rules_on = args.rules_on))
     cross_validator.cross_validate(instances)
 
 if __name__ == '__main__':

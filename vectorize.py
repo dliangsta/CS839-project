@@ -15,7 +15,6 @@ class Vectorizer:
 
     def vectorize(self, docs):
         for i in docs:
-            print('opening doc: ' + str(i))
             with open('data/labeled/' + str(i), encoding='utf8') as f:
                 data = [line.strip() for line in f.readlines()]
 
@@ -33,6 +32,7 @@ class Vectorizer:
         num_words = [1, 2]
         for num_word in num_words:
             k = 0
+            done = False
             while k < len(labeled_line):
                 # Index of end of word.
                 l = k
@@ -40,7 +40,11 @@ class Vectorizer:
                     l = original_line.find(' ', l) # keep finding next space depending on how many words we are looking for
 
                 # If cannot be found, l will be -1 so we are at the end of the line.
-                word = original_line[k:] if l < k else original_line[k:l] # grab rest of line
+                if l < k:
+                    word = original_line[k:] # grab rest of line
+                    done = True
+                else:
+                    word = original_line[k:l]
 
                 ll = labeled_line.find(' ', k) # find next space in labeled line from start of word
                 # if there is no space in the labeled segment where there is in the original line, we shouldn't classify this chunk of a 2-part word
@@ -88,7 +92,10 @@ class Vectorizer:
                             self.one_count += 1
                         else:
                             self.zero_count += 1
-                k = l+1
+                if not done:
+                    k = l+1
+                else:
+                    break
 
     def shouldPruneWord(self, word):
         word = removePunctuation(word)

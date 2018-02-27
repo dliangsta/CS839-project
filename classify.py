@@ -35,27 +35,30 @@ class Classifier:
             self.clf = LogisticRegression()
             self.clf_name = 'Logistic Regression'
 
-    def classify(self, instances, train_indices=None, test_indices=None):
-        if train_indices is None and test_indices is None and len(instances) > 1:
-            # Partition set into train and test sets.
-            train_indices, test_indices = train_test_split(np.asarray(range(len(instances))), test_size=0.33, random_state=42)
-        elif (train_indices is None) ^ (test_indices is None):
-            raise ValueError('Either provide both train_indices and test_indices or neither.')
-
-        X_train = np.asarray([x.features for x in instances[train_indices]])
-        X_test= np.asarray([x.features for x in instances[test_indices]])
-        y_train = np.asarray([y.label for y in instances[train_indices]])
-        y_test = np.asarray([y.label for y in instances[test_indices]])
-
+    def classify(self, instances, test_instances = None, train_indices=None, test_indices=None):
+        if test_instances is None:
+            if train_indices is None and test_indices is None and len(dev_instances) > 1:
+                # Partition set into train and test sets.
+                train_indices, test_indices = train_test_split(np.asarray(range(len(dev_instances))), test_size=0.33, random_state=42)
+            elif (train_indices is None) ^ (test_indices is None):
+                raise ValueError('Either provide both train_indices and test_indices or neither.')
+            dev_instances = instances[train_indices]
+            test_instances = instances[test_indices]
+        else:
+            dev_instances = instances
+        X_train = np.asarray([x.features for x in dev_instances])
+        X_test= np.asarray([x.features for x in test_instances])
+        y_train = np.asarray([y.label for y in dev_instances])
+        y_test = np.asarray([y.label for y in test_instances]) 
         # Fit model.
         self.clf.fit(X_train, y_train)
 
         # Predict using model.
         y_predict = np.around(self.clf.predict(X_test))
-        y_whitelist = [0] * len(instances[test_indices])
+        y_whitelist = [0] * len(test_instances)
         if self.rules_on:
             # Any exact matches between our whitelist and the instance's word.
-            y_whitelist = [int(any([white == instance.stripped_lowered_word for white in self.whitelist])) for instance in instances[test_indices]]
+            y_whitelist = [int(any([white == instance.stripped_lowered_word for white in self.whitelist])) for instance in test_instances]
 
         # results are those that are either whitelisted or predicted by the classfier.
         results = [1 if y >= 1 else 0 for y in y_predict + y_whitelist]
@@ -75,13 +78,13 @@ class Classifier:
             # Print false positives.
             for i in range(len(results)):
                 if results[i] != y_test[i] and y_test[i] == 0:
-                    print("predicted: {}, actual: {}, instance: {}".format(results[i], y_test[i], instances[test_indices][i]))
+                    print("predicted: {}, actual: {}, instance: {}".format(results[i], y_test[i], test_instances[i]))
 
             print('\nFalse negatives')
             # Print false negatives.
             for i in range(len(results)):
                 if results[i] != y_test[i] and y_test[i] != 0:
-                    print("predicted: {}, actual: {}, instance: {}".format(results[i], y_test[i], instances[test_indices][i]))
+                    print("predicted: {}, actual: {}, instance: {}".format(results[i], y_test[i], test_instances[i]))
         
         print('%s accuracy: %f, precision: %f, recall: %f, f1: %f' % (self.clf_name, accuracy, precision, recall, f1))
         

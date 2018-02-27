@@ -13,12 +13,12 @@ import numpy as np
 
 class Classifier:
 
-    def __init__(self, clf_type, whitelist_path='data/whitelist.pkl', debug=False):
+    def __init__(self, clf_type, whitelist_path='data/whitelist.pkl', rules_on = False, debug=False):
         self.clf_type = clf_type
         with open(whitelist_path,'rb') as f:
             self.whitelist = pickle.load(f)
         self.debug = debug
-
+        self.rules_on = rules_on
         if clf_type == 'dt':
             self.clf = DecisionTreeClassifier(random_state=0)
             self.clf_name = 'Decision Tree'
@@ -51,10 +51,11 @@ class Classifier:
         self.clf.fit(X_train, y_train)
 
         # Predict using model.
-        y_predict = self.clf.predict(X_test)
-        
-        # Any exact matches between our whitelist and the instance's word.
-        y_whitelist = [int(any([white == instance.stripped_lowered_word for white in self.whitelist])) for instance in instances[test_indices]]
+        y_predict = np.around(self.clf.predict(X_test))
+        y_whitelist = [0] * len(instances[test_indices])
+        if self.rules_on:
+            # Any exact matches between our whitelist and the instance's word.
+            y_whitelist = [int(any([white == instance.stripped_lowered_word for white in self.whitelist])) for instance in instances[test_indices]]
 
         # results are those that are either whitelisted or predicted by the classfier.
         results = [1 if y >= 1 else 0 for y in y_predict + y_whitelist]

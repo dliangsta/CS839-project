@@ -15,70 +15,43 @@ class Vectorizer:
 
     def vectorize(self, docs):
         for i in docs:
+            print('opening doc: ' + str(i))
             with open('data/labeled/' + str(i), encoding='utf8') as f:
                 data = [line.strip() for line in f.readlines()]
 
                 # Iterate over lines in document.
                 for j, labeled_line in enumerate(data):
                     original_line = data[j-1]
-                    if j < len(data) - 2: # send next line in case we need first word(s) of next line
-                        original_next = data[j+1]
-                        labeled_next = data[j+2]
-                        k_n = 0
-                        l_n = labeled_next.find(' ', k_n)
-                        next_line_word1 = original_next[k_n:l_n] # first word of next line
-                        k_n = l_n + 1
-                        l_n = labeled_next.find(' ', k_n)
-                        next_line_word2 = original_next[k_n:l_n] # second word of next line
-                    else:
-                        next_line_word1 = '' # last line, last word won't have a next word(s)
-                        next_line_word2 = ''
 
                     # Skip every other line, because we handle the lines in pairs.
                     if j % 2 == 1: 
-                        self.vectorize_line(i, j, original_line, labeled_line, next_line_word1, next_line_word2)
+                        self.vectorize_line(i, j, original_line, labeled_line)
         return self.instances
 
-    def vectorize_line(self, i, j, original_line, labeled_line, next_line_word1, next_line_word2):
+    def vectorize_line(self, i, j, original_line, labeled_line):
         # Iterate over each character in the line to find each word.
-        k = 0
-        while k < len(labeled_line):
-            label = 1 if labeled_line[k] != '`' else 0
-            # Index of end of label.
-            l = labeled_line.find(' ', k)
+        num_words = [1, 2]
+        for num_word in num_words:
+            k = 0
+            while k < len(labeled_line):
+                # Index of end of word.
+                l = k
+                for n in range(num_word):
+                    l = original_line.find(' ', l) # keep finding next space depending on how many words we are looking for
 
-            # If cannot be found, l will be -1 so we are at the end of the line.
-            if l < k:
-                break
-            word = original_line[k:l]
+                # If cannot be found, l will be -1 so we are at the end of the line.
+                word = original_line[k:] if l < k else original_line[k:l] # grab rest of line
 
-            # Find next word
-            k_n = l+1
-            l_n = labeled_line.find(' ', k_n)
+                ll = labeled_line.find(' ', k) # find next space in labeled line from start of word
+                # if there is no space in the labeled segment where there is in the original line, we shouldn't classify this chunk of a 2-part word
+                label = 1 if labeled_line[k] != '`' and l == ll else 0
 
-            if l_n > k_n: # found next word
-                next_word = original_line[k_n:l_n]
-                eol = False # not end of line
-            else:
-                next_word = next_line_word1 # last word of line won't have following word, so we've passed it in
-                eol = True # end of line
+                # Find next word
+                k_n = l+1
+                if k_n < len(original_line):
+                    l_n = original_line.find(' ', k_n)
+                    next_word = '' if l_n < k_n else original_line[k_n:l_n]
 
-            # Find next-next word
-            if not eol:
-                k_n = l_n+1
-                l_n = labeled_line.find(' ', k_n)
-
-                if l_n > k_n: # found next next word
-                    next_next_word = original_line[k_n:l_n]
-                else:
-                    next_next_word = next_line_word1 # first word of next line will be third word in this sequence
-            else:
-                next_next_word = next_line_word2 # next word was found on following line, so next-next word will be one after
-
-            words = [word, ' '.join([word, next_word])] if next_word else [word] # if there isn't a next word don't want to repeat same word twice
-            next_words = [next_word, next_next_word]
-
-            for idx, word in enumerate(words):
                 if len(word) and any([c.isalpha() for c in word]):
                     if not self.shouldPruneWord(word):
                         # Make features.
@@ -102,7 +75,7 @@ class Vectorizer:
                                             self.containsEumSubstring,
                                             #self.inCryptocurrenciesList
                                             ] 
-                        features = [func(word) for func in feature_functions] + self.alphabetCounts(next_words[idx]) #+ self.charCounts(word)
+                        features = [func(word) for func in feature_functions] + self.charCounts(word) + self.alphabetCounts(next_word)
 
                         location = Location(i, j, k, l)
                         instance = Instance(location=location, 
@@ -115,7 +88,7 @@ class Vectorizer:
                             self.one_count += 1
                         else:
                             self.zero_count += 1
-            k = l+1
+                k = l+1
 
     def shouldPruneWord(self, word):
         word = removePunctuation(word)

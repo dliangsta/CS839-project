@@ -21,13 +21,19 @@ class Vectorizer:
                 # Iterate over lines in document.
                 for j, labeled_line in enumerate(data):
                     original_line = data[j-1]
+                    if j != len(data) - 1: # send next line in case we need first word of next line
+                        original_next = data[j+1]
+                        labeled_next = data[j+2]
+                    else:
+                        original_next = ''
+                        labeled_next = ''
 
                     # Skip every other line, because we handle the lines in pairs.
                     if j % 2 == 1: 
-                        self.vectorize_line(i, j, original_line, labeled_line)
+                        self.vectorize_line(i, j, original_line, labeled_line, original_next, labeled_next)
         return self.instances
 
-    def vectorize_line(self, i, j, original_line, labeled_line):
+    def vectorize_line(self, i, j, original_line, labeled_line, original_next, labeled_next):
         # Iterate over each character in the line to find each word.
         k = 0
         while k < len(labeled_line):
@@ -40,6 +46,18 @@ class Vectorizer:
                 break
 
             word = original_line[k:l]
+            k_n = l+1
+            l_n = labeled_line.find(' ', k_n)
+
+            if l_n > k_n: # last word of line won't have following word
+                next_word = original_line[k_n:l_n]
+            else:
+                if original_next and labeled_next: # if there is another line following
+                    k_n = 0
+                    l_n = labeled_next.find(' ', k_n)
+                    next_word = original_next[k_n:l_n]
+                else:
+                    next_word = '' # last line, last word won't have a next word
 
 
             if len(word) and any([c.isalpha() for c in word]):
@@ -65,7 +83,7 @@ class Vectorizer:
                                         self.containsEumSubstring,
                                         #self.inCryptocurrenciesList
                                         ] 
-                    features = [func(word) for func in feature_functions] #+ self.charCounts(word)
+                    features = [func(word) for func in feature_functions] + self.alphabetCounts(next_word) #+ self.charCounts(word)
 
                     location = Location(i, j, k, l)
                     instance = Instance(location=location, 
@@ -151,6 +169,10 @@ class Vectorizer:
 
     def charCounts(self, word):
         return [word.count(chr(letter)) for letter in range(128)]
+
+    def alphabetCounts(self, word):
+        lower = word.lower()
+        return [lower.count(chr(letter)) for letter in range(97, 123)]
 
 
 

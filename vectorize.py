@@ -21,7 +21,7 @@ class Vectorizer:
                 # Iterate over lines in document.
                 for j, labeled_line in enumerate(data):
                     original_line = data[j-1]
-                    if j != len(data) - 1: # send next line in case we need first word(s) of next line
+                    if j < len(data) - 2: # send next line in case we need first word(s) of next line
                         original_next = data[j+1]
                         labeled_next = data[j+2]
                         k_n = 0

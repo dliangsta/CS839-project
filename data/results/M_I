@@ -1,0 +1,6 @@
+#Classifier  Accuracy  Precision  Recall  F1
+Decision\nTree  0.978046  0.823378  0.553540  0.654520
+Random\nForest  0.978064  0.820726  0.555268  0.654641
+Linear\nRegr.  0.973481  0.686172  0.562705  0.613885
+Logistic\nRegr. 0.971446  0.733320  0.376372  0.496712
+SVM 0.973554 0.685397 0.566732 0.615542

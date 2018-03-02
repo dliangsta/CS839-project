@@ -4,9 +4,9 @@ CS839-project Stage 1
 
 [README file that tells the entity type and information on where to find the markups](https://github.com/dliangsta/cs839-project/blob/master/data/labeled/README.md)
 
-[Link to a browsable directory that stores all documents in set I]
+[Link to a browsable directory that stores all documents in set I](https://github.com/dliangsta/cs839-project/tree/master/data/labeled/I)
 
-[Link to a browsable directory that stores all documents in set J]
+[Link to a browsable directory that stores all documents in set J](https://github.com/dliangsta/cs839-project/tree/master/data/labeled/J)
 
 [Link to a directory that stores all of your code]
 

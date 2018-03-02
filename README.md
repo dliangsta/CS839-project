@@ -8,8 +8,9 @@ CS839-project Stage 1
 
 [Link to a browsable directory that stores all documents in set J](https://github.com/dliangsta/cs839-project/tree/master/data/labeled/J)
 
-[Link to a directory that stores all of your code]
+[Link to a directory that stores all of your code](https://github.com/dliangsta/cs839-project)
 
 [Link to a compressed file that stores all of the above directories]
+TODO
 
 [Link to a pdf document with the report]

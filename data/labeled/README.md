@@ -14,6 +14,8 @@ New York: Bitcoin Cash hit a three-week high on Tuesday
 
 \`__ \`____ 1___________ \`__ \` \`_________ \`___ \`_ \`______
 
-Note: When viewed in some text editors, the characters of the markup lines and original lines line up, making it easier to both mark and see.
+Note: When viewed in some text editors, the characters of the markup lines and original lines line up, making it easier to both mark and see:
+
+![example](https://github.com/dliangsta/cs839-project/blob/master/data/labeled/bitcoin_example.PNG)
 
 The first line is the original line and the second is the markup line. The third word in the original line is a cryptocurrency. Therefore, the third word in the markup line starts with a 1.

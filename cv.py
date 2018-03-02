@@ -38,11 +38,12 @@ class CrossValidator:
                     output_string += ' %s: %f' % (self.statistics_names[k], results[k])
                 
         print('\n\nFinal results.')
+        print ('Accuracy Precision Recall F1')
         for i, clf in enumerate(self.clfs):
             output_string = clf.clf_name
             statistics_means = [np.mean(statistic[i]) for statistic in self.statistics]
             for j in range(len(self.statistics)):
-                output_string += ' %s: %f' % (self.statistics_names[j], statistics_means[j])
+                output_string += ' %f' % (statistics_means[j])
             print(output_string)
 
 

@@ -1,34 +1,5 @@
-Decision Tree accuracy: 0.992739, precision: 0.862440, recall: 0.855279, f1: 0.858845
-Random Forest accuracy: 0.993965, precision: 0.969477, recall: 0.791222, f1: 0.871326
-Linear Regression accuracy: 0.984437, precision: 0.701564, recall: 0.691578, f1: 0.696535
-Logistic Regression accuracy: 0.987715, precision: 0.819364, recall: 0.672598, f1: 0.738762
-fold: 2 / 5
-Decision Tree accuracy: 0.992555, precision: 0.890688, recall: 0.910596, f1: 0.900532
-Random Forest accuracy: 0.992862, precision: 0.979351, recall: 0.824503, f1: 0.895281
-Linear Regression accuracy: 0.979749, precision: 0.733561, recall: 0.711093, f1: 0.722152
-Logistic Regression accuracy: 0.985049, precision: 0.831492, recall: 0.747517, f1: 0.787271
-fold: 3 / 5
-Decision Tree accuracy: 0.992402, precision: 0.840394, recall: 0.908413, f1: 0.873081
-Random Forest accuracy: 0.994363, precision: 0.945691, recall: 0.853035, f1: 0.896976
-Linear Regression accuracy: 0.985080, precision: 0.723762, recall: 0.778488, f1: 0.750128
-Logistic Regression accuracy: 0.988909, precision: 0.835075, recall: 0.765708, f1: 0.798889
-fold: 4 / 5
-Decision Tree accuracy: 0.987929, precision: 0.855049, recall: 0.829384, f1: 0.842021
-Random Forest accuracy: 0.987684, precision: 0.904494, recall: 0.763033, f1: 0.827763
-Linear Regression accuracy: 0.975184, precision: 0.690317, recall: 0.653239, f1: 0.671266
-Logistic Regression accuracy: 0.981281, precision: 0.802401, recall: 0.686414, f1: 0.739889
-fold: 5 / 5
-Decision Tree accuracy: 0.978554, precision: 0.870712, recall: 0.723684, f1: 0.790419
-Random Forest accuracy: 0.979044, precision: 0.962662, recall: 0.650219, f1: 0.776178
-Linear Regression accuracy: 0.956924, precision: 0.668821, recall: 0.453947, f1: 0.540823
-Logistic Regression accuracy: 0.967341, precision: 0.862333, recall: 0.494518, f1: 0.628571
-
-
-Final results.
-Decision Tree accuracy: 0.988836 precision: 0.863857 recall: 0.845471 f1: 0.852980
-Random Forest accuracy: 0.989583 precision: 0.952335 recall: 0.776403 f1: 0.853505
-Linear Regression accuracy: 0.976275 precision: 0.703605 recall: 0.657669 f1: 0.676181
-Logistic Regression accuracy: 0.982059 precision: 0.830133 recall: 0.673351 f1: 0.738677
-
-best:
-Random Forest accuracy: 0.989583 precision: 0.952335 recall: 0.776403 f1: 0.853505
+# Accuracy Precision Recall F1
+Decision\nTree 0.988836 0.863857 0.845471 0.852980
+Random\nForest 0.989583 0.952335 0.776403 0.853505
+Linear\nRegr. 0.976275 0.703605 0.657669 0.676181
+Logistic\nRegr. 0.982059 0.830133 0.673351 0.738677

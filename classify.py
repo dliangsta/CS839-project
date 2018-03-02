@@ -10,6 +10,7 @@ from sklearn.metrics import precision_score, recall_score, accuracy_score
 from instance import *
 from location import *
 import numpy as np
+from sklearn.preprocessing import MinMaxScaler
 
 class Classifier:
 
@@ -26,7 +27,7 @@ class Classifier:
             self.clf = RandomForestClassifier(random_state=0)
             self.clf_name = 'Random Forest'
         elif clf_type == 'svm':
-            self.clf = SVC()
+            self.clf = SVC(cache_size=7000)
             self.clf_name = 'Support Vector Machine'
         elif clf_type == 'lir':
             self.clf = LinearRegression()
@@ -50,6 +51,9 @@ class Classifier:
         X_test= np.asarray([x.features for x in test_instances])
         y_train = np.asarray([y.label for y in dev_instances])
         y_test = np.asarray([y.label for y in test_instances]) 
+        '''scaling = MinMaxScaler(feature_range=(-1,1)).fit(X_train)
+        X_train = scaling.transform(X_train)
+        X_test = scaling.transform(X_test)'''
         # Fit model.
         self.clf.fit(X_train, y_train)
 

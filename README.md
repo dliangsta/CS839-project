@@ -13,4 +13,4 @@ CS839-project Stage 1
 [Link to a compressed file that stores all of the above directories]
 TODO
 
-[Link to a pdf document with the report]
+[Link to a pdf document with the report](https://github.com/dliangsta/cs839-project/blob/master/report.pdf)

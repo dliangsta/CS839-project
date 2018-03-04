@@ -10,7 +10,6 @@ CS839-project Stage 1
 
 [Link to a directory that stores all of your code](https://github.com/dliangsta/cs839-project)
 
-[Link to a compressed file that stores all of the above directories]
-TODO
+[Link to a compressed file that stores all of the above directories](https://github.com/dliangsta/cs839-project/blob/master/839project.zip?raw=true)
 
 [Link to a pdf document with the report](https://github.com/dliangsta/cs839-project/blob/master/report.pdf)

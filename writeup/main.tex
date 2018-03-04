@@ -102,7 +102,7 @@ F1: 88.93\%\\
 
 
 \section*{Final Classifier Y}
-\textbf{Rule-Based Post-Processing:} We added a set of most common crypto currencies like \textit{BitCoin}, \textit{Ethereum}, etc., into a whitelist. If a word we are trying to classify is part of the whitelist, we mark it a cryptocurrency. 
+\textbf{Rule-Based Post-Processing:} We added a set of 25 common crypto currencies like \textit{BitCoin}, \textit{Ethereum}, etc., and 25 abbreviations of crypto currencies into a whitelist. If a word we are trying to classify is part of the whitelist, we mark it a cryptocurrency. The code snippet that uses the whitelist can be found in classify.py.
 
 The final classifier Y  is \textit{Random Forest} along with the above post processing. The final results of running Y on the test set J are as follows:\\
 Random Forest accuracy: 99.33\%\\

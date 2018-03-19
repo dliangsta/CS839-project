@@ -1,0 +1,3 @@
+[submodule "stage-2/crawler/public-amazon-crawler"]
+	path = stage-2/crawler/public-amazon-crawler
+	url = https://github.com/aishwaryaganesan/public-amazon-crawler.git

@@ -8,12 +8,10 @@ from datetime import datetime
 import pickle
 
 crawl_time = datetime.now()
-pool = eventlet.GreenPool(settings.max_threads)
-pile = eventlet.GreenPile(pool)
 queue = deque()
 product_list = []
 product_dict = {}
-
+product_urls = []
 class ProductRecord(object):
     def __init__(self, title, product_url, price, properties):
         super(ProductRecord, self).__init__()
@@ -26,11 +24,7 @@ class ProductRecord(object):
         return self.title  + ":" +  str(self.price) + ":" +str(self.properties.keys())
 
     def save(self):
-        print str(len(product_list)+1) + "\t" + self.pretty_print()
         product_list.append(self)
-        if (len(product_list) >= settings.total_crawl):
-            pickle.dump(product_list, open("products.p", "wb" ))
-            sys.exit(0)
 
 def enqueue_url(url):
     queue.append(url)
@@ -41,7 +35,6 @@ def dequeue_url():
 def begin_crawl():
     visited = {}
     w = open(settings.a_URL_file, 'w')
-    # explode out all of our category `start_urls` into subcategories
     with open(settings.start_file, "r") as f:
         for line in f:
             line = line.strip()
@@ -76,100 +69,93 @@ def begin_crawl():
                     log(" Found 'Next' link on {}: {}".format(url, next_link["href"]))
                     page, html = make_request(next_link["href"])
                     url = next_link["href"]
-            '''
-            page, html = make_request(line)
-            count = 0
-            # look for subcategory links on this page
-            subcategories = page.findAll("div", "bxc-grid__image")  # downward arrow graphics
-            subcategories.extend(page.findAll("li", "sub-categories__list__item"))  # carousel hover menu
-            sidebar = page.find("div", "browseBox")
-            if sidebar:
-                subcategories.extend(sidebar.findAll("li"))  # left sidebar
-
-            for subcategory in subcategories:
-                link = subcategory.find("a")
-                if not link:
-                    continue
-                link = link["href"]
-                count += 1
-                enqueue_url(link)
-            log("Found {} subcategories on {}".format(count, line))
-            '''
     w.close()
     pickle.dump(product_dict, open("products.p", "wb" ))
-def fetch_listing():
-    global crawl_time
-    url = dequeue_url()
-    if not url:
-        log("WARNING: No URLs found in the queue. Retrying...")
-        pile.spawn(fetch_listing)
-        return
 
-    page, html = make_request(url)
-    if not page:
-        return
+def gather_urls(start, end):
+    with open(settings.a_URL_file, 'r') as w:
+        urls = (w.readlines()[start:end])
+    i = start
+    for url in urls:
+        url = url.strip()
+        product_urls.append(url)
+        i += 1
+    log('Total number of product URLs enqueued: %d' % len(urls))
 
-    items = page.findAll("li", "s-result-item")
-    log("Found {} items on {}".format(len(items), url))
+def print_product(index):
+	file = '%s%d.p' % (settings.a_products_path, index)
+	with open(file, 'rb') as f:
+		product = pickle.load(f)
 
-    for item in items[:settings.max_details_per_listing]:
+	print product.title
+	print product.price
+	print product.properties
 
-        product_image = get_primary_img(item)
-        if not product_image:
-            log("No product image detected, skipping")
-            continue
-        product_title = get_title(item)
-        product_url = get_url(item)
-        product_price = get_price(item)
-        try:
-            # visit the page specified by product_url
-            page1, html1 = make_request(product_url)
-            temp_dict = {}
+def fetch_listing(start, end):
+	global crawl_time
+	with open('amazon-products.p', 'rb') as pf:
+		product_dict = pickle.load(pf)
+	index = start-1
+	count = 0
+	for product_url in product_urls:
+		#print product_url
+		index += 1
+		page1, html1 = make_request(product_url)
+		try:
+		# visit the page specified by product_url
+			temp_dict = {}
+			product_title = product_dict[product_url]
+			product_price = page1.find("span", "a-size-medium a-color-price").get_text().strip()
 
-            #extract product info from comparison_table
-            table = page1.find("table", "a-bordered a-horizontal-stripes a-spacing-mini a-size-base comparison_table")
-            for i in table.findAll("tr"):
-                if "a-span3 comparison_attribute_name_column comparison_table_first_col" in str(i):
-                    k = i.find("td").find("span").get_text()
-                    v = i.find("th").find("span").get_text()
-                    temp_dict[v] = k
+			#extract product info from comparison_table
+			table = page1.find("table", "a-bordered a-horizontal-stripes a-spacing-mini a-size-base comparison_table")
+			for i in table.findAll("tr"):
+				if "a-span3 comparison_attribute_name_column comparison_table_first_col" in str(i):
+					k = i.find("td").find("span").get_text()
+					v = i.find("th").find("span").get_text()
+					temp_dict[v] = k
 
-            #extract product info from product details Table
-            tables = page1.findAll("table", "a-keyvalue prodDetTable")
-            for table2 in tables:
-                for i in table2.findAll("tr"):
-                    k = i.find("td").get_text().strip()
-                    v = i.find("th").get_text().strip()
-                    temp_dict[v] = k
+			#extract product info from product details Table
+			tables = page1.findAll("table", "a-keyvalue prodDetTable")
+			for table2 in tables:
+				for i in table2.findAll("tr"):
+					k = i.find("td").get_text().strip()
+					v = i.find("th").get_text().strip()
+					temp_dict[v] = k
 
-            product = ProductRecord(
-                title=product_title,
-                product_url=format_url(product_url),
-                price=product_price,
-                properties=temp_dict
-            )
-            product.save()
-        except Exception as e:
-            print e
+			product = ProductRecord(
+			title=product_title,
+			product_url=format_url(product_url),
+			price=product_price,
+			properties=temp_dict
+			)
+			product_name = settings.a_products_path +  str(index) + ".p"
+			pickle.dump(product, open(product_name, 'wb'))
+			#print_product(index)
+			count += 1
+			print (count, index, product_price)
+			sys.stdout.flush()
+		except Exception as e:
+			print "Exception##:" +str(index) + '\t' + str(e)
         
-        print product_url
-        # download_image(product_image, product_id)
-
-    # add next page to queue
-    next_link = page.find("a", id="pagnNextLink")
-    if next_link:
-        log(" Found 'Next' link on {}: {}".format(url, next_link["href"]))
-        enqueue_url(next_link["href"])
-        pile.spawn(fetch_listing)
-
+        
 if __name__ == '__main__':
-
-    if len(sys.argv) > 1 and sys.argv[1] == "start":
-        log("Seeding the URL frontier with subcategory URLs")
+    if len(sys.argv) > 1 and sys.argv[1] == "crawl":
+    	log("Seeding the URL frontier with subcategory URLs")
         begin_crawl()  # put a bunch of subcategory URLs into the queue
 
-        #log("Beginning crawl at {}".format(crawl_time))
+        #log("Seeding the URL frontier with subcategory URLs")
+        #session = dryscrape.Session()
+        #begin_crawl(session)  # put a bunch of subcategory URLs into the queue
+
+        #log('Dumping all URLs to file: %s' % settings.w_URL_file)
+        #dump_urls()
+    elif len(sys.argv) > 1 and sys.argv[1] == "start":
+        gather_urls(int(sys.argv[2]), int(sys.argv[3]))
+        log("Beginning crawl at {}".format(crawl_time))
+        fetch_listing(int(sys.argv[2]), int(sys.argv[3]))
         #[pile.spawn(fetch_listing) for _ in range(settings.max_threads)]
         #pool.waitall()
+        #print_product(int(sys.argv[2])) # test print of first product
     else:
-        print "Usage: python crawler.py start"
+        print "Usage: python walmart_crawler.py start"

@@ -134,6 +134,7 @@ def fetch_listing(start, end):
 			#print_product(index)
 			count += 1
 			print (count, index, product_price)
+			sys.stdout.flush()
 		except Exception as e:
 			print "Exception##:" +str(index) + '\t' + str(e)
         

@@ -107,7 +107,7 @@ VDDR3 SDRAM
 p53
 sVWireless Compatibility
 p54
-V802.11 A/C, 802.11B, 802.11bgn, 802.11 B/G
+V802.11 B/G, 802.11 A/C, 802.11bgn, 802.11B
 p55
 sVItem Weight
 p56

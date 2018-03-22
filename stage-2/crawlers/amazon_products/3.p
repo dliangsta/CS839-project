@@ -175,7 +175,7 @@ VSerial ATA
 p87
 sVBest Sellers Rank
 p88
-V#103 in Computers & Accessories (See top 100)\u000a        \u000a              \u000a                #7 in Computers & Accessories > Laptops > Traditional Laptops
+V#97 in Computers & Accessories (See top 100)\u000a        \u000a              \u000a                #7 in Computers & Accessories > Laptops > Traditional Laptops
 p89
 sVProduct Dimensions
 p90

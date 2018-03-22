@@ -183,7 +183,7 @@ V20 volts
 p91
 sVBest Sellers Rank
 p92
-V#171 in Computers & Accessories (See top 100)\u000a        \u000a              \u000a                #2 in Computers & Accessories > Laptops > 2 in 1 Laptops
+V#173 in Computers & Accessories (See top 100)\u000a        \u000a              \u000a                #2 in Computers & Accessories > Laptops > 2 in 1 Laptops
 p93
 sVProcessor Series
 p94

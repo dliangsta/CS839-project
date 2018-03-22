@@ -141,8 +141,10 @@ def fetch_listing():
 		soup = BeautifulSoup(response, "html5lib")
 
 		# title
-		product_title = soup.find('h1',{'class':'prod-ProductTitle no-margin heading-a'}).get_text()
-
+		try:
+			product_title = soup.find('h1',{'class':'prod-ProductTitle no-margin heading-a'}).get_text()
+		except:
+			product_title = 'Missing'
 		# price
 		try:
 			box = soup.find('div',{'class','prod-BotRow prod-showBottomBorder prod-OfferSection prod-OfferSection-twoPriceDisplay'})

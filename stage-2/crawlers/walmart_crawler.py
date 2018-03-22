@@ -9,8 +9,8 @@ import dryscrape
 from bs4 import BeautifulSoup
 
 crawl_time = datetime.now()
-pool = eventlet.GreenPool(settings.max_threads)
-pile = eventlet.GreenPile(pool)
+#pool = eventlet.GreenPool(settings.max_threads)
+#pile = eventlet.GreenPile(pool)
 queue = deque()
 product_list = []
 
@@ -130,7 +130,7 @@ def fetch_listing():
 		url, index = dequeue_url()
 		if not url:
 			log("WARNING: No URLs found in the queue. Retrying...")
-			pile.spawn(fetch_listing)
+			#pile.spawn(fetch_listing)
 			return
 
 		# need to add host to url
@@ -224,8 +224,9 @@ if __name__ == '__main__':
         #dump_urls()
         gather_urls(int(sys.argv[2]), int(sys.argv[3]))
         log("Beginning crawl at {}".format(crawl_time))
-        [pile.spawn(fetch_listing) for _ in range(settings.max_threads)]
-        pool.waitall()
+        fetch_listing()
+        #[pile.spawn(fetch_listing) for _ in range(settings.max_threads)]
+        #pool.waitall()
         #print_product(int(sys.argv[2])) # test print of first product
     else:
         print "Usage: python walmart_crawler.py start"

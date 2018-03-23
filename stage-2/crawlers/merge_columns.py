@@ -1,8 +1,31 @@
 import pickle
+import sys
 from walmart_crawler import ProductRecord
+reload(sys)
+sys.setdefaultencoding('utf8')
 
+properties = [
+                ('Average Battery Life', 'Average Battery Life (in hours)', 'Battery Life'),
+                ('Brand', 'Brand Name','Manufacturer'),
+                ('Processor (CPU) Manufacturer', 'Processor Brand', 'Processor Series', 'Processor', 'Processor Type', 'Processor Core Type', 'CPU Model','Procesor', 'CPU'),
+                ('Processor Speed', 'CPU Speed'),
+                ('Color','Color Category'),
+                ('RAM Size', 'Computer Memory Size', 'RAM Memory', 'Maximum RAM Supported'),
+                
+                ('Screen Size', 'Display Size'),
+                ('Display Resolution', 'Screen Resolution', 'Display Resolution Maximum'),
+                ('Hard Disk Size', 'Hard-Drive Size', 'Hard Drive Capacity', 'Flash Memory Installed Size', 'Flash Memory Size',  'Storage'),
+                ('Item Dimensions', 'Item Dimensions  L x W x H', 'Package Dimensions', 'Product Dimensions', 'Assembled Product Dimensions (L x W x H)', 'Dimension', 'Dimensions'),
+                ('Item Weight', 'Weight', 'Weight (Lbs)', 'Assembled Product Weight'),
+                ('Operating System', 'Operation System'),
+                ('Laptop Computer Type', 'Hardware Platform'),
+                ('Wireless Type', 'Wireless Compatibility', 'Wireless Compability', 'Wireless Technology', 'Wireless'),
+                ('Manufacturer Part Number', 'manufacturer_part_number', 'Item model number', 'Manufacturer Part Number'),
+                ('Model', 'Series'),
+                ('Processor Count'),
+                ]
 def main():
-    brand='amazon'
+    brand='walmart'
     filename = 'data/' + brand + '_products.p'
     data = pickle.load(open(filename,'rb'))
 
@@ -16,30 +39,15 @@ def main():
                         ]
 
     # Properties that all products will have. Each word in each tuple refers to the same real world entity as the rest of the words in the tuple.
-    properties = [
-                ('Average Battery Life', 'Average Battery Life (in hours)', 'Battery Life'),
-                ('Brand', 'Brand Name','Manufacturer'),
-                ('CPU Model','Procesor', 'CPU'),
-                ('CPU Speed','Processor Speed'),
-                ('Color'),
-                ('Computer Memory Size','RAM Size', 'RAM Memory'),
-                ('Display Size','Screen Size', 'Display'),
-                ('Display Resolution', 'Screen Resolution', 'Display Resolution Maximum'),
-                ('Hard Drive Capacity', 'Hard-Drive Size', 'Storage'),
-                ('Item Dimensions','Package Dimensions', 'Assembled Product Dimensions (L x W x H)', 'Dimension', 'Dimensions'),
-                ('Item Weight', 'Weight', 'Weight (Lbs)', 'Assembled Product Weight'),
-                ('Operating System'),
-                ('Processor Count'),
-                ]
 
     for item in data:
         new = {}
         used = []
-        for key in item.properties.keys():
+        for key in sorted(item.properties.keys()):
             v, prop = key_in_props(key)
             # If the property has not been seen yet and is a property in properties
             if v >= 0 and v not in used:
-                new[prop.lower()] = ''.join([c for c in list(item.properties[key].replace(',','').replace('\\','')) if ord(c) < 128])
+                new[prop.lower()] = ''.join([c for c in list(item.properties[key].replace(',','').replace('\\','').replace('\n','')) if ord(c) < 128])
                 used.append(v)
 
         # Add empty values for properties not seen.
@@ -59,11 +67,13 @@ def main():
     # Write csv
     with open('data/'+brand+'_products.csv', 'w') as f:
         keys = ','.join(sorted(data[0].properties.keys())) + '\n'
-        f.write(keys)
+        print 'product title,price,' + keys
+        f.write('product title,price,' + keys)
         for item in data:
             values = ','.join([item.properties[key] for key in sorted(item.properties.keys())]) + '\n'
             try:
-                f.write(values)
+                #print(str(item.title[0]).replace(',' , '') + ',' + str(item.price) + ',' + values)
+                f.write(str(item.title).replace(',' , '').replace('\\','').replace('\n','') + ',' + str(item.price).replace(',' , '').replace('\\','').replace('\n','') + ',' + values)
             except Exception as e:
                 pass
 

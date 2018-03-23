@@ -26,4 +26,5 @@ In each table, you will find the following columns (attributes):
 
 
 amazon_products.csv - 3068 tuples
+
 walmart_products.csv - 4847 tuples

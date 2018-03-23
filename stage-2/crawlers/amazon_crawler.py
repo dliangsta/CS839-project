@@ -10,7 +10,6 @@ htmlparser = HTMLParser()
 crawl_time = datetime.now()
 queue = deque()
 product_list = []
-product_dict = {}
 product_urls = []
 
 class ProductRecord(object):
@@ -68,7 +67,9 @@ def get_primary_img(item):
     return None
 
 def begin_crawl(crawl_more):
+
     visited = {}
+    product_dict = {}
     if crawl_more:
         with open('amazon-products.p', 'rb') as pf:
             product_dict = pickle.load(pf)
@@ -88,7 +89,7 @@ def begin_crawl(crawl_more):
             page, html = make_request(line)
             url = line
             count = 0
-            while page != None and count <= 150:
+            while page != None and count <= 50:
                 items = page.findAll("li", "s-result-item")
                 for item in items[:settings.max_details_per_listing]:
                     product_image = get_primary_img(item)
@@ -182,7 +183,7 @@ def fetch_listing(start, end):
         
 if __name__ == '__main__':
     if len(sys.argv) > 1 and sys.argv[1] == "crawl":
-        begin_crawl(crawl_more = True)
+        begin_crawl(crawl_more = False)
     elif len(sys.argv) > 1 and sys.argv[1] == "start":
         gather_urls(int(sys.argv[2]), int(sys.argv[3]))
         fetch_listing(int(sys.argv[2]), int(sys.argv[3]))

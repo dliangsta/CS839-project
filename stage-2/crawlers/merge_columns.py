@@ -25,7 +25,7 @@ properties = [
                 ('Processor Count'),
                 ]
 def main():
-    brand='walmart'
+    brand='amazon'
     filename = 'data/' + brand + '_products.p'
     data = pickle.load(open(filename,'rb'))
 
@@ -47,33 +47,40 @@ def main():
             v, prop = key_in_props(key)
             # If the property has not been seen yet and is a property in properties
             if v >= 0 and v not in used:
-                new[prop.lower()] = ''.join([c for c in list(item.properties[key].replace(',','').replace('\\','').replace('\n','')) if ord(c) < 128])
+                new[prop.lower()] = ''.join([c for c in list(item.properties[key].replace(',','').replace('\\','').replace('\n','').replace('"', '')) if ord(c) < 128])
+                if new[prop.lower()] == '-' or new[prop.lower()] == 'N/A' or new[prop.lower()] == 'Missing':
+                	new[prop.lower()] = ''
                 used.append(v)
 
         # Add empty values for properties not seen.
-        for i in range(len(properties)):
-            if i not in used:
-                prop_list = properties[i]
-                if type(prop_list) is tuple:
-                    new[prop_list[0]] = '-'
-                elif type(prop_list) is str:
-                    new[prop_list] = '-'
 
         # Overwrite properties
         item.properties = new
     
     pickle.dump(data, open(filename,'wb'))
-
+    count = 0
     # Write csv
     with open('data/'+brand+'_products.csv', 'w') as f:
         keys = ','.join(sorted(data[0].properties.keys())) + '\n'
-        print 'product title,price,' + keys
-        f.write('product title,price,' + keys)
+        print 'id,product title,price,' + keys
+        f.write('id,product title,price,' + keys)
         for item in data:
             values = ','.join([item.properties[key] for key in sorted(item.properties.keys())]) + '\n'
+            pid = str(brand[0]) + str(count)
             try:
+            	if item.price == '-' or item.price == 'N/A' or item.price == 'Missing':
+                		item.price = ''
+            	if brand == 'amazon':
+            		if item.title[0] == '-' or item.title[0] == 'N/A' or item.title[0] == 'Missing':
+                		item.title[0] = ''
                 #print(str(item.title[0]).replace(',' , '') + ',' + str(item.price) + ',' + values)
-                f.write(str(item.title).replace(',' , '').replace('\\','').replace('\n','') + ',' + str(item.price).replace(',' , '').replace('\\','').replace('\n','') + ',' + values)
+                	f.write(str(pid) + ',' + str(item.title[0]).replace(',' , '').replace('\\','').replace('\n','').replace('"', '') + ',' + str(item.price).replace(',' , '').replace('\\','').replace('\n','').replace('"', '') + ',' + values)
+                else:
+            		if item.title == '-' or item.title == 'N/A' or item.title == 'Missing':
+                		item.title = ''
+
+                	f.write(str(pid) + ',' + str(item.title).replace(',' , '').replace('\\','').replace('\n','').replace('"', '') + ',' + str(item.price).replace(',' , '').replace('\\','').replace('\n','').replace('"', '') + ',' + values)
+                count += 1
             except Exception as e:
                 pass
 

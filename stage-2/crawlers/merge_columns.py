@@ -6,9 +6,6 @@ sys.setdefaultencoding('utf8')
 
 properties = [
                 ('Brand', 'Brand Name','Manufacturer'),
-                ('RAM Size', 'Computer Memory Size', 'RAM Memory', 'Maximum RAM Supported'),
-                ('Hard Disk Size', 'Hard-Drive Size', 'Hard Drive Capacity', 'Flash Memory Installed Size', 'Flash Memory Size',  'Storage'),
-                ('Operating System', 'Operation System'),
                 ('Model','Manufacturer Part Number', 'manufacturer_part_number', 'Item model number','Series'),
                 ]
 def main(brand):
@@ -50,16 +47,18 @@ def main(brand):
                 if brand == 'amazon':
                     if item.title[0] == '-' or item.title[0] == 'N/A' or item.title[0] == 'Missing':
                         item.title[0] = ''
-                    item_string = str(pid) + ',' + str(item.title[0]).replace(',' , '').replace('\\','').replace('\n','').replace('"', '') + ',' + values
-                    item_string += ',' + item_string.replace(',','')
-                    item_string = item_string.replace('  ', ' ')
+                    item_string = str(item.title[0]).replace(',' , '').replace('\\','').replace('\n','').replace('"', '') + ',' + values
+                    item_string += ',' + item_string.replace(',',' ')
+                    item_string = str(pid) + ','  + item_string
+                    item_string = item_string.replace('  ', ' ').lower().replace('  ', ' ')
                     f.write(item_string)
                 else:
                     if item.title == '-' or item.title == 'N/A' or item.title == 'Missing':
                         item.title = ''
-                    item_string = str(pid) + ',' + str(item.title).replace(',' , '').replace('\\','').replace('\n','').replace('"', '') + ',' + values
+                    item_string = str(item.title).replace(',' , '').replace('\\','').replace('\n','').replace('"', '') + ',' + values
                     item_string += ',' + item_string.replace(',',' ')
-                    item_string = item_string.replace('  ', ' ')
+                    item_string = str(pid) + ','  + item_string
+                    item_string = item_string.replace('  ', ' ').lower().replace('  ', ' ')
                     f.write(item_string)
                 f.write('\n')
                 count += 1

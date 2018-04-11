@@ -5,7 +5,7 @@ from helpers import make_request, log, format_url
 from collections import deque
 from datetime import datetime
 import pickle
-import dryscrape
+# import dryscrape
 from bs4 import BeautifulSoup
 
 crawl_time = datetime.now()

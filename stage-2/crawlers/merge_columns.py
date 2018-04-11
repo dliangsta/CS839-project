@@ -9,37 +9,18 @@ properties = [
                 ('Brand', 'Brand Name','Manufacturer'),
                 ('Processor (CPU) Manufacturer', 'Processor Brand', 'Processor Series', 'Processor', 'Processor Type', 'Processor Core Type', 'CPU Model','Procesor', 'CPU'),
                 ('Processor Speed', 'CPU Speed'),
-                ('Color','Color Category'),
                 ('RAM Size', 'Computer Memory Size', 'RAM Memory', 'Maximum RAM Supported'),
-                
                 ('Screen Size', 'Display Size'),
-                ('Display Resolution', 'Screen Resolution', 'Display Resolution Maximum'),
                 ('Hard Disk Size', 'Hard-Drive Size', 'Hard Drive Capacity', 'Flash Memory Installed Size', 'Flash Memory Size',  'Storage'),
-                ('Item Dimensions', 'Item Dimensions  L x W x H', 'Package Dimensions', 'Product Dimensions', 'Assembled Product Dimensions (L x W x H)', 'Dimension', 'Dimensions'),
-                ('Item Weight', 'Weight', 'Weight (Lbs)', 'Assembled Product Weight'),
                 ('Operating System', 'Operation System'),
-                ('Laptop Computer Type', 'Hardware Platform'),
                 ('Wireless Type', 'Wireless Compatibility', 'Wireless Compability', 'Wireless Technology', 'Wireless'),
-                ('Manufacturer Part Number', 'manufacturer_part_number', 'Item model number', 'Manufacturer Part Number'),
-                ('Model', 'Series'),
-                ('Processor Count'),
+                ('Model', 'Series','Manufacturer Part Number', 'manufacturer_part_number', 'Item model number', 'Manufacturer Part Number'),
                 ]
-def main():
-    brand='amazon'
+def main(brand):
     filename = 'data/' + brand + '_products.p'
     data = pickle.load(open(filename,'rb'))
 
-    matching_attributes = [
-                            ('Average Battery Life','Average Battery Life (in hours)'),
-                            ('Battery Cell Type', 'Battery Type'),
-                            ('Brand', 'Manufacturer'),
-                            ('Computer Memory Size', 'Ram Size'),
-                            ('Computer Memory Speed', 'Memory Speed'),
-                            ('Item Dimensions','Item Dimensions L x W x H')
-                        ]
-
     # Properties that all products will have. Each word in each tuple refers to the same real world entity as the rest of the words in the tuple.
-
     for item in data:
         new = {}
         used = []
@@ -59,29 +40,36 @@ def main():
     
     pickle.dump(data, open(filename,'wb'))
     count = 0
-    # Write csv
     with open('data/'+brand+'_products.csv', 'w') as f:
-        keys = ','.join(sorted(data[0].properties.keys())) + '\n'
-        print 'id,product title,price,' + keys
-        f.write('id,product title,price,' + keys)
+        keys = ','.join(sorted(data[0].properties.keys()))
+        print 'id,product title,' + keys + ',combo'
+        f.write('id,product title,' + keys + ',combo' + '\n')
         for item in data:
-            values = ','.join([item.properties[key] for key in sorted(item.properties.keys())]) + '\n'
+            values = ','.join([item.properties[key] for key in sorted(item.properties.keys())])
             pid = str(brand[0]) + str(count)
             try:
-            	if item.price == '-' or item.price == 'N/A' or item.price == 'Missing':
-                		item.price = ''
-            	if brand == 'amazon':
-            		if item.title[0] == '-' or item.title[0] == 'N/A' or item.title[0] == 'Missing':
-                		item.title[0] = ''
-                #print(str(item.title[0]).replace(',' , '') + ',' + str(item.price) + ',' + values)
-                	f.write(str(pid) + ',' + str(item.title[0]).replace(',' , '').replace('\\','').replace('\n','').replace('"', '') + ',' + str(item.price).replace(',' , '').replace('\\','').replace('\n','').replace('"', '') + ',' + values)
+                if item.price == '-' or item.price == 'N/A' or item.price == 'Missing':
+                        item.price = ''
+                if brand == 'amazon':
+                    if item.title[0] == '-' or item.title[0] == 'N/A' or item.title[0] == 'Missing':
+                        item.title[0] = ''
+                    item_string = str(item.title[0]).replace(',' , '').replace('\\','').replace('\n','').replace('"', '') + ',' + values
+                    item_string += ',' + item_string.replace(',',' ')
+                    item_string = str(pid) + ','  + item_string
+                    item_string = item_string.replace('  ', ' ').lower().replace('  ', ' ')
+                    f.write(item_string)
                 else:
-            		if item.title == '-' or item.title == 'N/A' or item.title == 'Missing':
-                		item.title = ''
-
-                	f.write(str(pid) + ',' + str(item.title).replace(',' , '').replace('\\','').replace('\n','').replace('"', '') + ',' + str(item.price).replace(',' , '').replace('\\','').replace('\n','').replace('"', '') + ',' + values)
+                    if item.title == '-' or item.title == 'N/A' or item.title == 'Missing':
+                        item.title = ''
+                    item_string = str(item.title).replace(',' , '').replace('\\','').replace('\n','').replace('"', '') + ',' + values
+                    item_string += ',' + item_string.replace(',',' ')
+                    item_string = str(pid) + ','  + item_string
+                    item_string = item_string.replace('  ', ' ').lower().replace('  ', ' ')
+                    f.write(item_string)
+                f.write('\n')
                 count += 1
             except Exception as e:
+                print e
                 pass
 
 
@@ -144,4 +132,5 @@ def key_in_props(key):
     return -1, None
 
 if __name__ == '__main__':
-    main()
+    main(brand='amazon')
+    main(brand='walmart')

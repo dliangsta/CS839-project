@@ -5,15 +5,15 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 
 properties = [
-                ('Average Battery Life', 'Average Battery Life (in hours)', 'Battery Life'),
+                # ('Average Battery Life', 'Average Battery Life (in hours)', 'Battery Life'),
                 ('Brand', 'Brand Name','Manufacturer'),
-                ('Processor (CPU) Manufacturer', 'Processor Brand', 'Processor Series', 'Processor', 'Processor Type', 'Processor Core Type', 'CPU Model','Procesor', 'CPU'),
-                ('Processor Speed', 'CPU Speed'),
-                ('RAM Size', 'Computer Memory Size', 'RAM Memory', 'Maximum RAM Supported'),
-                ('Screen Size', 'Display Size'),
-                ('Hard Disk Size', 'Hard-Drive Size', 'Hard Drive Capacity', 'Flash Memory Installed Size', 'Flash Memory Size',  'Storage'),
+                # ('Processor (CPU) Manufacturer', 'Processor Brand', 'Processor Series', 'Processor', 'Processor Type', 'Processor Core Type', 'CPU Model','Procesor', 'CPU'),
+                # ('Processor Speed', 'CPU Speed'),
+                # ('RAM Size', 'Computer Memory Size', 'RAM Memory', 'Maximum RAM Supported'),
+                # ('Screen Size', 'Display Size'),
+                # ('Hard Disk Size', 'Hard-Drive Size', 'Hard Drive Capacity', 'Flash Memory Installed Size', 'Flash Memory Size',  'Storage'),
                 ('Operating System', 'Operation System'),
-                ('Wireless Type', 'Wireless Compatibility', 'Wireless Compability', 'Wireless Technology', 'Wireless'),
+                # ('Wireless Type', 'Wireless Compatibility', 'Wireless Compability', 'Wireless Technology', 'Wireless'),
                 ('Model', 'Series','Manufacturer Part Number', 'manufacturer_part_number', 'Item model number', 'Manufacturer Part Number'),
                 ]
 def main(brand):

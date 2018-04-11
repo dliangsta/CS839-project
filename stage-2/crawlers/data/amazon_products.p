@@ -84,7 +84,7 @@ V16 GB
 p42
 sS'screen size'
 p43
-V15.6 inches
+V15.6in
 p44
 sS'processor speed'
 p45
@@ -167,7 +167,7 @@ V8 GB
 p81
 sS'screen size'
 p82
-V15.6 inches
+V15.6in
 p83
 sS'processor speed'
 p84
@@ -250,7 +250,7 @@ V8 GB
 p120
 sS'screen size'
 p121
-V15.6 inches
+V15.6in
 p122
 sS'processor speed'
 p123
@@ -336,7 +336,7 @@ V4 GB
 p162
 sS'screen size'
 p163
-V12.5 inches
+V12.5in
 p164
 sS'processor speed'
 p165
@@ -420,7 +420,7 @@ V4 GB
 p202
 sS'screen size'
 p203
-V11.6 inches
+V11.6in
 p204
 sS'processor speed'
 p205
@@ -505,7 +505,7 @@ V4 GB
 p243
 sS'screen size'
 p244
-V11.6 inches
+V11.6in
 p245
 sS'processor speed'
 p246
@@ -590,7 +590,7 @@ V4 GB
 p284
 sS'screen size'
 p285
-V11.6 inches
+V11.6in
 p286
 sS'processor speed'
 p287
@@ -675,7 +675,7 @@ V4 GB
 p325
 sS'screen size'
 p326
-V15.6 inches
+V15.6in
 p327
 sS'processor speed'
 p328
@@ -759,7 +759,7 @@ V4 GB
 p365
 sS'screen size'
 p366
-V14 inches
+V14in
 p367
 sS'processor speed'
 p368
@@ -842,7 +842,7 @@ V8 GB
 p404
 sS'screen size'
 p405
-V15.6 inches
+V15.6in
 p406
 sS'processor speed'
 p407
@@ -922,7 +922,7 @@ V4 GB
 p440
 sS'screen size'
 p441
-V15.6 in
+V15.6in
 p442
 sS'processor speed'
 p443
@@ -1006,7 +1006,7 @@ V16 GB
 p480
 sS'screen size'
 p481
-V15.6 inches
+V15.6in
 p482
 sS'processor speed'
 p483
@@ -1091,7 +1091,7 @@ V8 GB
 p521
 sS'screen size'
 p522
-V12 inches
+V12in
 p523
 sS'processor speed'
 p524
@@ -1176,7 +1176,7 @@ V8 GB
 p562
 sS'screen size'
 p563
-V15.6 inches
+V15.6in
 p564
 sS'processor speed'
 p565
@@ -1260,7 +1260,7 @@ V4 GB
 p602
 sS'screen size'
 p603
-V14 inches
+V14in
 p604
 sS'processor speed'
 p605
@@ -1342,7 +1342,7 @@ V4 GB
 p640
 sS'screen size'
 p641
-V14 inches
+V14in
 p642
 sS'processor speed'
 p643
@@ -1422,7 +1422,7 @@ V8 GB
 p676
 sS'screen size'
 p677
-V15.6 inches
+V15.6in
 p678
 sS'processor speed'
 p679
@@ -1507,7 +1507,7 @@ V4 GB
 p717
 sS'screen size'
 p718
-V14 inches
+V14in
 p719
 sS'processor speed'
 p720
@@ -1591,7 +1591,7 @@ V12 GB
 p757
 sS'screen size'
 p758
-V15.6 inches
+V15.6in
 p759
 sS'processor speed'
 p760
@@ -1673,7 +1673,7 @@ V16 GB
 p795
 sS'screen size'
 p796
-V15.6 inches
+V15.6in
 p797
 sS'processor speed'
 p798
@@ -1755,7 +1755,7 @@ V16 GB
 p833
 sS'screen size'
 p834
-V15 inches
+V15in
 p835
 sS'processor speed'
 p836
@@ -1839,7 +1839,7 @@ V8 GB
 p873
 sS'screen size'
 p874
-V15.6 inches
+V15.6in
 p875
 sS'processor speed'
 p876
@@ -1922,7 +1922,7 @@ V8 GB
 p912
 sS'screen size'
 p913
-V15.6 inches
+V15.6in
 p914
 sS'processor speed'
 p915
@@ -2004,7 +2004,7 @@ V8 GB
 p950
 sS'screen size'
 p951
-V15.6 inches
+V15.6in
 p952
 sS'processor speed'
 p953
@@ -2087,7 +2087,7 @@ V16 GB
 p989
 sS'screen size'
 p990
-V17.3 inches
+V17.3in
 p991
 sS'processor speed'
 p992
@@ -2171,7 +2171,7 @@ V8 GB
 p1029
 sS'screen size'
 p1030
-V13.3 inches
+V13.3in
 p1031
 sS'processor speed'
 p1032
@@ -2256,7 +2256,7 @@ V16 GB
 p1070
 sS'screen size'
 p1071
-V15 inches
+V15in
 p1072
 sS'processor speed'
 p1073
@@ -2339,7 +2339,7 @@ V8 GB
 p1109
 sS'screen size'
 p1110
-V15.6 inches
+V15.6in
 p1111
 sS'processor speed'
 p1112
@@ -2421,7 +2421,7 @@ V16 GB
 p1147
 sS'screen size'
 p1148
-V15.6 inches
+V15.6in
 p1149
 sS'processor speed'
 p1150
@@ -2505,7 +2505,7 @@ V8 GB
 p1187
 sS'screen size'
 p1188
-V13.5 inches
+V13.5in
 p1189
 sS'processor speed'
 p1190
@@ -2589,7 +2589,7 @@ V8 GB
 p1227
 sS'screen size'
 p1228
-V13.3 inches
+V13.3in
 p1229
 sS'processor speed'
 p1230
@@ -2671,7 +2671,7 @@ V8 GB
 p1265
 sS'screen size'
 p1266
-V15.6 inches
+V15.6in
 p1267
 sS'processor speed'
 p1268
@@ -2754,7 +2754,7 @@ V8 GB
 p1304
 sS'screen size'
 p1305
-V15.6 inches
+V15.6in
 p1306
 sS'processor speed'
 p1307
@@ -2839,7 +2839,7 @@ V4 GB
 p1345
 sS'screen size'
 p1346
-V15.6 inches
+V15.6in
 p1347
 sS'processor speed'
 p1348
@@ -2921,7 +2921,7 @@ V4 GB
 p1383
 sS'screen size'
 p1384
-V10.1 inches
+V10.1in
 p1385
 sS'processor speed'
 p1386
@@ -3003,7 +3003,7 @@ V16 GB
 p1421
 sS'screen size'
 p1422
-V13 inches
+V13in
 p1423
 sS'processor speed'
 p1424
@@ -3086,7 +3086,7 @@ V16 GB
 p1460
 sS'screen size'
 p1461
-V14 inches
+V14in
 p1462
 sS'processor speed'
 p1463
@@ -3166,7 +3166,7 @@ V6 GB
 p1496
 sS'screen size'
 p1497
-V15.6 in
+V15.6in
 p1498
 sS'processor speed'
 p1499
@@ -3251,7 +3251,7 @@ V4 GB
 p1537
 sS'screen size'
 p1538
-V15.6 inches
+V15.6in
 p1539
 sS'processor speed'
 p1540
@@ -3336,7 +3336,7 @@ V8 GB
 p1578
 sS'screen size'
 p1579
-V14 inches
+V14in
 p1580
 sS'processor speed'
 p1581
@@ -3415,7 +3415,7 @@ V8 GB
 p1613
 sS'screen size'
 p1614
-V15.6 in
+V15.6in
 p1615
 sS'processor speed'
 p1616
@@ -3496,7 +3496,7 @@ V8 GB
 p1650
 sS'screen size'
 p1651
-V15.6 in
+V15.6in
 p1652
 sS'processor speed'
 p1653
@@ -3579,7 +3579,7 @@ V16 GB
 p1689
 sS'screen size'
 p1690
-V14 inches
+V14in
 p1691
 sS'processor speed'
 p1692
@@ -3664,7 +3664,7 @@ V4 GB
 p1730
 sS'screen size'
 p1731
-V15.6 inches
+V15.6in
 p1732
 sS'processor speed'
 p1733
@@ -3748,7 +3748,7 @@ V2 GB
 p1770
 sS'screen size'
 p1771
-V11.6 inches
+V11.6in
 p1772
 sS'processor speed'
 p1773
@@ -3830,7 +3830,7 @@ V16 GB
 p1808
 sS'screen size'
 p1809
-V15.6 inches
+V15.6in
 p1810
 sS'processor speed'
 p1811
@@ -3914,7 +3914,7 @@ V16 GB
 p1848
 sS'screen size'
 p1849
-V17.3 inches
+V17.3in
 p1850
 sS'processor speed'
 p1851
@@ -3998,7 +3998,7 @@ V8 GB
 p1888
 sS'screen size'
 p1889
-V13.3 inches
+V13.3in
 p1890
 sS'processor speed'
 p1891
@@ -4081,7 +4081,7 @@ V12 GB
 p1927
 sS'screen size'
 p1928
-V17.3 inches
+V17.3in
 p1929
 sS'processor speed'
 p1930
@@ -4164,7 +4164,7 @@ V4 GB
 p1966
 sS'screen size'
 p1967
-V11.6 inches
+V11.6in
 p1968
 sS'processor speed'
 p1969
@@ -4247,7 +4247,7 @@ V16 GB
 p2005
 sS'screen size'
 p2006
-V15.6 inches
+V15.6in
 p2007
 sS'processor speed'
 p2008
@@ -4330,7 +4330,7 @@ V8 GB
 p2044
 sS'screen size'
 p2045
-V15.6 inches
+V15.6in
 p2046
 sS'processor speed'
 p2047
@@ -4412,7 +4412,7 @@ V4 GB
 p2082
 sS'screen size'
 p2083
-V14 inches
+V14in
 p2084
 sS'processor speed'
 p2085
@@ -4494,7 +4494,7 @@ V4 GB
 p2120
 sS'screen size'
 p2121
-V11.6 inches
+V11.6in
 p2122
 sS'processor speed'
 p2123
@@ -4579,7 +4579,7 @@ V4 GB
 p2161
 sS'screen size'
 p2162
-V11.6 inches
+V11.6in
 p2163
 sS'processor speed'
 p2164
@@ -4663,7 +4663,7 @@ V8 GB
 p2201
 sS'screen size'
 p2202
-V17.3 inches
+V17.3in
 p2203
 sS'processor speed'
 p2204
@@ -4747,7 +4747,7 @@ V16 GB
 p2241
 sS'screen size'
 p2242
-V15.6 inches
+V15.6in
 p2243
 sS'processor speed'
 p2244
@@ -4830,7 +4830,7 @@ V8 GB
 p2280
 sS'screen size'
 p2281
-V13.3 inches
+V13.3in
 p2282
 sS'processor speed'
 p2283
@@ -4914,7 +4914,7 @@ V4 GB
 p2320
 sS'screen size'
 p2321
-V15.6 inches
+V15.6in
 p2322
 sS'processor speed'
 p2323
@@ -4999,7 +4999,7 @@ V4 GB
 p2361
 sS'screen size'
 p2362
-V15.6 inches
+V15.6in
 p2363
 sS'processor speed'
 p2364
@@ -5081,7 +5081,7 @@ V8 GB
 p2399
 sS'screen size'
 p2400
-V15.6 inches
+V15.6in
 p2401
 sS'processor speed'
 p2402
@@ -5165,7 +5165,7 @@ V8 GB
 p2439
 sS'screen size'
 p2440
-V17.3 inches
+V17.3in
 p2441
 sS'processor speed'
 p2442
@@ -5247,7 +5247,7 @@ V12 GB
 p2477
 sS'screen size'
 p2478
-V13.3 inches
+V13.3in
 p2479
 sS'processor speed'
 p2480
@@ -5330,7 +5330,7 @@ V4 GB
 p2516
 sS'screen size'
 p2517
-V11.6 inches
+V11.6in
 p2518
 sS'processor speed'
 p2519
@@ -5411,7 +5411,7 @@ V8 GB
 p2553
 sS'screen size'
 p2554
-V15.6 in
+V15.6in
 p2555
 sS'processor speed'
 p2556
@@ -5496,7 +5496,7 @@ V8 GB
 p2594
 sS'screen size'
 p2595
-V15.6 inches
+V15.6in
 p2596
 sS'processor speed'
 p2597
@@ -5579,7 +5579,7 @@ V16 GB
 p2633
 sS'screen size'
 p2634
-V15.6 inches
+V15.6in
 p2635
 sS'processor speed'
 p2636
@@ -5664,7 +5664,7 @@ V4 GB
 p2674
 sS'screen size'
 p2675
-V13.3 inches
+V13.3in
 p2676
 sS'processor speed'
 p2677
@@ -5746,7 +5746,7 @@ V16 GB
 p2712
 sS'screen size'
 p2713
-V15.6 inches
+V15.6in
 p2714
 sS'processor speed'
 p2715
@@ -5828,7 +5828,7 @@ V8 GB
 p2750
 sS'screen size'
 p2751
-V15.6 inches
+V15.6in
 p2752
 sS'processor speed'
 p2753
@@ -5913,7 +5913,7 @@ V8 GB
 p2791
 sS'screen size'
 p2792
-V15.6 inches
+V15.6in
 p2793
 sS'processor speed'
 p2794
@@ -5996,7 +5996,7 @@ V8 GB
 p2830
 sS'screen size'
 p2831
-V13.5 inches
+V13.5in
 p2832
 sS'processor speed'
 p2833
@@ -6080,7 +6080,7 @@ V8 GB
 p2870
 sS'screen size'
 p2871
-V15.6 inches
+V15.6in
 p2872
 sS'processor speed'
 p2873
@@ -6163,7 +6163,7 @@ V8 GB
 p2909
 sS'screen size'
 p2910
-V15.6 inches
+V15.6in
 p2911
 sS'processor speed'
 p2912
@@ -6248,7 +6248,7 @@ V4 GB
 p2950
 sS'screen size'
 p2951
-V11.6 inches
+V11.6in
 p2952
 sS'processor speed'
 p2953
@@ -6331,7 +6331,7 @@ V16 GB
 p2989
 sS'screen size'
 p2990
-V15.6 inches
+V15.6in
 p2991
 sS'processor speed'
 p2992
@@ -6414,7 +6414,7 @@ V16 GB
 p3028
 sS'screen size'
 p3029
-V15.6 inches
+V15.6in
 p3030
 sS'processor speed'
 p3031
@@ -6499,7 +6499,7 @@ V8 GB
 p3069
 sS'screen size'
 p3070
-V17.3 inches
+V17.3in
 p3071
 sS'processor speed'
 p3072
@@ -6580,7 +6580,7 @@ V16 GB
 p3106
 sS'screen size'
 p3107
-V15.6 inches
+V15.6in
 p3108
 sS'processor speed'
 p3109
@@ -6663,7 +6663,7 @@ V16 GB
 p3145
 sS'screen size'
 p3146
-V15.6 inches
+V15.6in
 p3147
 sS'processor speed'
 p3148
@@ -6747,7 +6747,7 @@ V12 GB
 p3185
 sS'screen size'
 p3186
-V15.6 inches
+V15.6in
 p3187
 sS'processor speed'
 p3188
@@ -6832,7 +6832,7 @@ V4 GB
 p3226
 sS'screen size'
 p3227
-V15.6 inches
+V15.6in
 p3228
 sS'processor speed'
 p3229
@@ -6916,7 +6916,7 @@ V4 GB
 p3266
 sS'screen size'
 p3267
-V10.1 inches
+V10.1in
 p3268
 sS'processor speed'
 p3269
@@ -7001,7 +7001,7 @@ V8 GB
 p3307
 sS'screen size'
 p3308
-V15.6 inches
+V15.6in
 p3309
 sS'processor speed'
 p3310
@@ -7085,7 +7085,7 @@ V4 GB
 p3347
 sS'screen size'
 p3348
-V14 inches
+V14in
 p3349
 sS'processor speed'
 p3350
@@ -7169,7 +7169,7 @@ V4 GB
 p3387
 sS'screen size'
 p3388
-V13.3 inches
+V13.3in
 p3389
 sS'processor speed'
 p3390
@@ -7251,7 +7251,7 @@ V8 GB
 p3425
 sS'screen size'
 p3426
-V15.6 inches
+V15.6in
 p3427
 sS'processor speed'
 p3428
@@ -7331,7 +7331,7 @@ V4 GB
 p3461
 sS'screen size'
 p3462
-V15.6 inches
+V15.6in
 p3463
 sS'processor speed'
 p3464
@@ -7415,7 +7415,7 @@ V4 GB
 p3501
 sS'screen size'
 p3502
-V15.6 inches
+V15.6in
 p3503
 sS'processor speed'
 p3504
@@ -7494,7 +7494,7 @@ V6 GB
 p3536
 sS'screen size'
 p3537
-V15.6 inches
+V15.6in
 p3538
 sS'processor speed'
 p3539
@@ -7574,7 +7574,7 @@ V8 GB
 p3572
 sS'screen size'
 p3573
-V15.6 inches
+V15.6in
 p3574
 sS'processor speed'
 p3575
@@ -7658,7 +7658,7 @@ V8 GB
 p3612
 sS'screen size'
 p3613
-V15.6 inches
+V15.6in
 p3614
 sS'processor speed'
 p3615
@@ -7742,7 +7742,7 @@ V16 GB
 p3652
 sS'screen size'
 p3653
-V17.3 inches
+V17.3in
 p3654
 sS'processor speed'
 p3655
@@ -7825,7 +7825,7 @@ V8 GB
 p3691
 sS'screen size'
 p3692
-V17.3 inches
+V17.3in
 p3693
 sS'processor speed'
 p3694
@@ -7909,7 +7909,7 @@ V8 GB
 p3731
 sS'screen size'
 p3732
-V15.6 inches
+V15.6in
 p3733
 sS'processor speed'
 p3734
@@ -7991,7 +7991,7 @@ V4 GB
 p3769
 sS'screen size'
 p3770
-V15.6 inches
+V15.6in
 p3771
 sS'processor speed'
 p3772
@@ -8074,7 +8074,7 @@ V8 GB
 p3808
 sS'screen size'
 p3809
-V13 inches
+V13in
 p3810
 sS'processor speed'
 p3811
@@ -8158,7 +8158,7 @@ V8 GB
 p3848
 sS'screen size'
 p3849
-V13.3 inches
+V13.3in
 p3850
 sS'processor speed'
 p3851
@@ -8244,7 +8244,7 @@ V4 GB
 p3890
 sS'screen size'
 p3891
-V12.3 inches
+V12.3in
 p3892
 sS'processor speed'
 p3893
@@ -8327,7 +8327,7 @@ V8 GB
 p3929
 sS'screen size'
 p3930
-V14 inches
+V14in
 p3931
 sS'processor speed'
 p3932
@@ -8410,7 +8410,7 @@ V4 GB
 p3968
 sS'screen size'
 p3969
-V15.6 inches
+V15.6in
 p3970
 sS'processor speed'
 p3971
@@ -8493,7 +8493,7 @@ V8 GB
 p4007
 sS'screen size'
 p4008
-V17.3 inches
+V17.3in
 p4009
 sS'processor speed'
 p4010
@@ -8577,7 +8577,7 @@ V4 GB
 p4047
 sS'screen size'
 p4048
-V13.3 inches
+V13.3in
 p4049
 sS'processor speed'
 p4050
@@ -8662,7 +8662,7 @@ V8 GB
 p4088
 sS'screen size'
 p4089
-V13.3 inches
+V13.3in
 p4090
 sS'processor speed'
 p4091
@@ -8744,7 +8744,7 @@ V8 GB
 p4126
 sS'screen size'
 p4127
-V15.6 inches
+V15.6in
 p4128
 sS'processor speed'
 p4129
@@ -8829,7 +8829,7 @@ V4 GB
 p4167
 sS'screen size'
 p4168
-V15.6 inches
+V15.6in
 p4169
 sS'processor speed'
 p4170
@@ -8914,7 +8914,7 @@ V4 GB
 p4208
 sS'screen size'
 p4209
-V11.6 inches
+V11.6in
 p4210
 sS'processor speed'
 p4211
@@ -8994,7 +8994,7 @@ V16 GB
 p4244
 sS'screen size'
 p4245
-V13.3 inches
+V13.3in
 p4246
 sS'processor speed'
 p4247
@@ -9077,7 +9077,7 @@ V4 GB
 p4283
 sS'screen size'
 p4284
-V11.6 inches
+V11.6in
 p4285
 sS'processor speed'
 p4286
@@ -9161,7 +9161,7 @@ V6 GB
 p4323
 sS'screen size'
 p4324
-V11.6 inches
+V11.6in
 p4325
 sS'processor speed'
 p4326
@@ -9238,7 +9238,7 @@ V4 GB
 p4356
 sS'screen size'
 p4357
-V14 in
+V14in
 p4358
 sS'processor speed'
 p4359
@@ -9319,7 +9319,7 @@ V16 GB
 p4393
 sS'screen size'
 p4394
-V15.6 inches
+V15.6in
 p4395
 sS'processor speed'
 p4396
@@ -9403,7 +9403,7 @@ V8 GB
 p4433
 sS'screen size'
 p4434
-V13.3 inches
+V13.3in
 p4435
 sS'processor speed'
 p4436
@@ -9487,7 +9487,7 @@ V8 GB
 p4473
 sS'screen size'
 p4474
-V13.3 inches
+V13.3in
 p4475
 sS'processor speed'
 p4476
@@ -9570,7 +9570,7 @@ V8 GB
 p4512
 sS'screen size'
 p4513
-V14 inches
+V14in
 p4514
 sS'processor speed'
 p4515
@@ -9653,7 +9653,7 @@ V16 GB
 p4551
 sS'screen size'
 p4552
-V17.3 inches
+V17.3in
 p4553
 sS'processor speed'
 p4554
@@ -9734,7 +9734,7 @@ V12 GB
 p4588
 sS'screen size'
 p4589
-V15.6 in
+V15.6in
 p4590
 sS'processor speed'
 p4591
@@ -9818,7 +9818,7 @@ V12 GB
 p4628
 sS'screen size'
 p4629
-V15.6 inches
+V15.6in
 p4630
 sS'processor speed'
 p4631
@@ -9901,7 +9901,7 @@ V2 GB
 p4667
 sS'screen size'
 p4668
-V11.6 inches
+V11.6in
 p4669
 sS'processor speed'
 p4670
@@ -9985,7 +9985,7 @@ V8 GB
 p4707
 sS'screen size'
 p4708
-V15.6 inches
+V15.6in
 p4709
 sS'processor speed'
 p4710
@@ -10068,7 +10068,7 @@ V8 GB
 p4746
 sS'screen size'
 p4747
-V14 inches
+V14in
 p4748
 sS'processor speed'
 p4749
@@ -10153,7 +10153,7 @@ V8 GB
 p4787
 sS'screen size'
 p4788
-V15.6 inches
+V15.6in
 p4789
 sS'processor speed'
 p4790
@@ -10237,7 +10237,7 @@ V12 GB
 p4827
 sS'screen size'
 p4828
-V15.6 inches
+V15.6in
 p4829
 sS'processor speed'
 p4830
@@ -10322,7 +10322,7 @@ V6 GB
 p4868
 sS'screen size'
 p4869
-V15.6 inches
+V15.6in
 p4870
 sS'processor speed'
 p4871
@@ -10406,7 +10406,7 @@ V4 GB
 p4908
 sS'screen size'
 p4909
-V15.6 inches
+V15.6in
 p4910
 sS'processor speed'
 p4911
@@ -10491,7 +10491,7 @@ V8 GB
 p4949
 sS'screen size'
 p4950
-V15.6 inches
+V15.6in
 p4951
 sS'processor speed'
 p4952
@@ -10574,7 +10574,7 @@ V8 GB
 p4988
 sS'screen size'
 p4989
-V15.6 inches
+V15.6in
 p4990
 sS'processor speed'
 p4991
@@ -10658,7 +10658,7 @@ V6 GB
 p5028
 sS'screen size'
 p5029
-V15.6 inches
+V15.6in
 p5030
 sS'processor speed'
 p5031
@@ -10742,7 +10742,7 @@ V8 GB
 p5068
 sS'screen size'
 p5069
-V15.6 inches
+V15.6in
 p5070
 sS'processor speed'
 p5071
@@ -10825,7 +10825,7 @@ V32 GB
 p5107
 sS'screen size'
 p5108
-V15.6 inches
+V15.6in
 p5109
 sS'processor speed'
 p5110
@@ -10903,7 +10903,7 @@ V4 GB
 p5141
 sS'screen size'
 p5142
-V15.6 in
+V15.6in
 p5143
 sS'processor speed'
 p5144
@@ -10987,7 +10987,7 @@ V8 GB
 p5181
 sS'screen size'
 p5182
-V17.3 inches
+V17.3in
 p5183
 sS'processor speed'
 p5184
@@ -11072,7 +11072,7 @@ V2 GB
 p5222
 sS'screen size'
 p5223
-V11.6 inches
+V11.6in
 p5224
 sS'processor speed'
 p5225
@@ -11154,7 +11154,7 @@ V8 GB
 p5260
 sS'screen size'
 p5261
-V15.6 inches
+V15.6in
 p5262
 sS'processor speed'
 p5263
@@ -11239,7 +11239,7 @@ V8 GB
 p5301
 sS'screen size'
 p5302
-V17.3 inches
+V17.3in
 p5303
 sS'processor speed'
 p5304
@@ -11323,7 +11323,7 @@ V8 GB
 p5341
 sS'screen size'
 p5342
-V13.3 inches
+V13.3in
 p5343
 sS'processor speed'
 p5344
@@ -11406,7 +11406,7 @@ V16 GB
 p5380
 sS'screen size'
 p5381
-V15.6 inches
+V15.6in
 p5382
 sS'processor speed'
 p5383
@@ -11489,7 +11489,7 @@ V8 GB
 p5419
 sS'screen size'
 p5420
-V15.6 inches
+V15.6in
 p5421
 sS'processor speed'
 p5422
@@ -11569,7 +11569,7 @@ V4 GB
 p5455
 sS'screen size'
 p5456
-V14 inches
+V14in
 p5457
 sS'processor speed'
 p5458
@@ -11654,7 +11654,7 @@ V12 GB
 p5496
 sS'screen size'
 p5497
-V15.6 inches
+V15.6in
 p5498
 sS'processor speed'
 p5499
@@ -11738,7 +11738,7 @@ V16 GB
 p5536
 sS'screen size'
 p5537
-V15.6 inches
+V15.6in
 p5538
 sS'processor speed'
 p5539
@@ -11822,7 +11822,7 @@ V8 GB
 p5576
 sS'screen size'
 p5577
-V15.6 inches
+V15.6in
 p5578
 sS'processor speed'
 p5579
@@ -11906,7 +11906,7 @@ V8 GB
 p5616
 sS'screen size'
 p5617
-V14 inches
+V14in
 p5618
 sS'processor speed'
 p5619
@@ -11991,7 +11991,7 @@ V8 GB
 p5657
 sS'screen size'
 p5658
-V13.3 inches
+V13.3in
 p5659
 sS'processor speed'
 p5660
@@ -12073,7 +12073,7 @@ V16 GB
 p5695
 sS'screen size'
 p5696
-V15.6 inches
+V15.6in
 p5697
 sS'processor speed'
 p5698
@@ -12155,7 +12155,7 @@ V4 GB
 p5733
 sS'screen size'
 p5734
-V11.6 inches
+V11.6in
 p5735
 sS'processor speed'
 p5736
@@ -12239,7 +12239,7 @@ V4 GB
 p5773
 sS'screen size'
 p5774
-V15.6 inches
+V15.6in
 p5775
 sS'processor speed'
 p5776
@@ -12321,7 +12321,7 @@ V8 GB
 p5811
 sS'screen size'
 p5812
-V13.3 inches
+V13.3in
 p5813
 sS'processor speed'
 p5814
@@ -12403,7 +12403,7 @@ V16 GB
 p5849
 sS'screen size'
 p5850
-V15.6 inches
+V15.6in
 p5851
 sS'processor speed'
 p5852
@@ -12485,7 +12485,7 @@ V6 GB
 p5887
 sS'screen size'
 p5888
-V15.6 inches
+V15.6in
 p5889
 sS'processor speed'
 p5890
@@ -12570,7 +12570,7 @@ V16 GB
 p5928
 sS'screen size'
 p5929
-V14 inches
+V14in
 p5930
 sS'processor speed'
 p5931
@@ -12652,7 +12652,7 @@ V4 GB
 p5966
 sS'screen size'
 p5967
-V14 inches
+V14in
 p5968
 sS'processor speed'
 p5969
@@ -12737,7 +12737,7 @@ V4 GB
 p6007
 sS'screen size'
 p6008
-V15.6 inches
+V15.6in
 p6009
 sS'processor speed'
 p6010
@@ -12818,7 +12818,7 @@ V4 GB
 p6044
 sS'screen size'
 p6045
-V11.6 inches
+V11.6in
 p6046
 sS'processor speed'
 p6047
@@ -12903,7 +12903,7 @@ V8 GB
 p6085
 sS'screen size'
 p6086
-V12.5 inches
+V12.5in
 p6087
 sS'processor speed'
 p6088
@@ -12985,7 +12985,7 @@ V16 GB
 p6123
 sS'screen size'
 p6124
-V17.3 inches
+V17.3in
 p6125
 sS'processor speed'
 p6126
@@ -13069,7 +13069,7 @@ V16 GB
 p6163
 sS'screen size'
 p6164
-V13.3 inches
+V13.3in
 p6165
 sS'processor speed'
 p6166
@@ -13148,7 +13148,7 @@ V8 GB
 p6198
 sS'screen size'
 p6199
-V14 in
+V14in
 p6200
 sS'processor speed'
 p6201
@@ -13231,7 +13231,7 @@ V8 GB
 p6237
 sS'screen size'
 p6238
-V15.6 inches
+V15.6in
 p6239
 sS'processor speed'
 p6240
@@ -13316,7 +13316,7 @@ V4 GB
 p6278
 sS'screen size'
 p6279
-V11.6 inches
+V11.6in
 p6280
 sS'processor speed'
 p6281
@@ -13398,7 +13398,7 @@ V8 GB
 p6316
 sS'screen size'
 p6317
-V15.6 inches
+V15.6in
 p6318
 sS'processor speed'
 p6319
@@ -13481,7 +13481,7 @@ V8 GB
 p6355
 sS'screen size'
 p6356
-V15.6 inches
+V15.6in
 p6357
 sS'processor speed'
 p6358
@@ -13563,7 +13563,7 @@ V6 GB
 p6393
 sS'screen size'
 p6394
-V15.6 inches
+V15.6in
 p6395
 sS'processor speed'
 p6396
@@ -13645,7 +13645,7 @@ V8 GB
 p6431
 sS'screen size'
 p6432
-V15.6 inches
+V15.6in
 p6433
 sS'processor speed'
 p6434
@@ -13730,7 +13730,7 @@ V4 GB
 p6472
 sS'screen size'
 p6473
-V15.6 inches
+V15.6in
 p6474
 sS'processor speed'
 p6475
@@ -13813,7 +13813,7 @@ V16 GB
 p6511
 sS'screen size'
 p6512
-V15.6 inches
+V15.6in
 p6513
 sS'processor speed'
 p6514
@@ -13898,7 +13898,7 @@ V4 GB
 p6552
 sS'screen size'
 p6553
-V14 inches
+V14in
 p6554
 sS'processor speed'
 p6555
@@ -13983,7 +13983,7 @@ V8 GB
 p6593
 sS'screen size'
 p6594
-V17.3 inches
+V17.3in
 p6595
 sS'processor speed'
 p6596
@@ -14066,7 +14066,7 @@ V4 GB
 p6632
 sS'screen size'
 p6633
-V11.6 inches
+V11.6in
 p6634
 sS'processor speed'
 p6635
@@ -14150,7 +14150,7 @@ V8 GB
 p6672
 sS'screen size'
 p6673
-V14 inches
+V14in
 p6674
 sS'processor speed'
 p6675
@@ -14230,7 +14230,7 @@ p6708
 g24
 sS'screen size'
 p6709
-V15.6 inches
+V15.6in
 p6710
 sS'processor speed'
 p6711
@@ -14314,7 +14314,7 @@ V16 GB
 p6748
 sS'screen size'
 p6749
-V14 inches
+V14in
 p6750
 sS'processor speed'
 p6751
@@ -14397,7 +14397,7 @@ V8 GB
 p6787
 sS'screen size'
 p6788
-V12 inches
+V12in
 p6789
 sS'processor speed'
 p6790
@@ -14481,7 +14481,7 @@ V8 GB
 p6827
 sS'screen size'
 p6828
-V13.3 inches
+V13.3in
 p6829
 sS'processor speed'
 p6830
@@ -14564,7 +14564,7 @@ V4 GB
 p6866
 sS'screen size'
 p6867
-V14 inches
+V14in
 p6868
 sS'processor speed'
 p6869
@@ -14645,7 +14645,7 @@ V16 GB
 p6903
 sS'screen size'
 p6904
-V13.3 inches
+V13.3in
 p6905
 sS'processor speed'
 p6906
@@ -14728,7 +14728,7 @@ V4 GB
 p6942
 sS'screen size'
 p6943
-V14 inches
+V14in
 p6944
 sS'processor speed'
 p6945
@@ -14813,7 +14813,7 @@ V2 GB
 p6983
 sS'screen size'
 p6984
-V11.6 inches
+V11.6in
 p6985
 sS'processor speed'
 p6986
@@ -14897,7 +14897,7 @@ V8 GB
 p7023
 sS'screen size'
 p7024
-V15.6 inches
+V15.6in
 p7025
 sS'processor speed'
 p7026
@@ -14975,7 +14975,7 @@ V6 GB
 p7057
 sS'screen size'
 p7058
-V15.6 in
+V15.6in
 p7059
 sS'processor speed'
 p7060
@@ -15057,7 +15057,7 @@ V8 GB
 p7095
 sS'screen size'
 p7096
-V11.6 inches
+V11.6in
 p7097
 sS'processor speed'
 p7098
@@ -15140,7 +15140,7 @@ V4 GB
 p7134
 sS'screen size'
 p7135
-V12 inches
+V12in
 p7136
 sS'processor speed'
 p7137
@@ -15222,7 +15222,7 @@ V16 GB
 p7172
 sS'screen size'
 p7173
-V15.6 inches
+V15.6in
 p7174
 sS'processor speed'
 p7175
@@ -15307,7 +15307,7 @@ V4 GB
 p7213
 sS'screen size'
 p7214
-V13.3 inches
+V13.3in
 p7215
 sS'processor speed'
 p7216
@@ -15388,7 +15388,7 @@ V8 GB
 p7250
 sS'screen size'
 p7251
-V14 inches
+V14in
 p7252
 sS'processor speed'
 p7253
@@ -15472,7 +15472,7 @@ V8 GB
 p7290
 sS'screen size'
 p7291
-V15.6 inches
+V15.6in
 p7292
 sS'processor speed'
 p7293
@@ -15553,7 +15553,7 @@ V16 GB
 p7327
 sS'screen size'
 p7328
-V15.6 inches
+V15.6in
 p7329
 sS'processor speed'
 p7330
@@ -15638,7 +15638,7 @@ V8 GB
 p7368
 sS'screen size'
 p7369
-V15.6 inches
+V15.6in
 p7370
 sS'processor speed'
 p7371
@@ -15722,7 +15722,7 @@ V16 GB
 p7408
 sS'screen size'
 p7409
-V14 inches
+V14in
 p7410
 sS'processor speed'
 p7411
@@ -15803,7 +15803,7 @@ V16 GB
 p7445
 sS'screen size'
 p7446
-V100 inches
+V100in
 p7447
 sS'processor speed'
 p7448
@@ -15887,7 +15887,7 @@ V8 GB
 p7485
 sS'screen size'
 p7486
-V12.5 inches
+V12.5in
 p7487
 sS'processor speed'
 p7488
@@ -15971,7 +15971,7 @@ V16 GB
 p7525
 sS'screen size'
 p7526
-V15.6 inches
+V15.6in
 p7527
 sS'processor speed'
 p7528
@@ -16056,7 +16056,7 @@ V6 GB
 p7566
 sS'screen size'
 p7567
-V13.3 inches
+V13.3in
 p7568
 sS'processor speed'
 p7569
@@ -16141,7 +16141,7 @@ V8 GB
 p7607
 sS'screen size'
 p7608
-V14 inches
+V14in
 p7609
 sS'processor speed'
 p7610
@@ -16221,7 +16221,7 @@ V16 GB
 p7643
 sS'screen size'
 p7644
-V17.3 inches
+V17.3in
 p7645
 sS'processor speed'
 p7646
@@ -16303,7 +16303,7 @@ V8 GB
 p7681
 sS'screen size'
 p7682
-V15.6 inches
+V15.6in
 p7683
 sS'processor speed'
 p7684
@@ -16386,7 +16386,7 @@ V6 GB
 p7720
 sS'screen size'
 p7721
-V17.3 inches
+V17.3in
 p7722
 sS'processor speed'
 p7723
@@ -16469,7 +16469,7 @@ V8 GB
 p7759
 sS'screen size'
 p7760
-V15.6 inches
+V15.6in
 p7761
 sS'processor speed'
 p7762
@@ -16549,7 +16549,7 @@ V8 GB
 p7795
 sS'screen size'
 p7796
-V15.6 inches
+V15.6in
 p7797
 sS'processor speed'
 p7798
@@ -16629,7 +16629,7 @@ V8 GB
 p7831
 sS'screen size'
 p7832
-V15.6 in
+V15.6in
 p7833
 sS'processor speed'
 p7834
@@ -16710,7 +16710,7 @@ V0.1 GB
 p7868
 sS'screen size'
 p7869
-V15.6 inches
+V15.6in
 p7870
 sS'processor speed'
 p7871
@@ -16793,7 +16793,7 @@ V16 GB
 p7907
 sS'screen size'
 p7908
-V15.6 inches
+V15.6in
 p7909
 sS'processor speed'
 p7910
@@ -16875,7 +16875,7 @@ V8 GB
 p7945
 sS'screen size'
 p7946
-V15.6 inches
+V15.6in
 p7947
 sS'processor speed'
 p7948
@@ -16958,7 +16958,7 @@ V16 GB
 p7984
 sS'screen size'
 p7985
-V13 inches
+V13in
 p7986
 sS'processor speed'
 p7987
@@ -17039,7 +17039,7 @@ V16 GB
 p8021
 sS'screen size'
 p8022
-V15.6 inches
+V15.6in
 p8023
 sS'processor speed'
 p8024
@@ -17118,7 +17118,7 @@ V8 GB
 p8056
 sS'screen size'
 p8057
-V13.3 inches
+V13.3in
 p8058
 sS'processor speed'
 p8059
@@ -17202,7 +17202,7 @@ V8 GB
 p8096
 sS'screen size'
 p8097
-V14 inches
+V14in
 p8098
 sS'processor speed'
 p8099
@@ -17283,7 +17283,7 @@ V12 GB
 p8133
 sS'screen size'
 p8134
-V15.6 inches
+V15.6in
 p8135
 sS'processor speed'
 p8136
@@ -17364,7 +17364,7 @@ V6 GB
 p8170
 sS'screen size'
 p8171
-V15.6 inches
+V15.6in
 p8172
 sS'processor speed'
 p8173
@@ -17446,7 +17446,7 @@ V16 GB
 p8208
 sS'screen size'
 p8209
-V13.3 inches
+V13.3in
 p8210
 sS'processor speed'
 p8211
@@ -17527,7 +17527,7 @@ V8 GB
 p8245
 sS'screen size'
 p8246
-V15.6 inches
+V15.6in
 p8247
 sS'processor speed'
 p8248
@@ -17610,7 +17610,7 @@ V6 GB
 p8284
 sS'screen size'
 p8285
-V13.3 inches
+V13.3in
 p8286
 sS'processor speed'
 p8287
@@ -17695,7 +17695,7 @@ V4 GB
 p8325
 sS'screen size'
 p8326
-V11.6 inches
+V11.6in
 p8327
 sS'processor speed'
 p8328
@@ -17778,7 +17778,7 @@ V8 GB
 p8364
 sS'screen size'
 p8365
-V15.6 inches
+V15.6in
 p8366
 sS'processor speed'
 p8367
@@ -17857,7 +17857,7 @@ V6 GB
 p8399
 sS'screen size'
 p8400
-V15.6 in
+V15.6in
 p8401
 sS'processor speed'
 p8402
@@ -17941,7 +17941,7 @@ V8 GB
 p8439
 sS'screen size'
 p8440
-V12 inches
+V12in
 p8441
 sS'processor speed'
 p8442
@@ -18024,7 +18024,7 @@ V32 GB
 p8478
 sS'screen size'
 p8479
-V15.6 inches
+V15.6in
 p8480
 sS'processor speed'
 p8481
@@ -18109,7 +18109,7 @@ V6 GB
 p8519
 sS'screen size'
 p8520
-V15.6 inches
+V15.6in
 p8521
 sS'processor speed'
 p8522
@@ -18194,7 +18194,7 @@ V4 GB
 p8560
 sS'screen size'
 p8561
-V15.6 inches
+V15.6in
 p8562
 sS'processor speed'
 p8563
@@ -18275,7 +18275,7 @@ V16 GB
 p8597
 sS'screen size'
 p8598
-V17.3 inches
+V17.3in
 p8599
 sS'processor speed'
 p8600
@@ -18359,7 +18359,7 @@ V16 GB
 p8637
 sS'screen size'
 p8638
-V14 inches
+V14in
 p8639
 sS'processor speed'
 p8640
@@ -18443,7 +18443,7 @@ V16 GB
 p8677
 sS'screen size'
 p8678
-V15.6 inches
+V15.6in
 p8679
 sS'processor speed'
 p8680
@@ -18526,7 +18526,7 @@ V8 GB
 p8716
 sS'screen size'
 p8717
-V15.6 inches
+V15.6in
 p8718
 sS'processor speed'
 p8719
@@ -18611,7 +18611,7 @@ V8 GB
 p8757
 sS'screen size'
 p8758
-V14 inches
+V14in
 p8759
 sS'processor speed'
 p8760
@@ -18693,7 +18693,7 @@ V8 GB
 p8795
 sS'screen size'
 p8796
-V15.6 inches
+V15.6in
 p8797
 sS'processor speed'
 p8798
@@ -18776,7 +18776,7 @@ V0 GB
 p8834
 sS'screen size'
 p8835
-V17.3 inches
+V17.3in
 p8836
 sS'processor speed'
 p8837
@@ -18859,7 +18859,7 @@ V8 GB
 p8873
 sS'screen size'
 p8874
-V13.3 inches
+V13.3in
 p8875
 sS'processor speed'
 p8876
@@ -18943,7 +18943,7 @@ V8 GB
 p8913
 sS'screen size'
 p8914
-V15.6 inches
+V15.6in
 p8915
 sS'processor speed'
 p8916
@@ -19026,7 +19026,7 @@ V8 GB
 p8952
 sS'screen size'
 p8953
-V17.3 inches
+V17.3in
 p8954
 sS'processor speed'
 p8955
@@ -19110,7 +19110,7 @@ V4 GB
 p8992
 sS'screen size'
 p8993
-V11.6 inches
+V11.6in
 p8994
 sS'processor speed'
 p8995
@@ -19195,7 +19195,7 @@ V8 GB
 p9033
 sS'screen size'
 p9034
-V13.3 inches
+V13.3in
 p9035
 sS'processor speed'
 p9036
@@ -19277,7 +19277,7 @@ V8 GB
 p9071
 sS'screen size'
 p9072
-V15.6 inches
+V15.6in
 p9073
 sS'processor speed'
 p9074
@@ -19360,7 +19360,7 @@ V8 GB
 p9110
 sS'screen size'
 p9111
-V17.3 inches
+V17.3in
 p9112
 sS'processor speed'
 p9113
@@ -19444,7 +19444,7 @@ V4 GB
 p9150
 sS'screen size'
 p9151
-V11.6 inches
+V11.6in
 p9152
 sS'processor speed'
 p9153
@@ -19528,7 +19528,7 @@ V8 GB
 p9190
 sS'screen size'
 p9191
-V13.3 inches
+V13.3in
 p9192
 sS'processor speed'
 p9193
@@ -19613,7 +19613,7 @@ V4 GB
 p9231
 sS'screen size'
 p9232
-V13.3 inches
+V13.3in
 p9233
 sS'processor speed'
 p9234
@@ -19696,7 +19696,7 @@ V4 GB
 p9270
 sS'screen size'
 p9271
-V11.6 inches
+V11.6in
 p9272
 sS'processor speed'
 p9273
@@ -19781,7 +19781,7 @@ V4 GB
 p9311
 sS'screen size'
 p9312
-V11.6 inches
+V11.6in
 p9313
 sS'processor speed'
 p9314
@@ -19863,7 +19863,7 @@ V8 GB
 p9349
 sS'screen size'
 p9350
-V13.3 inches
+V13.3in
 p9351
 sS'processor speed'
 p9352
@@ -19944,7 +19944,7 @@ V16 GB
 p9386
 sS'screen size'
 p9387
-V17.3 inches
+V17.3in
 p9388
 sS'processor speed'
 p9389
@@ -20028,7 +20028,7 @@ V8 GB
 p9426
 sS'screen size'
 p9427
-V17.3 inches
+V17.3in
 p9428
 sS'processor speed'
 p9429
@@ -20107,7 +20107,7 @@ V32 GB
 p9461
 sS'screen size'
 p9462
-V15.6 inches
+V15.6in
 p9463
 sS'processor speed'
 p9464
@@ -20192,7 +20192,7 @@ V8 GB
 p9502
 sS'screen size'
 p9503
-V14 inches
+V14in
 p9504
 sS'processor speed'
 p9505
@@ -20275,7 +20275,7 @@ V8 GB
 p9541
 sS'screen size'
 p9542
-V13.3 inches
+V13.3in
 p9543
 sS'processor speed'
 p9544
@@ -20359,7 +20359,7 @@ V8 GB
 p9581
 sS'screen size'
 p9582
-V13.3 inches
+V13.3in
 p9583
 sS'processor speed'
 p9584
@@ -20441,7 +20441,7 @@ V6 GB
 p9619
 sS'screen size'
 p9620
-V15.6 inches
+V15.6in
 p9621
 sS'processor speed'
 p9622
@@ -20524,7 +20524,7 @@ V4 GB
 p9658
 sS'screen size'
 p9659
-V17.3 inches
+V17.3in
 p9660
 sS'processor speed'
 p9661
@@ -20606,7 +20606,7 @@ V4 GB
 p9696
 sS'screen size'
 p9697
-V15.6 inches
+V15.6in
 p9698
 sS'processor speed'
 p9699
@@ -20691,7 +20691,7 @@ V16 GB
 p9737
 sS'screen size'
 p9738
-V17.3 inches
+V17.3in
 p9739
 sS'processor speed'
 p9740
@@ -20773,7 +20773,7 @@ V8 GB
 p9775
 sS'screen size'
 p9776
-V15.6 inches
+V15.6in
 p9777
 sS'processor speed'
 p9778
@@ -20854,7 +20854,7 @@ V8 GB
 p9812
 sS'screen size'
 p9813
-V15.6 inches
+V15.6in
 p9814
 sS'processor speed'
 p9815
@@ -20934,7 +20934,7 @@ V12 GB
 p9848
 sS'screen size'
 p9849
-V13.3 inches
+V13.3in
 p9850
 sS'processor speed'
 p9851
@@ -21016,7 +21016,7 @@ V8 GB
 p9886
 sS'screen size'
 p9887
-V13.3 inches
+V13.3in
 p9888
 sS'processor speed'
 p9889
@@ -21095,7 +21095,7 @@ V8 GB
 p9921
 sS'screen size'
 p9922
-V13.3 in
+V13.3in
 p9923
 sS'processor speed'
 p9924
@@ -21176,7 +21176,7 @@ V16 GB
 p9958
 sS'screen size'
 p9959
-V17.3 inches
+V17.3in
 p9960
 sS'processor speed'
 p9961
@@ -21260,7 +21260,7 @@ V4 GB
 p9998
 sS'screen size'
 p9999
-V11.6 inches
+V11.6in
 p10000
 sS'processor speed'
 p10001
@@ -21343,7 +21343,7 @@ V16 GB
 p10037
 sS'screen size'
 p10038
-V17.3 inches
+V17.3in
 p10039
 sS'processor speed'
 p10040
@@ -21427,7 +21427,7 @@ V8 GB
 p10077
 sS'screen size'
 p10078
-V13.3 inches
+V13.3in
 p10079
 sS'processor speed'
 p10080
@@ -21512,7 +21512,7 @@ V1 GB
 p10118
 sS'screen size'
 p10119
-V10.1 inches
+V10.1in
 p10120
 sS'processor speed'
 p10121
@@ -21595,7 +21595,7 @@ V8 GB
 p10157
 sS'screen size'
 p10158
-V15.6 inches
+V15.6in
 p10159
 sS'processor speed'
 p10160
@@ -21679,7 +21679,7 @@ V8 GB
 p10197
 sS'screen size'
 p10198
-V15.6 inches
+V15.6in
 p10199
 sS'processor speed'
 p10200
@@ -21764,7 +21764,7 @@ V8 GB
 p10238
 sS'screen size'
 p10239
-V14 inches
+V14in
 p10240
 sS'processor speed'
 p10241
@@ -21848,7 +21848,7 @@ V8 GB
 p10278
 sS'screen size'
 p10279
-V15.6 inches
+V15.6in
 p10280
 sS'processor speed'
 p10281
@@ -21930,7 +21930,7 @@ V16 GB
 p10316
 sS'screen size'
 p10317
-V15.4 inches
+V15.4in
 p10318
 sS'processor speed'
 p10319
@@ -22014,7 +22014,7 @@ V16 GB
 p10356
 sS'screen size'
 p10357
-V14 inches
+V14in
 p10358
 sS'processor speed'
 p10359
@@ -22095,7 +22095,7 @@ V4 GB
 p10393
 sS'screen size'
 p10394
-V11.6 inches
+V11.6in
 p10395
 sS'processor speed'
 p10396
@@ -22176,7 +22176,7 @@ V4 GB
 p10430
 sS'screen size'
 p10431
-V11.6 inches
+V11.6in
 p10432
 sS'processor speed'
 p10433
@@ -22258,7 +22258,7 @@ V6 GB
 p10468
 sS'screen size'
 p10469
-V17.3 inches
+V17.3in
 p10470
 sS'processor speed'
 p10471
@@ -22339,7 +22339,7 @@ V4 GB
 p10505
 sS'screen size'
 p10506
-V11.6 inches
+V11.6in
 p10507
 sS'processor speed'
 p10508
@@ -22421,7 +22421,7 @@ V16 GB
 p10543
 sS'screen size'
 p10544
-V17.3 inches
+V17.3in
 p10545
 sS'processor speed'
 p10546
@@ -22506,7 +22506,7 @@ V12 GB
 p10584
 sS'screen size'
 p10585
-V15.6 inches
+V15.6in
 p10586
 sS'processor speed'
 p10587
@@ -22589,7 +22589,7 @@ V8 GB
 p10623
 sS'screen size'
 p10624
-V15.6 inches
+V15.6in
 p10625
 sS'processor speed'
 p10626
@@ -22673,7 +22673,7 @@ V16 GB
 p10663
 sS'screen size'
 p10664
-V15.6 inches
+V15.6in
 p10665
 sS'processor speed'
 p10666
@@ -22836,7 +22836,7 @@ V8 GB
 p10738
 sS'screen size'
 p10739
-V12 inches
+V12in
 p10740
 sS'processor speed'
 p10741
@@ -22919,7 +22919,7 @@ V8 GB
 p10777
 sS'screen size'
 p10778
-V13.3 inches
+V13.3in
 p10779
 sS'processor speed'
 p10780
@@ -23002,7 +23002,7 @@ V8 GB
 p10816
 sS'screen size'
 p10817
-V15.6 inches
+V15.6in
 p10818
 sS'processor speed'
 p10819
@@ -23085,7 +23085,7 @@ V8 GB
 p10855
 sS'screen size'
 p10856
-V15.6 inches
+V15.6in
 p10857
 sS'processor speed'
 p10858
@@ -23169,7 +23169,7 @@ V4 GB
 p10895
 sS'screen size'
 p10896
-V11.6 inches
+V11.6in
 p10897
 sS'processor speed'
 p10898
@@ -23250,7 +23250,7 @@ V8 GB
 p10932
 sS'screen size'
 p10933
-V15.6 inches
+V15.6in
 p10934
 sS'processor speed'
 p10935
@@ -23335,7 +23335,7 @@ V4 GB
 p10973
 sS'screen size'
 p10974
-V14 inches
+V14in
 p10975
 sS'processor speed'
 p10976
@@ -23419,7 +23419,7 @@ V16 GB
 p11013
 sS'screen size'
 p11014
-V15.6 inches
+V15.6in
 p11015
 sS'processor speed'
 p11016
@@ -23502,7 +23502,7 @@ V16 GB
 p11052
 sS'screen size'
 p11053
-V17.3 inches
+V17.3in
 p11054
 sS'processor speed'
 p11055
@@ -23585,7 +23585,7 @@ V8 GB
 p11091
 sS'screen size'
 p11092
-V13.3 inches
+V13.3in
 p11093
 sS'processor speed'
 p11094
@@ -23667,7 +23667,7 @@ V6 GB
 p11129
 sS'screen size'
 p11130
-V15.6 inches
+V15.6in
 p11131
 sS'processor speed'
 p11132
@@ -23750,7 +23750,7 @@ V8 GB
 p11168
 sS'screen size'
 p11169
-V14 inches
+V14in
 p11170
 sS'processor speed'
 p11171
@@ -23832,7 +23832,7 @@ V16 GB
 p11206
 sS'screen size'
 p11207
-V17.3 inches
+V17.3in
 p11208
 sS'processor speed'
 p11209
@@ -23914,7 +23914,7 @@ V8 GB
 p11244
 sS'screen size'
 p11245
-V15.6 inches
+V15.6in
 p11246
 sS'processor speed'
 p11247
@@ -23996,7 +23996,7 @@ V16 GB
 p11282
 sS'screen size'
 p11283
-V15.6 inches
+V15.6in
 p11284
 sS'processor speed'
 p11285
@@ -24078,7 +24078,7 @@ V4 GB
 p11320
 sS'screen size'
 p11321
-V15.6 inches
+V15.6in
 p11322
 sS'processor speed'
 p11323
@@ -24161,7 +24161,7 @@ V8 GB
 p11359
 sS'screen size'
 p11360
-V15.6 inches
+V15.6in
 p11361
 sS'processor speed'
 p11362
@@ -24245,7 +24245,7 @@ V32 GB
 p11399
 sS'screen size'
 p11400
-V17.3 inches
+V17.3in
 p11401
 sS'processor speed'
 p11402
@@ -24324,7 +24324,7 @@ V6 GB
 p11434
 sS'screen size'
 p11435
-V15.6 inches
+V15.6in
 p11436
 sS'processor speed'
 p11437
@@ -24408,7 +24408,7 @@ V8 GB
 p11474
 sS'screen size'
 p11475
-V15.6 inches
+V15.6in
 p11476
 sS'processor speed'
 p11477
@@ -24490,7 +24490,7 @@ V12 GB
 p11512
 sS'screen size'
 p11513
-V17.3 inches
+V17.3in
 p11514
 sS'processor speed'
 p11515
@@ -24571,7 +24571,7 @@ V16 GB
 p11549
 sS'screen size'
 p11550
-V15.6 inches
+V15.6in
 p11551
 sS'processor speed'
 p11552
@@ -24651,7 +24651,7 @@ V6 GB
 p11585
 sS'screen size'
 p11586
-V10.1 inches
+V10.1in
 p11587
 sS'processor speed'
 p11588
@@ -24733,7 +24733,7 @@ V16 GB
 p11623
 sS'screen size'
 p11624
-V15.6 inches
+V15.6in
 p11625
 sS'processor speed'
 p11626
@@ -24818,7 +24818,7 @@ V16 GB
 p11664
 sS'screen size'
 p11665
-V14 inches
+V14in
 p11666
 sS'processor speed'
 p11667
@@ -24898,7 +24898,7 @@ V2 GB
 p11700
 sS'screen size'
 p11701
-V11.6 inches
+V11.6in
 p11702
 sS'processor speed'
 p11703
@@ -24979,7 +24979,7 @@ V16 GB
 p11737
 sS'screen size'
 p11738
-V17.3 inches
+V17.3in
 p11739
 sS'processor speed'
 p11740
@@ -25063,7 +25063,7 @@ V8 GB
 p11777
 sS'screen size'
 p11778
-V17.3 inches
+V17.3in
 p11779
 sS'processor speed'
 p11780
@@ -25144,7 +25144,7 @@ V2 GB
 p11814
 sS'screen size'
 p11815
-V11.6 in
+V11.6in
 p11816
 sS'processor speed'
 p11817
@@ -25226,7 +25226,7 @@ V8 GB
 p11852
 sS'screen size'
 p11853
-V12 inches
+V12in
 p11854
 sS'processor speed'
 p11855
@@ -25311,7 +25311,7 @@ V8 GB
 p11893
 sS'screen size'
 p11894
-V17.3 inches
+V17.3in
 p11895
 sS'processor speed'
 p11896
@@ -25394,7 +25394,7 @@ V16 GB
 p11932
 sS'screen size'
 p11933
-V15.6 inches
+V15.6in
 p11934
 sS'processor speed'
 p11935
@@ -25479,7 +25479,7 @@ V8 GB
 p11973
 sS'screen size'
 p11974
-V12 inches
+V12in
 p11975
 sS'processor speed'
 p11976
@@ -25564,7 +25564,7 @@ V4 GB
 p12014
 sS'screen size'
 p12015
-V15.6 inches
+V15.6in
 p12016
 sS'processor speed'
 p12017
@@ -25643,7 +25643,7 @@ V16 GB
 p12049
 sS'screen size'
 p12050
-V15 in
+V15in
 p12051
 sS'processor speed'
 p12052
@@ -25725,7 +25725,7 @@ V8 GB
 p12087
 sS'screen size'
 p12088
-V14 inches
+V14in
 p12089
 sS'processor speed'
 p12090
@@ -25809,7 +25809,7 @@ V8 GB
 p12127
 sS'screen size'
 p12128
-V15.6 inches
+V15.6in
 p12129
 sS'processor speed'
 p12130
@@ -25893,7 +25893,7 @@ V8 GB
 p12167
 sS'screen size'
 p12168
-V15.6 inches
+V15.6in
 p12169
 sS'processor speed'
 p12170
@@ -25972,7 +25972,7 @@ V2 GB
 p12202
 sS'screen size'
 p12203
-V10.1 inches
+V10.1in
 p12204
 sS'processor speed'
 p12205
@@ -26054,7 +26054,7 @@ V8 GB
 p12240
 sS'screen size'
 p12241
-V15.6 inches
+V15.6in
 p12242
 sS'processor speed'
 p12243
@@ -26135,7 +26135,7 @@ V16 GB
 p12277
 sS'screen size'
 p12278
-V15.6 in
+V15.6in
 p12279
 sS'processor speed'
 p12280
@@ -26218,7 +26218,7 @@ V16 GB
 p12316
 sS'screen size'
 p12317
-V17.3 inches
+V17.3in
 p12318
 sS'processor speed'
 p12319
@@ -26302,7 +26302,7 @@ V8 GB
 p12356
 sS'screen size'
 p12357
-V15 inches
+V15in
 p12358
 sS'processor speed'
 p12359
@@ -26384,7 +26384,7 @@ V6 GB
 p12394
 sS'screen size'
 p12395
-V15.6 inches
+V15.6in
 p12396
 sS'processor speed'
 p12397
@@ -26467,7 +26467,7 @@ V2 GB
 p12433
 sS'screen size'
 p12434
-V10.1 inches
+V10.1in
 p12435
 sS'processor speed'
 p12436
@@ -26550,7 +26550,7 @@ V16 GB
 p12472
 sS'screen size'
 p12473
-V15.6 inches
+V15.6in
 p12474
 sS'processor speed'
 p12475
@@ -26634,7 +26634,7 @@ V8 GB
 p12512
 sS'screen size'
 p12513
-V13.3 inches
+V13.3in
 p12514
 sS'processor speed'
 p12515
@@ -26717,7 +26717,7 @@ V12 GB
 p12551
 sS'screen size'
 p12552
-V13.3 inches
+V13.3in
 p12553
 sS'processor speed'
 p12554
@@ -26800,7 +26800,7 @@ V8 GB
 p12590
 sS'screen size'
 p12591
-V14 inches
+V14in
 p12592
 sS'processor speed'
 p12593
@@ -26883,7 +26883,7 @@ V8 GB
 p12629
 sS'screen size'
 p12630
-V12.5 inches
+V12.5in
 p12631
 sS'processor speed'
 p12632
@@ -26966,7 +26966,7 @@ V16 GB
 p12668
 sS'screen size'
 p12669
-V15.6 inches
+V15.6in
 p12670
 sS'processor speed'
 p12671
@@ -27051,7 +27051,7 @@ V4 GB
 p12709
 sS'screen size'
 p12710
-V15.6 inches
+V15.6in
 p12711
 sS'processor speed'
 p12712
@@ -27134,7 +27134,7 @@ V8 GB
 p12748
 sS'screen size'
 p12749
-V15.6 inches
+V15.6in
 p12750
 sS'processor speed'
 p12751
@@ -27218,7 +27218,7 @@ V8 GB
 p12788
 sS'screen size'
 p12789
-V13.3 inches
+V13.3in
 p12790
 sS'processor speed'
 p12791
@@ -27303,7 +27303,7 @@ V8 GB
 p12829
 sS'screen size'
 p12830
-V12 inches
+V12in
 p12831
 sS'processor speed'
 p12832
@@ -27388,7 +27388,7 @@ V8 GB
 p12870
 sS'screen size'
 p12871
-V15.6 inches
+V15.6in
 p12872
 sS'processor speed'
 p12873
@@ -27470,7 +27470,7 @@ V16 GB
 p12908
 sS'screen size'
 p12909
-V15 inches
+V15in
 p12910
 sS'processor speed'
 p12911
@@ -27551,7 +27551,7 @@ V2 GB
 p12945
 sS'screen size'
 p12946
-V10.6 inches
+V10.6in
 p12947
 sS'processor speed'
 p12948
@@ -27635,7 +27635,7 @@ V8 GB
 p12985
 sS'screen size'
 p12986
-V14 inches
+V14in
 p12987
 sS'processor speed'
 p12988
@@ -27720,7 +27720,7 @@ V8 GB
 p13026
 sS'screen size'
 p13027
-V15.6 inches
+V15.6in
 p13028
 sS'processor speed'
 p13029
@@ -27805,7 +27805,7 @@ V8 GB
 p13067
 sS'screen size'
 p13068
-V15.6 inches
+V15.6in
 p13069
 sS'processor speed'
 p13070
@@ -27888,7 +27888,7 @@ V12 GB
 p13106
 sS'screen size'
 p13107
-V15.6 inches
+V15.6in
 p13108
 sS'processor speed'
 p13109
@@ -27970,7 +27970,7 @@ V16 GB
 p13144
 sS'screen size'
 p13145
-V15.6 inches
+V15.6in
 p13146
 sS'processor speed'
 p13147
@@ -28053,7 +28053,7 @@ V8 GB
 p13183
 sS'screen size'
 p13184
-V14 inches
+V14in
 p13185
 sS'processor speed'
 p13186
@@ -28133,7 +28133,7 @@ V4 GB
 p13219
 sS'screen size'
 p13220
-V15.6 inches
+V15.6in
 p13221
 sS'processor speed'
 p13222
@@ -28213,7 +28213,7 @@ V8 GB
 p13255
 sS'screen size'
 p13256
-V14 inches
+V14in
 p13257
 sS'processor speed'
 p13258
@@ -28297,7 +28297,7 @@ V16 GB
 p13295
 sS'screen size'
 p13296
-V15.6 inches
+V15.6in
 p13297
 sS'processor speed'
 p13298
@@ -28380,7 +28380,7 @@ V8 GB
 p13334
 sS'screen size'
 p13335
-V15.6 inches
+V15.6in
 p13336
 sS'processor speed'
 p13337
@@ -28462,7 +28462,7 @@ V8 GB
 p13372
 sS'screen size'
 p13373
-V15.6 inches
+V15.6in
 p13374
 sS'processor speed'
 p13375
@@ -28543,7 +28543,7 @@ V16 GB
 p13409
 sS'screen size'
 p13410
-V13.3 inches
+V13.3in
 p13411
 sS'processor speed'
 p13412
@@ -28627,7 +28627,7 @@ V8 GB
 p13449
 sS'screen size'
 p13450
-V13.3 inches
+V13.3in
 p13451
 sS'processor speed'
 p13452
@@ -28710,7 +28710,7 @@ V8 GB
 p13488
 sS'screen size'
 p13489
-V15.6 inches
+V15.6in
 p13490
 sS'processor speed'
 p13491
@@ -28793,7 +28793,7 @@ V8 GB
 p13527
 sS'screen size'
 p13528
-V13.3 inches
+V13.3in
 p13529
 sS'processor speed'
 p13530
@@ -28876,7 +28876,7 @@ V16 GB
 p13566
 sS'screen size'
 p13567
-V15.6 inches
+V15.6in
 p13568
 sS'processor speed'
 p13569
@@ -28959,7 +28959,7 @@ V8 GB
 p13605
 sS'screen size'
 p13606
-V15.6 inches
+V15.6in
 p13607
 sS'processor speed'
 p13608
@@ -29044,7 +29044,7 @@ V12 GB
 p13646
 sS'screen size'
 p13647
-V15.6 inches
+V15.6in
 p13648
 sS'processor speed'
 p13649
@@ -29125,7 +29125,7 @@ V4 GB
 p13683
 sS'screen size'
 p13684
-V11.6 inches
+V11.6in
 p13685
 sS'processor speed'
 p13686
@@ -29210,7 +29210,7 @@ V500 GB
 p13724
 sS'screen size'
 p13725
-V15.6 inches
+V15.6in
 p13726
 sS'processor speed'
 p13727
@@ -29292,7 +29292,7 @@ V12 GB
 p13762
 sS'screen size'
 p13763
-V15.6 inches
+V15.6in
 p13764
 sS'processor speed'
 p13765
@@ -29376,7 +29376,7 @@ V16 GB
 p13802
 sS'screen size'
 p13803
-V17.3 inches
+V17.3in
 p13804
 sS'processor speed'
 p13805
@@ -29462,7 +29462,7 @@ V8 GB
 p13844
 sS'screen size'
 p13845
-V13.3 inches
+V13.3in
 p13846
 sS'processor speed'
 p13847
@@ -29623,7 +29623,7 @@ V8 GB
 p13917
 sS'screen size'
 p13918
-V14 inches
+V14in
 p13919
 sS'processor speed'
 p13920
@@ -29706,7 +29706,7 @@ V8 GB
 p13956
 sS'screen size'
 p13957
-V15.6 inches
+V15.6in
 p13958
 sS'processor speed'
 p13959
@@ -29786,7 +29786,7 @@ V8 GB
 p13992
 sS'screen size'
 p13993
-V13.3 inches
+V13.3in
 p13994
 sS'processor speed'
 p13995
@@ -29870,7 +29870,7 @@ V6 GB
 p14032
 sS'screen size'
 p14033
-V13.3 inches
+V13.3in
 p14034
 sS'processor speed'
 p14035
@@ -29953,7 +29953,7 @@ V4 GB
 p14071
 sS'screen size'
 p14072
-V15.6 inches
+V15.6in
 p14073
 sS'processor speed'
 p14074
@@ -30035,7 +30035,7 @@ V8 GB
 p14109
 sS'screen size'
 p14110
-V15.6 inches
+V15.6in
 p14111
 sS'processor speed'
 p14112
@@ -30119,7 +30119,7 @@ V4 GB
 p14149
 sS'screen size'
 p14150
-V11.6 inches
+V11.6in
 p14151
 sS'processor speed'
 p14152
@@ -30200,7 +30200,7 @@ V16 GB
 p14186
 sS'screen size'
 p14187
-V15.6 inches
+V15.6in
 p14188
 sS'processor speed'
 p14189
@@ -30282,7 +30282,7 @@ V16 GB
 p14224
 sS'screen size'
 p14225
-V17.3 inches
+V17.3in
 p14226
 sS'processor speed'
 p14227
@@ -30367,7 +30367,7 @@ V8 GB
 p14265
 sS'screen size'
 p14266
-V15.6 inches
+V15.6in
 p14267
 sS'processor speed'
 p14268
@@ -30452,7 +30452,7 @@ V16 GB
 p14306
 sS'screen size'
 p14307
-V15 inches
+V15in
 p14308
 sS'processor speed'
 p14309
@@ -30533,7 +30533,7 @@ V16 GB
 p14343
 sS'screen size'
 p14344
-V13.3 inches
+V13.3in
 p14345
 sS'processor speed'
 p14346
@@ -30618,7 +30618,7 @@ V8 GB
 p14384
 sS'screen size'
 p14385
-V15.6 inches
+V15.6in
 p14386
 sS'processor speed'
 p14387
@@ -30701,7 +30701,7 @@ V8 GB
 p14423
 sS'screen size'
 p14424
-V17.3 inches
+V17.3in
 p14425
 sS'processor speed'
 p14426
@@ -30786,7 +30786,7 @@ V16 GB
 p14464
 sS'screen size'
 p14465
-V15.4 inches
+V15.4in
 p14466
 sS'processor speed'
 p14467
@@ -30869,7 +30869,7 @@ V64 GB
 p14503
 sS'screen size'
 p14504
-V17.3 inches
+V17.3in
 p14505
 sS'processor speed'
 p14506
@@ -30952,7 +30952,7 @@ V4 GB
 p14542
 sS'screen size'
 p14543
-V11.6 inches
+V11.6in
 p14544
 sS'processor speed'
 p14545
@@ -31036,7 +31036,7 @@ V32 GB
 p14582
 sS'screen size'
 p14583
-V15.6 inches
+V15.6in
 p14584
 sS'processor speed'
 p14585
@@ -31119,7 +31119,7 @@ V4 GB
 p14621
 sS'screen size'
 p14622
-V11.6 inches
+V11.6in
 p14623
 sS'processor speed'
 p14624
@@ -31202,7 +31202,7 @@ V8 GB
 p14660
 sS'screen size'
 p14661
-V14 inches
+V14in
 p14662
 sS'processor speed'
 p14663
@@ -31286,7 +31286,7 @@ V16 GB
 p14700
 sS'screen size'
 p14701
-V13.3 inches
+V13.3in
 p14702
 sS'processor speed'
 p14703
@@ -31370,7 +31370,7 @@ V8 GB
 p14740
 sS'screen size'
 p14741
-V14 inches
+V14in
 p14742
 sS'processor speed'
 p14743
@@ -31453,7 +31453,7 @@ V4 GB
 p14779
 sS'screen size'
 p14780
-V15.6 inches
+V15.6in
 p14781
 sS'processor speed'
 p14782
@@ -31536,7 +31536,7 @@ V4 GB
 p14818
 sS'screen size'
 p14819
-V15.6 inches
+V15.6in
 p14820
 sS'processor speed'
 p14821
@@ -31620,7 +31620,7 @@ V8 GB
 p14858
 sS'screen size'
 p14859
-V15.6 inches
+V15.6in
 p14860
 sS'processor speed'
 p14861
@@ -31703,7 +31703,7 @@ V16 GB
 p14897
 sS'screen size'
 p14898
-V15.6 inches
+V15.6in
 p14899
 sS'processor speed'
 p14900
@@ -31786,7 +31786,7 @@ V16 GB
 p14936
 sS'screen size'
 p14937
-V12.5 inches
+V12.5in
 p14938
 sS'processor speed'
 p14939
@@ -31868,7 +31868,7 @@ V8 GB
 p14974
 sS'screen size'
 p14975
-V13.3 inches
+V13.3in
 p14976
 sS'processor speed'
 p14977
@@ -31948,7 +31948,7 @@ V8 GB
 p15010
 sS'screen size'
 p15011
-V17.3 in
+V17.3in
 p15012
 sS'processor speed'
 p15013
@@ -32032,7 +32032,7 @@ V8 GB
 p15050
 sS'screen size'
 p15051
-V11.6 inches
+V11.6in
 p15052
 sS'processor speed'
 p15053
@@ -32114,7 +32114,7 @@ V8 GB
 p15088
 sS'screen size'
 p15089
-V14 inches
+V14in
 p15090
 sS'processor speed'
 p15091
@@ -32195,7 +32195,7 @@ V8 GB
 p15125
 sS'screen size'
 p15126
-V17.3 inches
+V17.3in
 p15127
 sS'processor speed'
 p15128
@@ -32279,7 +32279,7 @@ V16 GB
 p15165
 sS'screen size'
 p15166
-V15.6 inches
+V15.6in
 p15167
 sS'processor speed'
 p15168
@@ -32361,7 +32361,7 @@ V16 GB
 p15203
 sS'screen size'
 p15204
-V14 inches
+V14in
 p15205
 sS'processor speed'
 p15206
@@ -32444,7 +32444,7 @@ V2 GB
 p15242
 sS'screen size'
 p15243
-V10.1 inches
+V10.1in
 p15244
 sS'processor speed'
 p15245
@@ -32525,7 +32525,7 @@ V8 GB
 p15279
 sS'screen size'
 p15280
-V15.6 inches
+V15.6in
 p15281
 sS'processor speed'
 p15282
@@ -32605,7 +32605,7 @@ V8 GB
 p15315
 sS'screen size'
 p15316
-V15.6 inches
+V15.6in
 p15317
 sS'processor speed'
 p15318
@@ -32689,7 +32689,7 @@ V4 GB
 p15355
 sS'screen size'
 p15356
-V14 inches
+V14in
 p15357
 sS'processor speed'
 p15358
@@ -32771,7 +32771,7 @@ V16 GB
 p15393
 sS'screen size'
 p15394
-V15.6 inches
+V15.6in
 p15395
 sS'processor speed'
 p15396
@@ -32855,7 +32855,7 @@ V16 GB
 p15433
 sS'screen size'
 p15434
-V17.3 inches
+V17.3in
 p15435
 sS'processor speed'
 p15436
@@ -32936,7 +32936,7 @@ V4 GB
 p15470
 sS'screen size'
 p15471
-V14 inches
+V14in
 p15472
 sS'processor speed'
 p15473
@@ -33020,7 +33020,7 @@ V8 GB
 p15510
 sS'screen size'
 p15511
-V15.6 inches
+V15.6in
 p15512
 sS'processor speed'
 p15513
@@ -33103,7 +33103,7 @@ V16 GB
 p15549
 sS'screen size'
 p15550
-V15.6 inches
+V15.6in
 p15551
 sS'processor speed'
 p15552
@@ -33185,7 +33185,7 @@ V8 GB
 p15587
 sS'screen size'
 p15588
-V15.6 inches
+V15.6in
 p15589
 sS'processor speed'
 p15590
@@ -33268,7 +33268,7 @@ V4 GB
 p15626
 sS'screen size'
 p15627
-V15.6 inches
+V15.6in
 p15628
 sS'processor speed'
 p15629
@@ -33352,7 +33352,7 @@ V8 GB
 p15666
 sS'screen size'
 p15667
-V14 inches
+V14in
 p15668
 sS'processor speed'
 p15669
@@ -33431,7 +33431,7 @@ V12 GB
 p15701
 sS'screen size'
 p15702
-V13.3 inches
+V13.3in
 p15703
 sS'processor speed'
 p15704
@@ -33511,7 +33511,7 @@ V12 GB
 p15737
 sS'screen size'
 p15738
-V15.6 inches
+V15.6in
 p15739
 sS'processor speed'
 p15740
@@ -33593,7 +33593,7 @@ V32 GB
 p15775
 sS'screen size'
 p15776
-V17.3 inches
+V17.3in
 p15777
 sS'processor speed'
 p15778
@@ -33678,7 +33678,7 @@ V8 GB
 p15816
 sS'screen size'
 p15817
-V15.6 inches
+V15.6in
 p15818
 sS'processor speed'
 p15819
@@ -33759,7 +33759,7 @@ V4 GB
 p15853
 sS'screen size'
 p15854
-V10.1 inches
+V10.1in
 p15855
 sS'processor speed'
 p15856
@@ -33842,7 +33842,7 @@ V16 GB
 p15892
 sS'screen size'
 p15893
-V17.3 inches
+V17.3in
 p15894
 sS'processor speed'
 p15895
@@ -33925,7 +33925,7 @@ V16 GB
 p15931
 sS'screen size'
 p15932
-V17.3 inches
+V17.3in
 p15933
 sS'processor speed'
 p15934
@@ -34010,7 +34010,7 @@ V8 GB
 p15972
 sS'screen size'
 p15973
-V13.3 inches
+V13.3in
 p15974
 sS'processor speed'
 p15975
@@ -34094,7 +34094,7 @@ V6 GB
 p16012
 sS'screen size'
 p16013
-V15.6 inches
+V15.6in
 p16014
 sS'processor speed'
 p16015
@@ -34177,7 +34177,7 @@ V8 GB
 p16051
 sS'screen size'
 p16052
-V13.3 inches
+V13.3in
 p16053
 sS'processor speed'
 p16054
@@ -34262,7 +34262,7 @@ V4 GB
 p16092
 sS'screen size'
 p16093
-V15.6 inches
+V15.6in
 p16094
 sS'processor speed'
 p16095
@@ -34343,7 +34343,7 @@ V16 GB
 p16129
 sS'screen size'
 p16130
-V13.3 inches
+V13.3in
 p16131
 sS'processor speed'
 p16132
@@ -34428,7 +34428,7 @@ V4 GB
 p16170
 sS'screen size'
 p16171
-V11.6 inches
+V11.6in
 p16172
 sS'processor speed'
 p16173
@@ -34513,7 +34513,7 @@ V4 GB
 p16211
 sS'screen size'
 p16212
-V10.1 inches
+V10.1in
 p16213
 sS'processor speed'
 p16214
@@ -34594,7 +34594,7 @@ V32 GB
 p16248
 sS'screen size'
 p16249
-V15.6 inches
+V15.6in
 p16250
 sS'processor speed'
 p16251
@@ -34677,7 +34677,7 @@ V4 GB
 p16287
 sS'screen size'
 p16288
-V14 inches
+V14in
 p16289
 sS'processor speed'
 p16290
@@ -34761,7 +34761,7 @@ V8 GB
 p16327
 sS'screen size'
 p16328
-V15.6 inches
+V15.6in
 p16329
 sS'processor speed'
 p16330
@@ -34845,7 +34845,7 @@ V16 GB
 p16367
 sS'screen size'
 p16368
-V13 inches
+V13in
 p16369
 sS'processor speed'
 p16370
@@ -34930,7 +34930,7 @@ V4 GB
 p16408
 sS'screen size'
 p16409
-V14 inches
+V14in
 p16410
 sS'processor speed'
 p16411
@@ -35014,7 +35014,7 @@ V16 GB
 p16448
 sS'screen size'
 p16449
-V13.3 inches
+V13.3in
 p16450
 sS'processor speed'
 p16451
@@ -35094,7 +35094,7 @@ V2 GB
 p16484
 sS'screen size'
 p16485
-V14 inches
+V14in
 p16486
 sS'processor speed'
 p16487
@@ -35172,7 +35172,7 @@ V8 GB
 p16518
 sS'screen size'
 p16519
-V13.3 inches
+V13.3in
 p16520
 sS'processor speed'
 p16521
@@ -35256,7 +35256,7 @@ V8 GB
 p16558
 sS'screen size'
 p16559
-V15.6 inches
+V15.6in
 p16560
 sS'processor speed'
 p16561
@@ -35339,7 +35339,7 @@ V8 GB
 p16597
 sS'screen size'
 p16598
-V13.3 inches
+V13.3in
 p16599
 sS'processor speed'
 p16600
@@ -35421,7 +35421,7 @@ V16 GB
 p16635
 sS'screen size'
 p16636
-V15.6 inches
+V15.6in
 p16637
 sS'processor speed'
 p16638
@@ -35503,7 +35503,7 @@ V8 GB
 p16673
 sS'screen size'
 p16674
-V17.3 inches
+V17.3in
 p16675
 sS'processor speed'
 p16676
@@ -35586,7 +35586,7 @@ V4 GB
 p16712
 sS'screen size'
 p16713
-V15.6 inches
+V15.6in
 p16714
 sS'processor speed'
 p16715
@@ -35666,7 +35666,7 @@ V6 GB
 p16748
 sS'screen size'
 p16749
-V15.6 inches
+V15.6in
 p16750
 sS'processor speed'
 p16751
@@ -35750,7 +35750,7 @@ V8 GB
 p16788
 sS'screen size'
 p16789
-V15.6 inches
+V15.6in
 p16790
 sS'processor speed'
 p16791
@@ -35834,7 +35834,7 @@ V4 GB
 p16828
 sS'screen size'
 p16829
-V11.6 inches
+V11.6in
 p16830
 sS'processor speed'
 p16831
@@ -35916,7 +35916,7 @@ V12 GB
 p16866
 sS'screen size'
 p16867
-V13.3 inches
+V13.3in
 p16868
 sS'processor speed'
 p16869
@@ -35999,7 +35999,7 @@ V8 GB
 p16905
 sS'screen size'
 p16906
-V15.6 inches
+V15.6in
 p16907
 sS'processor speed'
 p16908
@@ -36080,7 +36080,7 @@ V8 GB
 p16942
 sS'screen size'
 p16943
-V15.6 inches
+V15.6in
 p16944
 sS'processor speed'
 p16945
@@ -36163,7 +36163,7 @@ V16 GB
 p16981
 sS'screen size'
 p16982
-V15.6 inches
+V15.6in
 p16983
 sS'processor speed'
 p16984
@@ -36246,7 +36246,7 @@ V8 GB
 p17020
 sS'screen size'
 p17021
-V15.6 inches
+V15.6in
 p17022
 sS'processor speed'
 p17023
@@ -36329,7 +36329,7 @@ V8 GB
 p17059
 sS'screen size'
 p17060
-V17.3 inches
+V17.3in
 p17061
 sS'processor speed'
 p17062
@@ -36412,7 +36412,7 @@ V2 GB
 p17098
 sS'screen size'
 p17099
-V11.6 inches
+V11.6in
 p17100
 sS'processor speed'
 p17101
@@ -36495,7 +36495,7 @@ V16 GB
 p17137
 sS'screen size'
 p17138
-V17.3 inches
+V17.3in
 p17139
 sS'processor speed'
 p17140
@@ -36578,7 +36578,7 @@ V12 GB
 p17176
 sS'screen size'
 p17177
-V17.3 inches
+V17.3in
 p17178
 sS'processor speed'
 p17179
@@ -36662,7 +36662,7 @@ V8192 MB
 p17216
 sS'screen size'
 p17217
-V13.3 inches
+V13.3in
 p17218
 sS'processor speed'
 p17219
@@ -36747,7 +36747,7 @@ V16 GB
 p17257
 sS'screen size'
 p17258
-V13.3 inches
+V13.3in
 p17259
 sS'processor speed'
 p17260
@@ -36831,7 +36831,7 @@ V16 GB
 p17297
 sS'screen size'
 p17298
-V17.3 inches
+V17.3in
 p17299
 sS'processor speed'
 p17300
@@ -36908,7 +36908,7 @@ V2 GB
 p17330
 sS'screen size'
 p17331
-V10.1 in
+V10.1in
 p17332
 sS'processor speed'
 p17333
@@ -36989,7 +36989,7 @@ V8 GB
 p17367
 sS'screen size'
 p17368
-V13.3 inches
+V13.3in
 p17369
 sS'processor speed'
 p17370
@@ -37073,7 +37073,7 @@ V12 GB
 p17407
 sS'screen size'
 p17408
-V17.3 inches
+V17.3in
 p17409
 sS'processor speed'
 p17410
@@ -37155,7 +37155,7 @@ V8 GB
 p17445
 sS'screen size'
 p17446
-V13 inches
+V13in
 p17447
 sS'processor speed'
 p17448
@@ -37238,7 +37238,7 @@ V16 GB
 p17484
 sS'screen size'
 p17485
-V15.6 inches
+V15.6in
 p17486
 sS'processor speed'
 p17487
@@ -37322,7 +37322,7 @@ V32 GB
 p17524
 sS'screen size'
 p17525
-V17.3 inches
+V17.3in
 p17526
 sS'processor speed'
 p17527
@@ -37402,7 +37402,7 @@ V8 GB
 p17560
 sS'screen size'
 p17561
-V15.6 inches
+V15.6in
 p17562
 sS'processor speed'
 p17563
@@ -37485,7 +37485,7 @@ V8 GB
 p17599
 sS'screen size'
 p17600
-V15.6 inches
+V15.6in
 p17601
 sS'processor speed'
 p17602
@@ -37566,7 +37566,7 @@ V8 GB
 p17636
 sS'screen size'
 p17637
-V12.5 in
+V12.5in
 p17638
 sS'processor speed'
 p17639
@@ -37651,7 +37651,7 @@ V12 GB
 p17677
 sS'screen size'
 p17678
-V15.6 inches
+V15.6in
 p17679
 sS'processor speed'
 p17680
@@ -37736,7 +37736,7 @@ V4 GB
 p17718
 sS'screen size'
 p17719
-V15.6 inches
+V15.6in
 p17720
 sS'processor speed'
 p17721
@@ -37817,7 +37817,7 @@ V8 GB
 p17755
 sS'screen size'
 p17756
-V13.3 inches
+V13.3in
 p17757
 sS'processor speed'
 p17758
@@ -37902,7 +37902,7 @@ V8 GB
 p17796
 sS'screen size'
 p17797
-V15.6 inches
+V15.6in
 p17798
 sS'processor speed'
 p17799
@@ -37980,7 +37980,7 @@ V16 GB
 p17830
 sS'screen size'
 p17831
-V15.6 in
+V15.6in
 p17832
 sS'processor speed'
 p17833
@@ -38059,7 +38059,7 @@ V8 GB
 p17865
 sS'screen size'
 p17866
-V15.6 inches
+V15.6in
 p17867
 sS'processor speed'
 p17868
@@ -38143,7 +38143,7 @@ V8 GB
 p17905
 sS'screen size'
 p17906
-V15.6 inches
+V15.6in
 p17907
 sS'processor speed'
 p17908
@@ -38226,7 +38226,7 @@ V8 GB
 p17944
 sS'screen size'
 p17945
-V14 inches
+V14in
 p17946
 sS'processor speed'
 p17947
@@ -38309,7 +38309,7 @@ V4 GB
 p17983
 sS'screen size'
 p17984
-V15.6 inches
+V15.6in
 p17985
 sS'processor speed'
 p17986
@@ -38390,7 +38390,7 @@ V4 GB
 p18020
 sS'screen size'
 p18021
-V15.6 inches
+V15.6in
 p18022
 sS'processor speed'
 p18023
@@ -38475,7 +38475,7 @@ V16 GB
 p18061
 sS'screen size'
 p18062
-V12.5 inches
+V12.5in
 p18063
 sS'processor speed'
 p18064
@@ -38559,7 +38559,7 @@ V16 GB
 p18101
 sS'screen size'
 p18102
-V15.6 inches
+V15.6in
 p18103
 sS'processor speed'
 p18104
@@ -38642,7 +38642,7 @@ V8 GB
 p18140
 sS'screen size'
 p18141
-V14 inches
+V14in
 p18142
 sS'processor speed'
 p18143
@@ -38726,7 +38726,7 @@ V8 GB
 p18180
 sS'screen size'
 p18181
-V13.3 inches
+V13.3in
 p18182
 sS'processor speed'
 p18183
@@ -38810,7 +38810,7 @@ V8 GB
 p18220
 sS'screen size'
 p18221
-V15.6 inches
+V15.6in
 p18222
 sS'processor speed'
 p18223
@@ -38893,7 +38893,7 @@ V4 GB
 p18259
 sS'screen size'
 p18260
-V15.6 inches
+V15.6in
 p18261
 sS'processor speed'
 p18262
@@ -38978,7 +38978,7 @@ V6 GB
 p18300
 sS'screen size'
 p18301
-V15.6 inches
+V15.6in
 p18302
 sS'processor speed'
 p18303
@@ -39063,7 +39063,7 @@ V16 GB
 p18341
 sS'screen size'
 p18342
-V15.6 inches
+V15.6in
 p18343
 sS'processor speed'
 p18344
@@ -39143,7 +39143,7 @@ V8 GB
 p18377
 sS'screen size'
 p18378
-V15.6 inches
+V15.6in
 p18379
 sS'processor speed'
 p18380
@@ -39226,7 +39226,7 @@ V8 GB
 p18416
 sS'screen size'
 p18417
-V17.3 inches
+V17.3in
 p18418
 sS'processor speed'
 p18419
@@ -39304,7 +39304,7 @@ V8 GB
 p18450
 sS'screen size'
 p18451
-V15.6 in
+V15.6in
 p18452
 sS'processor speed'
 p18453
@@ -39387,7 +39387,7 @@ V8 GB
 p18489
 sS'screen size'
 p18490
-V15.6 inches
+V15.6in
 p18491
 sS'processor speed'
 p18492
@@ -39471,7 +39471,7 @@ V8 GB
 p18529
 sS'screen size'
 p18530
-V14 inches
+V14in
 p18531
 sS'processor speed'
 p18532
@@ -39551,7 +39551,7 @@ V8 GB
 p18565
 sS'screen size'
 p18566
-V14 inches
+V14in
 p18567
 sS'processor speed'
 p18568
@@ -39636,7 +39636,7 @@ V8 GB
 p18606
 sS'screen size'
 p18607
-V14 inches
+V14in
 p18608
 sS'processor speed'
 p18609
@@ -39716,7 +39716,7 @@ V4 GB
 p18642
 sS'screen size'
 p18643
-V14 in
+V14in
 p18644
 sS'processor speed'
 p18645
@@ -39801,7 +39801,7 @@ V12 GB
 p18683
 sS'screen size'
 p18684
-V15.6 inches
+V15.6in
 p18685
 sS'processor speed'
 p18686
@@ -39878,7 +39878,7 @@ V4 GB
 p18716
 sS'screen size'
 p18717
-V14 in
+V14in
 p18718
 sS'processor speed'
 p18719
@@ -39960,7 +39960,7 @@ V8 GB
 p18754
 sS'screen size'
 p18755
-V13.3 inches
+V13.3in
 p18756
 sS'processor speed'
 p18757
@@ -40045,7 +40045,7 @@ V4 GB
 p18795
 sS'screen size'
 p18796
-V11.6 inches
+V11.6in
 p18797
 sS'processor speed'
 p18798
@@ -40128,7 +40128,7 @@ V4 GB
 p18834
 sS'screen size'
 p18835
-V10.1 inches
+V10.1in
 p18836
 sS'processor speed'
 p18837
@@ -40210,7 +40210,7 @@ V16 GB
 p18872
 sS'screen size'
 p18873
-V15.6 inches
+V15.6in
 p18874
 sS'processor speed'
 p18875
@@ -40294,7 +40294,7 @@ V16 GB
 p18912
 sS'screen size'
 p18913
-V15.6 inches
+V15.6in
 p18914
 sS'processor speed'
 p18915
@@ -40378,7 +40378,7 @@ V16 GB
 p18952
 sS'screen size'
 p18953
-V15.6 inches
+V15.6in
 p18954
 sS'processor speed'
 p18955
@@ -40462,7 +40462,7 @@ V4 GB
 p18992
 sS'screen size'
 p18993
-V11.6 inches
+V11.6in
 p18994
 sS'processor speed'
 p18995
@@ -40543,7 +40543,7 @@ V4 GB
 p19029
 sS'screen size'
 p19030
-V12 inches
+V12in
 p19031
 sS'processor speed'
 p19032
@@ -40624,7 +40624,7 @@ V16 GB
 p19066
 sS'screen size'
 p19067
-V15.6 in
+V15.6in
 p19068
 sS'processor speed'
 p19069
@@ -40707,7 +40707,7 @@ V12 GB
 p19105
 sS'screen size'
 p19106
-V15.6 inches
+V15.6in
 p19107
 sS'processor speed'
 p19108
@@ -40790,7 +40790,7 @@ V8 GB
 p19144
 sS'screen size'
 p19145
-V14 inches
+V14in
 p19146
 sS'processor speed'
 p19147
@@ -40874,7 +40874,7 @@ V8 GB
 p19184
 sS'screen size'
 p19185
-V15.6 inches
+V15.6in
 p19186
 sS'processor speed'
 p19187
@@ -40957,7 +40957,7 @@ V8 GB
 p19223
 sS'screen size'
 p19224
-V15.6 inches
+V15.6in
 p19225
 sS'processor speed'
 p19226
@@ -41041,7 +41041,7 @@ V8 GB
 p19263
 sS'screen size'
 p19264
-V14 inches
+V14in
 p19265
 sS'processor speed'
 p19266
@@ -41124,7 +41124,7 @@ V6 GB
 p19302
 sS'screen size'
 p19303
-V15.6 inches
+V15.6in
 p19304
 sS'processor speed'
 p19305
@@ -41209,7 +41209,7 @@ V16 GB
 p19343
 sS'screen size'
 p19344
-V15.4 inches
+V15.4in
 p19345
 sS'processor speed'
 p19346
@@ -41292,7 +41292,7 @@ V16 GB
 p19382
 sS'screen size'
 p19383
-V15.6 inches
+V15.6in
 p19384
 sS'processor speed'
 p19385
@@ -41377,7 +41377,7 @@ V16 GB
 p19423
 sS'screen size'
 p19424
-V14 inches
+V14in
 p19425
 sS'processor speed'
 p19426
@@ -41461,7 +41461,7 @@ V8 GB
 p19463
 sS'screen size'
 p19464
-V15.6 inches
+V15.6in
 p19465
 sS'processor speed'
 p19466
@@ -41543,7 +41543,7 @@ V4 GB
 p19501
 sS'screen size'
 p19502
-V15.6 inches
+V15.6in
 p19503
 sS'processor speed'
 p19504
@@ -41625,7 +41625,7 @@ V4 GB
 p19539
 sS'screen size'
 p19540
-V15.6 inches
+V15.6in
 p19541
 sS'processor speed'
 p19542
@@ -41709,7 +41709,7 @@ V4 GB
 p19579
 sS'screen size'
 p19580
-V11.6 inches
+V11.6in
 p19581
 sS'processor speed'
 p19582
@@ -41792,7 +41792,7 @@ V16 GB
 p19618
 sS'screen size'
 p19619
-V15.6 inches
+V15.6in
 p19620
 sS'processor speed'
 p19621
@@ -41877,7 +41877,7 @@ V0 GB
 p19659
 sS'screen size'
 p19660
-V15.6 inches
+V15.6in
 p19661
 sS'processor speed'
 p19662
@@ -41960,7 +41960,7 @@ V16 GB
 p19698
 sS'screen size'
 p19699
-V17.3 inches
+V17.3in
 p19700
 sS'processor speed'
 p19701
@@ -42040,7 +42040,7 @@ V4 GB
 p19734
 sS'screen size'
 p19735
-V14 inches
+V14in
 p19736
 sS'processor speed'
 p19737
@@ -42123,7 +42123,7 @@ V16 GB
 p19773
 sS'screen size'
 p19774
-V15.6 inches
+V15.6in
 p19775
 sS'processor speed'
 p19776
@@ -42206,7 +42206,7 @@ V4 GB
 p19812
 sS'screen size'
 p19813
-V11.6 inches
+V11.6in
 p19814
 sS'processor speed'
 p19815
@@ -42287,7 +42287,7 @@ V8 GB
 p19849
 sS'screen size'
 p19850
-V15.6 in
+V15.6in
 p19851
 sS'processor speed'
 p19852
@@ -42372,7 +42372,7 @@ V16 GB
 p19890
 sS'screen size'
 p19891
-V15 inches
+V15in
 p19892
 sS'processor speed'
 p19893
@@ -42454,7 +42454,7 @@ V8 GB
 p19928
 sS'screen size'
 p19929
-V15.6 inches
+V15.6in
 p19930
 sS'processor speed'
 p19931
@@ -42537,7 +42537,7 @@ V4 GB
 p19967
 sS'screen size'
 p19968
-V14 inches
+V14in
 p19969
 sS'processor speed'
 p19970
@@ -42620,7 +42620,7 @@ V16 GB
 p20006
 sS'screen size'
 p20007
-V15.6 inches
+V15.6in
 p20008
 sS'processor speed'
 p20009
@@ -42700,7 +42700,7 @@ V16 GB
 p20042
 sS'screen size'
 p20043
-V15.6 inches
+V15.6in
 p20044
 sS'processor speed'
 p20045
@@ -42784,7 +42784,7 @@ V8 GB
 p20082
 sS'screen size'
 p20083
-V15.6 inches
+V15.6in
 p20084
 sS'processor speed'
 p20085
@@ -42868,7 +42868,7 @@ V2 GB
 p20122
 sS'screen size'
 p20123
-V11.6 inches
+V11.6in
 p20124
 sS'processor speed'
 p20125
@@ -42950,7 +42950,7 @@ V8 GB
 p20160
 sS'screen size'
 p20161
-V15.6 inches
+V15.6in
 p20162
 sS'processor speed'
 p20163
@@ -43033,7 +43033,7 @@ V8 GB
 p20199
 sS'screen size'
 p20200
-V15.6 inches
+V15.6in
 p20201
 sS'processor speed'
 p20202
@@ -43118,7 +43118,7 @@ V8 GB
 p20240
 sS'screen size'
 p20241
-V12 inches
+V12in
 p20242
 sS'processor speed'
 p20243
@@ -43200,7 +43200,7 @@ V4 GB
 p20278
 sS'screen size'
 p20279
-V15.6 inches
+V15.6in
 p20280
 sS'processor speed'
 p20281
@@ -43283,7 +43283,7 @@ V4 GB
 p20317
 sS'screen size'
 p20318
-V11.6 inches
+V11.6in
 p20319
 sS'processor speed'
 p20320
@@ -43367,7 +43367,7 @@ V2 GB
 p20357
 sS'screen size'
 p20358
-V11.6 inches
+V11.6in
 p20359
 sS'processor speed'
 p20360
@@ -43450,7 +43450,7 @@ V4 GB
 p20396
 sS'screen size'
 p20397
-V11.6 inches
+V11.6in
 p20398
 sS'processor speed'
 p20399
@@ -43534,7 +43534,7 @@ V16 GB
 p20436
 sS'screen size'
 p20437
-V15.6 inches
+V15.6in
 p20438
 sS'processor speed'
 p20439
@@ -43617,7 +43617,7 @@ V8 GB
 p20475
 sS'screen size'
 p20476
-V13.3 inches
+V13.3in
 p20477
 sS'processor speed'
 p20478
@@ -43699,7 +43699,7 @@ V16 GB
 p20513
 sS'screen size'
 p20514
-V15.6 inches
+V15.6in
 p20515
 sS'processor speed'
 p20516
@@ -43783,7 +43783,7 @@ V8 GB
 p20553
 sS'screen size'
 p20554
-V13.3 inches
+V13.3in
 p20555
 sS'processor speed'
 p20556
@@ -43866,7 +43866,7 @@ V12 GB
 p20592
 sS'screen size'
 p20593
-V15.6 inches
+V15.6in
 p20594
 sS'processor speed'
 p20595
@@ -43951,7 +43951,7 @@ V2 GB
 p20633
 sS'screen size'
 p20634
-V14 inches
+V14in
 p20635
 sS'processor speed'
 p20636
@@ -44034,7 +44034,7 @@ V8 GB
 p20672
 sS'screen size'
 p20673
-V14 inches
+V14in
 p20674
 sS'processor speed'
 p20675
@@ -44113,7 +44113,7 @@ V4 GB
 p20707
 sS'screen size'
 p20708
-V15.6 in
+V15.6in
 p20709
 sS'processor speed'
 p20710
@@ -44198,7 +44198,7 @@ V12 GB
 p20748
 sS'screen size'
 p20749
-V15.6 inches
+V15.6in
 p20750
 sS'processor speed'
 p20751
@@ -44283,7 +44283,7 @@ V8 GB
 p20789
 sS'screen size'
 p20790
-V15.6 inches
+V15.6in
 p20791
 sS'processor speed'
 p20792
@@ -44366,7 +44366,7 @@ V8 GB
 p20828
 sS'screen size'
 p20829
-V15.6 inches
+V15.6in
 p20830
 sS'processor speed'
 p20831
@@ -44448,7 +44448,7 @@ V8 GB
 p20866
 sS'screen size'
 p20867
-V15.6 inches
+V15.6in
 p20868
 sS'processor speed'
 p20869
@@ -44529,7 +44529,7 @@ V16 GB
 p20903
 sS'screen size'
 p20904
-V14 inches
+V14in
 p20905
 sS'processor speed'
 p20906
@@ -44611,7 +44611,7 @@ V16 GB
 p20941
 sS'screen size'
 p20942
-V13.3 inches
+V13.3in
 p20943
 sS'processor speed'
 p20944
@@ -44694,7 +44694,7 @@ V8 GB
 p20980
 sS'screen size'
 p20981
-V15.6 inches
+V15.6in
 p20982
 sS'processor speed'
 p20983
@@ -44779,7 +44779,7 @@ V8 GB
 p21021
 sS'screen size'
 p21022
-V17.3 inches
+V17.3in
 p21023
 sS'processor speed'
 p21024
@@ -44862,7 +44862,7 @@ V12 GB
 p21060
 sS'screen size'
 p21061
-V17.3 inches
+V17.3in
 p21062
 sS'processor speed'
 p21063
@@ -44945,7 +44945,7 @@ V6 GB
 p21099
 sS'screen size'
 p21100
-V15.6 inches
+V15.6in
 p21101
 sS'processor speed'
 p21102
@@ -45028,7 +45028,7 @@ V16 GB
 p21138
 sS'screen size'
 p21139
-V15.6 inches
+V15.6in
 p21140
 sS'processor speed'
 p21141
@@ -45113,7 +45113,7 @@ V4 GB
 p21179
 sS'screen size'
 p21180
-V11.6 inches
+V11.6in
 p21181
 sS'processor speed'
 p21182
@@ -45194,7 +45194,7 @@ V0 GB
 p21216
 sS'screen size'
 p21217
-V15.6 inches
+V15.6in
 p21218
 sS'processor speed'
 p21219
@@ -45277,7 +45277,7 @@ V16 GB
 p21255
 sS'screen size'
 p21256
-V13.3 inches
+V13.3in
 p21257
 sS'processor speed'
 p21258
@@ -45361,7 +45361,7 @@ V16 GB
 p21295
 sS'screen size'
 p21296
-V17.3 inches
+V17.3in
 p21297
 sS'processor speed'
 p21298
@@ -45445,7 +45445,7 @@ V16 GB
 p21335
 sS'screen size'
 p21336
-V13.3 inches
+V13.3in
 p21337
 sS'processor speed'
 p21338
@@ -45527,7 +45527,7 @@ V8 GB
 p21373
 sS'screen size'
 p21374
-V15.6 inches
+V15.6in
 p21375
 sS'processor speed'
 p21376
@@ -45612,7 +45612,7 @@ V8 GB
 p21414
 sS'screen size'
 p21415
-V15.6 inches
+V15.6in
 p21416
 sS'processor speed'
 p21417
@@ -45695,7 +45695,7 @@ V8 GB
 p21453
 sS'screen size'
 p21454
-V15.6 inches
+V15.6in
 p21455
 sS'processor speed'
 p21456
@@ -45779,7 +45779,7 @@ V8 GB
 p21493
 sS'screen size'
 p21494
-V15.6 inches
+V15.6in
 p21495
 sS'processor speed'
 p21496
@@ -45861,7 +45861,7 @@ V8 GB
 p21531
 sS'screen size'
 p21532
-V15.6 inches
+V15.6in
 p21533
 sS'processor speed'
 p21534
@@ -45943,7 +45943,7 @@ V16 GB
 p21569
 sS'screen size'
 p21570
-V17.3 inches
+V17.3in
 p21571
 sS'processor speed'
 p21572
@@ -46022,7 +46022,7 @@ V8 GB
 p21604
 sS'screen size'
 p21605
-V14 inches
+V14in
 p21606
 sS'processor speed'
 p21607
@@ -46101,7 +46101,7 @@ V16 GB
 p21639
 sS'screen size'
 p21640
-V13.3 inches
+V13.3in
 p21641
 sS'processor speed'
 p21642
@@ -46184,7 +46184,7 @@ V16 GB
 p21678
 sS'screen size'
 p21679
-V17.3 inches
+V17.3in
 p21680
 sS'processor speed'
 p21681
@@ -46268,7 +46268,7 @@ V16 GB
 p21718
 sS'screen size'
 p21719
-V15.6 inches
+V15.6in
 p21720
 sS'processor speed'
 p21721
@@ -46348,7 +46348,7 @@ V8 GB
 p21754
 sS'screen size'
 p21755
-V15.6 inches
+V15.6in
 p21756
 sS'processor speed'
 p21757
@@ -46431,7 +46431,7 @@ V16 GB
 p21793
 sS'screen size'
 p21794
-V17.3 inches
+V17.3in
 p21795
 sS'processor speed'
 p21796
@@ -46508,7 +46508,7 @@ V16 GB
 p21826
 sS'screen size'
 p21827
-V15.6 in
+V15.6in
 p21828
 sS'processor speed'
 p21829
@@ -46589,7 +46589,7 @@ V32 GB
 p21863
 sS'screen size'
 p21864
-V17.3 inches
+V17.3in
 p21865
 sS'processor speed'
 p21866
@@ -46669,7 +46669,7 @@ V16 GB
 p21899
 sS'screen size'
 p21900
-V15.6 inches
+V15.6in
 p21901
 sS'processor speed'
 p21902
@@ -46754,7 +46754,7 @@ V16 GB
 p21940
 sS'screen size'
 p21941
-V14 inches
+V14in
 p21942
 sS'processor speed'
 p21943
@@ -46835,7 +46835,7 @@ V16 GB
 p21977
 sS'screen size'
 p21978
-V15.6 inches
+V15.6in
 p21979
 sS'processor speed'
 p21980
@@ -46918,7 +46918,7 @@ V16 GB
 p22016
 sS'screen size'
 p22017
-V15.6 inches
+V15.6in
 p22018
 sS'processor speed'
 p22019
@@ -47000,7 +47000,7 @@ V12 GB
 p22054
 sS'screen size'
 p22055
-V15.6 inches
+V15.6in
 p22056
 sS'processor speed'
 p22057
@@ -47081,7 +47081,7 @@ V32 GB
 p22091
 sS'screen size'
 p22092
-V15.6 inches
+V15.6in
 p22093
 sS'processor speed'
 p22094
@@ -47164,7 +47164,7 @@ V8 GB
 p22130
 sS'screen size'
 p22131
-V15.6 inches
+V15.6in
 p22132
 sS'processor speed'
 p22133
@@ -47247,7 +47247,7 @@ V8 GB
 p22169
 sS'screen size'
 p22170
-V17.3 inches
+V17.3in
 p22171
 sS'processor speed'
 p22172
@@ -47331,7 +47331,7 @@ V32 GB
 p22209
 sS'screen size'
 p22210
-V14 inches
+V14in
 p22211
 sS'processor speed'
 p22212
@@ -47414,7 +47414,7 @@ V4 GB
 p22248
 sS'screen size'
 p22249
-V11.6 inches
+V11.6in
 p22250
 sS'processor speed'
 p22251
@@ -47498,7 +47498,7 @@ V8 GB
 p22288
 sS'screen size'
 p22289
-V12.5 inches
+V12.5in
 p22290
 sS'processor speed'
 p22291
@@ -47579,7 +47579,7 @@ V12 GB
 p22325
 sS'screen size'
 p22326
-V17.3 inches
+V17.3in
 p22327
 sS'processor speed'
 p22328
@@ -47662,7 +47662,7 @@ V8 GB
 p22364
 sS'screen size'
 p22365
-V15.6 inches
+V15.6in
 p22366
 sS'processor speed'
 p22367
@@ -47745,7 +47745,7 @@ V4 GB
 p22403
 sS'screen size'
 p22404
-V14 inches
+V14in
 p22405
 sS'processor speed'
 p22406
@@ -47829,7 +47829,7 @@ V16 GB
 p22443
 sS'screen size'
 p22444
-V17.3 inches
+V17.3in
 p22445
 sS'processor speed'
 p22446
@@ -47910,7 +47910,7 @@ V0 GB
 p22480
 sS'screen size'
 p22481
-V13.3 inches
+V13.3in
 p22482
 sS'processor speed'
 p22483
@@ -47995,7 +47995,7 @@ V12 GB
 p22521
 sS'screen size'
 p22522
-V15.6 inches
+V15.6in
 p22523
 sS'processor speed'
 p22524
@@ -48077,7 +48077,7 @@ V8 GB
 p22559
 sS'screen size'
 p22560
-V15.6 inches
+V15.6in
 p22561
 sS'processor speed'
 p22562
@@ -48158,7 +48158,7 @@ V8 GB
 p22596
 sS'screen size'
 p22597
-V12.2 inches
+V12.2in
 p22598
 sS'processor speed'
 p22599
@@ -48241,7 +48241,7 @@ V8 GB
 p22635
 sS'screen size'
 p22636
-V14 inches
+V14in
 p22637
 sS'processor speed'
 p22638
@@ -48326,7 +48326,7 @@ V8 GB
 p22676
 sS'screen size'
 p22677
-V13.3 inches
+V13.3in
 p22678
 sS'processor speed'
 p22679
@@ -48410,7 +48410,7 @@ V16 GB
 p22716
 sS'screen size'
 p22717
-V17.3 inches
+V17.3in
 p22718
 sS'processor speed'
 p22719
@@ -48493,7 +48493,7 @@ V32 GB
 p22755
 sS'screen size'
 p22756
-V17.3 inches
+V17.3in
 p22757
 sS'processor speed'
 p22758
@@ -48575,7 +48575,7 @@ V8 GB
 p22793
 sS'screen size'
 p22794
-V15.6 inches
+V15.6in
 p22795
 sS'processor speed'
 p22796
@@ -48657,7 +48657,7 @@ V4 GB
 p22831
 sS'screen size'
 p22832
-V14 inches
+V14in
 p22833
 sS'processor speed'
 p22834
@@ -48742,7 +48742,7 @@ V1 GB
 p22872
 sS'screen size'
 p22873
-V10.1 inches
+V10.1in
 p22874
 sS'processor speed'
 p22875
@@ -48824,7 +48824,7 @@ V4 GB
 p22910
 sS'screen size'
 p22911
-V15.6 inches
+V15.6in
 p22912
 sS'processor speed'
 p22913
@@ -48908,7 +48908,7 @@ V8 GB
 p22950
 sS'screen size'
 p22951
-V13.3 inches
+V13.3in
 p22952
 sS'processor speed'
 p22953
@@ -48992,7 +48992,7 @@ V4 GB
 p22990
 sS'screen size'
 p22991
-V14 inches
+V14in
 p22992
 sS'processor speed'
 p22993
@@ -49071,7 +49071,7 @@ V4 GB
 p23025
 sS'screen size'
 p23026
-V14 in
+V14in
 p23027
 sS'processor speed'
 p23028
@@ -49154,7 +49154,7 @@ V16 GB
 p23064
 sS'screen size'
 p23065
-V17.3 inches
+V17.3in
 p23066
 sS'processor speed'
 p23067
@@ -49238,7 +49238,7 @@ V4 GB
 p23104
 sS'screen size'
 p23105
-V11.6 inches
+V11.6in
 p23106
 sS'processor speed'
 p23107
@@ -49320,7 +49320,7 @@ V8 GB
 p23142
 sS'screen size'
 p23143
-V13.3 inches
+V13.3in
 p23144
 sS'processor speed'
 p23145
@@ -49402,7 +49402,7 @@ V8 GB
 p23180
 sS'screen size'
 p23181
-V15.6 inches
+V15.6in
 p23182
 sS'processor speed'
 p23183
@@ -49485,7 +49485,7 @@ V32 GB
 p23219
 sS'screen size'
 p23220
-V17.3 inches
+V17.3in
 p23221
 sS'processor speed'
 p23222
@@ -49566,7 +49566,7 @@ V32 GB
 p23256
 sS'screen size'
 p23257
-V15.6 in
+V15.6in
 p23258
 sS'processor speed'
 p23259
@@ -49645,7 +49645,7 @@ V16 GB
 p23291
 sS'screen size'
 p23292
-V17.3 in
+V17.3in
 p23293
 sS'processor speed'
 p23294
@@ -49727,7 +49727,7 @@ V32 GB
 p23329
 sS'screen size'
 p23330
-V17.3 inches
+V17.3in
 p23331
 sS'processor speed'
 p23332
@@ -49811,7 +49811,7 @@ V2 GB
 p23369
 sS'screen size'
 p23370
-V11.6 inches
+V11.6in
 p23371
 sS'processor speed'
 p23372
@@ -49894,7 +49894,7 @@ V16 GB
 p23408
 sS'screen size'
 p23409
-V15.6 inches
+V15.6in
 p23410
 sS'processor speed'
 p23411
@@ -49976,7 +49976,7 @@ V8 GB
 p23446
 sS'screen size'
 p23447
-V15.6 inches
+V15.6in
 p23448
 sS'processor speed'
 p23449
@@ -50058,7 +50058,7 @@ V16 GB
 p23484
 sS'screen size'
 p23485
-V15.6 inches
+V15.6in
 p23486
 sS'processor speed'
 p23487
@@ -50139,7 +50139,7 @@ V4 GB
 p23521
 sS'screen size'
 p23522
-V11.6 inches
+V11.6in
 p23523
 sS'processor speed'
 p23524
@@ -50222,7 +50222,7 @@ V12 GB
 p23560
 sS'screen size'
 p23561
-V15.6 inches
+V15.6in
 p23562
 sS'processor speed'
 p23563
@@ -50303,7 +50303,7 @@ V8 GB
 p23597
 sS'screen size'
 p23598
-V14 inches
+V14in
 p23599
 sS'processor speed'
 p23600
@@ -50384,7 +50384,7 @@ V8 GB
 p23634
 sS'screen size'
 p23635
-V15.6 in
+V15.6in
 p23636
 sS'processor speed'
 p23637
@@ -50468,7 +50468,7 @@ V16 GB
 p23674
 sS'screen size'
 p23675
-V15.6 inches
+V15.6in
 p23676
 sS'processor speed'
 p23677
@@ -50552,7 +50552,7 @@ V8 GB
 p23714
 sS'screen size'
 p23715
-V13.3 inches
+V13.3in
 p23716
 sS'processor speed'
 p23717
@@ -50634,7 +50634,7 @@ V8 GB
 p23752
 sS'screen size'
 p23753
-V15.6 inches
+V15.6in
 p23754
 sS'processor speed'
 p23755
@@ -50719,7 +50719,7 @@ V8 GB
 p23793
 sS'screen size'
 p23794
-V13.3 inches
+V13.3in
 p23795
 sS'processor speed'
 p23796
@@ -50801,7 +50801,7 @@ V16 GB
 p23831
 sS'screen size'
 p23832
-V17.3 inches
+V17.3in
 p23833
 sS'processor speed'
 p23834
@@ -50882,7 +50882,7 @@ V4 GB
 p23868
 sS'screen size'
 p23869
-V14 inches
+V14in
 p23870
 sS'processor speed'
 p23871
@@ -50962,7 +50962,7 @@ V16 GB
 p23904
 sS'screen size'
 p23905
-V15.6 inches
+V15.6in
 p23906
 sS'processor speed'
 p23907
@@ -51046,7 +51046,7 @@ V8 GB
 p23944
 sS'screen size'
 p23945
-V10.1 inches
+V10.1in
 p23946
 sS'processor speed'
 p23947
@@ -51129,7 +51129,7 @@ V16 GB
 p23983
 sS'screen size'
 p23984
-V15.6 inches
+V15.6in
 p23985
 sS'processor speed'
 p23986
@@ -51211,7 +51211,7 @@ V16 GB
 p24021
 sS'screen size'
 p24022
-V15.6 inches
+V15.6in
 p24023
 sS'processor speed'
 p24024
@@ -51295,7 +51295,7 @@ V4 GB
 p24061
 sS'screen size'
 p24062
-V14 inches
+V14in
 p24063
 sS'processor speed'
 p24064
@@ -51377,7 +51377,7 @@ V8 GB
 p24099
 sS'screen size'
 p24100
-V15.6 inches
+V15.6in
 p24101
 sS'processor speed'
 p24102
@@ -51460,7 +51460,7 @@ V16 GB
 p24138
 sS'screen size'
 p24139
-V15.6 inches
+V15.6in
 p24140
 sS'processor speed'
 p24141
@@ -51542,7 +51542,7 @@ V4 GB
 p24176
 sS'screen size'
 p24177
-V14 inches
+V14in
 p24178
 sS'processor speed'
 p24179
@@ -51626,7 +51626,7 @@ V4 GB
 p24216
 sS'screen size'
 p24217
-V14 inches
+V14in
 p24218
 sS'processor speed'
 p24219
@@ -51704,7 +51704,7 @@ V0 GB
 p24250
 sS'screen size'
 p24251
-V14 in
+V14in
 p24252
 sS'processor speed'
 p24253
@@ -51787,7 +51787,7 @@ V8 GB
 p24289
 sS'screen size'
 p24290
-V14 inches
+V14in
 p24291
 sS'processor speed'
 p24292
@@ -51871,7 +51871,7 @@ V8 GB
 p24329
 sS'screen size'
 p24330
-V15.6 inches
+V15.6in
 p24331
 sS'processor speed'
 p24332
@@ -51952,7 +51952,7 @@ V8 GB
 p24366
 sS'screen size'
 p24367
-V14 inches
+V14in
 p24368
 sS'processor speed'
 p24369
@@ -52033,7 +52033,7 @@ V0 GB
 p24403
 sS'screen size'
 p24404
-V15 inches
+V15in
 p24405
 sS'processor speed'
 p24406
@@ -52113,7 +52113,7 @@ V16 GB
 p24439
 sS'screen size'
 p24440
-V17.3 inches
+V17.3in
 p24441
 sS'processor speed'
 p24442
@@ -52197,7 +52197,7 @@ V4 GB
 p24479
 sS'screen size'
 p24480
-V13.3 inches
+V13.3in
 p24481
 sS'processor speed'
 p24482
@@ -52279,7 +52279,7 @@ V8 GB
 p24517
 sS'screen size'
 p24518
-V15.6 inches
+V15.6in
 p24519
 sS'processor speed'
 p24520
@@ -52360,7 +52360,7 @@ V8 GB
 p24554
 sS'screen size'
 p24555
-V15.6 inches
+V15.6in
 p24556
 sS'processor speed'
 p24557
@@ -52442,7 +52442,7 @@ V4 GB
 p24592
 sS'screen size'
 p24593
-V13.3 inches
+V13.3in
 p24594
 sS'processor speed'
 p24595
@@ -52527,7 +52527,7 @@ V16 GB
 p24633
 sS'screen size'
 p24634
-V15.6 inches
+V15.6in
 p24635
 sS'processor speed'
 p24636
@@ -52610,7 +52610,7 @@ V12 GB
 p24672
 sS'screen size'
 p24673
-V14 inches
+V14in
 p24674
 sS'processor speed'
 p24675
@@ -52693,7 +52693,7 @@ V8 GB
 p24711
 sS'screen size'
 p24712
-V14 inches
+V14in
 p24713
 sS'processor speed'
 p24714
@@ -52776,7 +52776,7 @@ V8 GB
 p24750
 sS'screen size'
 p24751
-V12 inches
+V12in
 p24752
 sS'processor speed'
 p24753
@@ -52859,7 +52859,7 @@ V16 GB
 p24789
 sS'screen size'
 p24790
-V15.6 inches
+V15.6in
 p24791
 sS'processor speed'
 p24792
@@ -52943,7 +52943,7 @@ V8 GB
 p24829
 sS'screen size'
 p24830
-V13.3 inches
+V13.3in
 p24831
 sS'processor speed'
 p24832
@@ -53022,7 +53022,7 @@ V8 GB
 p24864
 sS'screen size'
 p24865
-V13.1 inches
+V13.1in
 p24866
 sS'processor speed'
 p24867
@@ -53105,7 +53105,7 @@ V6 GB
 p24903
 sS'screen size'
 p24904
-V15.6 inches
+V15.6in
 p24905
 sS'processor speed'
 p24906
@@ -53185,7 +53185,7 @@ V32 GB
 p24939
 sS'screen size'
 p24940
-V17.3 in
+V17.3in
 p24941
 sS'processor speed'
 p24942
@@ -53267,7 +53267,7 @@ V8 GB
 p24977
 sS'screen size'
 p24978
-V15.6 inches
+V15.6in
 p24979
 sS'processor speed'
 p24980
@@ -53350,7 +53350,7 @@ V8 GB
 p25016
 sS'screen size'
 p25017
-V15.6 inches
+V15.6in
 p25018
 sS'processor speed'
 p25019
@@ -53512,7 +53512,7 @@ V8 GB
 p25090
 sS'screen size'
 p25091
-V12.5 inches
+V12.5in
 p25092
 sS'processor speed'
 p25093
@@ -53594,7 +53594,7 @@ V8 GB
 p25128
 sS'screen size'
 p25129
-V13.3 inches
+V13.3in
 p25130
 sS'processor speed'
 p25131
@@ -53677,7 +53677,7 @@ V4 GB
 p25167
 sS'screen size'
 p25168
-V15.6 inches
+V15.6in
 p25169
 sS'processor speed'
 p25170
@@ -53762,7 +53762,7 @@ V4 GB
 p25208
 sS'screen size'
 p25209
-V11.6 inches
+V11.6in
 p25210
 sS'processor speed'
 p25211
@@ -53846,7 +53846,7 @@ V16 GB
 p25248
 sS'screen size'
 p25249
-V15.6 inches
+V15.6in
 p25250
 sS'processor speed'
 p25251
@@ -53929,7 +53929,7 @@ V8 GB
 p25287
 sS'screen size'
 p25288
-V17.3 inches
+V17.3in
 p25289
 sS'processor speed'
 p25290
@@ -54008,7 +54008,7 @@ V8 GB
 p25322
 sS'screen size'
 p25323
-V15.6 inches
+V15.6in
 p25324
 sS'processor speed'
 p25325
@@ -54089,7 +54089,7 @@ V4 GB
 p25359
 sS'screen size'
 p25360
-V15.6 inches
+V15.6in
 p25361
 sS'processor speed'
 p25362
@@ -54171,7 +54171,7 @@ V8 GB
 p25397
 sS'screen size'
 p25398
-V13.3 inches
+V13.3in
 p25399
 sS'processor speed'
 p25400
@@ -54253,7 +54253,7 @@ V8 GB
 p25435
 sS'screen size'
 p25436
-V15 inches
+V15in
 p25437
 sS'processor speed'
 p25438
@@ -54336,7 +54336,7 @@ V16 GB
 p25474
 sS'screen size'
 p25475
-V15.4 inches
+V15.4in
 p25476
 sS'processor speed'
 p25477
@@ -54417,7 +54417,7 @@ V4 GB
 p25511
 sS'screen size'
 p25512
-V15.6 inches
+V15.6in
 p25513
 sS'processor speed'
 p25514
@@ -54502,7 +54502,7 @@ V16 GB
 p25552
 sS'screen size'
 p25553
-V15.4 inches
+V15.4in
 p25554
 sS'processor speed'
 p25555
@@ -54584,7 +54584,7 @@ V6 GB
 p25590
 sS'screen size'
 p25591
-V15.6 inches
+V15.6in
 p25592
 sS'processor speed'
 p25593
@@ -54665,7 +54665,7 @@ V16 GB
 p25627
 sS'screen size'
 p25628
-V17.3 inches
+V17.3in
 p25629
 sS'processor speed'
 p25630
@@ -54750,7 +54750,7 @@ V4 GB
 p25668
 sS'screen size'
 p25669
-V15.6 inches
+V15.6in
 p25670
 sS'processor speed'
 p25671
@@ -54833,7 +54833,7 @@ V8 GB
 p25707
 sS'screen size'
 p25708
-V17.3 inches
+V17.3in
 p25709
 sS'processor speed'
 p25710
@@ -54918,7 +54918,7 @@ V12 GB
 p25748
 sS'screen size'
 p25749
-V15.6 inches
+V15.6in
 p25750
 sS'processor speed'
 p25751
@@ -54999,7 +54999,7 @@ V16 GB
 p25785
 sS'screen size'
 p25786
-V15.6 inches
+V15.6in
 p25787
 sS'processor speed'
 p25788
@@ -55081,7 +55081,7 @@ V8 GB
 p25823
 sS'screen size'
 p25824
-V13.3 inches
+V13.3in
 p25825
 sS'processor speed'
 p25826
@@ -55165,7 +55165,7 @@ V8 GB
 p25863
 sS'screen size'
 p25864
-V14 inches
+V14in
 p25865
 sS'processor speed'
 p25866
@@ -55247,7 +55247,7 @@ V16 GB
 p25901
 sS'screen size'
 p25902
-V15.6 inches
+V15.6in
 p25903
 sS'processor speed'
 p25904
@@ -55330,7 +55330,7 @@ V8 GB
 p25940
 sS'screen size'
 p25941
-V12 inches
+V12in
 p25942
 sS'processor speed'
 p25943
@@ -55412,7 +55412,7 @@ V8 GB
 p25978
 sS'screen size'
 p25979
-V15.6 inches
+V15.6in
 p25980
 sS'processor speed'
 p25981
@@ -55495,7 +55495,7 @@ V16 GB
 p26017
 sS'screen size'
 p26018
-V13.3 inches
+V13.3in
 p26019
 sS'processor speed'
 p26020
@@ -55578,7 +55578,7 @@ V8 GB
 p26056
 sS'screen size'
 p26057
-V13.3 inches
+V13.3in
 p26058
 sS'processor speed'
 p26059
@@ -55661,7 +55661,7 @@ V32 GB
 p26095
 sS'screen size'
 p26096
-V15.6 inches
+V15.6in
 p26097
 sS'processor speed'
 p26098
@@ -55742,7 +55742,7 @@ V16 GB
 p26132
 sS'screen size'
 p26133
-V15.4 inches
+V15.4in
 p26134
 sS'processor speed'
 p26135
@@ -55826,7 +55826,7 @@ V1 GB
 p26172
 sS'screen size'
 p26173
-V10.1 inches
+V10.1in
 p26174
 sS'processor speed'
 p26175
@@ -55906,7 +55906,7 @@ V0 GB
 p26208
 sS'screen size'
 p26209
-V13.3 inches
+V13.3in
 p26210
 sS'processor speed'
 p26211
@@ -55987,7 +55987,7 @@ V4 GB
 p26245
 sS'screen size'
 p26246
-V15.6 inches
+V15.6in
 p26247
 sS'processor speed'
 p26248
@@ -56068,7 +56068,7 @@ V8 GB
 p26282
 sS'screen size'
 p26283
-V17.3 inches
+V17.3in
 p26284
 sS'processor speed'
 p26285
@@ -56150,7 +56150,7 @@ V4 GB
 p26320
 sS'screen size'
 p26321
-V15.6 inches
+V15.6in
 p26322
 sS'processor speed'
 p26323
@@ -56232,7 +56232,7 @@ V12 GB
 p26358
 sS'screen size'
 p26359
-V13.3 inches
+V13.3in
 p26360
 sS'processor speed'
 p26361
@@ -56314,7 +56314,7 @@ V16 GB
 p26396
 sS'screen size'
 p26397
-V15.6 inches
+V15.6in
 p26398
 sS'processor speed'
 p26399
@@ -56398,7 +56398,7 @@ V8 GB
 p26436
 sS'screen size'
 p26437
-V15.6 inches
+V15.6in
 p26438
 sS'processor speed'
 p26439
@@ -56481,7 +56481,7 @@ V16 GB
 p26475
 sS'screen size'
 p26476
-V15.6 inches
+V15.6in
 p26477
 sS'processor speed'
 p26478
@@ -56565,7 +56565,7 @@ V4 GB
 p26515
 sS'screen size'
 p26516
-V14 inches
+V14in
 p26517
 sS'processor speed'
 p26518
@@ -56647,7 +56647,7 @@ V16 GB
 p26553
 sS'screen size'
 p26554
-V13.3 inches
+V13.3in
 p26555
 sS'processor speed'
 p26556
@@ -56728,7 +56728,7 @@ V16 GB
 p26590
 sS'screen size'
 p26591
-V15.6 inches
+V15.6in
 p26592
 sS'processor speed'
 p26593
@@ -56809,7 +56809,7 @@ V12 GB
 p26627
 sS'screen size'
 p26628
-V15.6 inches
+V15.6in
 p26629
 sS'processor speed'
 p26630
@@ -56888,7 +56888,7 @@ V4 GB
 p26662
 sS'screen size'
 p26663
-V15.6 inches
+V15.6in
 p26664
 sS'processor speed'
 p26665
@@ -56969,7 +56969,7 @@ V4 GB
 p26699
 sS'screen size'
 p26700
-V11.6 inches
+V11.6in
 p26701
 sS'processor speed'
 p26702
@@ -57054,7 +57054,7 @@ V2 GB
 p26740
 sS'screen size'
 p26741
-V11.6 inches
+V11.6in
 p26742
 sS'processor speed'
 p26743
@@ -57137,7 +57137,7 @@ V8 GB
 p26779
 sS'screen size'
 p26780
-V17.3 inches
+V17.3in
 p26781
 sS'processor speed'
 p26782
@@ -57221,7 +57221,7 @@ V16 GB
 p26819
 sS'screen size'
 p26820
-V17.3 inches
+V17.3in
 p26821
 sS'processor speed'
 p26822
@@ -57303,7 +57303,7 @@ V16 GB
 p26857
 sS'screen size'
 p26858
-V15.6 inches
+V15.6in
 p26859
 sS'processor speed'
 p26860
@@ -57383,7 +57383,7 @@ V16 GB
 p26893
 sS'screen size'
 p26894
-V15.6 inches
+V15.6in
 p26895
 sS'processor speed'
 p26896
@@ -57467,7 +57467,7 @@ V16 GB
 p26933
 sS'screen size'
 p26934
-V14 inches
+V14in
 p26935
 sS'processor speed'
 p26936
@@ -57551,7 +57551,7 @@ V8 GB
 p26973
 sS'screen size'
 p26974
-V23.8 inches
+V23.8in
 p26975
 sS'processor speed'
 p26976
@@ -57633,7 +57633,7 @@ V4 GB
 p27011
 sS'screen size'
 p27012
-V11.6 inches
+V11.6in
 p27013
 sS'processor speed'
 p27014
@@ -57715,7 +57715,7 @@ V12 GB
 p27049
 sS'screen size'
 p27050
-V15.6 inches
+V15.6in
 p27051
 sS'processor speed'
 p27052
@@ -57798,7 +57798,7 @@ V8 GB
 p27088
 sS'screen size'
 p27089
-V14 inches
+V14in
 p27090
 sS'processor speed'
 p27091
@@ -57880,7 +57880,7 @@ V8 GB
 p27126
 sS'screen size'
 p27127
-V17.3 inches
+V17.3in
 p27128
 sS'processor speed'
 p27129
@@ -57963,7 +57963,7 @@ V16 GB
 p27165
 sS'screen size'
 p27166
-V15.6 inches
+V15.6in
 p27167
 sS'processor speed'
 p27168
@@ -58046,7 +58046,7 @@ V8 GB
 p27204
 sS'screen size'
 p27205
-V15.6 inches
+V15.6in
 p27206
 sS'processor speed'
 p27207
@@ -58129,7 +58129,7 @@ V16 GB
 p27243
 sS'screen size'
 p27244
-V14 inches
+V14in
 p27245
 sS'processor speed'
 p27246
@@ -58212,7 +58212,7 @@ V12 GB
 p27282
 sS'screen size'
 p27283
-V15.6 inches
+V15.6in
 p27284
 sS'processor speed'
 p27285
@@ -58297,7 +58297,7 @@ V16 GB
 p27323
 sS'screen size'
 p27324
-V15.6 inches
+V15.6in
 p27325
 sS'processor speed'
 p27326
@@ -58378,7 +58378,7 @@ V4 GB
 p27360
 sS'screen size'
 p27361
-V15.6 inches
+V15.6in
 p27362
 sS'processor speed'
 p27363
@@ -58463,7 +58463,7 @@ V8 GB
 p27401
 sS'screen size'
 p27402
-V14 inches
+V14in
 p27403
 sS'processor speed'
 p27404
@@ -58547,7 +58547,7 @@ V8 GB
 p27441
 sS'screen size'
 p27442
-V15.6 inches
+V15.6in
 p27443
 sS'processor speed'
 p27444
@@ -58630,7 +58630,7 @@ V16 GB
 p27480
 sS'screen size'
 p27481
-V15.6 inches
+V15.6in
 p27482
 sS'processor speed'
 p27483
@@ -58713,7 +58713,7 @@ V16 GB
 p27519
 sS'screen size'
 p27520
-V15.6 inches
+V15.6in
 p27521
 sS'processor speed'
 p27522
@@ -58796,7 +58796,7 @@ V8 GB
 p27558
 sS'screen size'
 p27559
-V15.6 inches
+V15.6in
 p27560
 sS'processor speed'
 p27561
@@ -58957,7 +58957,7 @@ V16 GB
 p27631
 sS'screen size'
 p27632
-V17.3 inches
+V17.3in
 p27633
 sS'processor speed'
 p27634
@@ -59037,7 +59037,7 @@ V16 GB
 p27667
 sS'screen size'
 p27668
-V15.6 inches
+V15.6in
 p27669
 sS'processor speed'
 p27670
@@ -59119,7 +59119,7 @@ V8 GB
 p27705
 sS'screen size'
 p27706
-V15.6 inches
+V15.6in
 p27707
 sS'processor speed'
 p27708
@@ -59204,7 +59204,7 @@ V8 GB
 p27746
 sS'screen size'
 p27747
-V15.6 inches
+V15.6in
 p27748
 sS'processor speed'
 p27749
@@ -59287,7 +59287,7 @@ V8 GB
 p27785
 sS'screen size'
 p27786
-V13.3 inches
+V13.3in
 p27787
 sS'processor speed'
 p27788
@@ -59371,7 +59371,7 @@ V12 GB
 p27825
 sS'screen size'
 p27826
-V15.6 inches
+V15.6in
 p27827
 sS'processor speed'
 p27828
@@ -59454,7 +59454,7 @@ V16 GB
 p27864
 sS'screen size'
 p27865
-V15.6 inches
+V15.6in
 p27866
 sS'processor speed'
 p27867
@@ -59539,7 +59539,7 @@ V8 GB
 p27905
 sS'screen size'
 p27906
-V17.3 inches
+V17.3in
 p27907
 sS'processor speed'
 p27908
@@ -59620,7 +59620,7 @@ V16 GB
 p27942
 sS'screen size'
 p27943
-V15.6 inches
+V15.6in
 p27944
 sS'processor speed'
 p27945
@@ -59698,7 +59698,7 @@ V0 GB
 p27976
 sS'screen size'
 p27977
-V15.6 in
+V15.6in
 p27978
 sS'processor speed'
 p27979
@@ -59781,7 +59781,7 @@ V8 GB
 p28015
 sS'screen size'
 p28016
-V13.3 inches
+V13.3in
 p28017
 sS'processor speed'
 p28018
@@ -59863,7 +59863,7 @@ V32 GB
 p28053
 sS'screen size'
 p28054
-V17.3 inches
+V17.3in
 p28055
 sS'processor speed'
 p28056
@@ -59943,7 +59943,7 @@ V16 GB
 p28089
 sS'screen size'
 p28090
-V13.9 inches
+V13.9in
 p28091
 sS'processor speed'
 p28092
@@ -60025,7 +60025,7 @@ V0 GB
 p28127
 sS'screen size'
 p28128
-V15.6 inches
+V15.6in
 p28129
 sS'processor speed'
 p28130
@@ -60107,7 +60107,7 @@ V16 GB
 p28165
 sS'screen size'
 p28166
-V17.3 inches
+V17.3in
 p28167
 sS'processor speed'
 p28168
@@ -60192,7 +60192,7 @@ V8 GB
 p28206
 sS'screen size'
 p28207
-V12 inches
+V12in
 p28208
 sS'processor speed'
 p28209
@@ -60275,7 +60275,7 @@ V6 GB
 p28245
 sS'screen size'
 p28246
-V11.6 inches
+V11.6in
 p28247
 sS'processor speed'
 p28248
@@ -60357,7 +60357,7 @@ V8 GB
 p28283
 sS'screen size'
 p28284
-V15.6 inches
+V15.6in
 p28285
 sS'processor speed'
 p28286
@@ -60441,7 +60441,7 @@ V8 GB
 p28323
 sS'screen size'
 p28324
-V15 inches
+V15in
 p28325
 sS'processor speed'
 p28326
@@ -60523,7 +60523,7 @@ V8 GB
 p28361
 sS'screen size'
 p28362
-V13.3 inches
+V13.3in
 p28363
 sS'processor speed'
 p28364
@@ -60606,7 +60606,7 @@ V32 GB
 p28400
 sS'screen size'
 p28401
-V17.3 inches
+V17.3in
 p28402
 sS'processor speed'
 p28403
@@ -60691,7 +60691,7 @@ V8 GB
 p28441
 sS'screen size'
 p28442
-V14 inches
+V14in
 p28443
 sS'processor speed'
 p28444
@@ -60772,7 +60772,7 @@ V8 GB
 p28478
 sS'screen size'
 p28479
-V15.6 inches
+V15.6in
 p28480
 sS'processor speed'
 p28481
@@ -60856,7 +60856,7 @@ V16 GB
 p28518
 sS'screen size'
 p28519
-V15.6 inches
+V15.6in
 p28520
 sS'processor speed'
 p28521
@@ -60937,7 +60937,7 @@ V12 GB
 p28555
 sS'screen size'
 p28556
-V15.6 inches
+V15.6in
 p28557
 sS'processor speed'
 p28558
@@ -61021,7 +61021,7 @@ V8 GB
 p28595
 sS'screen size'
 p28596
-V17.3 inches
+V17.3in
 p28597
 sS'processor speed'
 p28598
@@ -61105,7 +61105,7 @@ V8 GB
 p28635
 sS'screen size'
 p28636
-V15.6 inches
+V15.6in
 p28637
 sS'processor speed'
 p28638
@@ -61188,7 +61188,7 @@ V8 GB
 p28674
 sS'screen size'
 p28675
-V15.6 inches
+V15.6in
 p28676
 sS'processor speed'
 p28677
@@ -61272,7 +61272,7 @@ V2 GB
 p28714
 sS'screen size'
 p28715
-V11.6 inches
+V11.6in
 p28716
 sS'processor speed'
 p28717
@@ -61357,7 +61357,7 @@ V16 GB
 p28755
 sS'screen size'
 p28756
-V15.4 inches
+V15.4in
 p28757
 sS'processor speed'
 p28758
@@ -61439,7 +61439,7 @@ V8 GB
 p28793
 sS'screen size'
 p28794
-V15.6 inches
+V15.6in
 p28795
 sS'processor speed'
 p28796
@@ -61521,7 +61521,7 @@ V4 GB
 p28831
 sS'screen size'
 p28832
-V15.6 inches
+V15.6in
 p28833
 sS'processor speed'
 p28834
@@ -61605,7 +61605,7 @@ V16 GB
 p28871
 sS'screen size'
 p28872
-V17.3 inches
+V17.3in
 p28873
 sS'processor speed'
 p28874
@@ -61688,7 +61688,7 @@ V0 GB
 p28910
 sS'screen size'
 p28911
-V15.6 inches
+V15.6in
 p28912
 sS'processor speed'
 p28913
@@ -61772,7 +61772,7 @@ V4 GB
 p28950
 sS'screen size'
 p28951
-V15.6 inches
+V15.6in
 p28952
 sS'processor speed'
 p28953
@@ -61851,7 +61851,7 @@ V12 GB
 p28985
 sS'screen size'
 p28986
-V13.5 inches
+V13.5in
 p28987
 sS'processor speed'
 p28988
@@ -61934,7 +61934,7 @@ V6 GB
 p29024
 sS'screen size'
 p29025
-V11.6 inches
+V11.6in
 p29026
 sS'processor speed'
 p29027
@@ -62012,7 +62012,7 @@ V6 GB
 p29058
 sS'screen size'
 p29059
-V15.6 inches
+V15.6in
 p29060
 sS'processor speed'
 p29061
@@ -62092,7 +62092,7 @@ V8 GB
 p29094
 sS'screen size'
 p29095
-V14 inches
+V14in
 p29096
 sS'processor speed'
 p29097
@@ -62175,7 +62175,7 @@ V16 GB
 p29133
 sS'screen size'
 p29134
-V13.3 inches
+V13.3in
 p29135
 sS'processor speed'
 p29136
@@ -62252,7 +62252,7 @@ V16 GB
 p29166
 sS'screen size'
 p29167
-V17.3 in
+V17.3in
 p29168
 sS'processor speed'
 p29169
@@ -62334,7 +62334,7 @@ V12 GB
 p29204
 sS'screen size'
 p29205
-V15.6 inches
+V15.6in
 p29206
 sS'processor speed'
 p29207
@@ -62418,7 +62418,7 @@ V8 GB
 p29244
 sS'screen size'
 p29245
-V14 inches
+V14in
 p29246
 sS'processor speed'
 p29247
@@ -62499,7 +62499,7 @@ V16 GB
 p29281
 sS'screen size'
 p29282
-V14 inches
+V14in
 p29283
 sS'processor speed'
 p29284
@@ -62582,7 +62582,7 @@ V32 GB
 p29320
 sS'screen size'
 p29321
-V17.3 inches
+V17.3in
 p29322
 sS'processor speed'
 p29323
@@ -62663,7 +62663,7 @@ V4 GB
 p29357
 sS'screen size'
 p29358
-V15.6 inches
+V15.6in
 p29359
 sS'processor speed'
 p29360
@@ -62745,7 +62745,7 @@ V16 GB
 p29395
 sS'screen size'
 p29396
-V15.6 inches
+V15.6in
 p29397
 sS'processor speed'
 p29398
@@ -62830,7 +62830,7 @@ V12 GB
 p29436
 sS'screen size'
 p29437
-V15.6 inches
+V15.6in
 p29438
 sS'processor speed'
 p29439
@@ -62910,7 +62910,7 @@ V12 GB
 p29472
 sS'screen size'
 p29473
-V11.6 inches
+V11.6in
 p29474
 sS'processor speed'
 p29475
@@ -62989,7 +62989,7 @@ V16 GB
 p29507
 sS'screen size'
 p29508
-V15.6 in
+V15.6in
 p29509
 sS'processor speed'
 p29510
@@ -63072,7 +63072,7 @@ V24 GB
 p29546
 sS'screen size'
 p29547
-V15.6 inches
+V15.6in
 p29548
 sS'processor speed'
 p29549
@@ -63153,7 +63153,7 @@ V12 GB
 p29583
 sS'screen size'
 p29584
-V15.6 inches
+V15.6in
 p29585
 sS'processor speed'
 p29586
@@ -63235,7 +63235,7 @@ V8 GB
 p29621
 sS'screen size'
 p29622
-V14 inches
+V14in
 p29623
 sS'processor speed'
 p29624
@@ -63317,7 +63317,7 @@ V8 GB
 p29659
 sS'screen size'
 p29660
-V14 inches
+V14in
 p29661
 sS'processor speed'
 p29662
@@ -63397,7 +63397,7 @@ V16 GB
 p29695
 sS'screen size'
 p29696
-V12.5 inches
+V12.5in
 p29697
 sS'processor speed'
 p29698
@@ -63482,7 +63482,7 @@ V8 GB
 p29736
 sS'screen size'
 p29737
-V13.3 inches
+V13.3in
 p29738
 sS'processor speed'
 p29739
@@ -63565,7 +63565,7 @@ V4 GB
 p29775
 sS'screen size'
 p29776
-V15.6 inches
+V15.6in
 p29777
 sS'processor speed'
 p29778
@@ -63647,7 +63647,7 @@ V6 GB
 p29813
 sS'screen size'
 p29814
-V14 inches
+V14in
 p29815
 sS'processor speed'
 p29816
@@ -63731,7 +63731,7 @@ V8 GB
 p29853
 sS'screen size'
 p29854
-V17.3 inches
+V17.3in
 p29855
 sS'processor speed'
 p29856
@@ -63813,7 +63813,7 @@ V8 GB
 p29891
 sS'screen size'
 p29892
-V14 inches
+V14in
 p29893
 sS'processor speed'
 p29894
@@ -63895,7 +63895,7 @@ V4 GB
 p29929
 sS'screen size'
 p29930
-V11.6 inches
+V11.6in
 p29931
 sS'processor speed'
 p29932
@@ -63979,7 +63979,7 @@ V2 GB
 p29969
 sS'screen size'
 p29970
-V11.6 inches
+V11.6in
 p29971
 sS'processor speed'
 p29972
@@ -64062,7 +64062,7 @@ V8 GB
 p30008
 sS'screen size'
 p30009
-V15.6 inches
+V15.6in
 p30010
 sS'processor speed'
 p30011
@@ -64142,7 +64142,7 @@ V8 GB
 p30044
 sS'screen size'
 p30045
-V17.3 in
+V17.3in
 p30046
 sS'processor speed'
 p30047
@@ -64225,7 +64225,7 @@ V16 GB
 p30083
 sS'screen size'
 p30084
-V15.6 inches
+V15.6in
 p30085
 sS'processor speed'
 p30086
@@ -64309,7 +64309,7 @@ V8 GB
 p30123
 sS'screen size'
 p30124
-V13.3 inches
+V13.3in
 p30125
 sS'processor speed'
 p30126
@@ -64389,7 +64389,7 @@ V6 GB
 p30159
 sS'screen size'
 p30160
-V15.6 inches
+V15.6in
 p30161
 sS'processor speed'
 p30162
@@ -64471,7 +64471,7 @@ V8 GB
 p30197
 sS'screen size'
 p30198
-V11.6 inches
+V11.6in
 p30199
 sS'processor speed'
 p30200
@@ -64631,7 +64631,7 @@ V16 GB
 p30269
 sS'screen size'
 p30270
-V15.6 inches
+V15.6in
 p30271
 sS'processor speed'
 p30272
@@ -64713,7 +64713,7 @@ V8 GB
 p30307
 sS'screen size'
 p30308
-V15.6 inches
+V15.6in
 p30309
 sS'processor speed'
 p30310
@@ -64797,7 +64797,7 @@ V8 GB
 p30347
 sS'screen size'
 p30348
-V12.5 inches
+V12.5in
 p30349
 sS'processor speed'
 p30350
@@ -64881,7 +64881,7 @@ V8 GB
 p30387
 sS'screen size'
 p30388
-V13.3 inches
+V13.3in
 p30389
 sS'processor speed'
 p30390
@@ -64964,7 +64964,7 @@ V16 GB
 p30426
 sS'screen size'
 p30427
-V17.3 inches
+V17.3in
 p30428
 sS'processor speed'
 p30429
@@ -65046,7 +65046,7 @@ V8 GB
 p30464
 sS'screen size'
 p30465
-V14 inches
+V14in
 p30466
 sS'processor speed'
 p30467
@@ -65129,7 +65129,7 @@ V8 GB
 p30503
 sS'screen size'
 p30504
-V14 inches
+V14in
 p30505
 sS'processor speed'
 p30506
@@ -65212,7 +65212,7 @@ V16 GB
 p30542
 sS'screen size'
 p30543
-V13.3 inches
+V13.3in
 p30544
 sS'processor speed'
 p30545
@@ -65294,7 +65294,7 @@ V8 GB
 p30580
 sS'screen size'
 p30581
-V15.6 inches
+V15.6in
 p30582
 sS'processor speed'
 p30583
@@ -65377,7 +65377,7 @@ V16 GB
 p30619
 sS'screen size'
 p30620
-V15.6 inches
+V15.6in
 p30621
 sS'processor speed'
 p30622
@@ -65460,7 +65460,7 @@ V32 GB
 p30658
 sS'screen size'
 p30659
-V15.6 inches
+V15.6in
 p30660
 sS'processor speed'
 p30661
@@ -65544,7 +65544,7 @@ V32 GB
 p30698
 sS'screen size'
 p30699
-V15.6 inches
+V15.6in
 p30700
 sS'processor speed'
 p30701
@@ -65622,7 +65622,7 @@ V0 GB
 p30732
 sS'screen size'
 p30733
-V15.6 inches
+V15.6in
 p30734
 sS'processor speed'
 p30735
@@ -65701,7 +65701,7 @@ V8 GB
 p30767
 sS'screen size'
 p30768
-V14.6 inches
+V14.6in
 p30769
 sS'processor speed'
 p30770
@@ -65785,7 +65785,7 @@ V4 GB
 p30807
 sS'screen size'
 p30808
-V12.5 inches
+V12.5in
 p30809
 sS'processor speed'
 p30810
@@ -65866,7 +65866,7 @@ V16 GB
 p30844
 sS'screen size'
 p30845
-V15.6 inches
+V15.6in
 p30846
 sS'processor speed'
 p30847
@@ -65948,7 +65948,7 @@ V8 GB
 p30882
 sS'screen size'
 p30883
-V14 inches
+V14in
 p30884
 sS'processor speed'
 p30885
@@ -66028,7 +66028,7 @@ V8 GB
 p30918
 sS'screen size'
 p30919
-V17.3 in
+V17.3in
 p30920
 sS'processor speed'
 p30921
@@ -66112,7 +66112,7 @@ V8 GB
 p30958
 sS'screen size'
 p30959
-V15.6 inches
+V15.6in
 p30960
 sS'processor speed'
 p30961
@@ -66195,7 +66195,7 @@ V2 GB
 p30997
 sS'screen size'
 p30998
-V10.1 inches
+V10.1in
 p30999
 sS'processor speed'
 p31000
@@ -66278,7 +66278,7 @@ V8 GB
 p31036
 sS'screen size'
 p31037
-V15.6 inches
+V15.6in
 p31038
 sS'processor speed'
 p31039
@@ -66361,7 +66361,7 @@ V16 GB
 p31075
 sS'screen size'
 p31076
-V13.3 inches
+V13.3in
 p31077
 sS'processor speed'
 p31078
@@ -66524,7 +66524,7 @@ V16 GB
 p31150
 sS'screen size'
 p31151
-V15.6 inches
+V15.6in
 p31152
 sS'processor speed'
 p31153
@@ -66607,7 +66607,7 @@ V6 GB
 p31189
 sS'screen size'
 p31190
-V15.6 inches
+V15.6in
 p31191
 sS'processor speed'
 p31192
@@ -66688,7 +66688,7 @@ V8 GB
 p31226
 sS'screen size'
 p31227
-V14 inches
+V14in
 p31228
 sS'processor speed'
 p31229
@@ -66769,7 +66769,7 @@ V8 GB
 p31263
 sS'screen size'
 p31264
-V17.3 in
+V17.3in
 p31265
 sS'processor speed'
 p31266
@@ -66850,7 +66850,7 @@ V8 GB
 p31300
 sS'screen size'
 p31301
-V14 inches
+V14in
 p31302
 sS'processor speed'
 p31303
@@ -66932,7 +66932,7 @@ V8 GB
 p31338
 sS'screen size'
 p31339
-V15.6 inches
+V15.6in
 p31340
 sS'processor speed'
 p31341
@@ -67014,7 +67014,7 @@ V0 GB
 p31376
 sS'screen size'
 p31377
-V14 inches
+V14in
 p31378
 sS'processor speed'
 p31379
@@ -67095,7 +67095,7 @@ V6 GB
 p31413
 sS'screen size'
 p31414
-V15.6 inches
+V15.6in
 p31415
 sS'processor speed'
 p31416
@@ -67177,7 +67177,7 @@ V0 GB
 p31451
 sS'screen size'
 p31452
-V14 inches
+V14in
 p31453
 sS'processor speed'
 p31454
@@ -67259,7 +67259,7 @@ V8 GB
 p31489
 sS'screen size'
 p31490
-V15.6 inches
+V15.6in
 p31491
 sS'processor speed'
 p31492
@@ -67341,7 +67341,7 @@ V8 GB
 p31527
 sS'screen size'
 p31528
-V15.6 inches
+V15.6in
 p31529
 sS'processor speed'
 p31530
@@ -67425,7 +67425,7 @@ V4 GB
 p31567
 sS'screen size'
 p31568
-V15.6 inches
+V15.6in
 p31569
 sS'processor speed'
 p31570
@@ -67508,7 +67508,7 @@ V6 GB
 p31606
 sS'screen size'
 p31607
-V15.6 inches
+V15.6in
 p31608
 sS'processor speed'
 p31609
@@ -67593,7 +67593,7 @@ V4 GB
 p31647
 sS'screen size'
 p31648
-V11.6 inches
+V11.6in
 p31649
 sS'processor speed'
 p31650
@@ -67674,7 +67674,7 @@ V8 GB
 p31684
 sS'screen size'
 p31685
-V15.6 inches
+V15.6in
 p31686
 sS'processor speed'
 p31687
@@ -67757,7 +67757,7 @@ V8 GB
 p31723
 sS'screen size'
 p31724
-V15.6 inches
+V15.6in
 p31725
 sS'processor speed'
 p31726
@@ -67842,7 +67842,7 @@ V4 GB
 p31764
 sS'screen size'
 p31765
-V15.6 inches
+V15.6in
 p31766
 sS'processor speed'
 p31767
@@ -67926,7 +67926,7 @@ V8 GB
 p31804
 sS'screen size'
 p31805
-V15.6 inches
+V15.6in
 p31806
 sS'processor speed'
 p31807
@@ -68010,7 +68010,7 @@ V8 GB
 p31844
 sS'screen size'
 p31845
-V14 inches
+V14in
 p31846
 sS'processor speed'
 p31847
@@ -68091,7 +68091,7 @@ V16 GB
 p31881
 sS'screen size'
 p31882
-V15.6 inches
+V15.6in
 p31883
 sS'processor speed'
 p31884
@@ -68173,7 +68173,7 @@ V16 GB
 p31919
 sS'screen size'
 p31920
-V15.6 inches
+V15.6in
 p31921
 sS'processor speed'
 p31922
@@ -68256,7 +68256,7 @@ V8 GB
 p31958
 sS'screen size'
 p31959
-V15.6 inches
+V15.6in
 p31960
 sS'processor speed'
 p31961
@@ -68336,7 +68336,7 @@ V0 GB
 p31994
 sS'screen size'
 p31995
-V11.6 inches
+V11.6in
 p31996
 sS'processor speed'
 p31997
@@ -68416,7 +68416,7 @@ V0 GB
 p32030
 sS'screen size'
 p32031
-V14 inches
+V14in
 p32032
 sS'processor speed'
 p32033
@@ -68499,7 +68499,7 @@ V8 GB
 p32069
 sS'screen size'
 p32070
-V15.6 inches
+V15.6in
 p32071
 sS'processor speed'
 p32072
@@ -68584,7 +68584,7 @@ V8 GB
 p32110
 sS'screen size'
 p32111
-V14 inches
+V14in
 p32112
 sS'processor speed'
 p32113
@@ -68666,7 +68666,7 @@ V8 GB
 p32148
 sS'screen size'
 p32149
-V15.6 inches
+V15.6in
 p32150
 sS'processor speed'
 p32151
@@ -68750,7 +68750,7 @@ V8 GB
 p32188
 sS'screen size'
 p32189
-V14 inches
+V14in
 p32190
 sS'processor speed'
 p32191
@@ -68832,7 +68832,7 @@ V6 GB
 p32226
 sS'screen size'
 p32227
-V15.6 inches
+V15.6in
 p32228
 sS'processor speed'
 p32229
@@ -68916,7 +68916,7 @@ V8 GB
 p32266
 sS'screen size'
 p32267
-V17.3 inches
+V17.3in
 p32268
 sS'processor speed'
 p32269
@@ -68998,7 +68998,7 @@ V8 GB
 p32304
 sS'screen size'
 p32305
-V15.6 inches
+V15.6in
 p32306
 sS'processor speed'
 p32307
@@ -69080,7 +69080,7 @@ V32 GB
 p32342
 sS'screen size'
 p32343
-V15.6 inches
+V15.6in
 p32344
 sS'processor speed'
 p32345
@@ -69163,7 +69163,7 @@ V16 GB
 p32381
 sS'screen size'
 p32382
-V15.6 inches
+V15.6in
 p32383
 sS'processor speed'
 p32384
@@ -69247,7 +69247,7 @@ V8 GB
 p32421
 sS'screen size'
 p32422
-V15.6 inches
+V15.6in
 p32423
 sS'processor speed'
 p32424
@@ -69329,7 +69329,7 @@ V8 GB
 p32459
 sS'screen size'
 p32460
-V13.3 inches
+V13.3in
 p32461
 sS'processor speed'
 p32462
@@ -69494,7 +69494,7 @@ V16 GB
 p32536
 sS'screen size'
 p32537
-V17.3 inches
+V17.3in
 p32538
 sS'processor speed'
 p32539
@@ -69579,7 +69579,7 @@ V8 GB
 p32577
 sS'screen size'
 p32578
-V17.3 inches
+V17.3in
 p32579
 sS'processor speed'
 p32580
@@ -69664,7 +69664,7 @@ V512 KB
 p32618
 sS'screen size'
 p32619
-V10 inches
+V10in
 p32620
 sS'processor speed'
 p32621
@@ -69747,7 +69747,7 @@ V16 GB
 p32657
 sS'screen size'
 p32658
-V15.6 inches
+V15.6in
 p32659
 sS'processor speed'
 p32660
@@ -69828,7 +69828,7 @@ V12 GB
 p32694
 sS'screen size'
 p32695
-V14 inches
+V14in
 p32696
 sS'processor speed'
 p32697
@@ -69910,7 +69910,7 @@ V4 GB
 p32732
 sS'screen size'
 p32733
-V15.6 inches
+V15.6in
 p32734
 sS'processor speed'
 p32735
@@ -69995,7 +69995,7 @@ V4 GB
 p32773
 sS'screen size'
 p32774
-V11.6 inches
+V11.6in
 p32775
 sS'processor speed'
 p32776
@@ -70079,7 +70079,7 @@ V8 GB
 p32813
 sS'screen size'
 p32814
-V15.6 inches
+V15.6in
 p32815
 sS'processor speed'
 p32816
@@ -70163,7 +70163,7 @@ V4 GB
 p32853
 sS'screen size'
 p32854
-V13.3 inches
+V13.3in
 p32855
 sS'processor speed'
 p32856
@@ -70247,7 +70247,7 @@ V1 GB
 p32893
 sS'screen size'
 p32894
-V10.1 inches
+V10.1in
 p32895
 sS'processor speed'
 p32896
@@ -70328,7 +70328,7 @@ V4 GB
 p32930
 sS'screen size'
 p32931
-V15.6 inches
+V15.6in
 p32932
 sS'processor speed'
 p32933
@@ -70410,7 +70410,7 @@ V12 GB
 p32968
 sS'screen size'
 p32969
-V15.6 inches
+V15.6in
 p32970
 sS'processor speed'
 p32971
@@ -70494,7 +70494,7 @@ V16 GB
 p33008
 sS'screen size'
 p33009
-V15.6 inches
+V15.6in
 p33010
 sS'processor speed'
 p33011
@@ -70576,7 +70576,7 @@ V8 GB
 p33046
 sS'screen size'
 p33047
-V15.6 inches
+V15.6in
 p33048
 sS'processor speed'
 p33049
@@ -70660,7 +70660,7 @@ V12 GB
 p33086
 sS'screen size'
 p33087
-V15.6 inches
+V15.6in
 p33088
 sS'processor speed'
 p33089
@@ -70743,7 +70743,7 @@ V8 GB
 p33125
 sS'screen size'
 p33126
-V15.6 inches
+V15.6in
 p33127
 sS'processor speed'
 p33128
@@ -70826,7 +70826,7 @@ V16 GB
 p33164
 sS'screen size'
 p33165
-V15.6 inches
+V15.6in
 p33166
 sS'processor speed'
 p33167
@@ -70907,7 +70907,7 @@ V8 GB
 p33201
 sS'screen size'
 p33202
-V15.6 inches
+V15.6in
 p33203
 sS'processor speed'
 p33204
@@ -70989,7 +70989,7 @@ V16 GB
 p33239
 sS'screen size'
 p33240
-V15.6 inches
+V15.6in
 p33241
 sS'processor speed'
 p33242
@@ -71069,7 +71069,7 @@ V4 GB
 p33275
 sS'screen size'
 p33276
-V15.6 inches
+V15.6in
 p33277
 sS'processor speed'
 p33278
@@ -71152,7 +71152,7 @@ V16 GB
 p33314
 sS'screen size'
 p33315
-V15.6 inches
+V15.6in
 p33316
 sS'processor speed'
 p33317
@@ -71233,7 +71233,7 @@ V6 GB
 p33351
 sS'screen size'
 p33352
-V15.6 inches
+V15.6in
 p33353
 sS'processor speed'
 p33354
@@ -71315,7 +71315,7 @@ V12 GB
 p33389
 sS'screen size'
 p33390
-V17.3 inches
+V17.3in
 p33391
 sS'processor speed'
 p33392
@@ -71397,7 +71397,7 @@ V8 GB
 p33427
 sS'screen size'
 p33428
-V15.6 inches
+V15.6in
 p33429
 sS'processor speed'
 p33430
@@ -71480,7 +71480,7 @@ V8 GB
 p33466
 sS'screen size'
 p33467
-V13.3 inches
+V13.3in
 p33468
 sS'processor speed'
 p33469
@@ -71564,7 +71564,7 @@ V4 GB
 p33506
 sS'screen size'
 p33507
-V15.6 inches
+V15.6in
 p33508
 sS'processor speed'
 p33509
@@ -71644,7 +71644,7 @@ V16 GB
 p33542
 sS'screen size'
 p33543
-V17.3 inches
+V17.3in
 p33544
 sS'processor speed'
 p33545
@@ -71721,7 +71721,7 @@ V4 GB
 p33575
 sS'screen size'
 p33576
-V14 in
+V14in
 p33577
 sS'processor speed'
 p33578
@@ -71803,7 +71803,7 @@ V8 GB
 p33613
 sS'screen size'
 p33614
-V15.6 inches
+V15.6in
 p33615
 sS'processor speed'
 p33616
@@ -71885,7 +71885,7 @@ V8 GB
 p33651
 sS'screen size'
 p33652
-V17.3 inches
+V17.3in
 p33653
 sS'processor speed'
 p33654
@@ -71967,7 +71967,7 @@ V16 GB
 p33689
 sS'screen size'
 p33690
-V15.6 inches
+V15.6in
 p33691
 sS'processor speed'
 p33692
@@ -72047,7 +72047,7 @@ V32 GB
 p33725
 sS'screen size'
 p33726
-V17.3 inches
+V17.3in
 p33727
 sS'processor speed'
 p33728
@@ -72129,7 +72129,7 @@ V12 GB
 p33763
 sS'screen size'
 p33764
-V15.6 inches
+V15.6in
 p33765
 sS'processor speed'
 p33766
@@ -72213,7 +72213,7 @@ V4 GB
 p33803
 sS'screen size'
 p33804
-V15.6 inches
+V15.6in
 p33805
 sS'processor speed'
 p33806
@@ -72298,7 +72298,7 @@ V12 GB
 p33844
 sS'screen size'
 p33845
-V15.6 inches
+V15.6in
 p33846
 sS'processor speed'
 p33847
@@ -72381,7 +72381,7 @@ V8 GB
 p33883
 sS'screen size'
 p33884
-V15.6 inches
+V15.6in
 p33885
 sS'processor speed'
 p33886
@@ -72466,7 +72466,7 @@ V12 GB
 p33924
 sS'screen size'
 p33925
-V15.6 inches
+V15.6in
 p33926
 sS'processor speed'
 p33927
@@ -72548,7 +72548,7 @@ V0 GB
 p33962
 sS'screen size'
 p33963
-V15.6 inches
+V15.6in
 p33964
 sS'processor speed'
 p33965
@@ -72631,7 +72631,7 @@ V16 GB
 p34001
 sS'screen size'
 p34002
-V15.6 inches
+V15.6in
 p34003
 sS'processor speed'
 p34004
@@ -72715,7 +72715,7 @@ V8 GB
 p34041
 sS'screen size'
 p34042
-V14 inches
+V14in
 p34043
 sS'processor speed'
 p34044
@@ -72795,7 +72795,7 @@ V4 GB
 p34077
 sS'screen size'
 p34078
-V14 inches
+V14in
 p34079
 sS'processor speed'
 p34080
@@ -72877,7 +72877,7 @@ V8 GB
 p34115
 sS'screen size'
 p34116
-V15.6 inches
+V15.6in
 p34117
 sS'processor speed'
 p34118
@@ -72959,7 +72959,7 @@ V8 GB
 p34153
 sS'screen size'
 p34154
-V14 inches
+V14in
 p34155
 sS'processor speed'
 p34156
@@ -73043,7 +73043,7 @@ V12 GB
 p34193
 sS'screen size'
 p34194
-V15.6 inches
+V15.6in
 p34195
 sS'processor speed'
 p34196
@@ -73126,7 +73126,7 @@ V32 GB
 p34232
 sS'screen size'
 p34233
-V15.6 inches
+V15.6in
 p34234
 sS'processor speed'
 p34235
@@ -73210,7 +73210,7 @@ V8 GB
 p34272
 sS'screen size'
 p34273
-V15.6 inches
+V15.6in
 p34274
 sS'processor speed'
 p34275
@@ -73295,7 +73295,7 @@ V4 GB
 p34313
 sS'screen size'
 p34314
-V11.6 inches
+V11.6in
 p34315
 sS'processor speed'
 p34316
@@ -73379,7 +73379,7 @@ V4 GB
 p34353
 sS'screen size'
 p34354
-V15.6 inches
+V15.6in
 p34355
 sS'processor speed'
 p34356
@@ -73463,7 +73463,7 @@ V16 GB
 p34393
 sS'screen size'
 p34394
-V15.6 inches
+V15.6in
 p34395
 sS'processor speed'
 p34396
@@ -73545,7 +73545,7 @@ V16 GB
 p34431
 sS'screen size'
 p34432
-V14 inches
+V14in
 p34433
 sS'processor speed'
 p34434
@@ -73628,7 +73628,7 @@ V8 GB
 p34470
 sS'screen size'
 p34471
-V15.6 inches
+V15.6in
 p34472
 sS'processor speed'
 p34473
@@ -73713,7 +73713,7 @@ V4 GB
 p34511
 sS'screen size'
 p34512
-V12 inches
+V12in
 p34513
 sS'processor speed'
 p34514
@@ -73797,7 +73797,7 @@ V8 GB
 p34551
 sS'screen size'
 p34552
-V15.6 inches
+V15.6in
 p34553
 sS'processor speed'
 p34554
@@ -73880,7 +73880,7 @@ V8 GB
 p34590
 sS'screen size'
 p34591
-V17.3 inches
+V17.3in
 p34592
 sS'processor speed'
 p34593
@@ -73961,7 +73961,7 @@ V4 GB
 p34627
 sS'screen size'
 p34628
-V17.3 inches
+V17.3in
 p34629
 sS'processor speed'
 p34630
@@ -74044,7 +74044,7 @@ V8 GB
 p34666
 sS'screen size'
 p34667
-V15.6 inches
+V15.6in
 p34668
 sS'processor speed'
 p34669
@@ -74126,7 +74126,7 @@ V8 GB
 p34704
 sS'screen size'
 p34705
-V15.6 inches
+V15.6in
 p34706
 sS'processor speed'
 p34707
@@ -74207,7 +74207,7 @@ V16 GB
 p34741
 sS'screen size'
 p34742
-V14 inches
+V14in
 p34743
 sS'processor speed'
 p34744
@@ -74290,7 +74290,7 @@ V4 GB
 p34780
 sS'screen size'
 p34781
-V15.6 inches
+V15.6in
 p34782
 sS'processor speed'
 p34783
@@ -74370,7 +74370,7 @@ V4 GB
 p34816
 sS'screen size'
 p34817
-V15.6 inches
+V15.6in
 p34818
 sS'processor speed'
 p34819
@@ -74454,7 +74454,7 @@ V12 GB
 p34856
 sS'screen size'
 p34857
-V12 inches
+V12in
 p34858
 sS'processor speed'
 p34859
@@ -74532,7 +74532,7 @@ V32 GB
 p34890
 sS'screen size'
 p34891
-V15.6 in
+V15.6in
 p34892
 sS'processor speed'
 p34893
@@ -74614,7 +74614,7 @@ V16 GB
 p34928
 sS'screen size'
 p34929
-V17.3 inches
+V17.3in
 p34930
 sS'processor speed'
 p34931
@@ -74696,7 +74696,7 @@ V8 GB
 p34966
 sS'screen size'
 p34967
-V14 inches
+V14in
 p34968
 sS'processor speed'
 p34969
@@ -74776,7 +74776,7 @@ V32 GB
 p35002
 sS'screen size'
 p35003
-V17.3 inches
+V17.3in
 p35004
 sS'processor speed'
 p35005
@@ -74857,7 +74857,7 @@ V12 GB
 p35039
 sS'screen size'
 p35040
-V15.6 inches
+V15.6in
 p35041
 sS'processor speed'
 p35042
@@ -74938,7 +74938,7 @@ V8 GB
 p35076
 sS'screen size'
 p35077
-V14 inches
+V14in
 p35078
 sS'processor speed'
 p35079
@@ -75021,7 +75021,7 @@ V16 GB
 p35115
 sS'screen size'
 p35116
-V17.3 inches
+V17.3in
 p35117
 sS'processor speed'
 p35118
@@ -75103,7 +75103,7 @@ V32 GB
 p35153
 sS'screen size'
 p35154
-V15.6 inches
+V15.6in
 p35155
 sS'processor speed'
 p35156
@@ -75186,7 +75186,7 @@ V16 GB
 p35192
 sS'screen size'
 p35193
-V13.3 inches
+V13.3in
 p35194
 sS'processor speed'
 p35195
@@ -75271,7 +75271,7 @@ V8 GB
 p35233
 sS'screen size'
 p35234
-V13.3 inches
+V13.3in
 p35235
 sS'processor speed'
 p35236
@@ -75351,7 +75351,7 @@ V0 GB
 p35269
 sS'screen size'
 p35270
-V14 inches
+V14in
 p35271
 sS'processor speed'
 p35272
@@ -75433,7 +75433,7 @@ V16 GB
 p35307
 sS'screen size'
 p35308
-V17.3 inches
+V17.3in
 p35309
 sS'processor speed'
 p35310
@@ -75515,7 +75515,7 @@ V8 GB
 p35345
 sS'screen size'
 p35346
-V14 inches
+V14in
 p35347
 sS'processor speed'
 p35348
@@ -75598,7 +75598,7 @@ V4 GB
 p35384
 sS'screen size'
 p35385
-V13.3 inches
+V13.3in
 p35386
 sS'processor speed'
 p35387
@@ -75681,7 +75681,7 @@ V8 GB
 p35423
 sS'screen size'
 p35424
-V15.6 inches
+V15.6in
 p35425
 sS'processor speed'
 p35426
@@ -75763,7 +75763,7 @@ V8 GB
 p35461
 sS'screen size'
 p35462
-V15.6 inches
+V15.6in
 p35463
 sS'processor speed'
 p35464
@@ -75846,7 +75846,7 @@ V8 GB
 p35500
 sS'screen size'
 p35501
-V17.3 inches
+V17.3in
 p35502
 sS'processor speed'
 p35503
@@ -75926,7 +75926,7 @@ V16 GB
 p35536
 sS'screen size'
 p35537
-V15.6 in
+V15.6in
 p35538
 sS'processor speed'
 p35539
@@ -76009,7 +76009,7 @@ V1600 MB
 p35575
 sS'screen size'
 p35576
-V17.3 inches
+V17.3in
 p35577
 sS'processor speed'
 p35578
@@ -76094,7 +76094,7 @@ V8 GB
 p35616
 sS'screen size'
 p35617
-V15.6 inches
+V15.6in
 p35618
 sS'processor speed'
 p35619
@@ -76177,7 +76177,7 @@ V32 GB
 p35655
 sS'screen size'
 p35656
-V15.6 inches
+V15.6in
 p35657
 sS'processor speed'
 p35658
@@ -76259,7 +76259,7 @@ V16 GB
 p35693
 sS'screen size'
 p35694
-V13.3 inches
+V13.3in
 p35695
 sS'processor speed'
 p35696
@@ -76341,7 +76341,7 @@ V8 GB
 p35731
 sS'screen size'
 p35732
-V13.3 inches
+V13.3in
 p35733
 sS'processor speed'
 p35734
@@ -76425,7 +76425,7 @@ V8 GB
 p35771
 sS'screen size'
 p35772
-V14 inches
+V14in
 p35773
 sS'processor speed'
 p35774
@@ -76510,7 +76510,7 @@ V8 GB
 p35812
 sS'screen size'
 p35813
-V14 inches
+V14in
 p35814
 sS'processor speed'
 p35815
@@ -76593,7 +76593,7 @@ V8 GB
 p35851
 sS'screen size'
 p35852
-V15.6 inches
+V15.6in
 p35853
 sS'processor speed'
 p35854
@@ -76672,7 +76672,7 @@ V8 GB
 p35886
 sS'screen size'
 p35887
-V13.3 inches
+V13.3in
 p35888
 sS'processor speed'
 p35889
@@ -76752,7 +76752,7 @@ V8 GB
 p35922
 sS'screen size'
 p35923
-V15.6 inches
+V15.6in
 p35924
 sS'processor speed'
 p35925
@@ -76835,7 +76835,7 @@ V16 GB
 p35961
 sS'screen size'
 p35962
-V17.3 inches
+V17.3in
 p35963
 sS'processor speed'
 p35964
@@ -76916,7 +76916,7 @@ V8 GB
 p35998
 sS'screen size'
 p35999
-V15.6 inches
+V15.6in
 p36000
 sS'processor speed'
 p36001
@@ -76999,7 +76999,7 @@ V4 GB
 p36037
 sS'screen size'
 p36038
-V14 inches
+V14in
 p36039
 sS'processor speed'
 p36040
@@ -77084,7 +77084,7 @@ V8 GB
 p36078
 sS'screen size'
 p36079
-V15.6 inches
+V15.6in
 p36080
 sS'processor speed'
 p36081
@@ -77166,7 +77166,7 @@ V8 GB
 p36116
 sS'screen size'
 p36117
-V15.6 inches
+V15.6in
 p36118
 sS'processor speed'
 p36119
@@ -77248,7 +77248,7 @@ V8 GB
 p36154
 sS'screen size'
 p36155
-V15.6 inches
+V15.6in
 p36156
 sS'processor speed'
 p36157
@@ -77331,7 +77331,7 @@ V16 GB
 p36193
 sS'screen size'
 p36194
-V15.6 millimeters
+V15.6in
 p36195
 sS'processor speed'
 p36196
@@ -77413,7 +77413,7 @@ V16 GB
 p36231
 sS'screen size'
 p36232
-V15.6 inches
+V15.6in
 p36233
 sS'processor speed'
 p36234
@@ -77491,7 +77491,7 @@ V32 GB
 p36265
 sS'screen size'
 p36266
-V15.6 inches
+V15.6in
 p36267
 sS'processor speed'
 p36268
@@ -77575,7 +77575,7 @@ V4 GB
 p36305
 sS'screen size'
 p36306
-V17.3 inches
+V17.3in
 p36307
 sS'processor speed'
 p36308
@@ -77660,7 +77660,7 @@ V4 GB
 p36346
 sS'screen size'
 p36347
-V13.3 inches
+V13.3in
 p36348
 sS'processor speed'
 p36349
@@ -77744,7 +77744,7 @@ V4 GB
 p36386
 sS'screen size'
 p36387
-V15.6 inches
+V15.6in
 p36388
 sS'processor speed'
 p36389
@@ -77826,7 +77826,7 @@ V32 GB
 p36424
 sS'screen size'
 p36425
-V17.3 inches
+V17.3in
 p36426
 sS'processor speed'
 p36427
@@ -77909,7 +77909,7 @@ V24 GB
 p36463
 sS'screen size'
 p36464
-V17.3 inches
+V17.3in
 p36465
 sS'processor speed'
 p36466
@@ -77994,7 +77994,7 @@ V0.1 GB
 p36504
 sS'screen size'
 p36505
-V0.1 inches
+V0.1in
 p36506
 sS'processor speed'
 p36507
@@ -78079,7 +78079,7 @@ V16 GB
 p36545
 sS'screen size'
 p36546
-V15.6 inches
+V15.6in
 p36547
 sS'processor speed'
 p36548
@@ -78164,7 +78164,7 @@ V8 GB
 p36586
 sS'screen size'
 p36587
-V15.6 inches
+V15.6in
 p36588
 sS'processor speed'
 p36589
@@ -78249,7 +78249,7 @@ V8 GB
 p36627
 sS'screen size'
 p36628
-V14 inches
+V14in
 p36629
 sS'processor speed'
 p36630
@@ -78331,7 +78331,7 @@ V4 GB
 p36665
 sS'screen size'
 p36666
-V11.6 inches
+V11.6in
 p36667
 sS'processor speed'
 p36668
@@ -78415,7 +78415,7 @@ V4 GB
 p36705
 sS'screen size'
 p36706
-V14 inches
+V14in
 p36707
 sS'processor speed'
 p36708
@@ -78496,7 +78496,7 @@ V4 GB
 p36742
 sS'screen size'
 p36743
-V10.1 inches
+V10.1in
 p36744
 sS'processor speed'
 p36745
@@ -78579,7 +78579,7 @@ V4 GB
 p36781
 sS'screen size'
 p36782
-V17.3 inches
+V17.3in
 p36783
 sS'processor speed'
 p36784
@@ -78662,7 +78662,7 @@ V16 GB
 p36820
 sS'screen size'
 p36821
-V15.6 inches
+V15.6in
 p36822
 sS'processor speed'
 p36823
@@ -78744,7 +78744,7 @@ V8 GB
 p36858
 sS'screen size'
 p36859
-V14 inches
+V14in
 p36860
 sS'processor speed'
 p36861
@@ -78827,7 +78827,7 @@ V2 GB
 p36897
 sS'screen size'
 p36898
-V15.6 inches
+V15.6in
 p36899
 sS'processor speed'
 p36900
@@ -78904,7 +78904,7 @@ V8 GB
 p36930
 sS'screen size'
 p36931
-V15.6 inches
+V15.6in
 p36932
 sS'processor speed'
 p36933
@@ -78987,7 +78987,7 @@ V8 GB
 p36969
 sS'screen size'
 p36970
-V15.6 inches
+V15.6in
 p36971
 sS'processor speed'
 p36972
@@ -79068,7 +79068,7 @@ V12 GB
 p37006
 sS'screen size'
 p37007
-V15.6 inches
+V15.6in
 p37008
 sS'processor speed'
 p37009
@@ -79152,7 +79152,7 @@ V4 GB
 p37046
 sS'screen size'
 p37047
-V11.6 inches
+V11.6in
 p37048
 sS'processor speed'
 p37049
@@ -79235,7 +79235,7 @@ V16 GB
 p37085
 sS'screen size'
 p37086
-V15.6 inches
+V15.6in
 p37087
 sS'processor speed'
 p37088
@@ -79317,7 +79317,7 @@ V32 GB
 p37123
 sS'screen size'
 p37124
-V14 inches
+V14in
 p37125
 sS'processor speed'
 p37126
@@ -79402,7 +79402,7 @@ V4 GB
 p37164
 sS'screen size'
 p37165
-V15.6 inches
+V15.6in
 p37166
 sS'processor speed'
 p37167
@@ -79487,7 +79487,7 @@ V16 GB
 p37205
 sS'screen size'
 p37206
-V15.6 inches
+V15.6in
 p37207
 sS'processor speed'
 p37208
@@ -79567,7 +79567,7 @@ V8 GB
 p37241
 sS'screen size'
 p37242
-V14 inches
+V14in
 p37243
 sS'processor speed'
 p37244
@@ -79650,7 +79650,7 @@ V16 GB
 p37280
 sS'screen size'
 p37281
-V15.6 inches
+V15.6in
 p37282
 sS'processor speed'
 p37283
@@ -79733,7 +79733,7 @@ V4 GB
 p37319
 sS'screen size'
 p37320
-V15.6 inches
+V15.6in
 p37321
 sS'processor speed'
 p37322
@@ -79818,7 +79818,7 @@ V8 GB
 p37360
 sS'screen size'
 p37361
-V15.6 inches
+V15.6in
 p37362
 sS'processor speed'
 p37363
@@ -79898,7 +79898,7 @@ V8 GB
 p37396
 sS'screen size'
 p37397
-V12.5 inches
+V12.5in
 p37398
 sS'processor speed'
 p37399
@@ -79980,7 +79980,7 @@ V8 GB
 p37434
 sS'screen size'
 p37435
-V17.3 inches
+V17.3in
 p37436
 sS'processor speed'
 p37437
@@ -80064,7 +80064,7 @@ V16 GB
 p37474
 sS'screen size'
 p37475
-V17.3 inches
+V17.3in
 p37476
 sS'processor speed'
 p37477
@@ -80146,7 +80146,7 @@ V12 GB
 p37512
 sS'screen size'
 p37513
-V17.3 inches
+V17.3in
 p37514
 sS'processor speed'
 p37515
@@ -80230,7 +80230,7 @@ V8 GB
 p37552
 sS'screen size'
 p37553
-V15.6 inches
+V15.6in
 p37554
 sS'processor speed'
 p37555
@@ -80314,7 +80314,7 @@ V8 GB
 p37592
 sS'screen size'
 p37593
-V15.6 inches
+V15.6in
 p37594
 sS'processor speed'
 p37595
@@ -80396,7 +80396,7 @@ V8 GB
 p37630
 sS'screen size'
 p37631
-V17.3 inches
+V17.3in
 p37632
 sS'processor speed'
 p37633
@@ -80479,7 +80479,7 @@ V8 GB
 p37669
 sS'screen size'
 p37670
-V15.6 inches
+V15.6in
 p37671
 sS'processor speed'
 p37672
@@ -80558,7 +80558,7 @@ V16 GB
 p37704
 sS'screen size'
 p37705
-V13.1 inches
+V13.1in
 p37706
 sS'processor speed'
 p37707
@@ -80642,7 +80642,7 @@ V16 GB
 p37744
 sS'screen size'
 p37745
-V17.3 inches
+V17.3in
 p37746
 sS'processor speed'
 p37747
@@ -80724,7 +80724,7 @@ V4 GB
 p37782
 sS'screen size'
 p37783
-V15.6 inches
+V15.6in
 p37784
 sS'processor speed'
 p37785
@@ -80805,7 +80805,7 @@ V32 GB
 p37819
 sS'screen size'
 p37820
-V15.6 in
+V15.6in
 p37821
 sS'processor speed'
 p37822
@@ -80887,7 +80887,7 @@ V16 GB
 p37857
 sS'screen size'
 p37858
-V13.3 inches
+V13.3in
 p37859
 sS'processor speed'
 p37860
@@ -80968,7 +80968,7 @@ V16 GB
 p37894
 sS'screen size'
 p37895
-V15.6 inches
+V15.6in
 p37896
 sS'processor speed'
 p37897
@@ -81049,7 +81049,7 @@ V8 GB
 p37931
 sS'screen size'
 p37932
-V15.6 inches
+V15.6in
 p37933
 sS'processor speed'
 p37934
@@ -81131,7 +81131,7 @@ V8 GB
 p37969
 sS'screen size'
 p37970
-V15.6 inches
+V15.6in
 p37971
 sS'processor speed'
 p37972
@@ -81212,7 +81212,7 @@ V4 GB
 p38006
 sS'screen size'
 p38007
-V15.6 inches
+V15.6in
 p38008
 sS'processor speed'
 p38009
@@ -81294,7 +81294,7 @@ V6 GB
 p38044
 sS'screen size'
 p38045
-V15.6 inches
+V15.6in
 p38046
 sS'processor speed'
 p38047
@@ -81376,7 +81376,7 @@ V8 GB
 p38082
 sS'screen size'
 p38083
-V17.3 inches
+V17.3in
 p38084
 sS'processor speed'
 p38085
@@ -81455,7 +81455,7 @@ V32 GB
 p38117
 sS'screen size'
 p38118
-V17.3 in
+V17.3in
 p38119
 sS'processor speed'
 p38120
@@ -81538,7 +81538,7 @@ V8 GB
 p38156
 sS'screen size'
 p38157
-V15.6 inches
+V15.6in
 p38158
 sS'processor speed'
 p38159
@@ -81621,7 +81621,7 @@ V16 GB
 p38195
 sS'screen size'
 p38196
-V17.3 inches
+V17.3in
 p38197
 sS'processor speed'
 p38198
@@ -81704,7 +81704,7 @@ V24 GB
 p38234
 sS'screen size'
 p38235
-V15.6 inches
+V15.6in
 p38236
 sS'processor speed'
 p38237
@@ -81788,7 +81788,7 @@ V16 GB
 p38274
 sS'screen size'
 p38275
-V12.5 inches
+V12.5in
 p38276
 sS'processor speed'
 p38277
@@ -81871,7 +81871,7 @@ V8 GB
 p38313
 sS'screen size'
 p38314
-V15.6 inches
+V15.6in
 p38315
 sS'processor speed'
 p38316
@@ -81951,7 +81951,7 @@ V32 GB
 p38349
 sS'screen size'
 p38350
-V17.3 in
+V17.3in
 p38351
 sS'processor speed'
 p38352
@@ -82030,7 +82030,7 @@ V16 GB
 p38384
 sS'screen size'
 p38385
-V15.6 inches
+V15.6in
 p38386
 sS'processor speed'
 p38387
@@ -82110,7 +82110,7 @@ V8 GB
 p38420
 sS'screen size'
 p38421
-V15.6 inches
+V15.6in
 p38422
 sS'processor speed'
 p38423
@@ -82191,7 +82191,7 @@ V8 GB
 p38457
 sS'screen size'
 p38458
-V15.6 inches
+V15.6in
 p38459
 sS'processor speed'
 p38460
@@ -82273,7 +82273,7 @@ V6 GB
 p38495
 sS'screen size'
 p38496
-V15.6 inches
+V15.6in
 p38497
 sS'processor speed'
 p38498
@@ -82354,7 +82354,7 @@ V4 GB
 p38532
 sS'screen size'
 p38533
-V11.6 inches
+V11.6in
 p38534
 sS'processor speed'
 p38535
@@ -82437,7 +82437,7 @@ V16 GB
 p38571
 sS'screen size'
 p38572
-V15.6 inches
+V15.6in
 p38573
 sS'processor speed'
 p38574
@@ -82522,7 +82522,7 @@ V8 GB
 p38612
 sS'screen size'
 p38613
-V15.6 inches
+V15.6in
 p38614
 sS'processor speed'
 p38615
@@ -82602,7 +82602,7 @@ V8 GB
 p38648
 sS'screen size'
 p38649
-V15.6 inches
+V15.6in
 p38650
 sS'processor speed'
 p38651
@@ -82687,7 +82687,7 @@ V8 GB
 p38689
 sS'screen size'
 p38690
-V14 inches
+V14in
 p38691
 sS'processor speed'
 p38692
@@ -82769,7 +82769,7 @@ V32 GB
 p38727
 sS'screen size'
 p38728
-V15.6 inches
+V15.6in
 p38729
 sS'processor speed'
 p38730
@@ -82854,7 +82854,7 @@ V16 GB
 p38768
 sS'screen size'
 p38769
-V15.6 inches
+V15.6in
 p38770
 sS'processor speed'
 p38771
@@ -82938,7 +82938,7 @@ V8 GB
 p38808
 sS'screen size'
 p38809
-V14 inches
+V14in
 p38810
 sS'processor speed'
 p38811
@@ -83020,7 +83020,7 @@ V32 GB
 p38846
 sS'screen size'
 p38847
-V15.6 inches
+V15.6in
 p38848
 sS'processor speed'
 p38849
@@ -83101,7 +83101,7 @@ V4 GB
 p38883
 sS'screen size'
 p38884
-V13.3 in
+V13.3in
 p38885
 sS'processor speed'
 p38886
@@ -83185,7 +83185,7 @@ V8 GB
 p38923
 sS'screen size'
 p38924
-V14 inches
+V14in
 p38925
 sS'processor speed'
 p38926
@@ -83269,7 +83269,7 @@ V4 GB
 p38963
 sS'screen size'
 p38964
-V11.6 inches
+V11.6in
 p38965
 sS'processor speed'
 p38966
@@ -83351,7 +83351,7 @@ V4 GB
 p39001
 sS'screen size'
 p39002
-V15.6 inches
+V15.6in
 p39003
 sS'processor speed'
 p39004
@@ -83433,7 +83433,7 @@ V8 GB
 p39039
 sS'screen size'
 p39040
-V15.6 inches
+V15.6in
 p39041
 sS'processor speed'
 p39042
@@ -83517,7 +83517,7 @@ V4 GB
 p39079
 sS'screen size'
 p39080
-V15.6 inches
+V15.6in
 p39081
 sS'processor speed'
 p39082
@@ -83597,7 +83597,7 @@ V8 GB
 p39115
 sS'screen size'
 p39116
-V15.6 inches
+V15.6in
 p39117
 sS'processor speed'
 p39118
@@ -83680,7 +83680,7 @@ V6 GB
 p39154
 sS'screen size'
 p39155
-V11.6 inches
+V11.6in
 p39156
 sS'processor speed'
 p39157
@@ -83759,7 +83759,7 @@ V0 GB
 p39189
 sS'screen size'
 p39190
-V17.3 in
+V17.3in
 p39191
 sS'processor speed'
 p39192
@@ -83843,7 +83843,7 @@ V8 GB
 p39229
 sS'screen size'
 p39230
-V15.6 inches
+V15.6in
 p39231
 sS'processor speed'
 p39232
@@ -83923,7 +83923,7 @@ V8 GB
 p39265
 sS'screen size'
 p39266
-V17.3 in
+V17.3in
 p39267
 sS'processor speed'
 p39268
@@ -84006,7 +84006,7 @@ V32 GB
 p39304
 sS'screen size'
 p39305
-V17.3 inches
+V17.3in
 p39306
 sS'processor speed'
 p39307
@@ -84086,7 +84086,7 @@ V64 GB
 p39340
 sS'screen size'
 p39341
-V17.3 in
+V17.3in
 p39342
 sS'processor speed'
 p39343
@@ -84168,7 +84168,7 @@ V16 GB
 p39378
 sS'screen size'
 p39379
-V17.3 inches
+V17.3in
 p39380
 sS'processor speed'
 p39381
@@ -84250,7 +84250,7 @@ V12 GB
 p39416
 sS'screen size'
 p39417
-V17.3 inches
+V17.3in
 p39418
 sS'processor speed'
 p39419
@@ -84332,7 +84332,7 @@ V16 GB
 p39454
 sS'screen size'
 p39455
-V15.6 inches
+V15.6in
 p39456
 sS'processor speed'
 p39457
@@ -84411,7 +84411,7 @@ V8 GB
 p39489
 sS'screen size'
 p39490
-V13.3 inches
+V13.3in
 p39491
 sS'processor speed'
 p39492
@@ -84493,7 +84493,7 @@ V8 GB
 p39527
 sS'screen size'
 p39528
-V15.6 inches
+V15.6in
 p39529
 sS'processor speed'
 p39530
@@ -84578,7 +84578,7 @@ V8 GB
 p39568
 sS'screen size'
 p39569
-V13.3 inches
+V13.3in
 p39570
 sS'processor speed'
 p39571
@@ -84662,7 +84662,7 @@ V2 GB
 p39608
 sS'screen size'
 p39609
-V11.6 inches
+V11.6in
 p39610
 sS'processor speed'
 p39611
@@ -84747,7 +84747,7 @@ V8 GB
 p39649
 sS'screen size'
 p39650
-V17.3 inches
+V17.3in
 p39651
 sS'processor speed'
 p39652
@@ -84830,7 +84830,7 @@ V8 GB
 p39688
 sS'screen size'
 p39689
-V14 inches
+V14in
 p39690
 sS'processor speed'
 p39691
@@ -84913,7 +84913,7 @@ V8 GB
 p39727
 sS'screen size'
 p39728
-V15.6 inches
+V15.6in
 p39729
 sS'processor speed'
 p39730
@@ -84998,7 +84998,7 @@ V4 GB
 p39768
 sS'screen size'
 p39769
-V11.6 inches
+V11.6in
 p39770
 sS'processor speed'
 p39771
@@ -85080,7 +85080,7 @@ V8 GB
 p39806
 sS'screen size'
 p39807
-V15.6 inches
+V15.6in
 p39808
 sS'processor speed'
 p39809
@@ -85163,7 +85163,7 @@ V8 GB
 p39845
 sS'screen size'
 p39846
-V15.6 inches
+V15.6in
 p39847
 sS'processor speed'
 p39848
@@ -85245,7 +85245,7 @@ V8 GB
 p39883
 sS'screen size'
 p39884
-V15.6 inches
+V15.6in
 p39885
 sS'processor speed'
 p39886
@@ -85325,7 +85325,7 @@ V8 GB
 p39919
 sS'screen size'
 p39920
-V15.6 inches
+V15.6in
 p39921
 sS'processor speed'
 p39922
@@ -85407,7 +85407,7 @@ V16 GB
 p39957
 sS'screen size'
 p39958
-V15.6 inches
+V15.6in
 p39959
 sS'processor speed'
 p39960
@@ -85490,7 +85490,7 @@ V8 GB
 p39996
 sS'screen size'
 p39997
-V13.3 inches
+V13.3in
 p39998
 sS'processor speed'
 p39999
@@ -85573,7 +85573,7 @@ V8 GB
 p40035
 sS'screen size'
 p40036
-V15.6 inches
+V15.6in
 p40037
 sS'processor speed'
 p40038
@@ -85652,7 +85652,7 @@ p40070
 g24
 sS'screen size'
 p40071
-V15.6 inches
+V15.6in
 p40072
 sS'processor speed'
 p40073
@@ -85733,7 +85733,7 @@ V0.1 GB
 p40107
 sS'screen size'
 p40108
-V0.1 in
+V0.1in
 p40109
 sS'processor speed'
 p40110
@@ -85817,7 +85817,7 @@ V8 GB
 p40147
 sS'screen size'
 p40148
-V15.6 inches
+V15.6in
 p40149
 sS'processor speed'
 p40150
@@ -85899,7 +85899,7 @@ V12 GB
 p40185
 sS'screen size'
 p40186
-V13.3 inches
+V13.3in
 p40187
 sS'processor speed'
 p40188
@@ -85981,7 +85981,7 @@ V12 GB
 p40223
 sS'screen size'
 p40224
-V15.6 inches
+V15.6in
 p40225
 sS'processor speed'
 p40226
@@ -86061,7 +86061,7 @@ V12 GB
 p40259
 sS'screen size'
 p40260
-V15.6 inches
+V15.6in
 p40261
 sS'processor speed'
 p40262
@@ -86142,7 +86142,7 @@ V8 GB
 p40296
 sS'screen size'
 p40297
-V14 inches
+V14in
 p40298
 sS'processor speed'
 p40299
@@ -86224,7 +86224,7 @@ V2 GB
 p40334
 sS'screen size'
 p40335
-V11.6 inches
+V11.6in
 p40336
 sS'processor speed'
 p40337
@@ -86307,7 +86307,7 @@ V6 GB
 p40373
 sS'screen size'
 p40374
-V17.3 inches
+V17.3in
 p40375
 sS'processor speed'
 p40376
@@ -86388,7 +86388,7 @@ V16 GB
 p40410
 sS'screen size'
 p40411
-V15.6 inches
+V15.6in
 p40412
 sS'processor speed'
 p40413
@@ -86469,7 +86469,7 @@ V8 GB
 p40447
 sS'screen size'
 p40448
-V17.3 inches
+V17.3in
 p40449
 sS'processor speed'
 p40450
@@ -86551,7 +86551,7 @@ V8 GB
 p40485
 sS'screen size'
 p40486
-V15.6 inches
+V15.6in
 p40487
 sS'processor speed'
 p40488
@@ -86634,7 +86634,7 @@ V16 GB
 p40524
 sS'screen size'
 p40525
-V15.6 inches
+V15.6in
 p40526
 sS'processor speed'
 p40527
@@ -86715,7 +86715,7 @@ V16 GB
 p40561
 sS'screen size'
 p40562
-V15.6 inches
+V15.6in
 p40563
 sS'processor speed'
 p40564
@@ -86795,7 +86795,7 @@ V0 GB
 p40597
 sS'screen size'
 p40598
-V1 inches
+V1in
 p40599
 sS'processor speed'
 p40600
@@ -86876,7 +86876,7 @@ V0 GB
 p40634
 sS'screen size'
 p40635
-V15.6 inches
+V15.6in
 p40636
 sS'processor speed'
 p40637
@@ -86960,7 +86960,7 @@ V16 GB
 p40674
 sS'screen size'
 p40675
-V15.6 inches
+V15.6in
 p40676
 sS'processor speed'
 p40677
@@ -87041,7 +87041,7 @@ V8 GB
 p40711
 sS'screen size'
 p40712
-V14 inches
+V14in
 p40713
 sS'processor speed'
 p40714
@@ -87119,7 +87119,7 @@ V16 GB
 p40745
 sS'screen size'
 p40746
-V13.3 inches
+V13.3in
 p40747
 sS'processor speed'
 p40748
@@ -87201,7 +87201,7 @@ V4 GB
 p40783
 sS'screen size'
 p40784
-V12.5 inches
+V12.5in
 p40785
 sS'processor speed'
 p40786
@@ -87283,7 +87283,7 @@ V16 GB
 p40821
 sS'screen size'
 p40822
-V17.3 inches
+V17.3in
 p40823
 sS'processor speed'
 p40824
@@ -87368,7 +87368,7 @@ V2 GB
 p40862
 sS'screen size'
 p40863
-V11.6 inches
+V11.6in
 p40864
 sS'processor speed'
 p40865
@@ -87450,7 +87450,7 @@ V6 GB
 p40900
 sS'screen size'
 p40901
-V15.6 inches
+V15.6in
 p40902
 sS'processor speed'
 p40903
@@ -87534,7 +87534,7 @@ V16 GB
 p40940
 sS'screen size'
 p40941
-V17.3 inches
+V17.3in
 p40942
 sS'processor speed'
 p40943
@@ -87618,7 +87618,7 @@ V16 GB
 p40980
 sS'screen size'
 p40981
-V15.6 inches
+V15.6in
 p40982
 sS'processor speed'
 p40983
@@ -87702,7 +87702,7 @@ V4 GB
 p41020
 sS'screen size'
 p41021
-V14 inches
+V14in
 p41022
 sS'processor speed'
 p41023
@@ -87784,7 +87784,7 @@ V16 GB
 p41058
 sS'screen size'
 p41059
-V17.3 inches
+V17.3in
 p41060
 sS'processor speed'
 p41061
@@ -87865,7 +87865,7 @@ V16 GB
 p41095
 sS'screen size'
 p41096
-V14 inches
+V14in
 p41097
 sS'processor speed'
 p41098
@@ -87945,7 +87945,7 @@ V0 GB
 p41131
 sS'screen size'
 p41132
-V17.3 inches
+V17.3in
 p41133
 sS'processor speed'
 p41134
@@ -88029,7 +88029,7 @@ V12 GB
 p41171
 sS'screen size'
 p41172
-V15.6 inches
+V15.6in
 p41173
 sS'processor speed'
 p41174
@@ -88113,7 +88113,7 @@ V12 GB
 p41211
 sS'screen size'
 p41212
-V15.6 inches
+V15.6in
 p41213
 sS'processor speed'
 p41214
@@ -88191,7 +88191,7 @@ V8 GB
 p41245
 sS'screen size'
 p41246
-V15.6 in
+V15.6in
 p41247
 sS'processor speed'
 p41248
@@ -88271,7 +88271,7 @@ V4 GB
 p41281
 sS'screen size'
 p41282
-V11.6 inches
+V11.6in
 p41283
 sS'processor speed'
 p41284
@@ -88352,7 +88352,7 @@ V0 GB
 p41318
 sS'screen size'
 p41319
-V12.3 inches
+V12.3in
 p41320
 sS'processor speed'
 p41321
@@ -88437,7 +88437,7 @@ V8 GB
 p41359
 sS'screen size'
 p41360
-V15.6 inches
+V15.6in
 p41361
 sS'processor speed'
 p41362
@@ -88519,7 +88519,7 @@ V8 GB
 p41397
 sS'screen size'
 p41398
-V15.6 inches
+V15.6in
 p41399
 sS'processor speed'
 p41400
@@ -88601,7 +88601,7 @@ V4 GB
 p41435
 sS'screen size'
 p41436
-V13.3 inches
+V13.3in
 p41437
 sS'processor speed'
 p41438
@@ -88682,7 +88682,7 @@ V8 GB
 p41472
 sS'screen size'
 p41473
-V12.5 inches
+V12.5in
 p41474
 sS'processor speed'
 p41475
@@ -88764,7 +88764,7 @@ V16 GB
 p41510
 sS'screen size'
 p41511
-V15.6 inches
+V15.6in
 p41512
 sS'processor speed'
 p41513
@@ -88847,7 +88847,7 @@ V32 GB
 p41549
 sS'screen size'
 p41550
-V15.6 inches
+V15.6in
 p41551
 sS'processor speed'
 p41552
@@ -88930,7 +88930,7 @@ V32 GB
 p41588
 sS'screen size'
 p41589
-V17.3 inches
+V17.3in
 p41590
 sS'processor speed'
 p41591
@@ -89013,7 +89013,7 @@ V16 GB
 p41627
 sS'screen size'
 p41628
-V15.6 inches
+V15.6in
 p41629
 sS'processor speed'
 p41630
@@ -89095,7 +89095,7 @@ V16 GB
 p41665
 sS'screen size'
 p41666
-V17.3 inches
+V17.3in
 p41667
 sS'processor speed'
 p41668
@@ -89178,7 +89178,7 @@ V8 GB
 p41704
 sS'screen size'
 p41705
-V15.6 inches
+V15.6in
 p41706
 sS'processor speed'
 p41707
@@ -89263,7 +89263,7 @@ V8 GB
 p41745
 sS'screen size'
 p41746
-V17.3 inches
+V17.3in
 p41747
 sS'processor speed'
 p41748
@@ -89344,7 +89344,7 @@ V8 GB
 p41782
 sS'screen size'
 p41783
-V13.3 inches
+V13.3in
 p41784
 sS'processor speed'
 p41785
@@ -89429,7 +89429,7 @@ V6 GB
 p41823
 sS'screen size'
 p41824
-V15.6 inches
+V15.6in
 p41825
 sS'processor speed'
 p41826
@@ -89511,7 +89511,7 @@ V8 GB
 p41861
 sS'screen size'
 p41862
-V13.3 inches
+V13.3in
 p41863
 sS'processor speed'
 p41864
@@ -89592,7 +89592,7 @@ V8 GB
 p41898
 sS'screen size'
 p41899
-V14 inches
+V14in
 p41900
 sS'processor speed'
 p41901
@@ -89674,7 +89674,7 @@ V8 GB
 p41936
 sS'screen size'
 p41937
-V15.6 inches
+V15.6in
 p41938
 sS'processor speed'
 p41939
@@ -89758,7 +89758,7 @@ V16 GB
 p41976
 sS'screen size'
 p41977
-V15.6 inches
+V15.6in
 p41978
 sS'processor speed'
 p41979
@@ -89841,7 +89841,7 @@ V8 GB
 p42015
 sS'screen size'
 p42016
-V13.3 inches
+V13.3in
 p42017
 sS'processor speed'
 p42018
@@ -89923,7 +89923,7 @@ V16 GB
 p42053
 sS'screen size'
 p42054
-V15.6 inches
+V15.6in
 p42055
 sS'processor speed'
 p42056
@@ -90008,7 +90008,7 @@ V2 GB
 p42094
 sS'screen size'
 p42095
-V15.6 inches
+V15.6in
 p42096
 sS'processor speed'
 p42097
@@ -90089,7 +90089,7 @@ V16 GB
 p42131
 sS'screen size'
 p42132
-V17.3 inches
+V17.3in
 p42133
 sS'processor speed'
 p42134
@@ -90174,7 +90174,7 @@ V8 GB
 p42172
 sS'screen size'
 p42173
-V15.6 inches
+V15.6in
 p42174
 sS'processor speed'
 p42175
@@ -90257,7 +90257,7 @@ V8 GB
 p42211
 sS'screen size'
 p42212
-V15.6 inches
+V15.6in
 p42213
 sS'processor speed'
 p42214
@@ -90341,7 +90341,7 @@ V8 GB
 p42251
 sS'screen size'
 p42252
-V15.6 inches
+V15.6in
 p42253
 sS'processor speed'
 p42254
@@ -90422,7 +90422,7 @@ V4 GB
 p42288
 sS'screen size'
 p42289
-V15.6 inches
+V15.6in
 p42290
 sS'processor speed'
 p42291
@@ -90503,7 +90503,7 @@ V8 GB
 p42325
 sS'screen size'
 p42326
-V14 inches
+V14in
 p42327
 sS'processor speed'
 p42328
@@ -90586,7 +90586,7 @@ V16 GB
 p42364
 sS'screen size'
 p42365
-V15.6 inches
+V15.6in
 p42366
 sS'processor speed'
 p42367
@@ -90667,7 +90667,7 @@ V12 GB
 p42401
 sS'screen size'
 p42402
-V15.6 inches
+V15.6in
 p42403
 sS'processor speed'
 p42404
@@ -90747,7 +90747,7 @@ V12 GB
 p42437
 sS'screen size'
 p42438
-V15.6 inches
+V15.6in
 p42439
 sS'processor speed'
 p42440
@@ -90828,7 +90828,7 @@ V16 GB
 p42474
 sS'screen size'
 p42475
-V17.3 inches
+V17.3in
 p42476
 sS'processor speed'
 p42477
@@ -90911,7 +90911,7 @@ V16 GB
 p42513
 sS'screen size'
 p42514
-V17.3 inches
+V17.3in
 p42515
 sS'processor speed'
 p42516
@@ -90995,7 +90995,7 @@ V4 GB
 p42553
 sS'screen size'
 p42554
-V11.6 inches
+V11.6in
 p42555
 sS'processor speed'
 p42556
@@ -91076,7 +91076,7 @@ V12 GB
 p42590
 sS'screen size'
 p42591
-V15.6 in
+V15.6in
 p42592
 sS'processor speed'
 p42593
@@ -91159,7 +91159,7 @@ V8 GB
 p42629
 sS'screen size'
 p42630
-V15.6 inches
+V15.6in
 p42631
 sS'processor speed'
 p42632
@@ -91243,7 +91243,7 @@ V16 GB
 p42669
 sS'screen size'
 p42670
-V15.6 inches
+V15.6in
 p42671
 sS'processor speed'
 p42672
@@ -91324,7 +91324,7 @@ V8 GB
 p42706
 sS'screen size'
 p42707
-V15.6 inches
+V15.6in
 p42708
 sS'processor speed'
 p42709
@@ -91405,7 +91405,7 @@ V32 GB
 p42743
 sS'screen size'
 p42744
-V15.6 in
+V15.6in
 p42745
 sS'processor speed'
 p42746
@@ -91487,7 +91487,7 @@ V4 GB
 p42781
 sS'screen size'
 p42782
-V11.6 inches
+V11.6in
 p42783
 sS'processor speed'
 p42784
@@ -91566,7 +91566,7 @@ V8 GB
 p42816
 sS'screen size'
 p42817
-V13 inches
+V13in
 p42818
 sS'processor speed'
 p42819
@@ -91648,7 +91648,7 @@ V16 GB
 p42854
 sS'screen size'
 p42855
-V17.3 inches
+V17.3in
 p42856
 sS'processor speed'
 p42857
@@ -91732,7 +91732,7 @@ V16 GB
 p42894
 sS'screen size'
 p42895
-V13.3 inches
+V13.3in
 p42896
 sS'processor speed'
 p42897
@@ -91816,7 +91816,7 @@ V16 GB
 p42934
 sS'screen size'
 p42935
-V15.6 inches
+V15.6in
 p42936
 sS'processor speed'
 p42937
@@ -91900,7 +91900,7 @@ V12 GB
 p42974
 sS'screen size'
 p42975
-V15.6 inches
+V15.6in
 p42976
 sS'processor speed'
 p42977
@@ -91983,7 +91983,7 @@ V12 GB
 p43013
 sS'screen size'
 p43014
-V15.6 inches
+V15.6in
 p43015
 sS'processor speed'
 p43016
@@ -92068,7 +92068,7 @@ V4 GB
 p43054
 sS'screen size'
 p43055
-V13.3 inches
+V13.3in
 p43056
 sS'processor speed'
 p43057
@@ -92150,7 +92150,7 @@ V16 GB
 p43092
 sS'screen size'
 p43093
-V15.6 inches
+V15.6in
 p43094
 sS'processor speed'
 p43095
@@ -92233,7 +92233,7 @@ V8 GB
 p43131
 sS'screen size'
 p43132
-V15.6 inches
+V15.6in
 p43133
 sS'processor speed'
 p43134
@@ -92313,7 +92313,7 @@ V32 GB
 p43167
 sS'screen size'
 p43168
-V15.6 in
+V15.6in
 p43169
 sS'processor speed'
 p43170
@@ -92393,7 +92393,7 @@ V16 GB
 p43203
 sS'screen size'
 p43204
-V17.3 inches
+V17.3in
 p43205
 sS'processor speed'
 p43206
@@ -92475,7 +92475,7 @@ V16 GB
 p43241
 sS'screen size'
 p43242
-V14 inches
+V14in
 p43243
 sS'processor speed'
 p43244
@@ -92558,7 +92558,7 @@ V4 GB
 p43280
 sS'screen size'
 p43281
-V15.6 inches
+V15.6in
 p43282
 sS'processor speed'
 p43283
@@ -92641,7 +92641,7 @@ V16 GB
 p43319
 sS'screen size'
 p43320
-V15.4 inches
+V15.4in
 p43321
 sS'processor speed'
 p43322
@@ -92726,7 +92726,7 @@ V12 GB
 p43360
 sS'screen size'
 p43361
-V15.6 inches
+V15.6in
 p43362
 sS'processor speed'
 p43363
@@ -92806,7 +92806,7 @@ V8 GB
 p43396
 sS'screen size'
 p43397
-V13.3 inches
+V13.3in
 p43398
 sS'processor speed'
 p43399
@@ -92888,7 +92888,7 @@ V8 GB
 p43434
 sS'screen size'
 p43435
-V15.6 inches
+V15.6in
 p43436
 sS'processor speed'
 p43437
@@ -92972,7 +92972,7 @@ V12 GB
 p43474
 sS'screen size'
 p43475
-V15.6 inches
+V15.6in
 p43476
 sS'processor speed'
 p43477
@@ -93054,7 +93054,7 @@ V8 GB
 p43512
 sS'screen size'
 p43513
-V17.3 inches
+V17.3in
 p43514
 sS'processor speed'
 p43515
@@ -93138,7 +93138,7 @@ V8 GB
 p43552
 sS'screen size'
 p43553
-V15.6 inches
+V15.6in
 p43554
 sS'processor speed'
 p43555
@@ -93221,7 +93221,7 @@ V16 GB
 p43591
 sS'screen size'
 p43592
-V15.6 inches
+V15.6in
 p43593
 sS'processor speed'
 p43594
@@ -93303,7 +93303,7 @@ V8 GB
 p43629
 sS'screen size'
 p43630
-V13.3 inches
+V13.3in
 p43631
 sS'processor speed'
 p43632
@@ -93385,7 +93385,7 @@ V32 GB
 p43667
 sS'screen size'
 p43668
-V15.6 inches
+V15.6in
 p43669
 sS'processor speed'
 p43670
@@ -93466,7 +93466,7 @@ V16 GB
 p43704
 sS'screen size'
 p43705
-V15.6 inches
+V15.6in
 p43706
 sS'processor speed'
 p43707
@@ -93548,7 +93548,7 @@ V8 GB
 p43742
 sS'screen size'
 p43743
-V11.6 inches
+V11.6in
 p43744
 sS'processor speed'
 p43745
@@ -93630,7 +93630,7 @@ V16 GB
 p43780
 sS'screen size'
 p43781
-V15.6 inches
+V15.6in
 p43782
 sS'processor speed'
 p43783
@@ -93714,7 +93714,7 @@ V16 GB
 p43820
 sS'screen size'
 p43821
-V15.4 inches
+V15.4in
 p43822
 sS'processor speed'
 p43823
@@ -93797,7 +93797,7 @@ V4 GB
 p43859
 sS'screen size'
 p43860
-V15.6 inches
+V15.6in
 p43861
 sS'processor speed'
 p43862
@@ -93878,7 +93878,7 @@ V6 GB
 p43896
 sS'screen size'
 p43897
-V15.6 in
+V15.6in
 p43898
 sS'processor speed'
 p43899
@@ -93963,7 +93963,7 @@ V8 GB
 p43937
 sS'screen size'
 p43938
-V13.3 inches
+V13.3in
 p43939
 sS'processor speed'
 p43940
@@ -94047,7 +94047,7 @@ V16 GB
 p43977
 sS'screen size'
 p43978
-V15.6 inches
+V15.6in
 p43979
 sS'processor speed'
 p43980
@@ -94127,7 +94127,7 @@ V20 GB
 p44013
 sS'screen size'
 p44014
-V14 in
+V14in
 p44015
 sS'processor speed'
 p44016
@@ -94205,7 +94205,7 @@ V16 GB
 p44047
 sS'screen size'
 p44048
-V13.3 inches
+V13.3in
 p44049
 sS'processor speed'
 p44050
@@ -94286,7 +94286,7 @@ V16 GB
 p44084
 sS'screen size'
 p44085
-V17.3 in
+V17.3in
 p44086
 sS'processor speed'
 p44087
@@ -94369,7 +94369,7 @@ V8 GB
 p44123
 sS'screen size'
 p44124
-V17.3 inches
+V17.3in
 p44125
 sS'processor speed'
 p44126
@@ -94453,7 +94453,7 @@ V8 GB
 p44163
 sS'screen size'
 p44164
-V12 inches
+V12in
 p44165
 sS'processor speed'
 p44166
@@ -94537,7 +94537,7 @@ V8 GB
 p44203
 sS'screen size'
 p44204
-V15.6 inches
+V15.6in
 p44205
 sS'processor speed'
 p44206
@@ -94619,7 +94619,7 @@ V8 GB
 p44241
 sS'screen size'
 p44242
-V15.6 inches
+V15.6in
 p44243
 sS'processor speed'
 p44244
@@ -94704,7 +94704,7 @@ V8 GB
 p44282
 sS'screen size'
 p44283
-V15.6 inches
+V15.6in
 p44284
 sS'processor speed'
 p44285
@@ -94786,7 +94786,7 @@ V16 GB
 p44320
 sS'screen size'
 p44321
-V15.6 inches
+V15.6in
 p44322
 sS'processor speed'
 p44323
@@ -94870,7 +94870,7 @@ V8 GB
 p44360
 sS'screen size'
 p44361
-V14 inches
+V14in
 p44362
 sS'processor speed'
 p44363
@@ -94955,7 +94955,7 @@ V8 GB
 p44401
 sS'screen size'
 p44402
-V15.6 inches
+V15.6in
 p44403
 sS'processor speed'
 p44404
@@ -95033,7 +95033,7 @@ V6 GB
 p44435
 sS'screen size'
 p44436
-V13.3 in
+V13.3in
 p44437
 sS'processor speed'
 p44438
@@ -95115,7 +95115,7 @@ V16 GB
 p44473
 sS'screen size'
 p44474
-V13.3 inches
+V13.3in
 p44475
 sS'processor speed'
 p44476
@@ -95200,7 +95200,7 @@ V4 GB
 p44514
 sS'screen size'
 p44515
-V13.3 inches
+V13.3in
 p44516
 sS'processor speed'
 p44517
@@ -95284,7 +95284,7 @@ V8 GB
 p44554
 sS'screen size'
 p44555
-V12.5 inches
+V12.5in
 p44556
 sS'processor speed'
 p44557
@@ -95364,7 +95364,7 @@ V16 GB
 p44590
 sS'screen size'
 p44591
-V15.4 inches
+V15.4in
 p44592
 sS'processor speed'
 p44593
@@ -95442,7 +95442,7 @@ V4 GB
 p44624
 sS'screen size'
 p44625
-V12.5 inches
+V12.5in
 p44626
 sS'processor speed'
 p44627
@@ -95522,7 +95522,7 @@ V8 GB
 p44660
 sS'screen size'
 p44661
-V17.3 inches
+V17.3in
 p44662
 sS'processor speed'
 p44663
@@ -95605,7 +95605,7 @@ V16 GB
 p44699
 sS'screen size'
 p44700
-V15.6 inches
+V15.6in
 p44701
 sS'processor speed'
 p44702
@@ -95689,7 +95689,7 @@ V8 GB
 p44739
 sS'screen size'
 p44740
-V15.6 inches
+V15.6in
 p44741
 sS'processor speed'
 p44742
@@ -95772,7 +95772,7 @@ V8 GB
 p44778
 sS'screen size'
 p44779
-V14 inches
+V14in
 p44780
 sS'processor speed'
 p44781
@@ -95852,7 +95852,7 @@ V8 GB
 p44814
 sS'screen size'
 p44815
-V13.3 inches
+V13.3in
 p44816
 sS'processor speed'
 p44817
@@ -95931,7 +95931,7 @@ V0 GB
 p44849
 sS'screen size'
 p44850
-V14 in
+V14in
 p44851
 sS'processor speed'
 p44852
@@ -96010,7 +96010,7 @@ V16 GB
 p44884
 sS'screen size'
 p44885
-V13.3 in
+V13.3in
 p44886
 sS'processor speed'
 p44887
@@ -96093,7 +96093,7 @@ V8 GB
 p44923
 sS'screen size'
 p44924
-V14 inches
+V14in
 p44925
 sS'processor speed'
 p44926
@@ -96175,7 +96175,7 @@ V12 GB
 p44961
 sS'screen size'
 p44962
-V15.6 inches
+V15.6in
 p44963
 sS'processor speed'
 p44964
@@ -96256,7 +96256,7 @@ V12 GB
 p44998
 sS'screen size'
 p44999
-V13.3 inches
+V13.3in
 p45000
 sS'processor speed'
 p45001
@@ -96338,7 +96338,7 @@ V8 GB
 p45036
 sS'screen size'
 p45037
-V15.6 inches
+V15.6in
 p45038
 sS'processor speed'
 p45039
@@ -96418,7 +96418,7 @@ V8 GB
 p45072
 sS'screen size'
 p45073
-V13.3 inches
+V13.3in
 p45074
 sS'processor speed'
 p45075
@@ -96501,7 +96501,7 @@ V4 GB
 p45111
 sS'screen size'
 p45112
-V11.6 inches
+V11.6in
 p45113
 sS'processor speed'
 p45114
@@ -96583,7 +96583,7 @@ V8 GB
 p45149
 sS'screen size'
 p45150
-V17.3 inches
+V17.3in
 p45151
 sS'processor speed'
 p45152
@@ -96666,7 +96666,7 @@ V8 GB
 p45188
 sS'screen size'
 p45189
-V15.6 inches
+V15.6in
 p45190
 sS'processor speed'
 p45191
@@ -96749,7 +96749,7 @@ V16 GB
 p45227
 sS'screen size'
 p45228
-V15.6 inches
+V15.6in
 p45229
 sS'processor speed'
 p45230
@@ -96834,7 +96834,7 @@ V8 GB
 p45268
 sS'screen size'
 p45269
-V17.3 inches
+V17.3in
 p45270
 sS'processor speed'
 p45271
@@ -96994,7 +96994,7 @@ V64 GB
 p45340
 sS'screen size'
 p45341
-V17.3 in
+V17.3in
 p45342
 sS'processor speed'
 p45343
@@ -97075,7 +97075,7 @@ V16 GB
 p45377
 sS'screen size'
 p45378
-V15.6 inches
+V15.6in
 p45379
 sS'processor speed'
 p45380
@@ -97157,7 +97157,7 @@ V16 GB
 p45415
 sS'screen size'
 p45416
-V17.3 inches
+V17.3in
 p45417
 sS'processor speed'
 p45418
@@ -97240,7 +97240,7 @@ V16 GB
 p45454
 sS'screen size'
 p45455
-V17.3 inches
+V17.3in
 p45456
 sS'processor speed'
 p45457
@@ -97324,7 +97324,7 @@ V12 GB
 p45494
 sS'screen size'
 p45495
-V15.6 inches
+V15.6in
 p45496
 sS'processor speed'
 p45497
@@ -97407,7 +97407,7 @@ V16 GB
 p45533
 sS'screen size'
 p45534
-V15.6 inches
+V15.6in
 p45535
 sS'processor speed'
 p45536
@@ -97489,7 +97489,7 @@ V16 GB
 p45571
 sS'screen size'
 p45572
-V15.4 inches
+V15.4in
 p45573
 sS'processor speed'
 p45574
@@ -97569,7 +97569,7 @@ V16 GB
 p45607
 sS'screen size'
 p45608
-V15.6 inches
+V15.6in
 p45609
 sS'processor speed'
 p45610
@@ -97650,7 +97650,7 @@ V4 GB
 p45644
 sS'screen size'
 p45645
-V15.6 inches
+V15.6in
 p45646
 sS'processor speed'
 p45647
@@ -97730,7 +97730,7 @@ V8 GB
 p45680
 sS'screen size'
 p45681
-V15.6 inches
+V15.6in
 p45682
 sS'processor speed'
 p45683
@@ -97808,7 +97808,7 @@ V8 GB
 p45714
 sS'screen size'
 p45715
-V15.6 in
+V15.6in
 p45716
 sS'processor speed'
 p45717
@@ -97891,7 +97891,7 @@ V3 GB
 p45753
 sS'screen size'
 p45754
-V13.3 inches
+V13.3in
 p45755
 sS'processor speed'
 p45756
@@ -97975,7 +97975,7 @@ V8 GB
 p45793
 sS'screen size'
 p45794
-V13.3 inches
+V13.3in
 p45795
 sS'processor speed'
 p45796
@@ -98058,7 +98058,7 @@ V8 GB
 p45832
 sS'screen size'
 p45833
-V12.5 inches
+V12.5in
 p45834
 sS'processor speed'
 p45835
@@ -98137,7 +98137,7 @@ V12 GB
 p45867
 sS'screen size'
 p45868
-V15.6 inches
+V15.6in
 p45869
 sS'processor speed'
 p45870
@@ -98221,7 +98221,7 @@ V8 GB
 p45907
 sS'screen size'
 p45908
-V13.3 inches
+V13.3in
 p45909
 sS'processor speed'
 p45910
@@ -98303,7 +98303,7 @@ V8 GB
 p45945
 sS'screen size'
 p45946
-V15.6 inches
+V15.6in
 p45947
 sS'processor speed'
 p45948
@@ -98387,7 +98387,7 @@ V16 GB
 p45985
 sS'screen size'
 p45986
-V15.6 inches
+V15.6in
 p45987
 sS'processor speed'
 p45988
@@ -98466,7 +98466,7 @@ V16 GB
 p46020
 sS'screen size'
 p46021
-V15.6 inches
+V15.6in
 p46022
 sS'processor speed'
 p46023
@@ -98546,7 +98546,7 @@ V32 GB
 p46056
 sS'screen size'
 p46057
-V17.3 in
+V17.3in
 p46058
 sS'processor speed'
 p46059
@@ -98625,7 +98625,7 @@ V8 GB
 p46091
 sS'screen size'
 p46092
-V15.6 inches
+V15.6in
 p46093
 sS'processor speed'
 p46094
@@ -98710,7 +98710,7 @@ V12 GB
 p46132
 sS'screen size'
 p46133
-V15.6 inches
+V15.6in
 p46134
 sS'processor speed'
 p46135
@@ -98792,7 +98792,7 @@ V4 GB
 p46170
 sS'screen size'
 p46171
-V14 inches
+V14in
 p46172
 sS'processor speed'
 p46173
@@ -98869,7 +98869,7 @@ V12 GB
 p46203
 sS'screen size'
 p46204
-V15.6 in
+V15.6in
 p46205
 sS'processor speed'
 p46206
@@ -98951,7 +98951,7 @@ V8 GB
 p46241
 sS'screen size'
 p46242
-V11.6 inches
+V11.6in
 p46243
 sS'processor speed'
 p46244
@@ -99035,7 +99035,7 @@ V8 GB
 p46281
 sS'screen size'
 p46282
-V15.6 inches
+V15.6in
 p46283
 sS'processor speed'
 p46284
@@ -99118,7 +99118,7 @@ V8 GB
 p46320
 sS'screen size'
 p46321
-V15.6 inches
+V15.6in
 p46322
 sS'processor speed'
 p46323
@@ -99199,7 +99199,7 @@ V8 GB
 p46357
 sS'screen size'
 p46358
-V15.6 inches
+V15.6in
 p46359
 sS'processor speed'
 p46360
@@ -99283,7 +99283,7 @@ V4 GB
 p46397
 sS'screen size'
 p46398
-V14 inches
+V14in
 p46399
 sS'processor speed'
 p46400
@@ -99368,7 +99368,7 @@ V4 GB
 p46438
 sS'screen size'
 p46439
-V13.3 inches
+V13.3in
 p46440
 sS'processor speed'
 p46441
@@ -99451,7 +99451,7 @@ V16 GB
 p46477
 sS'screen size'
 p46478
-V15.6 inches
+V15.6in
 p46479
 sS'processor speed'
 p46480
@@ -99530,7 +99530,7 @@ V6 GB
 p46512
 sS'screen size'
 p46513
-V15.6 inches
+V15.6in
 p46514
 sS'processor speed'
 p46515
@@ -99612,7 +99612,7 @@ V12 GB
 p46550
 sS'screen size'
 p46551
-V15.6 inches
+V15.6in
 p46552
 sS'processor speed'
 p46553
@@ -99694,7 +99694,7 @@ V8 GB
 p46588
 sS'screen size'
 p46589
-V14 in
+V14in
 p46590
 sS'processor speed'
 p46591
@@ -99774,7 +99774,7 @@ V16 GB
 p46624
 sS'screen size'
 p46625
-V15.6 inches
+V15.6in
 p46626
 sS'processor speed'
 p46627
@@ -99858,7 +99858,7 @@ V16 GB
 p46664
 sS'screen size'
 p46665
-V15.4 inches
+V15.4in
 p46666
 sS'processor speed'
 p46667
@@ -99937,7 +99937,7 @@ V8 GB
 p46699
 sS'screen size'
 p46700
-V14 inches
+V14in
 p46701
 sS'processor speed'
 p46702
@@ -100016,7 +100016,7 @@ V16 GB
 p46734
 sS'screen size'
 p46735
-V13.3 inches
+V13.3in
 p46736
 sS'processor speed'
 p46737
@@ -100098,7 +100098,7 @@ V8 GB
 p46772
 sS'screen size'
 p46773
-V15.6 inches
+V15.6in
 p46774
 sS'processor speed'
 p46775
@@ -100174,7 +100174,7 @@ V2 GB
 p46804
 sS'screen size'
 p46805
-V11.6 inches
+V11.6in
 p46806
 sS'processor speed'
 p46807
@@ -100258,7 +100258,7 @@ V4 GB
 p46844
 sS'screen size'
 p46845
-V15.6 inches
+V15.6in
 p46846
 sS'processor speed'
 p46847
@@ -100339,7 +100339,7 @@ V8 GB
 p46881
 sS'screen size'
 p46882
-V15.6 inches
+V15.6in
 p46883
 sS'processor speed'
 p46884
@@ -100422,7 +100422,7 @@ V16 GB
 p46920
 sS'screen size'
 p46921
-V15.6 inches
+V15.6in
 p46922
 sS'processor speed'
 p46923
@@ -100503,7 +100503,7 @@ V16 GB
 p46957
 sS'screen size'
 p46958
-V15.6 inches
+V15.6in
 p46959
 sS'processor speed'
 p46960
@@ -100582,7 +100582,7 @@ V12 GB
 p46992
 sS'screen size'
 p46993
-V15.6 inches
+V15.6in
 p46994
 sS'processor speed'
 p46995
@@ -100661,7 +100661,7 @@ V8 GB
 p47027
 sS'screen size'
 p47028
-V14 inches
+V14in
 p47029
 sS'processor speed'
 p47030
@@ -100745,7 +100745,7 @@ V8 GB
 p47067
 sS'screen size'
 p47068
-V15.6 inches
+V15.6in
 p47069
 sS'processor speed'
 p47070
@@ -100827,7 +100827,7 @@ V16 GB
 p47105
 sS'screen size'
 p47106
-V15.6 inches
+V15.6in
 p47107
 sS'processor speed'
 p47108
@@ -100909,7 +100909,7 @@ V8 GB
 p47143
 sS'screen size'
 p47144
-V15.6 inches
+V15.6in
 p47145
 sS'processor speed'
 p47146
@@ -100993,7 +100993,7 @@ V16 GB
 p47183
 sS'screen size'
 p47184
-V15.4 inches
+V15.4in
 p47185
 sS'processor speed'
 p47186
@@ -101074,7 +101074,7 @@ V32 GB
 p47220
 sS'screen size'
 p47221
-V15.6 inches
+V15.6in
 p47222
 sS'processor speed'
 p47223
@@ -101157,7 +101157,7 @@ V8 GB
 p47259
 sS'screen size'
 p47260
-V15.6 inches
+V15.6in
 p47261
 sS'processor speed'
 p47262
@@ -101238,7 +101238,7 @@ V16 GB
 p47296
 sS'screen size'
 p47297
-V15.6 inches
+V15.6in
 p47298
 sS'processor speed'
 p47299
@@ -101322,7 +101322,7 @@ V2 GB
 p47336
 sS'screen size'
 p47337
-V11.6 inches
+V11.6in
 p47338
 sS'processor speed'
 p47339
@@ -101405,7 +101405,7 @@ V8 GB
 p47375
 sS'screen size'
 p47376
-V14 inches
+V14in
 p47377
 sS'processor speed'
 p47378
@@ -101488,7 +101488,7 @@ V16 GB
 p47414
 sS'screen size'
 p47415
-V15.6 inches
+V15.6in
 p47416
 sS'processor speed'
 p47417
@@ -101569,7 +101569,7 @@ V4 GB
 p47451
 sS'screen size'
 p47452
-V15.6 inches
+V15.6in
 p47453
 sS'processor speed'
 p47454
@@ -101653,7 +101653,7 @@ V16 GB
 p47491
 sS'screen size'
 p47492
-V15 inches
+V15in
 p47493
 sS'processor speed'
 p47494
@@ -101735,7 +101735,7 @@ V8 GB
 p47529
 sS'screen size'
 p47530
-V15.6 inches
+V15.6in
 p47531
 sS'processor speed'
 p47532
@@ -101816,7 +101816,7 @@ V8 GB
 p47566
 sS'screen size'
 p47567
-V15.6 inches
+V15.6in
 p47568
 sS'processor speed'
 p47569
@@ -101901,7 +101901,7 @@ V8 GB
 p47607
 sS'screen size'
 p47608
-V14 inches
+V14in
 p47609
 sS'processor speed'
 p47610
@@ -101982,7 +101982,7 @@ V4 GB
 p47644
 sS'screen size'
 p47645
-V15.6 inches
+V15.6in
 p47646
 sS'processor speed'
 p47647
@@ -102065,7 +102065,7 @@ V16 GB
 p47683
 sS'screen size'
 p47684
-V15.6 inches
+V15.6in
 p47685
 sS'processor speed'
 p47686
@@ -102147,7 +102147,7 @@ V8 GB
 p47721
 sS'screen size'
 p47722
-V15.6 inches
+V15.6in
 p47723
 sS'processor speed'
 p47724
@@ -102226,7 +102226,7 @@ V2 GB
 p47756
 sS'screen size'
 p47757
-V11.6 inches
+V11.6in
 p47758
 sS'processor speed'
 p47759
@@ -102387,7 +102387,7 @@ V8 GB
 p47829
 sS'screen size'
 p47830
-V15.6 inches
+V15.6in
 p47831
 sS'processor speed'
 p47832
@@ -102468,7 +102468,7 @@ V12 GB
 p47866
 sS'screen size'
 p47867
-V15.6 inches
+V15.6in
 p47868
 sS'processor speed'
 p47869
@@ -102549,7 +102549,7 @@ V64 GB
 p47903
 sS'screen size'
 p47904
-V15.6 in
+V15.6in
 p47905
 sS'processor speed'
 p47906
@@ -102632,7 +102632,7 @@ V16 GB
 p47942
 sS'screen size'
 p47943
-V14 inches
+V14in
 p47944
 sS'processor speed'
 p47945
@@ -102715,7 +102715,7 @@ V4 GB
 p47981
 sS'screen size'
 p47982
-V14 inches
+V14in
 p47983
 sS'processor speed'
 p47984
@@ -102796,7 +102796,7 @@ V4 GB
 p48018
 sS'screen size'
 p48019
-V15.6 inches
+V15.6in
 p48020
 sS'processor speed'
 p48021
@@ -102878,7 +102878,7 @@ V64 GB
 p48056
 sS'screen size'
 p48057
-V17.3 inches
+V17.3in
 p48058
 sS'processor speed'
 p48059
@@ -102958,7 +102958,7 @@ V8 GB
 p48092
 sS'screen size'
 p48093
-V15.6 inches
+V15.6in
 p48094
 sS'processor speed'
 p48095
@@ -103041,7 +103041,7 @@ V16 GB
 p48131
 sS'screen size'
 p48132
-V15.6 inches
+V15.6in
 p48133
 sS'processor speed'
 p48134
@@ -103124,7 +103124,7 @@ V12 GB
 p48170
 sS'screen size'
 p48171
-V15.6 inches
+V15.6in
 p48172
 sS'processor speed'
 p48173
@@ -103203,7 +103203,7 @@ V32 GB
 p48205
 sS'screen size'
 p48206
-V15.6 inches
+V15.6in
 p48207
 sS'processor speed'
 p48208
@@ -103288,7 +103288,7 @@ V12 GB
 p48246
 sS'screen size'
 p48247
-V15.6 inches
+V15.6in
 p48248
 sS'processor speed'
 p48249
@@ -103372,7 +103372,7 @@ V8 GB
 p48286
 sS'screen size'
 p48287
-V15.6 inches
+V15.6in
 p48288
 sS'processor speed'
 p48289
@@ -103452,7 +103452,7 @@ V16 GB
 p48322
 sS'screen size'
 p48323
-V15.6 inches
+V15.6in
 p48324
 sS'processor speed'
 p48325
@@ -103531,7 +103531,7 @@ V16 GB
 p48357
 sS'screen size'
 p48358
-V15.6 inches
+V15.6in
 p48359
 sS'processor speed'
 p48360
@@ -103614,7 +103614,7 @@ V8 GB
 p48396
 sS'screen size'
 p48397
-V14 inches
+V14in
 p48398
 sS'processor speed'
 p48399
@@ -103699,7 +103699,7 @@ V8 GB
 p48437
 sS'screen size'
 p48438
-V15.6 inches
+V15.6in
 p48439
 sS'processor speed'
 p48440
@@ -103782,7 +103782,7 @@ V8 GB
 p48476
 sS'screen size'
 p48477
-V15.6 inches
+V15.6in
 p48478
 sS'processor speed'
 p48479
@@ -103860,7 +103860,7 @@ V16 GB
 p48510
 sS'screen size'
 p48511
-V15.6 in
+V15.6in
 p48512
 sS'processor speed'
 p48513
@@ -103944,7 +103944,7 @@ V8 GB
 p48550
 sS'screen size'
 p48551
-V15.6 inches
+V15.6in
 p48552
 sS'processor speed'
 p48553
@@ -104027,7 +104027,7 @@ V32 GB
 p48589
 sS'screen size'
 p48590
-V18.4 inches
+V18.4in
 p48591
 sS'processor speed'
 p48592
@@ -104110,7 +104110,7 @@ V12 GB
 p48628
 sS'screen size'
 p48629
-V12.5 inches
+V12.5in
 p48630
 sS'processor speed'
 p48631
@@ -104194,7 +104194,7 @@ V4 GB
 p48668
 sS'screen size'
 p48669
-V13.3 inches
+V13.3in
 p48670
 sS'processor speed'
 p48671
@@ -104279,7 +104279,7 @@ V8 GB
 p48709
 sS'screen size'
 p48710
-V15.6 inches
+V15.6in
 p48711
 sS'processor speed'
 p48712
@@ -104360,7 +104360,7 @@ V8 GB
 p48746
 sS'screen size'
 p48747
-V15.6 inches
+V15.6in
 p48748
 sS'processor speed'
 p48749
@@ -104439,7 +104439,7 @@ V0 GB
 p48781
 sS'screen size'
 p48782
-V15.6 inches
+V15.6in
 p48783
 sS'processor speed'
 p48784
@@ -104520,7 +104520,7 @@ V12 GB
 p48818
 sS'screen size'
 p48819
-V15.6 inches
+V15.6in
 p48820
 sS'processor speed'
 p48821
@@ -104598,7 +104598,7 @@ V16 GB
 p48852
 sS'screen size'
 p48853
-V14 in
+V14in
 p48854
 sS'processor speed'
 p48855
@@ -104679,7 +104679,7 @@ V0 GB
 p48889
 sS'screen size'
 p48890
-V15.6 inches
+V15.6in
 p48891
 sS'processor speed'
 p48892
@@ -104763,7 +104763,7 @@ V4 GB
 p48929
 sS'screen size'
 p48930
-V15.6 inches
+V15.6in
 p48931
 sS'processor speed'
 p48932
@@ -104843,7 +104843,7 @@ V16 GB
 p48965
 sS'screen size'
 p48966
-V14 in
+V14in
 p48967
 sS'processor speed'
 p48968
@@ -104927,7 +104927,7 @@ V8 GB
 p49005
 sS'screen size'
 p49006
-V13.3 inches
+V13.3in
 p49007
 sS'processor speed'
 p49008
@@ -105008,7 +105008,7 @@ V4 GB
 p49042
 sS'screen size'
 p49043
-V15.6 inches
+V15.6in
 p49044
 sS'processor speed'
 p49045
@@ -105090,7 +105090,7 @@ V16 GB
 p49080
 sS'screen size'
 p49081
-V17.3 inches
+V17.3in
 p49082
 sS'processor speed'
 p49083
@@ -105173,7 +105173,7 @@ V8 GB
 p49119
 sS'screen size'
 p49120
-V15.6 inches
+V15.6in
 p49121
 sS'processor speed'
 p49122
@@ -105255,7 +105255,7 @@ V16 GB
 p49157
 sS'screen size'
 p49158
-V14 inches
+V14in
 p49159
 sS'processor speed'
 p49160
@@ -105337,7 +105337,7 @@ V8 GB
 p49195
 sS'screen size'
 p49196
-V14 inches
+V14in
 p49197
 sS'processor speed'
 p49198
@@ -105422,7 +105422,7 @@ V2 GB
 p49236
 sS'screen size'
 p49237
-V13.3 inches
+V13.3in
 p49238
 sS'processor speed'
 p49239
@@ -105507,7 +105507,7 @@ V4 GB
 p49277
 sS'screen size'
 p49278
-V11.6 inches
+V11.6in
 p49279
 sS'processor speed'
 p49280
@@ -105590,7 +105590,7 @@ V8 GB
 p49316
 sS'screen size'
 p49317
-V15.6 inches
+V15.6in
 p49318
 sS'processor speed'
 p49319
@@ -105668,7 +105668,7 @@ V8 GB
 p49350
 sS'screen size'
 p49351
-V15.6 in
+V15.6in
 p49352
 sS'processor speed'
 p49353
@@ -105746,7 +105746,7 @@ V0 GB
 p49384
 sS'screen size'
 p49385
-V17.3 in
+V17.3in
 p49386
 sS'processor speed'
 p49387
@@ -105823,7 +105823,7 @@ V16 GB
 p49417
 sS'screen size'
 p49418
-V15.6 inches
+V15.6in
 p49419
 sS'processor speed'
 p49420
@@ -105903,7 +105903,7 @@ V4 GB
 p49453
 sS'screen size'
 p49454
-V11.6 inches
+V11.6in
 p49455
 sS'processor speed'
 p49456
@@ -105987,7 +105987,7 @@ V16 GB
 p49493
 sS'screen size'
 p49494
-V15.6 inches
+V15.6in
 p49495
 sS'processor speed'
 p49496
@@ -106069,7 +106069,7 @@ V4 GB
 p49531
 sS'screen size'
 p49532
-V11.6 inches
+V11.6in
 p49533
 sS'processor speed'
 p49534
@@ -106148,7 +106148,7 @@ V16 GB
 p49566
 sS'screen size'
 p49567
-V14 in
+V14in
 p49568
 sS'processor speed'
 p49569
@@ -106232,7 +106232,7 @@ V16 GB
 p49606
 sS'screen size'
 p49607
-V13.3 inches
+V13.3in
 p49608
 sS'processor speed'
 p49609
@@ -106314,7 +106314,7 @@ V8 GB
 p49644
 sS'screen size'
 p49645
-V15.6 inches
+V15.6in
 p49646
 sS'processor speed'
 p49647
@@ -106399,7 +106399,7 @@ V16 GB
 p49685
 sS'screen size'
 p49686
-V15.6 inches
+V15.6in
 p49687
 sS'processor speed'
 p49688
@@ -106483,7 +106483,7 @@ V4 GB
 p49725
 sS'screen size'
 p49726
-V11.6 inches
+V11.6in
 p49727
 sS'processor speed'
 p49728
@@ -106567,7 +106567,7 @@ V8 GB
 p49765
 sS'screen size'
 p49766
-V15.6 inches
+V15.6in
 p49767
 sS'processor speed'
 p49768
@@ -106648,7 +106648,7 @@ V16 GB
 p49802
 sS'screen size'
 p49803
-V15.6 in
+V15.6in
 p49804
 sS'processor speed'
 p49805
@@ -106731,7 +106731,7 @@ V8 GB
 p49841
 sS'screen size'
 p49842
-V15.6 inches
+V15.6in
 p49843
 sS'processor speed'
 p49844
@@ -106810,7 +106810,7 @@ V12 GB
 p49876
 sS'screen size'
 p49877
-V15.6 inches
+V15.6in
 p49878
 sS'processor speed'
 p49879
@@ -106895,7 +106895,7 @@ V4 GB
 p49917
 sS'screen size'
 p49918
-V11.6 inches
+V11.6in
 p49919
 sS'processor speed'
 p49920
@@ -106977,7 +106977,7 @@ V16 GB
 p49955
 sS'screen size'
 p49956
-V15.6 inches
+V15.6in
 p49957
 sS'processor speed'
 p49958
@@ -107060,7 +107060,7 @@ V16 GB
 p49994
 sS'screen size'
 p49995
-V17.3 inches
+V17.3in
 p49996
 sS'processor speed'
 p49997
@@ -107142,7 +107142,7 @@ V12 GB
 p50032
 sS'screen size'
 p50033
-V15.6 inches
+V15.6in
 p50034
 sS'processor speed'
 p50035
@@ -107225,7 +107225,7 @@ V16 GB
 p50071
 sS'screen size'
 p50072
-V15.6 inches
+V15.6in
 p50073
 sS'processor speed'
 p50074
@@ -107309,7 +107309,7 @@ V8 GB
 p50111
 sS'screen size'
 p50112
-V17.3 inches
+V17.3in
 p50113
 sS'processor speed'
 p50114
@@ -107392,7 +107392,7 @@ V8 GB
 p50150
 sS'screen size'
 p50151
-V15.6 inches
+V15.6in
 p50152
 sS'processor speed'
 p50153
@@ -107474,7 +107474,7 @@ V4 GB
 p50188
 sS'screen size'
 p50189
-V13.3 inches
+V13.3in
 p50190
 sS'processor speed'
 p50191
@@ -107556,7 +107556,7 @@ V8 GB
 p50226
 sS'screen size'
 p50227
-V12.5 inches
+V12.5in
 p50228
 sS'processor speed'
 p50229
@@ -107637,7 +107637,7 @@ V4 GB
 p50263
 sS'screen size'
 p50264
-V11.6 inches
+V11.6in
 p50265
 sS'processor speed'
 p50266
@@ -107719,7 +107719,7 @@ V8 GB
 p50301
 sS'screen size'
 p50302
-V13.3 in
+V13.3in
 p50303
 sS'processor speed'
 p50304
@@ -107804,7 +107804,7 @@ V8 GB
 p50342
 sS'screen size'
 p50343
-V12.5 inches
+V12.5in
 p50344
 sS'processor speed'
 p50345
@@ -107882,7 +107882,7 @@ V0 GB
 p50376
 sS'screen size'
 p50377
-V17.3 in
+V17.3in
 p50378
 sS'processor speed'
 p50379
@@ -107965,7 +107965,7 @@ V16 GB
 p50415
 sS'screen size'
 p50416
-V17.3 inches
+V17.3in
 p50417
 sS'processor speed'
 p50418
@@ -108048,7 +108048,7 @@ V16 GB
 p50454
 sS'screen size'
 p50455
-V15.6 inches
+V15.6in
 p50456
 sS'processor speed'
 p50457
@@ -108130,7 +108130,7 @@ V8 GB
 p50492
 sS'screen size'
 p50493
-V15.6 inches
+V15.6in
 p50494
 sS'processor speed'
 p50495
@@ -108213,7 +108213,7 @@ V4 GB
 p50531
 sS'screen size'
 p50532
-V11.6 inches
+V11.6in
 p50533
 sS'processor speed'
 p50534
@@ -108297,7 +108297,7 @@ V16 GB
 p50571
 sS'screen size'
 p50572
-V15.6 inches
+V15.6in
 p50573
 sS'processor speed'
 p50574
@@ -108374,7 +108374,7 @@ V64 GB
 p50604
 sS'screen size'
 p50605
-V15.6 in
+V15.6in
 p50606
 sS'processor speed'
 p50607
@@ -108454,7 +108454,7 @@ V8 GB
 p50640
 sS'screen size'
 p50641
-V17.3 inches
+V17.3in
 p50642
 sS'processor speed'
 p50643
@@ -108533,7 +108533,7 @@ V12 GB
 p50675
 sS'screen size'
 p50676
-V13.1 inches
+V13.1in
 p50677
 sS'processor speed'
 p50678
@@ -108612,7 +108612,7 @@ V8 GB
 p50710
 sS'screen size'
 p50711
-V14 in
+V14in
 p50712
 sS'processor speed'
 p50713
@@ -108694,7 +108694,7 @@ V4 GB
 p50748
 sS'screen size'
 p50749
-V11.6 inches
+V11.6in
 p50750
 sS'processor speed'
 p50751
@@ -108778,7 +108778,7 @@ V16 GB
 p50788
 sS'screen size'
 p50789
-V13.3 inches
+V13.3in
 p50790
 sS'processor speed'
 p50791
@@ -108862,7 +108862,7 @@ V32 GB
 p50828
 sS'screen size'
 p50829
-V17.3 inches
+V17.3in
 p50830
 sS'processor speed'
 p50831
@@ -108945,7 +108945,7 @@ V32 GB
 p50867
 sS'screen size'
 p50868
-V15.6 inches
+V15.6in
 p50869
 sS'processor speed'
 p50870
@@ -109028,7 +109028,7 @@ V2 GB
 p50906
 sS'screen size'
 p50907
-V10.1 inches
+V10.1in
 p50908
 sS'processor speed'
 p50909
@@ -109110,7 +109110,7 @@ V16 GB
 p50944
 sS'screen size'
 p50945
-V15.6 inches
+V15.6in
 p50946
 sS'processor speed'
 p50947
@@ -109194,7 +109194,7 @@ V8 GB
 p50984
 sS'screen size'
 p50985
-V15.6 inches
+V15.6in
 p50986
 sS'processor speed'
 p50987
@@ -109275,7 +109275,7 @@ V4 GB
 p51021
 sS'screen size'
 p51022
-V15.6 inches
+V15.6in
 p51023
 sS'processor speed'
 p51024
@@ -109356,7 +109356,7 @@ V8 GB
 p51058
 sS'screen size'
 p51059
-V15.6 inches
+V15.6in
 p51060
 sS'processor speed'
 p51061
@@ -109440,7 +109440,7 @@ V8 GB
 p51098
 sS'screen size'
 p51099
-V15.6 inches
+V15.6in
 p51100
 sS'processor speed'
 p51101
@@ -109520,7 +109520,7 @@ V8 GB
 p51134
 sS'screen size'
 p51135
-V15.6 inches
+V15.6in
 p51136
 sS'processor speed'
 p51137
@@ -109600,7 +109600,7 @@ V8 GB
 p51170
 sS'screen size'
 p51171
-V15.6 inches
+V15.6in
 p51172
 sS'processor speed'
 p51173
@@ -109684,7 +109684,7 @@ V16 GB
 p51210
 sS'screen size'
 p51211
-V15.4 inches
+V15.4in
 p51212
 sS'processor speed'
 p51213
@@ -109767,7 +109767,7 @@ V32 GB
 p51249
 sS'screen size'
 p51250
-V17.3 inches
+V17.3in
 p51251
 sS'processor speed'
 p51252
@@ -109849,7 +109849,7 @@ V16 GB
 p51287
 sS'screen size'
 p51288
-V15.6 inches
+V15.6in
 p51289
 sS'processor speed'
 p51290
@@ -109930,7 +109930,7 @@ V16 GB
 p51324
 sS'screen size'
 p51325
-V15.6 inches
+V15.6in
 p51326
 sS'processor speed'
 p51327
@@ -110012,7 +110012,7 @@ V8 GB
 p51362
 sS'screen size'
 p51363
-V13.3 inches
+V13.3in
 p51364
 sS'processor speed'
 p51365
@@ -110095,7 +110095,7 @@ V16 GB
 p51401
 sS'screen size'
 p51402
-V15.6 inches
+V15.6in
 p51403
 sS'processor speed'
 p51404
@@ -110178,7 +110178,7 @@ V16 GB
 p51440
 sS'screen size'
 p51441
-V17.3 inches
+V17.3in
 p51442
 sS'processor speed'
 p51443
@@ -110262,7 +110262,7 @@ V2 GB
 p51480
 sS'screen size'
 p51481
-V11.6 inches
+V11.6in
 p51482
 sS'processor speed'
 p51483
@@ -110345,7 +110345,7 @@ V32 GB
 p51519
 sS'screen size'
 p51520
-V15.6 inches
+V15.6in
 p51521
 sS'processor speed'
 p51522
@@ -110429,7 +110429,7 @@ V4 GB
 p51559
 sS'screen size'
 p51560
-V15.6 inches
+V15.6in
 p51561
 sS'processor speed'
 p51562
@@ -110511,7 +110511,7 @@ V16 GB
 p51597
 sS'screen size'
 p51598
-V13.9 inches
+V13.9in
 p51599
 sS'processor speed'
 p51600
@@ -110594,7 +110594,7 @@ V16 GB
 p51636
 sS'screen size'
 p51637
-V14 inches
+V14in
 p51638
 sS'processor speed'
 p51639
@@ -110677,7 +110677,7 @@ V6 GB
 p51675
 sS'screen size'
 p51676
-V15.6 inches
+V15.6in
 p51677
 sS'processor speed'
 p51678
@@ -110757,7 +110757,7 @@ V16 GB
 p51711
 sS'screen size'
 p51712
-V14 in
+V14in
 p51713
 sS'processor speed'
 p51714
@@ -110840,7 +110840,7 @@ V8 GB
 p51750
 sS'screen size'
 p51751
-V15.6 inches
+V15.6in
 p51752
 sS'processor speed'
 p51753
@@ -110921,7 +110921,7 @@ V8 GB
 p51787
 sS'screen size'
 p51788
-V17.3 in
+V17.3in
 p51789
 sS'processor speed'
 p51790
@@ -111005,7 +111005,7 @@ V8 GB
 p51827
 sS'screen size'
 p51828
-V15.6 inches
+V15.6in
 p51829
 sS'processor speed'
 p51830
@@ -111088,7 +111088,7 @@ V4 GB
 p51866
 sS'screen size'
 p51867
-V15.6 inches
+V15.6in
 p51868
 sS'processor speed'
 p51869
@@ -111170,7 +111170,7 @@ V4 GB
 p51904
 sS'screen size'
 p51905
-V13.3 inches
+V13.3in
 p51906
 sS'processor speed'
 p51907
@@ -111250,7 +111250,7 @@ V20 GB
 p51940
 sS'screen size'
 p51941
-V14 in
+V14in
 p51942
 sS'processor speed'
 p51943
@@ -111332,7 +111332,7 @@ V16 GB
 p51978
 sS'screen size'
 p51979
-V15.6 inches
+V15.6in
 p51980
 sS'processor speed'
 p51981
@@ -111416,7 +111416,7 @@ V4 GB
 p52018
 sS'screen size'
 p52019
-V11.6 inches
+V11.6in
 p52020
 sS'processor speed'
 p52021
@@ -111496,7 +111496,7 @@ V12 GB
 p52054
 sS'screen size'
 p52055
-V15.6 inches
+V15.6in
 p52056
 sS'processor speed'
 p52057
@@ -111580,7 +111580,7 @@ V8 GB
 p52094
 sS'screen size'
 p52095
-V14 inches
+V14in
 p52096
 sS'processor speed'
 p52097
@@ -111661,7 +111661,7 @@ V64 GB
 p52131
 sS'screen size'
 p52132
-V15.6 in
+V15.6in
 p52133
 sS'processor speed'
 p52134
@@ -111741,7 +111741,7 @@ V8 GB
 p52167
 sS'screen size'
 p52168
-V15.6 inches
+V15.6in
 p52169
 sS'processor speed'
 p52170
@@ -111823,7 +111823,7 @@ V8 GB
 p52205
 sS'screen size'
 p52206
-V15.6 inches
+V15.6in
 p52207
 sS'processor speed'
 p52208
@@ -111908,7 +111908,7 @@ V8 GB
 p52246
 sS'screen size'
 p52247
-V15.6 inches
+V15.6in
 p52248
 sS'processor speed'
 p52249
@@ -111988,7 +111988,7 @@ V16 GB
 p52282
 sS'screen size'
 p52283
-V14 in
+V14in
 p52284
 sS'processor speed'
 p52285
@@ -112152,7 +112152,7 @@ V8 GB
 p52358
 sS'screen size'
 p52359
-V15.6 inches
+V15.6in
 p52360
 sS'processor speed'
 p52361
@@ -112234,7 +112234,7 @@ V32 GB
 p52396
 sS'screen size'
 p52397
-V17.3 inches
+V17.3in
 p52398
 sS'processor speed'
 p52399
@@ -112317,7 +112317,7 @@ V32 GB
 p52435
 sS'screen size'
 p52436
-V17.3 inches
+V17.3in
 p52437
 sS'processor speed'
 p52438
@@ -112401,7 +112401,7 @@ V8 GB
 p52475
 sS'screen size'
 p52476
-V15.6 inches
+V15.6in
 p52477
 sS'processor speed'
 p52478
@@ -112482,7 +112482,7 @@ V16 GB
 p52512
 sS'screen size'
 p52513
-V15.6 inches
+V15.6in
 p52514
 sS'processor speed'
 p52515
@@ -112566,7 +112566,7 @@ V2 GB
 p52552
 sS'screen size'
 p52553
-V14 inches
+V14in
 p52554
 sS'processor speed'
 p52555
@@ -112646,7 +112646,7 @@ V16 GB
 p52588
 sS'screen size'
 p52589
-V14 in
+V14in
 p52590
 sS'processor speed'
 p52591
@@ -112805,7 +112805,7 @@ V16 GB
 p52659
 sS'screen size'
 p52660
-V15.6 inches
+V15.6in
 p52661
 sS'processor speed'
 p52662
@@ -112887,7 +112887,7 @@ V8 GB
 p52697
 sS'screen size'
 p52698
-V15.6 inches
+V15.6in
 p52699
 sS'processor speed'
 p52700
@@ -112964,7 +112964,7 @@ V0 GB
 p52730
 sS'screen size'
 p52731
-V14 in
+V14in
 p52732
 sS'processor speed'
 p52733
@@ -113047,7 +113047,7 @@ V6 GB
 p52769
 sS'screen size'
 p52770
-V15.6 inches
+V15.6in
 p52771
 sS'processor speed'
 p52772
@@ -113127,7 +113127,7 @@ V32 GB
 p52805
 sS'screen size'
 p52806
-V14 in
+V14in
 p52807
 sS'processor speed'
 p52808
@@ -113210,7 +113210,7 @@ V32 GB
 p52844
 sS'screen size'
 p52845
-V17.3 inches
+V17.3in
 p52846
 sS'processor speed'
 p52847
@@ -113292,7 +113292,7 @@ V8 GB
 p52882
 sS'screen size'
 p52883
-V15.6 inches
+V15.6in
 p52884
 sS'processor speed'
 p52885
@@ -113377,7 +113377,7 @@ V6 GB
 p52923
 sS'screen size'
 p52924
-V13.3 inches
+V13.3in
 p52925
 sS'processor speed'
 p52926
@@ -113459,7 +113459,7 @@ V16 GB
 p52961
 sS'screen size'
 p52962
-V17.3 inches
+V17.3in
 p52963
 sS'processor speed'
 p52964
@@ -113541,7 +113541,7 @@ V32 GB
 p52999
 sS'screen size'
 p53000
-V15.6 inches
+V15.6in
 p53001
 sS'processor speed'
 p53002
@@ -113623,7 +113623,7 @@ V8 GB
 p53037
 sS'screen size'
 p53038
-V17.3 inches
+V17.3in
 p53039
 sS'processor speed'
 p53040
@@ -113705,7 +113705,7 @@ V16 GB
 p53075
 sS'screen size'
 p53076
-V12.3 inches
+V12.3in
 p53077
 sS'processor speed'
 p53078
@@ -113784,7 +113784,7 @@ V0 GB
 p53110
 sS'screen size'
 p53111
-V14 inches
+V14in
 p53112
 sS'processor speed'
 p53113
@@ -113867,7 +113867,7 @@ V8 GB
 p53149
 sS'screen size'
 p53150
-V14 inches
+V14in
 p53151
 sS'processor speed'
 p53152
@@ -113945,7 +113945,7 @@ V0 GB
 p53183
 sS'screen size'
 p53184
-V15.6 inches
+V15.6in
 p53185
 sS'processor speed'
 p53186
@@ -114024,7 +114024,7 @@ V0 GB
 p53218
 sS'screen size'
 p53219
-V15.6 in
+V15.6in
 p53220
 sS'processor speed'
 p53221
@@ -114105,7 +114105,7 @@ p53255
 g24
 sS'screen size'
 p53256
-V11.6 inches
+V11.6in
 p53257
 sS'processor speed'
 p53258
@@ -114187,7 +114187,7 @@ V32 GB
 p53293
 sS'screen size'
 p53294
-V17.3 inches
+V17.3in
 p53295
 sS'processor speed'
 p53296
@@ -114268,7 +114268,7 @@ V4 GB
 p53330
 sS'screen size'
 p53331
-V13.3 inches
+V13.3in
 p53332
 sS'processor speed'
 p53333
@@ -114351,7 +114351,7 @@ V8 GB
 p53369
 sS'screen size'
 p53370
-V15.6 inches
+V15.6in
 p53371
 sS'processor speed'
 p53372
@@ -114433,7 +114433,7 @@ V16 GB
 p53407
 sS'screen size'
 p53408
-V17.3 inches
+V17.3in
 p53409
 sS'processor speed'
 p53410
@@ -114515,7 +114515,7 @@ V16 GB
 p53445
 sS'screen size'
 p53446
-V15.6 inches
+V15.6in
 p53447
 sS'processor speed'
 p53448
@@ -114598,7 +114598,7 @@ V8 GB
 p53484
 sS'screen size'
 p53485
-V15.6 inches
+V15.6in
 p53486
 sS'processor speed'
 p53487
@@ -114682,7 +114682,7 @@ V8 GB
 p53524
 sS'screen size'
 p53525
-V15.6 inches
+V15.6in
 p53526
 sS'processor speed'
 p53527
@@ -114765,7 +114765,7 @@ V8 GB
 p53563
 sS'screen size'
 p53564
-V15.6 inches
+V15.6in
 p53565
 sS'processor speed'
 p53566
@@ -114847,7 +114847,7 @@ V16 GB
 p53601
 sS'screen size'
 p53602
-V15.6 inches
+V15.6in
 p53603
 sS'processor speed'
 p53604
@@ -114930,7 +114930,7 @@ V4 GB
 p53640
 sS'screen size'
 p53641
-V13.3 inches
+V13.3in
 p53642
 sS'processor speed'
 p53643
@@ -115007,7 +115007,7 @@ V4 GB
 p53673
 sS'screen size'
 p53674
-V14 inches
+V14in
 p53675
 sS'processor speed'
 p53676
@@ -115090,7 +115090,7 @@ V512 MB
 p53712
 sS'screen size'
 p53713
-V7 inches
+V7in
 p53714
 sS'processor speed'
 p53715
@@ -115174,7 +115174,7 @@ V12 GB
 p53752
 sS'screen size'
 p53753
-V13.3 inches
+V13.3in
 p53754
 sS'processor speed'
 p53755
@@ -115255,7 +115255,7 @@ V16 GB
 p53789
 sS'screen size'
 p53790
-V15.6 in
+V15.6in
 p53791
 sS'processor speed'
 p53792
@@ -115336,7 +115336,7 @@ V4 GB
 p53826
 sS'screen size'
 p53827
-V11.6 inches
+V11.6in
 p53828
 sS'processor speed'
 p53829
@@ -115417,7 +115417,7 @@ V16 GB
 p53863
 sS'screen size'
 p53864
-V15.6 inches
+V15.6in
 p53865
 sS'processor speed'
 p53866
@@ -115498,7 +115498,7 @@ V8 GB
 p53900
 sS'screen size'
 p53901
-V15.6 in
+V15.6in
 p53902
 sS'processor speed'
 p53903
@@ -115576,7 +115576,7 @@ V32 GB
 p53934
 sS'screen size'
 p53935
-V15.6 in
+V15.6in
 p53936
 sS'processor speed'
 p53937
@@ -115659,7 +115659,7 @@ V32 GB
 p53973
 sS'screen size'
 p53974
-V17.3 inches
+V17.3in
 p53975
 sS'processor speed'
 p53976
@@ -115742,7 +115742,7 @@ V8 GB
 p54012
 sS'screen size'
 p54013
-V15.6 inches
+V15.6in
 p54014
 sS'processor speed'
 p54015
@@ -115821,7 +115821,7 @@ V16 GB
 p54047
 sS'screen size'
 p54048
-V15.4 inches
+V15.4in
 p54049
 sS'processor speed'
 p54050
@@ -115906,7 +115906,7 @@ V8 GB
 p54088
 sS'screen size'
 p54089
-V15.6 inches
+V15.6in
 p54090
 sS'processor speed'
 p54091
@@ -115988,7 +115988,7 @@ V16 GB
 p54126
 sS'screen size'
 p54127
-V17.3 inches
+V17.3in
 p54128
 sS'processor speed'
 p54129
@@ -116070,7 +116070,7 @@ V16 GB
 p54164
 sS'screen size'
 p54165
-V13.3 inches
+V13.3in
 p54166
 sS'processor speed'
 p54167
@@ -116149,7 +116149,7 @@ V0 GB
 p54199
 sS'screen size'
 p54200
-V15.6 inches
+V15.6in
 p54201
 sS'processor speed'
 p54202
@@ -116231,7 +116231,7 @@ V6 GB
 p54237
 sS'screen size'
 p54238
-V15.6 inches
+V15.6in
 p54239
 sS'processor speed'
 p54240
@@ -116312,7 +116312,7 @@ V8 GB
 p54274
 sS'screen size'
 p54275
-V12.5 inches
+V12.5in
 p54276
 sS'processor speed'
 p54277
@@ -116397,7 +116397,7 @@ V8 GB
 p54315
 sS'screen size'
 p54316
-V14 inches
+V14in
 p54317
 sS'processor speed'
 p54318
@@ -116477,7 +116477,7 @@ V12 GB
 p54351
 sS'screen size'
 p54352
-V15.6 inches
+V15.6in
 p54353
 sS'processor speed'
 p54354
@@ -116559,7 +116559,7 @@ V16 GB
 p54389
 sS'screen size'
 p54390
-V15.6 inches
+V15.6in
 p54391
 sS'processor speed'
 p54392
@@ -116643,7 +116643,7 @@ V4 GB
 p54429
 sS'screen size'
 p54430
-V14 inches
+V14in
 p54431
 sS'processor speed'
 p54432
@@ -116723,7 +116723,7 @@ V16 GB
 p54465
 sS'screen size'
 p54466
-V15.6 inches
+V15.6in
 p54467
 sS'processor speed'
 p54468
@@ -116807,7 +116807,7 @@ V16 GB
 p54505
 sS'screen size'
 p54506
-V15.6 inches
+V15.6in
 p54507
 sS'processor speed'
 p54508
@@ -116892,7 +116892,7 @@ V8 GB
 p54546
 sS'screen size'
 p54547
-V14 inches
+V14in
 p54548
 sS'processor speed'
 p54549
@@ -116974,7 +116974,7 @@ V32 GB
 p54584
 sS'screen size'
 p54585
-V15.6 inches
+V15.6in
 p54586
 sS'processor speed'
 p54587
@@ -117057,7 +117057,7 @@ V4 GB
 p54623
 sS'screen size'
 p54624
-V12.5 inches
+V12.5in
 p54625
 sS'processor speed'
 p54626
@@ -117139,7 +117139,7 @@ V8 GB
 p54661
 sS'screen size'
 p54662
-V15.6 inches
+V15.6in
 p54663
 sS'processor speed'
 p54664
@@ -117221,7 +117221,7 @@ V2 GB
 p54699
 sS'screen size'
 p54700
-V14 inches
+V14in
 p54701
 sS'processor speed'
 p54702
@@ -117305,7 +117305,7 @@ V8 GB
 p54739
 sS'screen size'
 p54740
-V13.3 inches
+V13.3in
 p54741
 sS'processor speed'
 p54742
@@ -117388,7 +117388,7 @@ V16 GB
 p54778
 sS'screen size'
 p54779
-V15.6 inches
+V15.6in
 p54780
 sS'processor speed'
 p54781
@@ -117468,7 +117468,7 @@ V16 GB
 p54814
 sS'screen size'
 p54815
-V15.6 inches
+V15.6in
 p54816
 sS'processor speed'
 p54817
@@ -117552,7 +117552,7 @@ V4 GB
 p54854
 sS'screen size'
 p54855
-V11.6 inches
+V11.6in
 p54856
 sS'processor speed'
 p54857
@@ -117634,7 +117634,7 @@ V16 GB
 p54892
 sS'screen size'
 p54893
-V15.6 inches
+V15.6in
 p54894
 sS'processor speed'
 p54895
@@ -117719,7 +117719,7 @@ V8 GB
 p54933
 sS'screen size'
 p54934
-V11.6 inches
+V11.6in
 p54935
 sS'processor speed'
 p54936
@@ -117799,7 +117799,7 @@ V12 GB
 p54969
 sS'screen size'
 p54970
-V15.6 in
+V15.6in
 p54971
 sS'processor speed'
 p54972
@@ -117880,7 +117880,7 @@ V64 GB
 p55006
 sS'screen size'
 p55007
-V15.6 in
+V15.6in
 p55008
 sS'processor speed'
 p55009
@@ -117962,7 +117962,7 @@ V0 GB
 p55044
 sS'screen size'
 p55045
-V15.6 inches
+V15.6in
 p55046
 sS'processor speed'
 p55047
@@ -118040,7 +118040,7 @@ V0 GB
 p55078
 sS'screen size'
 p55079
-V13.3 in
+V13.3in
 p55080
 sS'processor speed'
 p55081
@@ -118118,7 +118118,7 @@ V16 GB
 p55112
 sS'screen size'
 p55113
-V13 inches
+V13in
 p55114
 sS'processor speed'
 p55115
@@ -118201,7 +118201,7 @@ V4 GB
 p55151
 sS'screen size'
 p55152
-V14 inches
+V14in
 p55153
 sS'processor speed'
 p55154
@@ -118284,7 +118284,7 @@ V16 GB
 p55190
 sS'screen size'
 p55191
-V15.6 inches
+V15.6in
 p55192
 sS'processor speed'
 p55193
@@ -118369,7 +118369,7 @@ V16 GB
 p55231
 sS'screen size'
 p55232
-V15.6 inches
+V15.6in
 p55233
 sS'processor speed'
 p55234
@@ -118453,7 +118453,7 @@ V2 GB
 p55271
 sS'screen size'
 p55272
-V11.6 inches
+V11.6in
 p55273
 sS'processor speed'
 p55274
@@ -118535,7 +118535,7 @@ V16 GB
 p55309
 sS'screen size'
 p55310
-V14 inches
+V14in
 p55311
 sS'processor speed'
 p55312
@@ -118617,7 +118617,7 @@ V16 GB
 p55347
 sS'screen size'
 p55348
-V15.6 inches
+V15.6in
 p55349
 sS'processor speed'
 p55350
@@ -118699,7 +118699,7 @@ V16 GB
 p55385
 sS'screen size'
 p55386
-V14 inches
+V14in
 p55387
 sS'processor speed'
 p55388
@@ -118782,7 +118782,7 @@ V0 GB
 p55424
 sS'screen size'
 p55425
-V11.6 inches
+V11.6in
 p55426
 sS'processor speed'
 p55427
@@ -118866,7 +118866,7 @@ V4 GB
 p55464
 sS'screen size'
 p55465
-V14 inches
+V14in
 p55466
 sS'processor speed'
 p55467
@@ -118948,7 +118948,7 @@ V16 GB
 p55502
 sS'screen size'
 p55503
-V14 inches
+V14in
 p55504
 sS'processor speed'
 p55505
@@ -119030,7 +119030,7 @@ V16 GB
 p55540
 sS'screen size'
 p55541
-V15.6 inches
+V15.6in
 p55542
 sS'processor speed'
 p55543
@@ -119115,7 +119115,7 @@ V16 GB
 p55581
 sS'screen size'
 p55582
-V15 inches
+V15in
 p55583
 sS'processor speed'
 p55584
@@ -119198,7 +119198,7 @@ V8 GB
 p55620
 sS'screen size'
 p55621
-V15.6 inches
+V15.6in
 p55622
 sS'processor speed'
 p55623
@@ -119280,7 +119280,7 @@ V32 GB
 p55658
 sS'screen size'
 p55659
-V15.6 inches
+V15.6in
 p55660
 sS'processor speed'
 p55661
@@ -119362,7 +119362,7 @@ V8 GB
 p55696
 sS'screen size'
 p55697
-V15.6 inches
+V15.6in
 p55698
 sS'processor speed'
 p55699
@@ -119445,7 +119445,7 @@ V6 GB
 p55735
 sS'screen size'
 p55736
-V11.6 inches
+V11.6in
 p55737
 sS'processor speed'
 p55738
@@ -119528,7 +119528,7 @@ V16 GB
 p55774
 sS'screen size'
 p55775
-V17.3 inches
+V17.3in
 p55776
 sS'processor speed'
 p55777
@@ -119613,7 +119613,7 @@ V2 GB
 p55815
 sS'screen size'
 p55816
-V10.1 inches
+V10.1in
 p55817
 sS'processor speed'
 p55818
@@ -119698,7 +119698,7 @@ V8 GB
 p55856
 sS'screen size'
 p55857
-V15.6 inches
+V15.6in
 p55858
 sS'processor speed'
 p55859
@@ -119782,7 +119782,7 @@ V32 GB
 p55896
 sS'screen size'
 p55897
-V15.6 inches
+V15.6in
 p55898
 sS'processor speed'
 p55899
@@ -119862,7 +119862,7 @@ V16 GB
 p55932
 sS'screen size'
 p55933
-V15.6 inches
+V15.6in
 p55934
 sS'processor speed'
 p55935
@@ -119942,7 +119942,7 @@ V12 GB
 p55968
 sS'screen size'
 p55969
-V17.3 inches
+V17.3in
 p55970
 sS'processor speed'
 p55971
@@ -120025,7 +120025,7 @@ V16 GB
 p56007
 sS'screen size'
 p56008
-V15.6 inches
+V15.6in
 p56009
 sS'processor speed'
 p56010
@@ -120104,7 +120104,7 @@ V0 GB
 p56042
 sS'screen size'
 p56043
-V14 inches
+V14in
 p56044
 sS'processor speed'
 p56045
@@ -120189,7 +120189,7 @@ V4 GB
 p56083
 sS'screen size'
 p56084
-V17.3 inches
+V17.3in
 p56085
 sS'processor speed'
 p56086
@@ -120271,7 +120271,7 @@ V8 GB
 p56121
 sS'screen size'
 p56122
-V15.6 inches
+V15.6in
 p56123
 sS'processor speed'
 p56124
@@ -120355,7 +120355,7 @@ V2 GB
 p56161
 sS'screen size'
 p56162
-V11 inches
+V11in
 p56163
 sS'processor speed'
 p56164
@@ -120439,7 +120439,7 @@ V16 GB
 p56201
 sS'screen size'
 p56202
-V15.6 inches
+V15.6in
 p56203
 sS'processor speed'
 p56204
@@ -120521,7 +120521,7 @@ V16 GB
 p56239
 sS'screen size'
 p56240
-V17.3 inches
+V17.3in
 p56241
 sS'processor speed'
 p56242
@@ -120604,7 +120604,7 @@ V8 GB
 p56278
 sS'screen size'
 p56279
-V15.6 inches
+V15.6in
 p56280
 sS'processor speed'
 p56281
@@ -120685,7 +120685,7 @@ V4 GB
 p56315
 sS'screen size'
 p56316
-V15.6 in
+V15.6in
 p56317
 sS'processor speed'
 p56318
@@ -120765,7 +120765,7 @@ V16 GB
 p56351
 sS'screen size'
 p56352
-V15.6 inches
+V15.6in
 p56353
 sS'processor speed'
 p56354
@@ -120848,7 +120848,7 @@ V16 GB
 p56390
 sS'screen size'
 p56391
-V15.6 millimeters
+V15.6in
 p56392
 sS'processor speed'
 p56393
@@ -120929,7 +120929,7 @@ V16 GB
 p56427
 sS'screen size'
 p56428
-V15.6 inches
+V15.6in
 p56429
 sS'processor speed'
 p56430
@@ -121012,7 +121012,7 @@ V8 GB
 p56466
 sS'screen size'
 p56467
-V15.6 inches
+V15.6in
 p56468
 sS'processor speed'
 p56469
@@ -121096,7 +121096,7 @@ V8 GB
 p56506
 sS'screen size'
 p56507
-V15.6 inches
+V15.6in
 p56508
 sS'processor speed'
 p56509
@@ -121178,7 +121178,7 @@ V16 GB
 p56544
 sS'screen size'
 p56545
-V15.6 inches
+V15.6in
 p56546
 sS'processor speed'
 p56547
@@ -121262,7 +121262,7 @@ V4 GB
 p56584
 sS'screen size'
 p56585
-V15.6 inches
+V15.6in
 p56586
 sS'processor speed'
 p56587
@@ -121347,7 +121347,7 @@ V4 GB
 p56625
 sS'screen size'
 p56626
-V15.6 inches
+V15.6in
 p56627
 sS'processor speed'
 p56628
@@ -121432,7 +121432,7 @@ V12 GB
 p56666
 sS'screen size'
 p56667
-V15.6 inches
+V15.6in
 p56668
 sS'processor speed'
 p56669
@@ -121516,7 +121516,7 @@ V8 GB
 p56706
 sS'screen size'
 p56707
-V17.3 inches
+V17.3in
 p56708
 sS'processor speed'
 p56709
@@ -121597,7 +121597,7 @@ V8 GB
 p56743
 sS'screen size'
 p56744
-V15.6 inches
+V15.6in
 p56745
 sS'processor speed'
 p56746
@@ -121678,7 +121678,7 @@ V16 GB
 p56780
 sS'screen size'
 p56781
-V15.6 inches
+V15.6in
 p56782
 sS'processor speed'
 p56783
@@ -121763,7 +121763,7 @@ V4 GB
 p56821
 sS'screen size'
 p56822
-V12.2 inches
+V12.2in
 p56823
 sS'processor speed'
 p56824
@@ -121846,7 +121846,7 @@ V0 GB
 p56860
 sS'screen size'
 p56861
-V15.6 inches
+V15.6in
 p56862
 sS'processor speed'
 p56863
@@ -121930,7 +121930,7 @@ V64 GB
 p56900
 sS'screen size'
 p56901
-V15.6 inches
+V15.6in
 p56902
 sS'processor speed'
 p56903
@@ -122013,7 +122013,7 @@ V8 GB
 p56939
 sS'screen size'
 p56940
-V15.6 inches
+V15.6in
 p56941
 sS'processor speed'
 p56942
@@ -122093,7 +122093,7 @@ V16 GB
 p56975
 sS'screen size'
 p56976
-V15.6 inches
+V15.6in
 p56977
 sS'processor speed'
 p56978
@@ -122173,7 +122173,7 @@ V8 GB
 p57011
 sS'screen size'
 p57012
-V17.3 inches
+V17.3in
 p57013
 sS'processor speed'
 p57014
@@ -122251,7 +122251,7 @@ V8 GB
 p57045
 sS'screen size'
 p57046
-V13.3 inches
+V13.3in
 p57047
 sS'processor speed'
 p57048
@@ -122335,7 +122335,7 @@ V12 GB
 p57085
 sS'screen size'
 p57086
-V15.6 inches
+V15.6in
 p57087
 sS'processor speed'
 p57088
@@ -122418,7 +122418,7 @@ V8 GB
 p57124
 sS'screen size'
 p57125
-V14 inches
+V14in
 p57126
 sS'processor speed'
 p57127
@@ -122499,7 +122499,7 @@ V8 GB
 p57161
 sS'screen size'
 p57162
-V15.6 inches
+V15.6in
 p57163
 sS'processor speed'
 p57164
@@ -122581,7 +122581,7 @@ V16 GB
 p57199
 sS'screen size'
 p57200
-V15.6 inches
+V15.6in
 p57201
 sS'processor speed'
 p57202
@@ -122663,7 +122663,7 @@ V8 GB
 p57237
 sS'screen size'
 p57238
-V15.6 inches
+V15.6in
 p57239
 sS'processor speed'
 p57240
@@ -122747,7 +122747,7 @@ V16 GB
 p57277
 sS'screen size'
 p57278
-V15.6 inches
+V15.6in
 p57279
 sS'processor speed'
 p57280
@@ -122828,7 +122828,7 @@ V16 GB
 p57314
 sS'screen size'
 p57315
-V14 inches
+V14in
 p57316
 sS'processor speed'
 p57317
@@ -122910,7 +122910,7 @@ V16 GB
 p57352
 sS'screen size'
 p57353
-V13.3 inches
+V13.3in
 p57354
 sS'processor speed'
 p57355
@@ -122994,7 +122994,7 @@ V8 GB
 p57392
 sS'screen size'
 p57393
-V17.3 inches
+V17.3in
 p57394
 sS'processor speed'
 p57395
@@ -123078,7 +123078,7 @@ V16 GB
 p57432
 sS'screen size'
 p57433
-V15.6 inches
+V15.6in
 p57434
 sS'processor speed'
 p57435
@@ -123241,7 +123241,7 @@ V8 GB
 p57507
 sS'screen size'
 p57508
-V14 inches
+V14in
 p57509
 sS'processor speed'
 p57510
@@ -123321,7 +123321,7 @@ V16 GB
 p57543
 sS'screen size'
 p57544
-V15.6 in
+V15.6in
 p57545
 sS'processor speed'
 p57546
@@ -123403,7 +123403,7 @@ V16 GB
 p57581
 sS'screen size'
 p57582
-V15.6 inches
+V15.6in
 p57583
 sS'processor speed'
 p57584
@@ -123484,7 +123484,7 @@ V8 GB
 p57618
 sS'screen size'
 p57619
-V15.6 inches
+V15.6in
 p57620
 sS'processor speed'
 p57621
@@ -123568,7 +123568,7 @@ V8 GB
 p57658
 sS'screen size'
 p57659
-V15.6 inches
+V15.6in
 p57660
 sS'processor speed'
 p57661
@@ -123652,7 +123652,7 @@ V8 GB
 p57698
 sS'screen size'
 p57699
-V13.3 inches
+V13.3in
 p57700
 sS'processor speed'
 p57701
@@ -123736,7 +123736,7 @@ V64 GB
 p57738
 sS'screen size'
 p57739
-V15.6 inches
+V15.6in
 p57740
 sS'processor speed'
 p57741
@@ -123819,7 +123819,7 @@ V16 GB
 p57777
 sS'screen size'
 p57778
-V17.3 inches
+V17.3in
 p57779
 sS'processor speed'
 p57780
@@ -123898,7 +123898,7 @@ V16 GB
 p57812
 sS'screen size'
 p57813
-V13.1 inches
+V13.1in
 p57814
 sS'processor speed'
 p57815
@@ -123981,7 +123981,7 @@ V12 GB
 p57851
 sS'screen size'
 p57852
-V15.6 inches
+V15.6in
 p57853
 sS'processor speed'
 p57854
@@ -124061,7 +124061,7 @@ V16 GB
 p57887
 sS'screen size'
 p57888
-V15.6 inches
+V15.6in
 p57889
 sS'processor speed'
 p57890
@@ -124144,7 +124144,7 @@ V16 GB
 p57926
 sS'screen size'
 p57927
-V17.3 inches
+V17.3in
 p57928
 sS'processor speed'
 p57929
@@ -124227,7 +124227,7 @@ V8 GB
 p57965
 sS'screen size'
 p57966
-V14 inches
+V14in
 p57967
 sS'processor speed'
 p57968
@@ -124309,7 +124309,7 @@ V16 GB
 p58003
 sS'screen size'
 p58004
-V17.3 inches
+V17.3in
 p58005
 sS'processor speed'
 p58006
@@ -124394,7 +124394,7 @@ V16 GB
 p58044
 sS'screen size'
 p58045
-V15.6 inches
+V15.6in
 p58046
 sS'processor speed'
 p58047
@@ -124478,7 +124478,7 @@ V8 GB
 p58084
 sS'screen size'
 p58085
-V15.6 inches
+V15.6in
 p58086
 sS'processor speed'
 p58087
@@ -124561,7 +124561,7 @@ V8 GB
 p58123
 sS'screen size'
 p58124
-V15.6 inches
+V15.6in
 p58125
 sS'processor speed'
 p58126
@@ -124644,7 +124644,7 @@ V8 GB
 p58162
 sS'screen size'
 p58163
-V15.6 inches
+V15.6in
 p58164
 sS'processor speed'
 p58165
@@ -124727,7 +124727,7 @@ V32 GB
 p58201
 sS'screen size'
 p58202
-V17.3 inches
+V17.3in
 p58203
 sS'processor speed'
 p58204
@@ -124809,7 +124809,7 @@ V8 GB
 p58239
 sS'screen size'
 p58240
-V15.6 inches
+V15.6in
 p58241
 sS'processor speed'
 p58242
@@ -124888,7 +124888,7 @@ V16 GB
 p58274
 sS'screen size'
 p58275
-V14 in
+V14in
 p58276
 sS'processor speed'
 p58277
@@ -125043,7 +125043,7 @@ V16 GB
 p58341
 sS'screen size'
 p58342
-V17.3 inches
+V17.3in
 p58343
 sS'processor speed'
 p58344
@@ -125128,7 +125128,7 @@ V8 GB
 p58382
 sS'screen size'
 p58383
-V17.3 inches
+V17.3in
 p58384
 sS'processor speed'
 p58385
@@ -125210,7 +125210,7 @@ V8 GB
 p58420
 sS'screen size'
 p58421
-V15.6 inches
+V15.6in
 p58422
 sS'processor speed'
 p58423
@@ -125293,7 +125293,7 @@ V4 GB
 p58459
 sS'screen size'
 p58460
-V10.1 inches
+V10.1in
 p58461
 sS'processor speed'
 p58462
@@ -125370,7 +125370,7 @@ V16 GB
 p58492
 sS'screen size'
 p58493
-V17.3 in
+V17.3in
 p58494
 sS'processor speed'
 p58495
@@ -125454,7 +125454,7 @@ V8 GB
 p58532
 sS'screen size'
 p58533
-V13.3 inches
+V13.3in
 p58534
 sS'processor speed'
 p58535
@@ -125538,7 +125538,7 @@ V8 GB
 p58572
 sS'screen size'
 p58573
-V14 inches
+V14in
 p58574
 sS'processor speed'
 p58575
@@ -125621,7 +125621,7 @@ V8 GB
 p58611
 sS'screen size'
 p58612
-V12.3 inches
+V12.3in
 p58613
 sS'processor speed'
 p58614
@@ -125706,7 +125706,7 @@ V8 GB
 p58652
 sS'screen size'
 p58653
-V15.6 inches
+V15.6in
 p58654
 sS'processor speed'
 p58655
@@ -125789,7 +125789,7 @@ V16 GB
 p58691
 sS'screen size'
 p58692
-V15.6 inches
+V15.6in
 p58693
 sS'processor speed'
 p58694
@@ -125871,7 +125871,7 @@ V6 GB
 p58729
 sS'screen size'
 p58730
-V15.6 inches
+V15.6in
 p58731
 sS'processor speed'
 p58732
@@ -125951,7 +125951,7 @@ V4 GB
 p58765
 sS'screen size'
 p58766
-V11.6 inches
+V11.6in
 p58767
 sS'processor speed'
 p58768
@@ -126032,7 +126032,7 @@ V4 GB
 p58802
 sS'screen size'
 p58803
-V15.6 inches
+V15.6in
 p58804
 sS'processor speed'
 p58805
@@ -126111,7 +126111,7 @@ V4 KB
 p58837
 sS'screen size'
 p58838
-V11.6 inches
+V11.6in
 p58839
 sS'processor speed'
 p58840
@@ -126191,7 +126191,7 @@ V6 GB
 p58873
 sS'screen size'
 p58874
-V15.6 inches
+V15.6in
 p58875
 sS'processor speed'
 p58876
@@ -126275,7 +126275,7 @@ V8 GB
 p58913
 sS'screen size'
 p58914
-V12 inches
+V12in
 p58915
 sS'processor speed'
 p58916
@@ -126359,7 +126359,7 @@ V0 GB
 p58953
 sS'screen size'
 p58954
-V15.6 inches
+V15.6in
 p58955
 sS'processor speed'
 p58956
@@ -126442,7 +126442,7 @@ V4 GB
 p58992
 sS'screen size'
 p58993
-V15.6 inches
+V15.6in
 p58994
 sS'processor speed'
 p58995
@@ -126525,7 +126525,7 @@ V8 GB
 p59031
 sS'screen size'
 p59032
-V15.6 inches
+V15.6in
 p59033
 sS'processor speed'
 p59034
@@ -126610,7 +126610,7 @@ V12 GB
 p59072
 sS'screen size'
 p59073
-V15.6 inches
+V15.6in
 p59074
 sS'processor speed'
 p59075
@@ -126693,7 +126693,7 @@ V8 GB
 p59111
 sS'screen size'
 p59112
-V15.6 inches
+V15.6in
 p59113
 sS'processor speed'
 p59114
@@ -126771,7 +126771,7 @@ V0 GB
 p59145
 sS'screen size'
 p59146
-V15.6 in
+V15.6in
 p59147
 sS'processor speed'
 p59148
@@ -126853,7 +126853,7 @@ V32 GB
 p59183
 sS'screen size'
 p59184
-V17.3 inches
+V17.3in
 p59185
 sS'processor speed'
 p59186
@@ -126935,7 +126935,7 @@ V8 GB
 p59221
 sS'screen size'
 p59222
-V15.6 inches
+V15.6in
 p59223
 sS'processor speed'
 p59224
@@ -127019,7 +127019,7 @@ V8 GB
 p59261
 sS'screen size'
 p59262
-V15.6 inches
+V15.6in
 p59263
 sS'processor speed'
 p59264
@@ -127101,7 +127101,7 @@ V8 GB
 p59299
 sS'screen size'
 p59300
-V15.6 inches
+V15.6in
 p59301
 sS'processor speed'
 p59302
@@ -127183,7 +127183,7 @@ V16 GB
 p59337
 sS'screen size'
 p59338
-V15.6 inches
+V15.6in
 p59339
 sS'processor speed'
 p59340
@@ -127266,7 +127266,7 @@ V6 GB
 p59376
 sS'screen size'
 p59377
-V14 inches
+V14in
 p59378
 sS'processor speed'
 p59379
@@ -127349,7 +127349,7 @@ V16 GB
 p59415
 sS'screen size'
 p59416
-V13.3 inches
+V13.3in
 p59417
 sS'processor speed'
 p59418
@@ -127432,7 +127432,7 @@ V16 GB
 p59454
 sS'screen size'
 p59455
-V14 inches
+V14in
 p59456
 sS'processor speed'
 p59457
@@ -127513,7 +127513,7 @@ V16 GB
 p59491
 sS'screen size'
 p59492
-V13.3 inches
+V13.3in
 p59493
 sS'processor speed'
 p59494
@@ -127598,7 +127598,7 @@ V12 GB
 p59532
 sS'screen size'
 p59533
-V15.6 inches
+V15.6in
 p59534
 sS'processor speed'
 p59535
@@ -127680,7 +127680,7 @@ V4 GB
 p59570
 sS'screen size'
 p59571
-V11.6 inches
+V11.6in
 p59572
 sS'processor speed'
 p59573
@@ -127763,7 +127763,7 @@ V12 GB
 p59609
 sS'screen size'
 p59610
-V14 inches
+V14in
 p59611
 sS'processor speed'
 p59612
@@ -127842,7 +127842,7 @@ V32 GB
 p59644
 sS'screen size'
 p59645
-V14 in
+V14in
 p59646
 sS'processor speed'
 p59647
@@ -127922,7 +127922,7 @@ V32 GB
 p59680
 sS'screen size'
 p59681
-V15.6 in
+V15.6in
 p59682
 sS'processor speed'
 p59683
@@ -128004,7 +128004,7 @@ V16 GB
 p59718
 sS'screen size'
 p59719
-V15.4 inches
+V15.4in
 p59720
 sS'processor speed'
 p59721
@@ -128080,7 +128080,7 @@ V16 GB
 p59750
 sS'screen size'
 p59751
-V17.3 in
+V17.3in
 p59752
 sS'processor speed'
 p59753
@@ -128161,7 +128161,7 @@ V0 GB
 p59787
 sS'screen size'
 p59788
-V13.3 inches
+V13.3in
 p59789
 sS'processor speed'
 p59790
@@ -128242,7 +128242,7 @@ V8 GB
 p59824
 sS'screen size'
 p59825
-V15.6 inches
+V15.6in
 p59826
 sS'processor speed'
 p59827
@@ -128320,7 +128320,7 @@ V12 GB
 p59858
 sS'screen size'
 p59859
-V15.6 in
+V15.6in
 p59860
 sS'processor speed'
 p59861
@@ -128400,7 +128400,7 @@ V8 GB
 p59894
 sS'screen size'
 p59895
-V14 inches
+V14in
 p59896
 sS'processor speed'
 p59897
@@ -128482,7 +128482,7 @@ V8 GB
 p59932
 sS'screen size'
 p59933
-V14 inches
+V14in
 p59934
 sS'processor speed'
 p59935
@@ -128562,7 +128562,7 @@ V0 GB
 p59968
 sS'screen size'
 p59969
-V15.6 inches
+V15.6in
 p59970
 sS'processor speed'
 p59971
@@ -128643,7 +128643,7 @@ V16 GB
 p60005
 sS'screen size'
 p60006
-V15.6 in
+V15.6in
 p60007
 sS'processor speed'
 p60008
@@ -128726,7 +128726,7 @@ V8 GB
 p60044
 sS'screen size'
 p60045
-V15.6 inches
+V15.6in
 p60046
 sS'processor speed'
 p60047
@@ -128805,7 +128805,7 @@ V0 GB
 p60079
 sS'screen size'
 p60080
-V13.3 in
+V13.3in
 p60081
 sS'processor speed'
 p60082
@@ -128885,7 +128885,7 @@ V16 GB
 p60115
 sS'screen size'
 p60116
-V15.6 in
+V15.6in
 p60117
 sS'processor speed'
 p60118
@@ -128962,7 +128962,7 @@ V8 GB
 p60148
 sS'screen size'
 p60149
-V15.6 in
+V15.6in
 p60150
 sS'processor speed'
 p60151
@@ -129042,7 +129042,7 @@ V4 GB
 p60184
 sS'screen size'
 p60185
-V15.6 inches
+V15.6in
 p60186
 sS'processor speed'
 p60187
@@ -129125,7 +129125,7 @@ V8 GB
 p60223
 sS'screen size'
 p60224
-V15.6 inches
+V15.6in
 p60225
 sS'processor speed'
 p60226
@@ -129208,7 +129208,7 @@ V8 GB
 p60262
 sS'screen size'
 p60263
-V13.3 inches
+V13.3in
 p60264
 sS'processor speed'
 p60265
@@ -129291,7 +129291,7 @@ V16 GB
 p60301
 sS'screen size'
 p60302
-V15.6 inches
+V15.6in
 p60303
 sS'processor speed'
 p60304
@@ -129374,7 +129374,7 @@ V4 GB
 p60340
 sS'screen size'
 p60341
-V12 inches
+V12in
 p60342
 sS'processor speed'
 p60343
@@ -129455,7 +129455,7 @@ V4 GB
 p60377
 sS'screen size'
 p60378
-V12.5 inches
+V12.5in
 p60379
 sS'processor speed'
 p60380
@@ -129539,7 +129539,7 @@ V8 GB
 p60417
 sS'screen size'
 p60418
-V15.6 inches
+V15.6in
 p60419
 sS'processor speed'
 p60420
@@ -129621,7 +129621,7 @@ V6 GB
 p60455
 sS'screen size'
 p60456
-V17.3 inches
+V17.3in
 p60457
 sS'processor speed'
 p60458
@@ -129777,7 +129777,7 @@ V8 GB
 p60523
 sS'screen size'
 p60524
-V14 inches
+V14in
 p60525
 sS'processor speed'
 p60526
@@ -129860,7 +129860,7 @@ V16 GB
 p60562
 sS'screen size'
 p60563
-V17.3 inches
+V17.3in
 p60564
 sS'processor speed'
 p60565
@@ -129945,7 +129945,7 @@ V2 GB
 p60603
 sS'screen size'
 p60604
-V11.6 inches
+V11.6in
 p60605
 sS'processor speed'
 p60606
@@ -130024,7 +130024,7 @@ V16 GB
 p60638
 sS'screen size'
 p60639
-V12.5 in
+V12.5in
 p60640
 sS'processor speed'
 p60641
@@ -130107,7 +130107,7 @@ V8 GB
 p60677
 sS'screen size'
 p60678
-V15.6 inches
+V15.6in
 p60679
 sS'processor speed'
 p60680
@@ -130190,7 +130190,7 @@ V4 GB
 p60716
 sS'screen size'
 p60717
-V14 inches
+V14in
 p60718
 sS'processor speed'
 p60719
@@ -130271,7 +130271,7 @@ V16 GB
 p60753
 sS'screen size'
 p60754
-V17.3 inches
+V17.3in
 p60755
 sS'processor speed'
 p60756
@@ -130353,7 +130353,7 @@ V16 GB
 p60791
 sS'screen size'
 p60792
-V15.6 inches
+V15.6in
 p60793
 sS'processor speed'
 p60794
@@ -130433,7 +130433,7 @@ V8 GB
 p60827
 sS'screen size'
 p60828
-V12.2 inches
+V12.2in
 p60829
 sS'processor speed'
 p60830
@@ -130517,7 +130517,7 @@ V8 GB
 p60867
 sS'screen size'
 p60868
-V15.6 inches
+V15.6in
 p60869
 sS'processor speed'
 p60870
@@ -130601,7 +130601,7 @@ V4 GB
 p60907
 sS'screen size'
 p60908
-V14 inches
+V14in
 p60909
 sS'processor speed'
 p60910
@@ -130684,7 +130684,7 @@ V8 GB
 p60946
 sS'screen size'
 p60947
-V15.6 inches
+V15.6in
 p60948
 sS'processor speed'
 p60949
@@ -130764,7 +130764,7 @@ V6 GB
 p60982
 sS'screen size'
 p60983
-V15.6 inches
+V15.6in
 p60984
 sS'processor speed'
 p60985
@@ -130846,7 +130846,7 @@ V4 GB
 p61020
 sS'screen size'
 p61021
-V11.6 inches
+V11.6in
 p61022
 sS'processor speed'
 p61023
@@ -130928,7 +130928,7 @@ V0 GB
 p61058
 sS'screen size'
 p61059
-V15.6 inches
+V15.6in
 p61060
 sS'processor speed'
 p61061
@@ -131011,7 +131011,7 @@ V8 GB
 p61097
 sS'screen size'
 p61098
-V15.6 inches
+V15.6in
 p61099
 sS'processor speed'
 p61100
@@ -131093,7 +131093,7 @@ V8 GB
 p61135
 sS'screen size'
 p61136
-V13.3 inches
+V13.3in
 p61137
 sS'processor speed'
 p61138
@@ -131177,7 +131177,7 @@ V12 GB
 p61175
 sS'screen size'
 p61176
-V15.6 inches
+V15.6in
 p61177
 sS'processor speed'
 p61178
@@ -131261,7 +131261,7 @@ V32 GB
 p61215
 sS'screen size'
 p61216
-V15.6 inches
+V15.6in
 p61217
 sS'processor speed'
 p61218
@@ -131343,7 +131343,7 @@ V8 GB
 p61253
 sS'screen size'
 p61254
-V15.6 inches
+V15.6in
 p61255
 sS'processor speed'
 p61256
@@ -131426,7 +131426,7 @@ V8 GB
 p61292
 sS'screen size'
 p61293
-V15.6 inches
+V15.6in
 p61294
 sS'processor speed'
 p61295
@@ -131504,7 +131504,7 @@ V32 GB
 p61326
 sS'screen size'
 p61327
-V15.6 in
+V15.6in
 p61328
 sS'processor speed'
 p61329
@@ -131588,7 +131588,7 @@ V16 GB
 p61366
 sS'screen size'
 p61367
-V17.3 inches
+V17.3in
 p61368
 sS'processor speed'
 p61369
@@ -131667,7 +131667,7 @@ V128 GB
 p61401
 sS'screen size'
 p61402
-V11.6 inches
+V11.6in
 p61403
 sS'processor speed'
 p61404
@@ -131750,7 +131750,7 @@ V8 GB
 p61440
 sS'screen size'
 p61441
-V14 inches
+V14in
 p61442
 sS'processor speed'
 p61443
@@ -131834,7 +131834,7 @@ V16 GB
 p61480
 sS'screen size'
 p61481
-V17.3 inches
+V17.3in
 p61482
 sS'processor speed'
 p61483
@@ -131915,7 +131915,7 @@ V8 GB
 p61517
 sS'screen size'
 p61518
-V13.3 inches
+V13.3in
 p61519
 sS'processor speed'
 p61520
@@ -131998,7 +131998,7 @@ V32 GB
 p61556
 sS'screen size'
 p61557
-V17.3 inches
+V17.3in
 p61558
 sS'processor speed'
 p61559
@@ -132082,7 +132082,7 @@ V12 GB
 p61596
 sS'screen size'
 p61597
-V15.6 inches
+V15.6in
 p61598
 sS'processor speed'
 p61599
@@ -132163,7 +132163,7 @@ V16 GB
 p61633
 sS'screen size'
 p61634
-V17.3 in
+V17.3in
 p61635
 sS'processor speed'
 p61636
@@ -132245,7 +132245,7 @@ V16 GB
 p61671
 sS'screen size'
 p61672
-V15.6 inches
+V15.6in
 p61673
 sS'processor speed'
 p61674
@@ -132330,7 +132330,7 @@ V8 GB
 p61712
 sS'screen size'
 p61713
-V15.6 inches
+V15.6in
 p61714
 sS'processor speed'
 p61715
@@ -132414,7 +132414,7 @@ V8 GB
 p61752
 sS'screen size'
 p61753
-V12.5 inches
+V12.5in
 p61754
 sS'processor speed'
 p61755
@@ -132497,7 +132497,7 @@ V16 GB
 p61791
 sS'screen size'
 p61792
-V15.4 inches
+V15.4in
 p61793
 sS'processor speed'
 p61794
@@ -132577,7 +132577,7 @@ V8 GB
 p61827
 sS'screen size'
 p61828
-V17.3 inches
+V17.3in
 p61829
 sS'processor speed'
 p61830
@@ -132657,7 +132657,7 @@ V8192 MB
 p61863
 sS'screen size'
 p61864
-V13.3 inches
+V13.3in
 p61865
 sS'processor speed'
 p61866
@@ -132733,7 +132733,7 @@ V16 GB
 p61895
 sS'screen size'
 p61896
-V13.3 inches
+V13.3in
 p61897
 sS'processor speed'
 p61898
@@ -132813,7 +132813,7 @@ V16 GB
 p61931
 sS'screen size'
 p61932
-V13.3 inches
+V13.3in
 p61933
 sS'processor speed'
 p61934
@@ -132897,7 +132897,7 @@ V12 GB
 p61971
 sS'screen size'
 p61972
-V15.6 inches
+V15.6in
 p61973
 sS'processor speed'
 p61974
@@ -132979,7 +132979,7 @@ V12 GB
 p62009
 sS'screen size'
 p62010
-V15.6 inches
+V15.6in
 p62011
 sS'processor speed'
 p62012
@@ -133063,7 +133063,7 @@ V32 GB
 p62049
 sS'screen size'
 p62050
-V15.6 inches
+V15.6in
 p62051
 sS'processor speed'
 p62052
@@ -133144,7 +133144,7 @@ V4 GB
 p62086
 sS'screen size'
 p62087
-V11.6 inches
+V11.6in
 p62088
 sS'processor speed'
 p62089
@@ -133228,7 +133228,7 @@ V2 GB
 p62126
 sS'screen size'
 p62127
-V15.6 inches
+V15.6in
 p62128
 sS'processor speed'
 p62129
@@ -133307,7 +133307,7 @@ V8 GB
 p62161
 sS'screen size'
 p62162
-V0 in
+V0in
 p62163
 sS'processor speed'
 p62164
@@ -133391,7 +133391,7 @@ V8 GB
 p62201
 sS'screen size'
 p62202
-V14 inches
+V14in
 p62203
 sS'processor speed'
 p62204
@@ -133476,7 +133476,7 @@ V8 GB
 p62242
 sS'screen size'
 p62243
-V15.6 inches
+V15.6in
 p62244
 sS'processor speed'
 p62245
@@ -133554,7 +133554,7 @@ V32 GB
 p62276
 sS'screen size'
 p62277
-V15.6 inches
+V15.6in
 p62278
 sS'processor speed'
 p62279
@@ -133636,7 +133636,7 @@ V12 GB
 p62314
 sS'screen size'
 p62315
-V15.6 inches
+V15.6in
 p62316
 sS'processor speed'
 p62317
@@ -133718,7 +133718,7 @@ V16 GB
 p62352
 sS'screen size'
 p62353
-V17.3 inches
+V17.3in
 p62354
 sS'processor speed'
 p62355
@@ -133800,7 +133800,7 @@ V16 GB
 p62390
 sS'screen size'
 p62391
-V15.6 inches
+V15.6in
 p62392
 sS'processor speed'
 p62393
@@ -133884,7 +133884,7 @@ V4 GB
 p62430
 sS'screen size'
 p62431
-V11.6 inches
+V11.6in
 p62432
 sS'processor speed'
 p62433
@@ -133967,7 +133967,7 @@ V16 GB
 p62469
 sS'screen size'
 p62470
-V17.3 inches
+V17.3in
 p62471
 sS'processor speed'
 p62472
@@ -134050,7 +134050,7 @@ V12 GB
 p62508
 sS'screen size'
 p62509
-V15.6 inches
+V15.6in
 p62510
 sS'processor speed'
 p62511
@@ -134132,7 +134132,7 @@ V16 GB
 p62546
 sS'screen size'
 p62547
-V15.4 inches
+V15.4in
 p62548
 sS'processor speed'
 p62549
@@ -134214,7 +134214,7 @@ V8 GB
 p62584
 sS'screen size'
 p62585
-V14 inches
+V14in
 p62586
 sS'processor speed'
 p62587
@@ -134296,7 +134296,7 @@ V0 GB
 p62622
 sS'screen size'
 p62623
-V11.6 inches
+V11.6in
 p62624
 sS'processor speed'
 p62625
@@ -134380,7 +134380,7 @@ V16 GB
 p62662
 sS'screen size'
 p62663
-V15.6 inches
+V15.6in
 p62664
 sS'processor speed'
 p62665
@@ -134464,7 +134464,7 @@ V8 GB
 p62702
 sS'screen size'
 p62703
-V15.6 inches
+V15.6in
 p62704
 sS'processor speed'
 p62705
@@ -134544,7 +134544,7 @@ V0 GB
 p62738
 sS'screen size'
 p62739
-V13.3 inches
+V13.3in
 p62740
 sS'processor speed'
 p62741
@@ -134622,7 +134622,7 @@ p62772
 g24
 sS'screen size'
 p62773
-V15.6 inches
+V15.6in
 p62774
 sS'processor speed'
 p62775
@@ -134705,7 +134705,7 @@ V8 GB
 p62811
 sS'screen size'
 p62812
-V15.6 inches
+V15.6in
 p62813
 sS'processor speed'
 p62814
@@ -134787,7 +134787,7 @@ V16 GB
 p62849
 sS'screen size'
 p62850
-V15.6 inches
+V15.6in
 p62851
 sS'processor speed'
 p62852
@@ -134872,7 +134872,7 @@ V8 GB
 p62890
 sS'screen size'
 p62891
-V15.5 inches
+V15.5in
 p62892
 sS'processor speed'
 p62893
@@ -134953,7 +134953,7 @@ V8 GB
 p62927
 sS'screen size'
 p62928
-V14 inches
+V14in
 p62929
 sS'processor speed'
 p62930
@@ -135036,7 +135036,7 @@ V16 GB
 p62966
 sS'screen size'
 p62967
-V15.6 inches
+V15.6in
 p62968
 sS'processor speed'
 p62969
@@ -135118,7 +135118,7 @@ V8 GB
 p63004
 sS'screen size'
 p63005
-V15.6 inches
+V15.6in
 p63006
 sS'processor speed'
 p63007
@@ -135199,7 +135199,7 @@ V2 GB
 p63041
 sS'screen size'
 p63042
-V10.1 inches
+V10.1in
 p63043
 sS'processor speed'
 p63044
@@ -135281,7 +135281,7 @@ V8 GB
 p63079
 sS'screen size'
 p63080
-V15.6 inches
+V15.6in
 p63081
 sS'processor speed'
 p63082
@@ -135359,7 +135359,7 @@ V0 GB
 p63113
 sS'screen size'
 p63114
-V14 in
+V14in
 p63115
 sS'processor speed'
 p63116
@@ -135444,7 +135444,7 @@ V12 GB
 p63154
 sS'screen size'
 p63155
-V13.3 inches
+V13.3in
 p63156
 sS'processor speed'
 p63157
@@ -135526,7 +135526,7 @@ V16 GB
 p63192
 sS'screen size'
 p63193
-V15.4 inches
+V15.4in
 p63194
 sS'processor speed'
 p63195
@@ -135606,7 +135606,7 @@ V8 GB
 p63228
 sS'screen size'
 p63229
-V14 inches
+V14in
 p63230
 sS'processor speed'
 p63231
@@ -135689,7 +135689,7 @@ V8 GB
 p63267
 sS'screen size'
 p63268
-V15.6 inches
+V15.6in
 p63269
 sS'processor speed'
 p63270
@@ -135770,7 +135770,7 @@ V0 GB
 p63304
 sS'screen size'
 p63305
-V15.6 inches
+V15.6in
 p63306
 sS'processor speed'
 p63307
@@ -135855,7 +135855,7 @@ V8 GB
 p63345
 sS'screen size'
 p63346
-V15.6 inches
+V15.6in
 p63347
 sS'processor speed'
 p63348
@@ -135939,7 +135939,7 @@ V4 GB
 p63385
 sS'screen size'
 p63386
-V15.6 inches
+V15.6in
 p63387
 sS'processor speed'
 p63388
@@ -136022,7 +136022,7 @@ V16 GB
 p63424
 sS'screen size'
 p63425
-V15.6 inches
+V15.6in
 p63426
 sS'processor speed'
 p63427
@@ -136103,7 +136103,7 @@ V8 GB
 p63461
 sS'screen size'
 p63462
-V15.6 inches
+V15.6in
 p63463
 sS'processor speed'
 p63464
@@ -136187,7 +136187,7 @@ V6 GB
 p63501
 sS'screen size'
 p63502
-V17.3 inches
+V17.3in
 p63503
 sS'processor speed'
 p63504
@@ -136270,7 +136270,7 @@ V8 GB
 p63540
 sS'screen size'
 p63541
-V15.6 inches
+V15.6in
 p63542
 sS'processor speed'
 p63543
@@ -136346,7 +136346,7 @@ V8 GB
 p63572
 sS'screen size'
 p63573
-V13.3 in
+V13.3in
 p63574
 sS'processor speed'
 p63575
@@ -136428,7 +136428,7 @@ V8 GB
 p63610
 sS'screen size'
 p63611
-V17.3 inches
+V17.3in
 p63612
 sS'processor speed'
 p63613
@@ -136511,7 +136511,7 @@ V8 GB
 p63649
 sS'screen size'
 p63650
-V15.6 inches
+V15.6in
 p63651
 sS'processor speed'
 p63652
@@ -136596,7 +136596,7 @@ V4 GB
 p63690
 sS'screen size'
 p63691
-V11.6 inches
+V11.6in
 p63692
 sS'processor speed'
 p63693
@@ -136681,7 +136681,7 @@ V8 GB
 p63731
 sS'screen size'
 p63732
-V14 inches
+V14in
 p63733
 sS'processor speed'
 p63734
@@ -136764,7 +136764,7 @@ V8 GB
 p63770
 sS'screen size'
 p63771
-V15.6 inches
+V15.6in
 p63772
 sS'processor speed'
 p63773
@@ -136847,7 +136847,7 @@ V16 GB
 p63809
 sS'screen size'
 p63810
-V15.6 inches
+V15.6in
 p63811
 sS'processor speed'
 p63812
@@ -136927,7 +136927,7 @@ V16 GB
 p63845
 sS'screen size'
 p63846
-V15.6 inches
+V15.6in
 p63847
 sS'processor speed'
 p63848
@@ -137008,7 +137008,7 @@ V2 GB
 p63882
 sS'screen size'
 p63883
-V14 in
+V14in
 p63884
 sS'processor speed'
 p63885
@@ -137092,7 +137092,7 @@ V4 GB
 p63922
 sS'screen size'
 p63923
-V12.5 inches
+V12.5in
 p63924
 sS'processor speed'
 p63925
@@ -137175,7 +137175,7 @@ V8 GB
 p63961
 sS'screen size'
 p63962
-V15.6 inches
+V15.6in
 p63963
 sS'processor speed'
 p63964
@@ -137257,7 +137257,7 @@ V4 GB
 p63999
 sS'screen size'
 p64000
-V17.3 inches
+V17.3in
 p64001
 sS'processor speed'
 p64002
@@ -137335,7 +137335,7 @@ V0 GB
 p64033
 sS'screen size'
 p64034
-V15.6 in
+V15.6in
 p64035
 sS'processor speed'
 p64036
@@ -137419,7 +137419,7 @@ V32 GB
 p64073
 sS'screen size'
 p64074
-V17 inches
+V17in
 p64075
 sS'processor speed'
 p64076
@@ -137499,7 +137499,7 @@ V16 GB
 p64109
 sS'screen size'
 p64110
-V17.3 in
+V17.3in
 p64111
 sS'processor speed'
 p64112
@@ -137583,7 +137583,7 @@ V16 GB
 p64149
 sS'screen size'
 p64150
-V15.6 inches
+V15.6in
 p64151
 sS'processor speed'
 p64152
@@ -137665,7 +137665,7 @@ V4 GB
 p64187
 sS'screen size'
 p64188
-V15.6 inches
+V15.6in
 p64189
 sS'processor speed'
 p64190
@@ -137744,7 +137744,7 @@ V12 GB
 p64222
 sS'screen size'
 p64223
-V15.6 inches
+V15.6in
 p64224
 sS'processor speed'
 p64225
@@ -137824,7 +137824,7 @@ V16 GB
 p64258
 sS'screen size'
 p64259
-V13.3 inches
+V13.3in
 p64260
 sS'processor speed'
 p64261
@@ -137909,7 +137909,7 @@ V8 GB
 p64299
 sS'screen size'
 p64300
-V15.6 inches
+V15.6in
 p64301
 sS'processor speed'
 p64302
@@ -137990,7 +137990,7 @@ V0 GB
 p64336
 sS'screen size'
 p64337
-V17.3 inches
+V17.3in
 p64338
 sS'processor speed'
 p64339
@@ -138071,7 +138071,7 @@ V8 GB
 p64373
 sS'screen size'
 p64374
-V13.3 inches
+V13.3in
 p64375
 sS'processor speed'
 p64376
@@ -138151,7 +138151,7 @@ V8 GB
 p64409
 sS'screen size'
 p64410
-V12.5 inches
+V12.5in
 p64411
 sS'processor speed'
 p64412
@@ -138233,7 +138233,7 @@ V32 GB
 p64447
 sS'screen size'
 p64448
-V17.3 inches
+V17.3in
 p64449
 sS'processor speed'
 p64450
@@ -138315,7 +138315,7 @@ V32 GB
 p64485
 sS'screen size'
 p64486
-V15.6 inches
+V15.6in
 p64487
 sS'processor speed'
 p64488
@@ -138399,7 +138399,7 @@ V6 GB
 p64525
 sS'screen size'
 p64526
-V15.6 inches
+V15.6in
 p64527
 sS'processor speed'
 p64528
@@ -138483,7 +138483,7 @@ V8 GB
 p64565
 sS'screen size'
 p64566
-V15.6 inches
+V15.6in
 p64567
 sS'processor speed'
 p64568
@@ -138565,7 +138565,7 @@ V8 GB
 p64603
 sS'screen size'
 p64604
-V15.6 inches
+V15.6in
 p64605
 sS'processor speed'
 p64606
@@ -138648,7 +138648,7 @@ V16 GB
 p64642
 sS'screen size'
 p64643
-V17.3 inches
+V17.3in
 p64644
 sS'processor speed'
 p64645
@@ -138731,7 +138731,7 @@ V4 GB
 p64681
 sS'screen size'
 p64682
-V15.6 inches
+V15.6in
 p64683
 sS'processor speed'
 p64684
@@ -138813,7 +138813,7 @@ V4 GB
 p64719
 sS'screen size'
 p64720
-V11.6 inches
+V11.6in
 p64721
 sS'processor speed'
 p64722
@@ -138898,7 +138898,7 @@ V2 GB
 p64760
 sS'screen size'
 p64761
-V11.6 inches
+V11.6in
 p64762
 sS'processor speed'
 p64763
@@ -138983,7 +138983,7 @@ V12 GB
 p64801
 sS'screen size'
 p64802
-V15.6 inches
+V15.6in
 p64803
 sS'processor speed'
 p64804
@@ -139060,7 +139060,7 @@ V6 GB
 p64834
 sS'screen size'
 p64835
-V13.3 inches
+V13.3in
 p64836
 sS'processor speed'
 p64837
@@ -139138,7 +139138,7 @@ V6 GB
 p64868
 sS'screen size'
 p64869
-V15.6 in
+V15.6in
 p64870
 sS'processor speed'
 p64871
@@ -139221,7 +139221,7 @@ V12 GB
 p64907
 sS'screen size'
 p64908
-V15.6 inches
+V15.6in
 p64909
 sS'processor speed'
 p64910
@@ -139305,7 +139305,7 @@ V4 GB
 p64947
 sS'screen size'
 p64948
-V17.3 inches
+V17.3in
 p64949
 sS'processor speed'
 p64950
@@ -139387,7 +139387,7 @@ V8 GB
 p64985
 sS'screen size'
 p64986
-V13.3 inches
+V13.3in
 p64987
 sS'processor speed'
 p64988
@@ -139468,7 +139468,7 @@ V4 GB
 p65022
 sS'screen size'
 p65023
-V12.5 inches
+V12.5in
 p65024
 sS'processor speed'
 p65025
@@ -139552,7 +139552,7 @@ V8 GB
 p65062
 sS'screen size'
 p65063
-V15.6 inches
+V15.6in
 p65064
 sS'processor speed'
 p65065
@@ -139634,7 +139634,7 @@ V32 GB
 p65100
 sS'screen size'
 p65101
-V15.6 inches
+V15.6in
 p65102
 sS'processor speed'
 p65103
@@ -139717,7 +139717,7 @@ V16 GB
 p65139
 sS'screen size'
 p65140
-V15.4 inches
+V15.4in
 p65141
 sS'processor speed'
 p65142
@@ -139799,7 +139799,7 @@ V4 GB
 p65177
 sS'screen size'
 p65178
-V15.6 inches
+V15.6in
 p65179
 sS'processor speed'
 p65180
@@ -139882,7 +139882,7 @@ V4 GB
 p65216
 sS'screen size'
 p65217
-V14 inches
+V14in
 p65218
 sS'processor speed'
 p65219
@@ -139963,7 +139963,7 @@ V16 GB
 p65253
 sS'screen size'
 p65254
-V17.3 inches
+V17.3in
 p65255
 sS'processor speed'
 p65256
@@ -140045,7 +140045,7 @@ V16 GB
 p65291
 sS'screen size'
 p65292
-V15.6 inches
+V15.6in
 p65293
 sS'processor speed'
 p65294
@@ -140128,7 +140128,7 @@ V16 GB
 p65330
 sS'screen size'
 p65331
-V15.6 inches
+V15.6in
 p65332
 sS'processor speed'
 p65333
@@ -140205,7 +140205,7 @@ V32 GB
 p65363
 sS'screen size'
 p65364
-V17.3 in
+V17.3in
 p65365
 sS'processor speed'
 p65366
@@ -140289,7 +140289,7 @@ V8 GB
 p65403
 sS'screen size'
 p65404
-V15.6 inches
+V15.6in
 p65405
 sS'processor speed'
 p65406
@@ -140371,7 +140371,7 @@ V32 GB
 p65441
 sS'screen size'
 p65442
-V14 inches
+V14in
 p65443
 sS'processor speed'
 p65444
@@ -140451,7 +140451,7 @@ V8 GB
 p65477
 sS'screen size'
 p65478
-V13.3 in
+V13.3in
 p65479
 sS'processor speed'
 p65480
@@ -140533,7 +140533,7 @@ V8 GB
 p65515
 sS'screen size'
 p65516
-V12.5 inches
+V12.5in
 p65517
 sS'processor speed'
 p65518
@@ -140618,7 +140618,7 @@ V8 GB
 p65556
 sS'screen size'
 p65557
-V13.3 inches
+V13.3in
 p65558
 sS'processor speed'
 p65559
@@ -140694,7 +140694,7 @@ V16 GB
 p65588
 sS'screen size'
 p65589
-V17.3 inches
+V17.3in
 p65590
 sS'processor speed'
 p65591
@@ -140777,7 +140777,7 @@ V16 GB
 p65627
 sS'screen size'
 p65628
-V15.4 inches
+V15.4in
 p65629
 sS'processor speed'
 p65630
@@ -140860,7 +140860,7 @@ V8 GB
 p65666
 sS'screen size'
 p65667
-V15.6 inches
+V15.6in
 p65668
 sS'processor speed'
 p65669
@@ -140938,7 +140938,7 @@ V8 GB
 p65700
 sS'screen size'
 p65701
-V13.3 inches
+V13.3in
 p65702
 sS'processor speed'
 p65703
@@ -141018,7 +141018,7 @@ V16 GB
 p65736
 sS'screen size'
 p65737
-V15.6 in
+V15.6in
 p65738
 sS'processor speed'
 p65739
@@ -141099,7 +141099,7 @@ V4 GB
 p65773
 sS'screen size'
 p65774
-V11.6 inches
+V11.6in
 p65775
 sS'processor speed'
 p65776
@@ -141179,7 +141179,7 @@ V32 GB
 p65809
 sS'screen size'
 p65810
-V17.3 in
+V17.3in
 p65811
 sS'processor speed'
 p65812
@@ -141261,7 +141261,7 @@ V12 GB
 p65847
 sS'screen size'
 p65848
-V15.6 inches
+V15.6in
 p65849
 sS'processor speed'
 p65850
@@ -141341,7 +141341,7 @@ V12 GB
 p65883
 sS'screen size'
 p65884
-V15.6 inches
+V15.6in
 p65885
 sS'processor speed'
 p65886
@@ -141423,7 +141423,7 @@ V32 GB
 p65921
 sS'screen size'
 p65922
-V17.3 inches
+V17.3in
 p65923
 sS'processor speed'
 p65924
@@ -141504,7 +141504,7 @@ V64 GB
 p65958
 sS'screen size'
 p65959
-V15.6 in
+V15.6in
 p65960
 sS'processor speed'
 p65961
@@ -141588,7 +141588,7 @@ V8 GB
 p65998
 sS'screen size'
 p65999
-V14 inches
+V14in
 p66000
 sS'processor speed'
 p66001
@@ -141668,7 +141668,7 @@ V8 GB
 p66034
 sS'screen size'
 p66035
-V15.6 inches
+V15.6in
 p66036
 sS'processor speed'
 p66037
@@ -141748,7 +141748,7 @@ V0 GB
 p66070
 sS'screen size'
 p66071
-V17.3 inches
+V17.3in
 p66072
 sS'processor speed'
 p66073
@@ -141831,7 +141831,7 @@ V8 GB
 p66109
 sS'screen size'
 p66110
-V15.6 inches
+V15.6in
 p66111
 sS'processor speed'
 p66112
@@ -141912,7 +141912,7 @@ V8 GB
 p66146
 sS'screen size'
 p66147
-V14 inches
+V14in
 p66148
 sS'processor speed'
 p66149
@@ -141994,7 +141994,7 @@ V8 GB
 p66184
 sS'screen size'
 p66185
-V14 inches
+V14in
 p66186
 sS'processor speed'
 p66187
@@ -142077,7 +142077,7 @@ V16 GB
 p66223
 sS'screen size'
 p66224
-V15.6 inches
+V15.6in
 p66225
 sS'processor speed'
 p66226
@@ -142161,7 +142161,7 @@ V8 GB
 p66263
 sS'screen size'
 p66264
-V11.6 inches
+V11.6in
 p66265
 sS'processor speed'
 p66266
@@ -142243,7 +142243,7 @@ V16 GB
 p66301
 sS'screen size'
 p66302
-V15.6 inches
+V15.6in
 p66303
 sS'processor speed'
 p66304
@@ -142326,7 +142326,7 @@ V32 GB
 p66340
 sS'screen size'
 p66341
-V17.3 inches
+V17.3in
 p66342
 sS'processor speed'
 p66343
@@ -142408,7 +142408,7 @@ V4 GB
 p66378
 sS'screen size'
 p66379
-V15.6 inches
+V15.6in
 p66380
 sS'processor speed'
 p66381
@@ -142488,7 +142488,7 @@ V8 GB
 p66414
 sS'screen size'
 p66415
-V14 in
+V14in
 p66416
 sS'processor speed'
 p66417
@@ -142568,7 +142568,7 @@ V20 GB
 p66450
 sS'screen size'
 p66451
-V15.6 in
+V15.6in
 p66452
 sS'processor speed'
 p66453
@@ -142648,7 +142648,7 @@ V4 GB
 p66486
 sS'screen size'
 p66487
-V15.6 inches
+V15.6in
 p66488
 sS'processor speed'
 p66489
@@ -142728,7 +142728,7 @@ V8 GB
 p66522
 sS'screen size'
 p66523
-V15.6 inches
+V15.6in
 p66524
 sS'processor speed'
 p66525
@@ -142807,7 +142807,7 @@ V16 GB
 p66557
 sS'screen size'
 p66558
-V15.6 inches
+V15.6in
 p66559
 sS'processor speed'
 p66560
@@ -142888,7 +142888,7 @@ V8 GB
 p66594
 sS'screen size'
 p66595
-V15.6 inches
+V15.6in
 p66596
 sS'processor speed'
 p66597
@@ -142962,7 +142962,7 @@ V8 GB
 p66624
 sS'screen size'
 p66625
-V15.6 in
+V15.6in
 p66626
 sS'processor speed'
 p66627
@@ -143046,7 +143046,7 @@ V4 GB
 p66664
 sS'screen size'
 p66665
-V15.6 inches
+V15.6in
 p66666
 sS'processor speed'
 p66667
@@ -143130,7 +143130,7 @@ V8 GB
 p66704
 sS'screen size'
 p66705
-V13.3 inches
+V13.3in
 p66706
 sS'processor speed'
 p66707
@@ -143210,7 +143210,7 @@ V32 GB
 p66740
 sS'screen size'
 p66741
-V15.6 in
+V15.6in
 p66742
 sS'processor speed'
 p66743
@@ -143293,7 +143293,7 @@ V16 GB
 p66779
 sS'screen size'
 p66780
-V15.6 inches
+V15.6in
 p66781
 sS'processor speed'
 p66782
@@ -143375,7 +143375,7 @@ V8 GB
 p66817
 sS'screen size'
 p66818
-V17.3 inches
+V17.3in
 p66819
 sS'processor speed'
 p66820
@@ -143458,7 +143458,7 @@ V8 GB
 p66856
 sS'screen size'
 p66857
-V15.6 inches
+V15.6in
 p66858
 sS'processor speed'
 p66859
@@ -143538,7 +143538,7 @@ V8 GB
 p66892
 sS'screen size'
 p66893
-V15.6 inches
+V15.6in
 p66894
 sS'processor speed'
 p66895
@@ -143618,7 +143618,7 @@ V4 GB
 p66928
 sS'screen size'
 p66929
-V15.6 inches
+V15.6in
 p66930
 sS'processor speed'
 p66931
@@ -143700,7 +143700,7 @@ V16 GB
 p66966
 sS'screen size'
 p66967
-V15.6 inches
+V15.6in
 p66968
 sS'processor speed'
 p66969
@@ -143857,7 +143857,7 @@ V0 GB
 p67035
 sS'screen size'
 p67036
-V13.3 inches
+V13.3in
 p67037
 sS'processor speed'
 p67038
@@ -143939,7 +143939,7 @@ V16 GB
 p67073
 sS'screen size'
 p67074
-V14 inches
+V14in
 p67075
 sS'processor speed'
 p67076
@@ -144024,7 +144024,7 @@ V8 GB
 p67114
 sS'screen size'
 p67115
-V15.6 inches
+V15.6in
 p67116
 sS'processor speed'
 p67117
@@ -144108,7 +144108,7 @@ V8 GB
 p67154
 sS'screen size'
 p67155
-V14 inches
+V14in
 p67156
 sS'processor speed'
 p67157
@@ -144185,7 +144185,7 @@ V8 GB
 p67187
 sS'screen size'
 p67188
-V17.3 in
+V17.3in
 p67189
 sS'processor speed'
 p67190
@@ -144265,7 +144265,7 @@ V4 GB
 p67223
 sS'screen size'
 p67224
-V11.6 inches
+V11.6in
 p67225
 sS'processor speed'
 p67226
@@ -144346,7 +144346,7 @@ V32 GB
 p67260
 sS'screen size'
 p67261
-V15.6 inches
+V15.6in
 p67262
 sS'processor speed'
 p67263
@@ -144431,7 +144431,7 @@ V2 GB
 p67301
 sS'screen size'
 p67302
-V10.1 inches
+V10.1in
 p67303
 sS'processor speed'
 p67304
@@ -144514,7 +144514,7 @@ V8 GB
 p67340
 sS'screen size'
 p67341
-V13.3 inches
+V13.3in
 p67342
 sS'processor speed'
 p67343
@@ -144597,7 +144597,7 @@ V32 GB
 p67379
 sS'screen size'
 p67380
-V17.3 inches
+V17.3in
 p67381
 sS'processor speed'
 p67382
@@ -144679,7 +144679,7 @@ V16 GB
 p67417
 sS'screen size'
 p67418
-V15.6 inches
+V15.6in
 p67419
 sS'processor speed'
 p67420
@@ -144760,7 +144760,7 @@ V8 GB
 p67454
 sS'screen size'
 p67455
-V15.6 in
+V15.6in
 p67456
 sS'processor speed'
 p67457
@@ -144839,7 +144839,7 @@ V4 GB
 p67489
 sS'screen size'
 p67490
-V11.4 inches
+V11.4in
 p67491
 sS'processor speed'
 p67492
@@ -144920,7 +144920,7 @@ V8 GB
 p67526
 sS'screen size'
 p67527
-V13 inches
+V13in
 p67528
 sS'processor speed'
 p67529
@@ -145005,7 +145005,7 @@ V2 GB
 p67567
 sS'screen size'
 p67568
-V14 inches
+V14in
 p67569
 sS'processor speed'
 p67570
@@ -145088,7 +145088,7 @@ V8 GB
 p67606
 sS'screen size'
 p67607
-V15.6 inches
+V15.6in
 p67608
 sS'processor speed'
 p67609
@@ -145171,7 +145171,7 @@ V16 GB
 p67645
 sS'screen size'
 p67646
-V15.6 inches
+V15.6in
 p67647
 sS'processor speed'
 p67648
@@ -145255,7 +145255,7 @@ V16 GB
 p67685
 sS'screen size'
 p67686
-V17.3 inches
+V17.3in
 p67687
 sS'processor speed'
 p67688
@@ -145417,7 +145417,7 @@ V16 GB
 p67759
 sS'screen size'
 p67760
-V15.6 inches
+V15.6in
 p67761
 sS'processor speed'
 p67762
@@ -145501,7 +145501,7 @@ V4 GB
 p67799
 sS'screen size'
 p67800
-V11.6 inches
+V11.6in
 p67801
 sS'processor speed'
 p67802
@@ -145583,7 +145583,7 @@ V16 GB
 p67837
 sS'screen size'
 p67838
-V17.3 inches
+V17.3in
 p67839
 sS'processor speed'
 p67840
@@ -145666,7 +145666,7 @@ V4 GB
 p67876
 sS'screen size'
 p67877
-V15.6 inches
+V15.6in
 p67878
 sS'processor speed'
 p67879
@@ -145743,7 +145743,7 @@ V4 GB
 p67909
 sS'screen size'
 p67910
-V14 in
+V14in
 p67911
 sS'processor speed'
 p67912
@@ -145825,7 +145825,7 @@ V8 GB
 p67947
 sS'screen size'
 p67948
-V15.6 inches
+V15.6in
 p67949
 sS'processor speed'
 p67950
@@ -145910,7 +145910,7 @@ V12 GB
 p67988
 sS'screen size'
 p67989
-V15.6 inches
+V15.6in
 p67990
 sS'processor speed'
 p67991
@@ -145993,7 +145993,7 @@ V16 GB
 p68027
 sS'screen size'
 p68028
-V17.3 inches
+V17.3in
 p68029
 sS'processor speed'
 p68030
@@ -146076,7 +146076,7 @@ V4 GB
 p68066
 sS'screen size'
 p68067
-V11.6 inches
+V11.6in
 p68068
 sS'processor speed'
 p68069
@@ -146155,7 +146155,7 @@ V8 GB
 p68101
 sS'screen size'
 p68102
-V17.3 inches
+V17.3in
 p68103
 sS'processor speed'
 p68104
@@ -146238,7 +146238,7 @@ V16 GB
 p68140
 sS'screen size'
 p68141
-V14 inches
+V14in
 p68142
 sS'processor speed'
 p68143
@@ -146321,7 +146321,7 @@ V4 GB
 p68179
 sS'screen size'
 p68180
-V14 inches
+V14in
 p68181
 sS'processor speed'
 p68182
@@ -146405,7 +146405,7 @@ V16 GB
 p68219
 sS'screen size'
 p68220
-V17.3 inches
+V17.3in
 p68221
 sS'processor speed'
 p68222
@@ -146490,7 +146490,7 @@ V4 GB
 p68260
 sS'screen size'
 p68261
-V11.6 inches
+V11.6in
 p68262
 sS'processor speed'
 p68263
@@ -146574,7 +146574,7 @@ V16 GB
 p68300
 sS'screen size'
 p68301
-V15.6 inches
+V15.6in
 p68302
 sS'processor speed'
 p68303
@@ -146654,7 +146654,7 @@ V8 GB
 p68336
 sS'screen size'
 p68337
-V15.6 inches
+V15.6in
 p68338
 sS'processor speed'
 p68339
@@ -146737,7 +146737,7 @@ V6 GB
 p68375
 sS'screen size'
 p68376
-V15.6 inches
+V15.6in
 p68377
 sS'processor speed'
 p68378
@@ -146822,7 +146822,7 @@ V6 GB
 p68416
 sS'screen size'
 p68417
-V13.3 inches
+V13.3in
 p68418
 sS'processor speed'
 p68419
@@ -146903,7 +146903,7 @@ V8 GB
 p68453
 sS'screen size'
 p68454
-V13 inches
+V13in
 p68455
 sS'processor speed'
 p68456
@@ -146985,7 +146985,7 @@ V8 GB
 p68491
 sS'screen size'
 p68492
-V15.6 inches
+V15.6in
 p68493
 sS'processor speed'
 p68494
@@ -147066,7 +147066,7 @@ V8 GB
 p68528
 sS'screen size'
 p68529
-V15.6 inches
+V15.6in
 p68530
 sS'processor speed'
 p68531
@@ -147148,7 +147148,7 @@ V8 GB
 p68566
 sS'screen size'
 p68567
-V14 inches
+V14in
 p68568
 sS'processor speed'
 p68569
@@ -147233,7 +147233,7 @@ V8 GB
 p68607
 sS'screen size'
 p68608
-V15.6 inches
+V15.6in
 p68609
 sS'processor speed'
 p68610
@@ -147315,7 +147315,7 @@ V8 GB
 p68645
 sS'screen size'
 p68646
-V12.5 inches
+V12.5in
 p68647
 sS'processor speed'
 p68648
@@ -147398,7 +147398,7 @@ V8 GB
 p68684
 sS'screen size'
 p68685
-V14 inches
+V14in
 p68686
 sS'processor speed'
 p68687
@@ -147479,7 +147479,7 @@ V8 GB
 p68721
 sS'screen size'
 p68722
-V15.6 inches
+V15.6in
 p68723
 sS'processor speed'
 p68724
@@ -147564,7 +147564,7 @@ V4 GB
 p68762
 sS'screen size'
 p68763
-V14 inches
+V14in
 p68764
 sS'processor speed'
 p68765
@@ -147644,7 +147644,7 @@ V16 GB
 p68798
 sS'screen size'
 p68799
-V15.6 in
+V15.6in
 p68800
 sS'processor speed'
 p68801
@@ -147729,7 +147729,7 @@ V2 GB
 p68839
 sS'screen size'
 p68840
-V10.1 inches
+V10.1in
 p68841
 sS'processor speed'
 p68842
@@ -147809,7 +147809,7 @@ V2 GB
 p68875
 sS'screen size'
 p68876
-V10.1 in
+V10.1in
 p68877
 sS'processor speed'
 p68878
@@ -147891,7 +147891,7 @@ V16 GB
 p68913
 sS'screen size'
 p68914
-V17.3 inches
+V17.3in
 p68915
 sS'processor speed'
 p68916
@@ -147975,7 +147975,7 @@ V32 GB
 p68953
 sS'screen size'
 p68954
-V15.6 inches
+V15.6in
 p68955
 sS'processor speed'
 p68956
@@ -148057,7 +148057,7 @@ V8 GB
 p68991
 sS'screen size'
 p68992
-V15.6 inches
+V15.6in
 p68993
 sS'processor speed'
 p68994
@@ -148139,7 +148139,7 @@ V8 GB
 p69029
 sS'screen size'
 p69030
-V13.3 inches
+V13.3in
 p69031
 sS'processor speed'
 p69032
@@ -148224,7 +148224,7 @@ V12 GB
 p69070
 sS'screen size'
 p69071
-V15.6 inches
+V15.6in
 p69072
 sS'processor speed'
 p69073
@@ -148308,7 +148308,7 @@ V12 GB
 p69110
 sS'screen size'
 p69111
-V15.6 inches
+V15.6in
 p69112
 sS'processor speed'
 p69113
@@ -148387,7 +148387,7 @@ V16 GB
 p69145
 sS'screen size'
 p69146
-V17.3 inches
+V17.3in
 p69147
 sS'processor speed'
 p69148
@@ -148468,7 +148468,7 @@ V32 GB
 p69182
 sS'screen size'
 p69183
-V17.3 inches
+V17.3in
 p69184
 sS'processor speed'
 p69185
@@ -148552,7 +148552,7 @@ V8 GB
 p69222
 sS'screen size'
 p69223
-V14 inches
+V14in
 p69224
 sS'processor speed'
 p69225
@@ -148634,7 +148634,7 @@ V16 GB
 p69260
 sS'screen size'
 p69261
-V17.3 inches
+V17.3in
 p69262
 sS'processor speed'
 p69263
@@ -148715,7 +148715,7 @@ V4 GB
 p69297
 sS'screen size'
 p69298
-V15.6 inches
+V15.6in
 p69299
 sS'processor speed'
 p69300
@@ -148798,7 +148798,7 @@ V32 GB
 p69336
 sS'screen size'
 p69337
-V17.3 inches
+V17.3in
 p69338
 sS'processor speed'
 p69339
@@ -148880,7 +148880,7 @@ V16 GB
 p69374
 sS'screen size'
 p69375
-V15.6 inches
+V15.6in
 p69376
 sS'processor speed'
 p69377
@@ -148963,7 +148963,7 @@ V8 GB
 p69413
 sS'screen size'
 p69414
-V13.3 inches
+V13.3in
 p69415
 sS'processor speed'
 p69416
@@ -149045,7 +149045,7 @@ V16 GB
 p69451
 sS'screen size'
 p69452
-V14 inches
+V14in
 p69453
 sS'processor speed'
 p69454
@@ -149126,7 +149126,7 @@ V16 GB
 p69488
 sS'screen size'
 p69489
-V15.6 inches
+V15.6in
 p69490
 sS'processor speed'
 p69491
@@ -149210,7 +149210,7 @@ V8 GB
 p69528
 sS'screen size'
 p69529
-V15.6 inches
+V15.6in
 p69530
 sS'processor speed'
 p69531
@@ -149294,7 +149294,7 @@ V16 GB
 p69568
 sS'screen size'
 p69569
-V13.3 inches
+V13.3in
 p69570
 sS'processor speed'
 p69571
@@ -149378,7 +149378,7 @@ V4 GB
 p69608
 sS'screen size'
 p69609
-V11.6 inches
+V11.6in
 p69610
 sS'processor speed'
 p69611
@@ -149462,7 +149462,7 @@ V16 GB
 p69648
 sS'screen size'
 p69649
-V13.3 inches
+V13.3in
 p69650
 sS'processor speed'
 p69651
@@ -149542,7 +149542,7 @@ V8 GB
 p69684
 sS'screen size'
 p69685
-V17.3 inches
+V17.3in
 p69686
 sS'processor speed'
 p69687
@@ -149625,7 +149625,7 @@ V16 GB
 p69723
 sS'screen size'
 p69724
-V15.6 inches
+V15.6in
 p69725
 sS'processor speed'
 p69726
@@ -149774,7 +149774,7 @@ V16 GB
 p69784
 sS'screen size'
 p69785
-V15.6 inches
+V15.6in
 p69786
 sS'processor speed'
 p69787
@@ -149857,7 +149857,7 @@ V8 GB
 p69823
 sS'screen size'
 p69824
-V14 inches
+V14in
 p69825
 sS'processor speed'
 p69826
@@ -149938,7 +149938,7 @@ V8 GB
 p69860
 sS'screen size'
 p69861
-V15.6 inches
+V15.6in
 p69862
 sS'processor speed'
 p69863
@@ -150018,7 +150018,7 @@ V4 GB
 p69896
 sS'screen size'
 p69897
-V13.3 inches
+V13.3in
 p69898
 sS'processor speed'
 p69899
@@ -150098,7 +150098,7 @@ V8 GB
 p69932
 sS'screen size'
 p69933
-V15.6 inches
+V15.6in
 p69934
 sS'processor speed'
 p69935
@@ -150181,7 +150181,7 @@ V16 GB
 p69971
 sS'screen size'
 p69972
-V17.3 inches
+V17.3in
 p69973
 sS'processor speed'
 p69974
@@ -150265,7 +150265,7 @@ V12 GB
 p70011
 sS'screen size'
 p70012
-V13.3 inches
+V13.3in
 p70013
 sS'processor speed'
 p70014
@@ -150348,7 +150348,7 @@ V4 GB
 p70050
 sS'screen size'
 p70051
-V15.6 inches
+V15.6in
 p70052
 sS'processor speed'
 p70053
@@ -150430,7 +150430,7 @@ V12 GB
 p70088
 sS'screen size'
 p70089
-V15.6 inches
+V15.6in
 p70090
 sS'processor speed'
 p70091
@@ -150513,7 +150513,7 @@ V8 GB
 p70127
 sS'screen size'
 p70128
-V15.6 inches
+V15.6in
 p70129
 sS'processor speed'
 p70130
@@ -150596,7 +150596,7 @@ V4 GB
 p70166
 sS'screen size'
 p70167
-V14 inches
+V14in
 p70168
 sS'processor speed'
 p70169
@@ -150678,7 +150678,7 @@ V4 GB
 p70204
 sS'screen size'
 p70205
-V15.6 inches
+V15.6in
 p70206
 sS'processor speed'
 p70207
@@ -150762,7 +150762,7 @@ V8 GB
 p70244
 sS'screen size'
 p70245
-V14 inches
+V14in
 p70246
 sS'processor speed'
 p70247
@@ -150845,7 +150845,7 @@ V8 GB
 p70283
 sS'screen size'
 p70284
-V15.6 inches
+V15.6in
 p70285
 sS'processor speed'
 p70286
@@ -150928,7 +150928,7 @@ V8 GB
 p70322
 sS'screen size'
 p70323
-V15.6 inches
+V15.6in
 p70324
 sS'processor speed'
 p70325
@@ -151010,7 +151010,7 @@ V16 GB
 p70360
 sS'screen size'
 p70361
-V15.6 inches
+V15.6in
 p70362
 sS'processor speed'
 p70363
@@ -151095,7 +151095,7 @@ V8 GB
 p70401
 sS'screen size'
 p70402
-V13.3 inches
+V13.3in
 p70403
 sS'processor speed'
 p70404
@@ -151178,7 +151178,7 @@ V8 GB
 p70440
 sS'screen size'
 p70441
-V15.6 inches
+V15.6in
 p70442
 sS'processor speed'
 p70443
@@ -151259,7 +151259,7 @@ V12 GB
 p70477
 sS'screen size'
 p70478
-V15.6 in
+V15.6in
 p70479
 sS'processor speed'
 p70480
@@ -151341,7 +151341,7 @@ V8 GB
 p70515
 sS'screen size'
 p70516
-V15.6 inches
+V15.6in
 p70517
 sS'processor speed'
 p70518
@@ -151420,7 +151420,7 @@ V16 GB
 p70550
 sS'screen size'
 p70551
-V14 inches
+V14in
 p70552
 sS'processor speed'
 p70553
@@ -151500,7 +151500,7 @@ V16 GB
 p70586
 sS'screen size'
 p70587
-V14 in
+V14in
 p70588
 sS'processor speed'
 p70589
@@ -151584,7 +151584,7 @@ V8 GB
 p70626
 sS'screen size'
 p70627
-V13.3 inches
+V13.3in
 p70628
 sS'processor speed'
 p70629
@@ -151667,7 +151667,7 @@ V8 GB
 p70665
 sS'screen size'
 p70666
-V15.6 inches
+V15.6in
 p70667
 sS'processor speed'
 p70668
@@ -151749,7 +151749,7 @@ V8 GB
 p70703
 sS'screen size'
 p70704
-V13.5 inches
+V13.5in
 p70705
 sS'processor speed'
 p70706
@@ -151832,7 +151832,7 @@ V8 GB
 p70742
 sS'screen size'
 p70743
-V15.6 inches
+V15.6in
 p70744
 sS'processor speed'
 p70745
@@ -151916,7 +151916,7 @@ V8 GB
 p70782
 sS'screen size'
 p70783
-V15.6 inches
+V15.6in
 p70784
 sS'processor speed'
 p70785
@@ -151998,7 +151998,7 @@ V16 GB
 p70820
 sS'screen size'
 p70821
-V15.6 inches
+V15.6in
 p70822
 sS'processor speed'
 p70823
@@ -152078,7 +152078,7 @@ V16 GB
 p70856
 sS'screen size'
 p70857
-V14 inches
+V14in
 p70858
 sS'processor speed'
 p70859
@@ -152161,7 +152161,7 @@ V8 GB
 p70895
 sS'screen size'
 p70896
-V14 inches
+V14in
 p70897
 sS'processor speed'
 p70898
@@ -152244,7 +152244,7 @@ V16 GB
 p70934
 sS'screen size'
 p70935
-V17.3 inches
+V17.3in
 p70936
 sS'processor speed'
 p70937
@@ -152328,7 +152328,7 @@ V12 GB
 p70974
 sS'screen size'
 p70975
-V15.6 inches
+V15.6in
 p70976
 sS'processor speed'
 p70977
@@ -152408,7 +152408,7 @@ V8 GB
 p71010
 sS'screen size'
 p71011
-V14 inches
+V14in
 p71012
 sS'processor speed'
 p71013
@@ -152486,7 +152486,7 @@ V8 GB
 p71044
 sS'screen size'
 p71045
-V15.6 inches
+V15.6in
 p71046
 sS'processor speed'
 p71047
@@ -152568,7 +152568,7 @@ V32 GB
 p71082
 sS'screen size'
 p71083
-V15.6 inches
+V15.6in
 p71084
 sS'processor speed'
 p71085
@@ -152652,7 +152652,7 @@ V8 GB
 p71122
 sS'screen size'
 p71123
-V17.3 inches
+V17.3in
 p71124
 sS'processor speed'
 p71125
@@ -152732,7 +152732,7 @@ V8192 MB
 p71158
 sS'screen size'
 p71159
-V13.3 inches
+V13.3in
 p71160
 sS'processor speed'
 p71161
@@ -152813,7 +152813,7 @@ V16 GB
 p71195
 sS'screen size'
 p71196
-V15.6 inches
+V15.6in
 p71197
 sS'processor speed'
 p71198
@@ -152896,7 +152896,7 @@ V4 GB
 p71234
 sS'screen size'
 p71235
-V14 inches
+V14in
 p71236
 sS'processor speed'
 p71237
@@ -152976,7 +152976,7 @@ V8 GB
 p71270
 sS'screen size'
 p71271
-V12.5 inches
+V12.5in
 p71272
 sS'processor speed'
 p71273
@@ -153060,7 +153060,7 @@ V16 GB
 p71310
 sS'screen size'
 p71311
-V15.4 inches
+V15.4in
 p71312
 sS'processor speed'
 p71313
@@ -153144,7 +153144,7 @@ V8 GB
 p71350
 sS'screen size'
 p71351
-V15.6 inches
+V15.6in
 p71352
 sS'processor speed'
 p71353
@@ -153228,7 +153228,7 @@ V6 GB
 p71390
 sS'screen size'
 p71391
-V17.3 inches
+V17.3in
 p71392
 sS'processor speed'
 p71393
@@ -153310,7 +153310,7 @@ V12 GB
 p71428
 sS'screen size'
 p71429
-V15.6 inches
+V15.6in
 p71430
 sS'processor speed'
 p71431
@@ -153394,7 +153394,7 @@ V8 GB
 p71468
 sS'screen size'
 p71469
-V12.5 inches
+V12.5in
 p71470
 sS'processor speed'
 p71471
@@ -153474,7 +153474,7 @@ V0 GB
 p71504
 sS'screen size'
 p71505
-V15.6 inches
+V15.6in
 p71506
 sS'processor speed'
 p71507
@@ -153557,7 +153557,7 @@ V32 GB
 p71543
 sS'screen size'
 p71544
-V15.6 inches
+V15.6in
 p71545
 sS'processor speed'
 p71546
@@ -153640,7 +153640,7 @@ V8 GB
 p71582
 sS'screen size'
 p71583
-V14 inches
+V14in
 p71584
 sS'processor speed'
 p71585
@@ -153723,7 +153723,7 @@ V32 GB
 p71621
 sS'screen size'
 p71622
-V15.6 inches
+V15.6in
 p71623
 sS'processor speed'
 p71624
@@ -153804,7 +153804,7 @@ V16 GB
 p71658
 sS'screen size'
 p71659
-V15.6 inches
+V15.6in
 p71660
 sS'processor speed'
 p71661
@@ -153886,7 +153886,7 @@ V8 GB
 p71696
 sS'screen size'
 p71697
-V13.3 inches
+V13.3in
 p71698
 sS'processor speed'
 p71699
@@ -153968,7 +153968,7 @@ V8 GB
 p71734
 sS'screen size'
 p71735
-V13.3 inches
+V13.3in
 p71736
 sS'processor speed'
 p71737
@@ -154050,7 +154050,7 @@ V16 GB
 p71772
 sS'screen size'
 p71773
-V15.6 inches
+V15.6in
 p71774
 sS'processor speed'
 p71775
@@ -154133,7 +154133,7 @@ V16 GB
 p71811
 sS'screen size'
 p71812
-V15.6 millimeters
+V15.6in
 p71813
 sS'processor speed'
 p71814
@@ -154216,7 +154216,7 @@ V16 GB
 p71850
 sS'screen size'
 p71851
-V15.6 inches
+V15.6in
 p71852
 sS'processor speed'
 p71853
@@ -154301,7 +154301,7 @@ V8 GB
 p71891
 sS'screen size'
 p71892
-V14 inches
+V14in
 p71893
 sS'processor speed'
 p71894
@@ -154383,7 +154383,7 @@ V16 GB
 p71929
 sS'screen size'
 p71930
-V15.4 inches
+V15.4in
 p71931
 sS'processor speed'
 p71932
@@ -154461,7 +154461,7 @@ V0 GB
 p71963
 sS'screen size'
 p71964
-V15.6 in
+V15.6in
 p71965
 sS'processor speed'
 p71966
@@ -154543,7 +154543,7 @@ V16 GB
 p72001
 sS'screen size'
 p72002
-V17.3 inches
+V17.3in
 p72003
 sS'processor speed'
 p72004
@@ -154627,7 +154627,7 @@ V16 GB
 p72041
 sS'screen size'
 p72042
-V17.3 inches
+V17.3in
 p72043
 sS'processor speed'
 p72044
@@ -154712,7 +154712,7 @@ V16 GB
 p72082
 sS'screen size'
 p72083
-V17.3 inches
+V17.3in
 p72084
 sS'processor speed'
 p72085
@@ -154796,7 +154796,7 @@ V8 GB
 p72122
 sS'screen size'
 p72123
-V17.3 inches
+V17.3in
 p72124
 sS'processor speed'
 p72125
@@ -154880,7 +154880,7 @@ V8 GB
 p72162
 sS'screen size'
 p72163
-V15.6 inches
+V15.6in
 p72164
 sS'processor speed'
 p72165
@@ -154964,7 +154964,7 @@ V2 GB
 p72202
 sS'screen size'
 p72203
-V11.6 inches
+V11.6in
 p72204
 sS'processor speed'
 p72205
@@ -155047,7 +155047,7 @@ V8 GB
 p72241
 sS'screen size'
 p72242
-V15.6 inches
+V15.6in
 p72243
 sS'processor speed'
 p72244
@@ -155127,7 +155127,7 @@ V16 GB
 p72277
 sS'screen size'
 p72278
-V14 inches
+V14in
 p72279
 sS'processor speed'
 p72280
@@ -155211,7 +155211,7 @@ V16 GB
 p72317
 sS'screen size'
 p72318
-V15.6 inches
+V15.6in
 p72319
 sS'processor speed'
 p72320
@@ -155293,7 +155293,7 @@ V16 GB
 p72355
 sS'screen size'
 p72356
-V15.6 inches
+V15.6in
 p72357
 sS'processor speed'
 p72358
@@ -155376,7 +155376,7 @@ V32 GB
 p72394
 sS'screen size'
 p72395
-V17.3 inches
+V17.3in
 p72396
 sS'processor speed'
 p72397
@@ -155458,7 +155458,7 @@ V16 GB
 p72432
 sS'screen size'
 p72433
-V15.6 inches
+V15.6in
 p72434
 sS'processor speed'
 p72435
@@ -155537,7 +155537,7 @@ V32 GB
 p72467
 sS'screen size'
 p72468
-V15.6 in
+V15.6in
 p72469
 sS'processor speed'
 p72470
@@ -155617,7 +155617,7 @@ V8 GB
 p72503
 sS'screen size'
 p72504
-V14 inches
+V14in
 p72505
 sS'processor speed'
 p72506
@@ -155702,7 +155702,7 @@ V16 GB
 p72544
 sS'screen size'
 p72545
-V15.6 inches
+V15.6in
 p72546
 sS'processor speed'
 p72547
@@ -155785,7 +155785,7 @@ V12 GB
 p72583
 sS'screen size'
 p72584
-V15.6 inches
+V15.6in
 p72585
 sS'processor speed'
 p72586
@@ -155866,7 +155866,7 @@ V16 GB
 p72620
 sS'screen size'
 p72621
-V15.6 in
+V15.6in
 p72622
 sS'processor speed'
 p72623
@@ -155950,7 +155950,7 @@ V2 GB
 p72660
 sS'screen size'
 p72661
-V11.6 inches
+V11.6in
 p72662
 sS'processor speed'
 p72663
@@ -156033,7 +156033,7 @@ V16 GB
 p72699
 sS'screen size'
 p72700
-V17.3 inches
+V17.3in
 p72701
 sS'processor speed'
 p72702
@@ -156118,7 +156118,7 @@ V8 GB
 p72740
 sS'screen size'
 p72741
-V13.3 inches
+V13.3in
 p72742
 sS'processor speed'
 p72743
@@ -156202,7 +156202,7 @@ V8 GB
 p72780
 sS'screen size'
 p72781
-V14 inches
+V14in
 p72782
 sS'processor speed'
 p72783
@@ -156284,7 +156284,7 @@ V4 GB
 p72818
 sS'screen size'
 p72819
-V15.6 inches
+V15.6in
 p72820
 sS'processor speed'
 p72821
@@ -156368,7 +156368,7 @@ V8 GB
 p72858
 sS'screen size'
 p72859
-V14 inches
+V14in
 p72860
 sS'processor speed'
 p72861
@@ -156451,7 +156451,7 @@ V4 GB
 p72897
 sS'screen size'
 p72898
-V10.1 inches
+V10.1in
 p72899
 sS'processor speed'
 p72900
@@ -156532,7 +156532,7 @@ V16 GB
 p72934
 sS'screen size'
 p72935
-V17.3 inches
+V17.3in
 p72936
 sS'processor speed'
 p72937
@@ -156611,7 +156611,7 @@ V32 GB
 p72969
 sS'screen size'
 p72970
-V15.6 inches
+V15.6in
 p72971
 sS'processor speed'
 p72972
@@ -156692,7 +156692,7 @@ V8 GB
 p73006
 sS'screen size'
 p73007
-V17.3 inches
+V17.3in
 p73008
 sS'processor speed'
 p73009
@@ -156773,7 +156773,7 @@ V4 GB
 p73043
 sS'screen size'
 p73044
-V15.6 inches
+V15.6in
 p73045
 sS'processor speed'
 p73046
@@ -156854,7 +156854,7 @@ V4 GB
 p73080
 sS'screen size'
 p73081
-V15.6 inches
+V15.6in
 p73082
 sS'processor speed'
 p73083
@@ -156938,7 +156938,7 @@ V4 GB
 p73120
 sS'screen size'
 p73121
-V17.3 inches
+V17.3in
 p73122
 sS'processor speed'
 p73123
@@ -157019,7 +157019,7 @@ V16 GB
 p73157
 sS'screen size'
 p73158
-V17.3 inches
+V17.3in
 p73159
 sS'processor speed'
 p73160
@@ -157102,7 +157102,7 @@ V8 GB
 p73196
 sS'screen size'
 p73197
-V14 inches
+V14in
 p73198
 sS'processor speed'
 p73199
@@ -157181,7 +157181,7 @@ V16 GB
 p73231
 sS'screen size'
 p73232
-V15.6 inches
+V15.6in
 p73233
 sS'processor speed'
 p73234
@@ -157260,7 +157260,7 @@ V4 GB
 p73266
 sS'screen size'
 p73267
-V15.6 inches
+V15.6in
 p73268
 sS'processor speed'
 p73269
@@ -157345,7 +157345,7 @@ V8 GB
 p73307
 sS'screen size'
 p73308
-V15.6 inches
+V15.6in
 p73309
 sS'processor speed'
 p73310
@@ -157429,7 +157429,7 @@ V8 GB
 p73347
 sS'screen size'
 p73348
-V15.6 inches
+V15.6in
 p73349
 sS'processor speed'
 p73350
@@ -157592,7 +157592,7 @@ V16 GB
 p73422
 sS'screen size'
 p73423
-V14 inches
+V14in
 p73424
 sS'processor speed'
 p73425
@@ -157676,7 +157676,7 @@ V32 GB
 p73462
 sS'screen size'
 p73463
-V13.3 inches
+V13.3in
 p73464
 sS'processor speed'
 p73465
@@ -157756,7 +157756,7 @@ V8 GB
 p73498
 sS'screen size'
 p73499
-V14 in
+V14in
 p73500
 sS'processor speed'
 p73501
@@ -157840,7 +157840,7 @@ V8 GB
 p73538
 sS'screen size'
 p73539
-V13.3 inches
+V13.3in
 p73540
 sS'processor speed'
 p73541
@@ -157922,7 +157922,7 @@ V32 GB
 p73576
 sS'screen size'
 p73577
-V15.6 inches
+V15.6in
 p73578
 sS'processor speed'
 p73579
@@ -158005,7 +158005,7 @@ V8 GB
 p73615
 sS'screen size'
 p73616
-V17.3 inches
+V17.3in
 p73617
 sS'processor speed'
 p73618
@@ -158088,7 +158088,7 @@ V16 GB
 p73654
 sS'screen size'
 p73655
-V17.3 inches
+V17.3in
 p73656
 sS'processor speed'
 p73657
@@ -158168,7 +158168,7 @@ V16 GB
 p73690
 sS'screen size'
 p73691
-V14 in
+V14in
 p73692
 sS'processor speed'
 p73693
@@ -158251,7 +158251,7 @@ V8 GB
 p73729
 sS'screen size'
 p73730
-V17.3 inches
+V17.3in
 p73731
 sS'processor speed'
 p73732
@@ -158334,7 +158334,7 @@ V16 GB
 p73768
 sS'screen size'
 p73769
-V15.6 inches
+V15.6in
 p73770
 sS'processor speed'
 p73771
@@ -158417,7 +158417,7 @@ V8 GB
 p73807
 sS'screen size'
 p73808
-V15.6 inches
+V15.6in
 p73809
 sS'processor speed'
 p73810
@@ -158497,7 +158497,7 @@ V8 GB
 p73843
 sS'screen size'
 p73844
-V15.6 inches
+V15.6in
 p73845
 sS'processor speed'
 p73846
@@ -158579,7 +158579,7 @@ V6 GB
 p73881
 sS'screen size'
 p73882
-V11.6 inches
+V11.6in
 p73883
 sS'processor speed'
 p73884
@@ -158661,7 +158661,7 @@ V4 GB
 p73919
 sS'screen size'
 p73920
-V14 inches
+V14in
 p73921
 sS'processor speed'
 p73922
@@ -158745,7 +158745,7 @@ V6 GB
 p73959
 sS'screen size'
 p73960
-V11.6 inches
+V11.6in
 p73961
 sS'processor speed'
 p73962
@@ -158829,7 +158829,7 @@ V8 GB
 p73999
 sS'screen size'
 p74000
-V13.3 inches
+V13.3in
 p74001
 sS'processor speed'
 p74002
@@ -158913,7 +158913,7 @@ V32 GB
 p74039
 sS'screen size'
 p74040
-V15.6 inches
+V15.6in
 p74041
 sS'processor speed'
 p74042
@@ -158997,7 +158997,7 @@ V8 GB
 p74079
 sS'screen size'
 p74080
-V13.3 inches
+V13.3in
 p74081
 sS'processor speed'
 p74082
@@ -159080,7 +159080,7 @@ V8 GB
 p74118
 sS'screen size'
 p74119
-V15.6 inches
+V15.6in
 p74120
 sS'processor speed'
 p74121
@@ -159163,7 +159163,7 @@ V16 GB
 p74157
 sS'screen size'
 p74158
-V15.6 inches
+V15.6in
 p74159
 sS'processor speed'
 p74160
@@ -159247,7 +159247,7 @@ V4 GB
 p74197
 sS'screen size'
 p74198
-V14 inches
+V14in
 p74199
 sS'processor speed'
 p74200
@@ -159332,7 +159332,7 @@ V8 GB
 p74238
 sS'screen size'
 p74239
-V13.3 inches
+V13.3in
 p74240
 sS'processor speed'
 p74241
@@ -159415,7 +159415,7 @@ V16 GB
 p74277
 sS'screen size'
 p74278
-V17.3 inches
+V17.3in
 p74279
 sS'processor speed'
 p74280
@@ -159498,7 +159498,7 @@ V8 GB
 p74316
 sS'screen size'
 p74317
-V17.3 inches
+V17.3in
 p74318
 sS'processor speed'
 p74319
@@ -159579,7 +159579,7 @@ V16 GB
 p74353
 sS'screen size'
 p74354
-V15.6 inches
+V15.6in
 p74355
 sS'processor speed'
 p74356
@@ -159741,7 +159741,7 @@ V12 GB
 p74427
 sS'screen size'
 p74428
-V13.3 inches
+V13.3in
 p74429
 sS'processor speed'
 p74430
@@ -159823,7 +159823,7 @@ V8 GB
 p74465
 sS'screen size'
 p74466
-V15.6 inches
+V15.6in
 p74467
 sS'processor speed'
 p74468
@@ -159906,7 +159906,7 @@ V16 GB
 p74504
 sS'screen size'
 p74505
-V17.3 inches
+V17.3in
 p74506
 sS'processor speed'
 p74507
@@ -159991,7 +159991,7 @@ V4 GB
 p74545
 sS'screen size'
 p74546
-V13.3 inches
+V13.3in
 p74547
 sS'processor speed'
 p74548
@@ -160069,7 +160069,7 @@ V12 GB
 p74579
 sS'screen size'
 p74580
-V15.6 inches
+V15.6in
 p74581
 sS'processor speed'
 p74582
@@ -160153,7 +160153,7 @@ V0 GB
 p74619
 sS'screen size'
 p74620
-V14 inches
+V14in
 p74621
 sS'processor speed'
 p74622
@@ -160234,7 +160234,7 @@ V16 GB
 p74656
 sS'screen size'
 p74657
-V15.6 inches
+V15.6in
 p74658
 sS'processor speed'
 p74659
@@ -160317,7 +160317,7 @@ V16 GB
 p74695
 sS'screen size'
 p74696
-V17.3 inches
+V17.3in
 p74697
 sS'processor speed'
 p74698
@@ -160399,7 +160399,7 @@ V16 GB
 p74733
 sS'screen size'
 p74734
-V17.3 inches
+V17.3in
 p74735
 sS'processor speed'
 p74736
@@ -160481,7 +160481,7 @@ V8 GB
 p74771
 sS'screen size'
 p74772
-V15.6 inches
+V15.6in
 p74773
 sS'processor speed'
 p74774
@@ -160566,7 +160566,7 @@ V8 GB
 p74812
 sS'screen size'
 p74813
-V13 inches
+V13in
 p74814
 sS'processor speed'
 p74815
@@ -160649,7 +160649,7 @@ V4 GB
 p74851
 sS'screen size'
 p74852
-V15.6 inches
+V15.6in
 p74853
 sS'processor speed'
 p74854
@@ -160732,7 +160732,7 @@ V8 GB
 p74890
 sS'screen size'
 p74891
-V15.6 inches
+V15.6in
 p74892
 sS'processor speed'
 p74893
@@ -160813,7 +160813,7 @@ V4 GB
 p74927
 sS'screen size'
 p74928
-V10.1 inches
+V10.1in
 p74929
 sS'processor speed'
 p74930
@@ -160898,7 +160898,7 @@ V8 GB
 p74968
 sS'screen size'
 p74969
-V13 inches
+V13in
 p74970
 sS'processor speed'
 p74971
@@ -160977,7 +160977,7 @@ V16 GB
 p75003
 sS'screen size'
 p75004
-V15.6 inches
+V15.6in
 p75005
 sS'processor speed'
 p75006
@@ -161056,7 +161056,7 @@ V16 GB
 p75038
 sS'screen size'
 p75039
-V13.1 inches
+V13.1in
 p75040
 sS'processor speed'
 p75041
@@ -161138,7 +161138,7 @@ V32 GB
 p75076
 sS'screen size'
 p75077
-V15.6 inches
+V15.6in
 p75078
 sS'processor speed'
 p75079
@@ -161221,7 +161221,7 @@ V16 GB
 p75115
 sS'screen size'
 p75116
-V15.6 inches
+V15.6in
 p75117
 sS'processor speed'
 p75118
@@ -161303,7 +161303,7 @@ V8 GB
 p75153
 sS'screen size'
 p75154
-V15.6 inches
+V15.6in
 p75155
 sS'processor speed'
 p75156
@@ -161388,7 +161388,7 @@ V4 GB
 p75194
 sS'screen size'
 p75195
-V12.5 inches
+V12.5in
 p75196
 sS'processor speed'
 p75197
@@ -161470,7 +161470,7 @@ V16 GB
 p75232
 sS'screen size'
 p75233
-V14 inches
+V14in
 p75234
 sS'processor speed'
 p75235
@@ -161553,7 +161553,7 @@ V8 GB
 p75271
 sS'screen size'
 p75272
-V15.6 inches
+V15.6in
 p75273
 sS'processor speed'
 p75274
@@ -161630,7 +161630,7 @@ V16 GB
 p75304
 sS'screen size'
 p75305
-V13.3 inches
+V13.3in
 p75306
 sS'processor speed'
 p75307
@@ -161711,7 +161711,7 @@ V4 GB
 p75341
 sS'screen size'
 p75342
-V15.6 inches
+V15.6in
 p75343
 sS'processor speed'
 p75344
@@ -161793,7 +161793,7 @@ V16 GB
 p75379
 sS'screen size'
 p75380
-V17.3 inches
+V17.3in
 p75381
 sS'processor speed'
 p75382
@@ -161876,7 +161876,7 @@ V8 GB
 p75418
 sS'screen size'
 p75419
-V15.6 inches
+V15.6in
 p75420
 sS'processor speed'
 p75421
@@ -161958,7 +161958,7 @@ V8 GB
 p75456
 sS'screen size'
 p75457
-V13.5 inches
+V13.5in
 p75458
 sS'processor speed'
 p75459
@@ -162037,7 +162037,7 @@ V0 GB
 p75491
 sS'screen size'
 p75492
-V11.6 in
+V11.6in
 p75493
 sS'processor speed'
 p75494
@@ -162119,7 +162119,7 @@ V4 GB
 p75529
 sS'screen size'
 p75530
-V14 inches
+V14in
 p75531
 sS'processor speed'
 p75532
@@ -162203,7 +162203,7 @@ V4 GB
 p75569
 sS'screen size'
 p75570
-V15.6 inches
+V15.6in
 p75571
 sS'processor speed'
 p75572
@@ -162285,7 +162285,7 @@ V8 GB
 p75607
 sS'screen size'
 p75608
-V12.3 inches
+V12.3in
 p75609
 sS'processor speed'
 p75610
@@ -162369,7 +162369,7 @@ V8 GB
 p75647
 sS'screen size'
 p75648
-V13.3 inches
+V13.3in
 p75649
 sS'processor speed'
 p75650
@@ -162452,7 +162452,7 @@ V16 GB
 p75686
 sS'screen size'
 p75687
-V13.3 inches
+V13.3in
 p75688
 sS'processor speed'
 p75689
@@ -162531,7 +162531,7 @@ V8 GB
 p75721
 sS'screen size'
 p75722
-V15.6 inches
+V15.6in
 p75723
 sS'processor speed'
 p75724
@@ -162615,7 +162615,7 @@ V32 GB
 p75761
 sS'screen size'
 p75762
-V13.3 inches
+V13.3in
 p75763
 sS'processor speed'
 p75764
@@ -162697,7 +162697,7 @@ V8 GB
 p75799
 sS'screen size'
 p75800
-V13.3 inches
+V13.3in
 p75801
 sS'processor speed'
 p75802
@@ -162782,7 +162782,7 @@ V12 GB
 p75840
 sS'screen size'
 p75841
-V15.6 inches
+V15.6in
 p75842
 sS'processor speed'
 p75843
@@ -162866,7 +162866,7 @@ V4 GB
 p75880
 sS'screen size'
 p75881
-V10.1 inches
+V10.1in
 p75882
 sS'processor speed'
 p75883
@@ -162951,7 +162951,7 @@ V8 GB
 p75921
 sS'screen size'
 p75922
-V13.3 inches
+V13.3in
 p75923
 sS'processor speed'
 p75924
@@ -163035,7 +163035,7 @@ V8 GB
 p75961
 sS'screen size'
 p75962
-V14 inches
+V14in
 p75963
 sS'processor speed'
 p75964
@@ -163118,7 +163118,7 @@ V16 GB
 p76000
 sS'screen size'
 p76001
-V15.6 inches
+V15.6in
 p76002
 sS'processor speed'
 p76003
@@ -163198,7 +163198,7 @@ V16 GB
 p76036
 sS'screen size'
 p76037
-V17.3 in
+V17.3in
 p76038
 sS'processor speed'
 p76039
@@ -163278,7 +163278,7 @@ V8 GB
 p76072
 sS'screen size'
 p76073
-V13.3 inches
+V13.3in
 p76074
 sS'processor speed'
 p76075
@@ -163360,7 +163360,7 @@ V8 GB
 p76110
 sS'screen size'
 p76111
-V15.6 inches
+V15.6in
 p76112
 sS'processor speed'
 p76113
@@ -163445,7 +163445,7 @@ V8 GB
 p76151
 sS'screen size'
 p76152
-V13.3 inches
+V13.3in
 p76153
 sS'processor speed'
 p76154
@@ -163525,7 +163525,7 @@ V8 GB
 p76187
 sS'screen size'
 p76188
-V15.6 inches
+V15.6in
 p76189
 sS'processor speed'
 p76190
@@ -163607,7 +163607,7 @@ V16 GB
 p76225
 sS'screen size'
 p76226
-V15.4 inches
+V15.4in
 p76227
 sS'processor speed'
 p76228
@@ -163690,7 +163690,7 @@ V8 GB
 p76264
 sS'screen size'
 p76265
-V15.6 inches
+V15.6in
 p76266
 sS'processor speed'
 p76267
@@ -163775,7 +163775,7 @@ V8 GB
 p76305
 sS'screen size'
 p76306
-V15.6 inches
+V15.6in
 p76307
 sS'processor speed'
 p76308
@@ -163858,7 +163858,7 @@ V16 GB
 p76344
 sS'screen size'
 p76345
-V15.6 inches
+V15.6in
 p76346
 sS'processor speed'
 p76347
@@ -163936,7 +163936,7 @@ V16 GB
 p76378
 sS'screen size'
 p76379
-V15.6 inches
+V15.6in
 p76380
 sS'processor speed'
 p76381
@@ -164014,7 +164014,7 @@ V0 GB
 p76412
 sS'screen size'
 p76413
-V17.3 in
+V17.3in
 p76414
 sS'processor speed'
 p76415
@@ -164098,7 +164098,7 @@ V6 GB
 p76452
 sS'screen size'
 p76453
-V15.6 inches
+V15.6in
 p76454
 sS'processor speed'
 p76455
@@ -164178,7 +164178,7 @@ V8 GB
 p76488
 sS'screen size'
 p76489
-V14 inches
+V14in
 p76490
 sS'processor speed'
 p76491
@@ -164261,7 +164261,7 @@ V16 GB
 p76527
 sS'screen size'
 p76528
-V15.6 inches
+V15.6in
 p76529
 sS'processor speed'
 p76530
@@ -164344,7 +164344,7 @@ V8 GB
 p76566
 sS'screen size'
 p76567
-V17.3 inches
+V17.3in
 p76568
 sS'processor speed'
 p76569
@@ -164424,7 +164424,7 @@ V20 GB
 p76602
 sS'screen size'
 p76603
-V14 in
+V14in
 p76604
 sS'processor speed'
 p76605
@@ -164503,7 +164503,7 @@ V8 GB
 p76637
 sS'screen size'
 p76638
-V15.6 inches
+V15.6in
 p76639
 sS'processor speed'
 p76640
@@ -164583,7 +164583,7 @@ V8 GB
 p76673
 sS'screen size'
 p76674
-V14 in
+V14in
 p76675
 sS'processor speed'
 p76676
@@ -164667,7 +164667,7 @@ V8 GB
 p76713
 sS'screen size'
 p76714
-V15.6 inches
+V15.6in
 p76715
 sS'processor speed'
 p76716
@@ -164750,7 +164750,7 @@ V4 GB
 p76752
 sS'screen size'
 p76753
-V11.6 inches
+V11.6in
 p76754
 sS'processor speed'
 p76755
@@ -164831,7 +164831,7 @@ V4 GB
 p76789
 sS'screen size'
 p76790
-V14 inches
+V14in
 p76791
 sS'processor speed'
 p76792
@@ -164913,7 +164913,7 @@ V12 GB
 p76827
 sS'screen size'
 p76828
-V15.6 inches
+V15.6in
 p76829
 sS'processor speed'
 p76830
@@ -164997,7 +164997,7 @@ V4 GB
 p76867
 sS'screen size'
 p76868
-V14 inches
+V14in
 p76869
 sS'processor speed'
 p76870
@@ -165074,7 +165074,7 @@ V12 GB
 p76900
 sS'screen size'
 p76901
-V15.6 inches
+V15.6in
 p76902
 sS'processor speed'
 p76903
@@ -165155,7 +165155,7 @@ V8 GB
 p76937
 sS'screen size'
 p76938
-V14 inches
+V14in
 p76939
 sS'processor speed'
 p76940
@@ -165234,7 +165234,7 @@ V16 GB
 p76972
 sS'screen size'
 p76973
-V15.6 inches
+V15.6in
 p76974
 sS'processor speed'
 p76975
@@ -165316,7 +165316,7 @@ V32 GB
 p77010
 sS'screen size'
 p77011
-V13.3 inches
+V13.3in
 p77012
 sS'processor speed'
 p77013
@@ -165400,7 +165400,7 @@ V8 GB
 p77050
 sS'screen size'
 p77051
-V15.6 inches
+V15.6in
 p77052
 sS'processor speed'
 p77053
@@ -165482,7 +165482,7 @@ V16 GB
 p77088
 sS'screen size'
 p77089
-V15.6 inches
+V15.6in
 p77090
 sS'processor speed'
 p77091
@@ -165557,7 +165557,7 @@ V8 GB
 p77119
 sS'screen size'
 p77120
-V15.6 in
+V15.6in
 p77121
 sS'processor speed'
 p77122
@@ -165640,7 +165640,7 @@ V8 GB
 p77158
 sS'screen size'
 p77159
-V15.6 inches
+V15.6in
 p77160
 sS'processor speed'
 p77161
@@ -165725,7 +165725,7 @@ V8 GB
 p77199
 sS'screen size'
 p77200
-V15.6 inches
+V15.6in
 p77201
 sS'processor speed'
 p77202
@@ -165809,7 +165809,7 @@ V16 GB
 p77239
 sS'screen size'
 p77240
-V14 inches
+V14in
 p77241
 sS'processor speed'
 p77242
@@ -165892,7 +165892,7 @@ V8 GB
 p77278
 sS'screen size'
 p77279
-V15.6 inches
+V15.6in
 p77280
 sS'processor speed'
 p77281
@@ -165975,7 +165975,7 @@ V2 GB
 p77317
 sS'screen size'
 p77318
-V11.6 inches
+V11.6in
 p77319
 sS'processor speed'
 p77320
@@ -166058,7 +166058,7 @@ V4 GB
 p77356
 sS'screen size'
 p77357
-V15.6 inches
+V15.6in
 p77358
 sS'processor speed'
 p77359
@@ -166136,7 +166136,7 @@ V16 GB
 p77390
 sS'screen size'
 p77391
-V14 in
+V14in
 p77392
 sS'processor speed'
 p77393
@@ -166217,7 +166217,7 @@ V0 GB
 p77427
 sS'screen size'
 p77428
-V14 inches
+V14in
 p77429
 sS'processor speed'
 p77430
@@ -166302,7 +166302,7 @@ V8 GB
 p77468
 sS'screen size'
 p77469
-V13.3 inches
+V13.3in
 p77470
 sS'processor speed'
 p77471
@@ -166383,7 +166383,7 @@ V8 GB
 p77505
 sS'screen size'
 p77506
-V14 inches
+V14in
 p77507
 sS'processor speed'
 p77508
@@ -166459,7 +166459,7 @@ V16 GB
 p77537
 sS'screen size'
 p77538
-V15 inches
+V15in
 p77539
 sS'processor speed'
 p77540
@@ -166542,7 +166542,7 @@ V8 GB
 p77576
 sS'screen size'
 p77577
-V15.6 inches
+V15.6in
 p77578
 sS'processor speed'
 p77579
@@ -166627,7 +166627,7 @@ V2 GB
 p77617
 sS'screen size'
 p77618
-V14 inches
+V14in
 p77619
 sS'processor speed'
 p77620
@@ -166706,7 +166706,7 @@ V8 KB
 p77652
 sS'screen size'
 p77653
-V15.6 inches
+V15.6in
 p77654
 sS'processor speed'
 p77655
@@ -166788,7 +166788,7 @@ V0 GB
 p77690
 sS'screen size'
 p77691
-V15.6 inches
+V15.6in
 p77692
 sS'processor speed'
 p77693
@@ -166871,7 +166871,7 @@ V16 GB
 p77729
 sS'screen size'
 p77730
-V15.6 inches
+V15.6in
 p77731
 sS'processor speed'
 p77732
@@ -166953,7 +166953,7 @@ V32 GB
 p77767
 sS'screen size'
 p77768
-V15.6 inches
+V15.6in
 p77769
 sS'processor speed'
 p77770
@@ -167037,7 +167037,7 @@ V2 GB
 p77807
 sS'screen size'
 p77808
-V11.6 inches
+V11.6in
 p77809
 sS'processor speed'
 p77810
@@ -167117,7 +167117,7 @@ V8 GB
 p77843
 sS'screen size'
 p77844
-V12.5 inches
+V12.5in
 p77845
 sS'processor speed'
 p77846
@@ -167196,7 +167196,7 @@ V16 GB
 p77878
 sS'screen size'
 p77879
-V17.3 inches
+V17.3in
 p77880
 sS'processor speed'
 p77881
@@ -167280,7 +167280,7 @@ V8 GB
 p77918
 sS'screen size'
 p77919
-V15.6 inches
+V15.6in
 p77920
 sS'processor speed'
 p77921
@@ -167360,7 +167360,7 @@ V32 GB
 p77954
 sS'screen size'
 p77955
-V15.6 in
+V15.6in
 p77956
 sS'processor speed'
 p77957
@@ -167443,7 +167443,7 @@ V8 GB
 p77993
 sS'screen size'
 p77994
-V13.3 inches
+V13.3in
 p77995
 sS'processor speed'
 p77996
@@ -167525,7 +167525,7 @@ V8 GB
 p78031
 sS'screen size'
 p78032
-V15.6 inches
+V15.6in
 p78033
 sS'processor speed'
 p78034
@@ -167607,7 +167607,7 @@ V32 GB
 p78069
 sS'screen size'
 p78070
-V17.3 inches
+V17.3in
 p78071
 sS'processor speed'
 p78072
@@ -167690,7 +167690,7 @@ V4 GB
 p78108
 sS'screen size'
 p78109
-V13.3 inches
+V13.3in
 p78110
 sS'processor speed'
 p78111
@@ -167774,7 +167774,7 @@ V2 GB
 p78148
 sS'screen size'
 p78149
-V11.6 inches
+V11.6in
 p78150
 sS'processor speed'
 p78151
@@ -167854,7 +167854,7 @@ V32 GB
 p78184
 sS'screen size'
 p78185
-V17.3 in
+V17.3in
 p78186
 sS'processor speed'
 p78187
@@ -167935,7 +167935,7 @@ V4 GB
 p78221
 sS'screen size'
 p78222
-V13.3 inches
+V13.3in
 p78223
 sS'processor speed'
 p78224
@@ -168020,7 +168020,7 @@ V4 GB
 p78262
 sS'screen size'
 p78263
-V15.6 inches
+V15.6in
 p78264
 sS'processor speed'
 p78265
@@ -168099,7 +168099,7 @@ V12 GB
 p78297
 sS'screen size'
 p78298
-V14.1 inches
+V14.1in
 p78299
 sS'processor speed'
 p78300
@@ -168184,7 +168184,7 @@ V8 GB
 p78338
 sS'screen size'
 p78339
-V14 inches
+V14in
 p78340
 sS'processor speed'
 p78341
@@ -168267,7 +168267,7 @@ V16 GB
 p78377
 sS'screen size'
 p78378
-V17.3 inches
+V17.3in
 p78379
 sS'processor speed'
 p78380
@@ -168351,7 +168351,7 @@ V4 GB
 p78417
 sS'screen size'
 p78418
-V12.5 inches
+V12.5in
 p78419
 sS'processor speed'
 p78420
@@ -168433,7 +168433,7 @@ V8 GB
 p78455
 sS'screen size'
 p78456
-V15.6 inches
+V15.6in
 p78457
 sS'processor speed'
 p78458
@@ -168516,7 +168516,7 @@ V6 GB
 p78494
 sS'screen size'
 p78495
-V15.6 inches
+V15.6in
 p78496
 sS'processor speed'
 p78497
@@ -168595,7 +168595,7 @@ V8 GB
 p78529
 sS'screen size'
 p78530
-V15.6 inches
+V15.6in
 p78531
 sS'processor speed'
 p78532
@@ -168675,7 +168675,7 @@ V8 GB
 p78565
 sS'screen size'
 p78566
-V14 inches
+V14in
 p78567
 sS'processor speed'
 p78568
@@ -168760,7 +168760,7 @@ V8 GB
 p78606
 sS'screen size'
 p78607
-V15.6 inches
+V15.6in
 p78608
 sS'processor speed'
 p78609
@@ -168841,7 +168841,7 @@ V0 GB
 p78643
 sS'screen size'
 p78644
-V13.3 inches
+V13.3in
 p78645
 sS'processor speed'
 p78646
@@ -168921,7 +168921,7 @@ V16 GB
 p78679
 sS'screen size'
 p78680
-V15.6 in
+V15.6in
 p78681
 sS'processor speed'
 p78682
@@ -169005,7 +169005,7 @@ V16 GB
 p78719
 sS'screen size'
 p78720
-V15.6 inches
+V15.6in
 p78721
 sS'processor speed'
 p78722
@@ -169087,7 +169087,7 @@ V16 GB
 p78757
 sS'screen size'
 p78758
-V15.6 inches
+V15.6in
 p78759
 sS'processor speed'
 p78760
@@ -169171,7 +169171,7 @@ V16 GB
 p78797
 sS'screen size'
 p78798
-V15.6 inches
+V15.6in
 p78799
 sS'processor speed'
 p78800
@@ -169254,7 +169254,7 @@ V8 GB
 p78836
 sS'screen size'
 p78837
-V17.3 inches
+V17.3in
 p78838
 sS'processor speed'
 p78839
@@ -169335,7 +169335,7 @@ V8 GB
 p78873
 sS'screen size'
 p78874
-V17.3 inches
+V17.3in
 p78875
 sS'processor speed'
 p78876
@@ -169417,7 +169417,7 @@ V8 GB
 p78911
 sS'screen size'
 p78912
-V17.3 inches
+V17.3in
 p78913
 sS'processor speed'
 p78914
@@ -169499,7 +169499,7 @@ V4 GB
 p78949
 sS'screen size'
 p78950
-V11.6 inches
+V11.6in
 p78951
 sS'processor speed'
 p78952
@@ -169582,7 +169582,7 @@ V16 GB
 p78988
 sS'screen size'
 p78989
-V17.3 inches
+V17.3in
 p78990
 sS'processor speed'
 p78991
@@ -169663,7 +169663,7 @@ V16 GB
 p79025
 sS'screen size'
 p79026
-V15.6 inches
+V15.6in
 p79027
 sS'processor speed'
 p79028
@@ -169747,7 +169747,7 @@ V8 GB
 p79065
 sS'screen size'
 p79066
-V15.6 inches
+V15.6in
 p79067
 sS'processor speed'
 p79068
@@ -169830,7 +169830,7 @@ V12 GB
 p79104
 sS'screen size'
 p79105
-V15.6 inches
+V15.6in
 p79106
 sS'processor speed'
 p79107
@@ -169914,7 +169914,7 @@ V16 GB
 p79144
 sS'screen size'
 p79145
-V15.6 inches
+V15.6in
 p79146
 sS'processor speed'
 p79147
@@ -169998,7 +169998,7 @@ V16 GB
 p79184
 sS'screen size'
 p79185
-V17.3 inches
+V17.3in
 p79186
 sS'processor speed'
 p79187
@@ -170082,7 +170082,7 @@ V4 GB
 p79224
 sS'screen size'
 p79225
-V11.6 inches
+V11.6in
 p79226
 sS'processor speed'
 p79227
@@ -170165,7 +170165,7 @@ V8 GB
 p79263
 sS'screen size'
 p79264
-V15.6 inches
+V15.6in
 p79265
 sS'processor speed'
 p79266
@@ -170249,7 +170249,7 @@ V16 GB
 p79303
 sS'screen size'
 p79304
-V17.3 inches
+V17.3in
 p79305
 sS'processor speed'
 p79306
@@ -170332,7 +170332,7 @@ V32 GB
 p79342
 sS'screen size'
 p79343
-V17.3 inches
+V17.3in
 p79344
 sS'processor speed'
 p79345
@@ -170415,7 +170415,7 @@ V16 GB
 p79381
 sS'screen size'
 p79382
-V17.3 inches
+V17.3in
 p79383
 sS'processor speed'
 p79384
@@ -170498,7 +170498,7 @@ V32 GB
 p79420
 sS'screen size'
 p79421
-V15.6 inches
+V15.6in
 p79422
 sS'processor speed'
 p79423
@@ -170580,7 +170580,7 @@ V16 GB
 p79458
 sS'screen size'
 p79459
-V14 inches
+V14in
 p79460
 sS'processor speed'
 p79461
@@ -170662,7 +170662,7 @@ V4 GB
 p79496
 sS'screen size'
 p79497
-V11.6 inches
+V11.6in
 p79498
 sS'processor speed'
 p79499
@@ -170745,7 +170745,7 @@ V32 GB
 p79535
 sS'screen size'
 p79536
-V15.6 inches
+V15.6in
 p79537
 sS'processor speed'
 p79538
@@ -170828,7 +170828,7 @@ V6 GB
 p79574
 sS'screen size'
 p79575
-V15.6 inches
+V15.6in
 p79576
 sS'processor speed'
 p79577
@@ -170912,7 +170912,7 @@ V4 GB
 p79614
 sS'screen size'
 p79615
-V12.5 inches
+V12.5in
 p79616
 sS'processor speed'
 p79617
@@ -170994,7 +170994,7 @@ V32 GB
 p79652
 sS'screen size'
 p79653
-V17.3 inches
+V17.3in
 p79654
 sS'processor speed'
 p79655
@@ -171075,7 +171075,7 @@ V8 GB
 p79689
 sS'screen size'
 p79690
-V15.6 inches
+V15.6in
 p79691
 sS'processor speed'
 p79692
@@ -171157,7 +171157,7 @@ V0 GB
 p79727
 sS'screen size'
 p79728
-V15.6 inches
+V15.6in
 p79729
 sS'processor speed'
 p79730
@@ -171240,7 +171240,7 @@ V8 GB
 p79766
 sS'screen size'
 p79767
-V13.3 inches
+V13.3in
 p79768
 sS'processor speed'
 p79769
@@ -171323,7 +171323,7 @@ V16 GB
 p79805
 sS'screen size'
 p79806
-V17.3 inches
+V17.3in
 p79807
 sS'processor speed'
 p79808
@@ -171406,7 +171406,7 @@ V8 GB
 p79844
 sS'screen size'
 p79845
-V15.6 inches
+V15.6in
 p79846
 sS'processor speed'
 p79847
@@ -171487,7 +171487,7 @@ V16 GB
 p79881
 sS'screen size'
 p79882
-V15.6 in
+V15.6in
 p79883
 sS'processor speed'
 p79884
@@ -171570,7 +171570,7 @@ V4 GB
 p79920
 sS'screen size'
 p79921
-V11.6 inches
+V11.6in
 p79922
 sS'processor speed'
 p79923
@@ -171654,7 +171654,7 @@ V16 GB
 p79960
 sS'screen size'
 p79961
-V15.6 inches
+V15.6in
 p79962
 sS'processor speed'
 p79963
@@ -171734,7 +171734,7 @@ V16 GB
 p79996
 sS'screen size'
 p79997
-V14 inches
+V14in
 p79998
 sS'processor speed'
 p79999
@@ -171818,7 +171818,7 @@ V16 GB
 p80036
 sS'screen size'
 p80037
-V17.3 inches
+V17.3in
 p80038
 sS'processor speed'
 p80039
@@ -171900,7 +171900,7 @@ V16 GB
 p80074
 sS'screen size'
 p80075
-V15.6 inches
+V15.6in
 p80076
 sS'processor speed'
 p80077
@@ -171981,7 +171981,7 @@ V8 GB
 p80111
 sS'screen size'
 p80112
-V14 inches
+V14in
 p80113
 sS'processor speed'
 p80114
@@ -172062,7 +172062,7 @@ V8 GB
 p80148
 sS'screen size'
 p80149
-V15.6 inches
+V15.6in
 p80150
 sS'processor speed'
 p80151
@@ -172146,7 +172146,7 @@ V4 GB
 p80188
 sS'screen size'
 p80189
-V11.6 inches
+V11.6in
 p80190
 sS'processor speed'
 p80191
@@ -172230,7 +172230,7 @@ V8 GB
 p80228
 sS'screen size'
 p80229
-V17.3 inches
+V17.3in
 p80230
 sS'processor speed'
 p80231
@@ -172311,7 +172311,7 @@ V16 GB
 p80265
 sS'screen size'
 p80266
-V17.3 in
+V17.3in
 p80267
 sS'processor speed'
 p80268
@@ -172393,7 +172393,7 @@ V4 GB
 p80303
 sS'screen size'
 p80304
-V14 inches
+V14in
 p80305
 sS'processor speed'
 p80306
@@ -172475,7 +172475,7 @@ V8 GB
 p80341
 sS'screen size'
 p80342
-V15.6 inches
+V15.6in
 p80343
 sS'processor speed'
 p80344
@@ -172555,7 +172555,7 @@ V32 GB
 p80377
 sS'screen size'
 p80378
-V17.3 in
+V17.3in
 p80379
 sS'processor speed'
 p80380
@@ -172637,7 +172637,7 @@ V32 GB
 p80415
 sS'screen size'
 p80416
-V15.6 inches
+V15.6in
 p80417
 sS'processor speed'
 p80418
@@ -172721,7 +172721,7 @@ V6 GB
 p80455
 sS'screen size'
 p80456
-V15.6 inches
+V15.6in
 p80457
 sS'processor speed'
 p80458
@@ -172802,7 +172802,7 @@ V16 GB
 p80492
 sS'screen size'
 p80493
-V14 inches
+V14in
 p80494
 sS'processor speed'
 p80495
@@ -172885,7 +172885,7 @@ V8 GB
 p80531
 sS'screen size'
 p80532
-V15.6 inches
+V15.6in
 p80533
 sS'processor speed'
 p80534
@@ -172965,7 +172965,7 @@ V4 GB
 p80567
 sS'screen size'
 p80568
-V17.3 inches
+V17.3in
 p80569
 sS'processor speed'
 p80570
@@ -173048,7 +173048,7 @@ V16 GB
 p80606
 sS'screen size'
 p80607
-V17.3 inches
+V17.3in
 p80608
 sS'processor speed'
 p80609
@@ -173131,7 +173131,7 @@ V8 GB
 p80645
 sS'screen size'
 p80646
-V15.6 inches
+V15.6in
 p80647
 sS'processor speed'
 p80648
@@ -173211,7 +173211,7 @@ V32 GB
 p80681
 sS'screen size'
 p80682
-V15.6 in
+V15.6in
 p80683
 sS'processor speed'
 p80684
@@ -173294,7 +173294,7 @@ V8 GB
 p80720
 sS'screen size'
 p80721
-V14 inches
+V14in
 p80722
 sS'processor speed'
 p80723
@@ -173374,7 +173374,7 @@ V8 GB
 p80756
 sS'screen size'
 p80757
-V14 in
+V14in
 p80758
 sS'processor speed'
 p80759
@@ -173454,7 +173454,7 @@ V4 GB
 p80792
 sS'screen size'
 p80793
-V13.3 in
+V13.3in
 p80794
 sS'processor speed'
 p80795
@@ -173535,7 +173535,7 @@ V32 GB
 p80829
 sS'screen size'
 p80830
-V14 inches
+V14in
 p80831
 sS'processor speed'
 p80832
@@ -173616,7 +173616,7 @@ V8 GB
 p80866
 sS'screen size'
 p80867
-V15.6 inches
+V15.6in
 p80868
 sS'processor speed'
 p80869
@@ -173700,7 +173700,7 @@ V16 GB
 p80906
 sS'screen size'
 p80907
-V15.6 inches
+V15.6in
 p80908
 sS'processor speed'
 p80909
@@ -173780,7 +173780,7 @@ V16 GB
 p80942
 sS'screen size'
 p80943
-V15.6 inches
+V15.6in
 p80944
 sS'processor speed'
 p80945
@@ -173857,7 +173857,7 @@ V16 GB
 p80975
 sS'screen size'
 p80976
-V15.6 inches
+V15.6in
 p80977
 sS'processor speed'
 p80978
@@ -173936,7 +173936,7 @@ V12 GB
 p81010
 sS'screen size'
 p81011
-V15.6 inches
+V15.6in
 p81012
 sS'processor speed'
 p81013
@@ -174017,7 +174017,7 @@ V8 GB
 p81047
 sS'screen size'
 p81048
-V14 inches
+V14in
 p81049
 sS'processor speed'
 p81050
@@ -174100,7 +174100,7 @@ V32 GB
 p81086
 sS'screen size'
 p81087
-V17.3 inches
+V17.3in
 p81088
 sS'processor speed'
 p81089
@@ -174185,7 +174185,7 @@ V8 GB
 p81127
 sS'screen size'
 p81128
-V15.6 inches
+V15.6in
 p81129
 sS'processor speed'
 p81130
@@ -174267,7 +174267,7 @@ V4 GB
 p81165
 sS'screen size'
 p81166
-V11.6 inches
+V11.6in
 p81167
 sS'processor speed'
 p81168
@@ -174351,7 +174351,7 @@ V8 GB
 p81205
 sS'screen size'
 p81206
-V15.6 inches
+V15.6in
 p81207
 sS'processor speed'
 p81208
@@ -174434,7 +174434,7 @@ V32 GB
 p81244
 sS'screen size'
 p81245
-V15.6 inches
+V15.6in
 p81246
 sS'processor speed'
 p81247
@@ -174512,7 +174512,7 @@ V8 GB
 p81278
 sS'screen size'
 p81279
-V15.6 in
+V15.6in
 p81280
 sS'processor speed'
 p81281
@@ -174596,7 +174596,7 @@ V8 GB
 p81318
 sS'screen size'
 p81319
-V12 inches
+V12in
 p81320
 sS'processor speed'
 p81321
@@ -174679,7 +174679,7 @@ V8 GB
 p81357
 sS'screen size'
 p81358
-V13.3 inches
+V13.3in
 p81359
 sS'processor speed'
 p81360
@@ -174762,7 +174762,7 @@ V4 GB
 p81396
 sS'screen size'
 p81397
-V11.6 inches
+V11.6in
 p81398
 sS'processor speed'
 p81399
@@ -174846,7 +174846,7 @@ V8 GB
 p81436
 sS'screen size'
 p81437
-V15.6 inches
+V15.6in
 p81438
 sS'processor speed'
 p81439
@@ -174931,7 +174931,7 @@ V4 GB
 p81477
 sS'screen size'
 p81478
-V15.6 inches
+V15.6in
 p81479
 sS'processor speed'
 p81480
@@ -175011,7 +175011,7 @@ V8 GB
 p81513
 sS'screen size'
 p81514
-V15.6 inches
+V15.6in
 p81515
 sS'processor speed'
 p81516
@@ -175090,7 +175090,7 @@ V4 GB
 p81548
 sS'screen size'
 p81549
-V15.6 inches
+V15.6in
 p81550
 sS'processor speed'
 p81551
@@ -175174,7 +175174,7 @@ V8 GB
 p81588
 sS'screen size'
 p81589
-V15.6 inches
+V15.6in
 p81590
 sS'processor speed'
 p81591
@@ -175257,7 +175257,7 @@ V6 GB
 p81627
 sS'screen size'
 p81628
-V15.6 inches
+V15.6in
 p81629
 sS'processor speed'
 p81630
@@ -175341,7 +175341,7 @@ V8 GB
 p81667
 sS'screen size'
 p81668
-V15.6 inches
+V15.6in
 p81669
 sS'processor speed'
 p81670
@@ -175420,7 +175420,7 @@ V16 GB
 p81702
 sS'screen size'
 p81703
-V15.6 in
+V15.6in
 p81704
 sS'processor speed'
 p81705
@@ -175501,7 +175501,7 @@ V8 GB
 p81739
 sS'screen size'
 p81740
-V13 inches
+V13in
 p81741
 sS'processor speed'
 p81742
@@ -175585,7 +175585,7 @@ V8 GB
 p81779
 sS'screen size'
 p81780
-V17.3 inches
+V17.3in
 p81781
 sS'processor speed'
 p81782
@@ -175664,7 +175664,7 @@ V8 GB
 p81814
 sS'screen size'
 p81815
-V14 in
+V14in
 p81816
 sS'processor speed'
 p81817
@@ -175744,7 +175744,7 @@ V2 GB
 p81850
 sS'screen size'
 p81851
-V11.6 inches
+V11.6in
 p81852
 sS'processor speed'
 p81853
@@ -175825,7 +175825,7 @@ V16 GB
 p81887
 sS'screen size'
 p81888
-V15.6 inches
+V15.6in
 p81889
 sS'processor speed'
 p81890
@@ -175907,7 +175907,7 @@ V4 GB
 p81925
 sS'screen size'
 p81926
-V15.6 inches
+V15.6in
 p81927
 sS'processor speed'
 p81928
@@ -175992,7 +175992,7 @@ V4 GB
 p81966
 sS'screen size'
 p81967
-V12.5 inches
+V12.5in
 p81968
 sS'processor speed'
 p81969
@@ -176077,7 +176077,7 @@ V12 GB
 p82007
 sS'screen size'
 p82008
-V15.6 inches
+V15.6in
 p82009
 sS'processor speed'
 p82010
@@ -176156,7 +176156,7 @@ V12 GB
 p82042
 sS'screen size'
 p82043
-V15.6 inches
+V15.6in
 p82044
 sS'processor speed'
 p82045
@@ -176241,7 +176241,7 @@ V0.1 GB
 p82083
 sS'screen size'
 p82084
-V0.1 inches
+V0.1in
 p82085
 sS'processor speed'
 p82086
@@ -176322,7 +176322,7 @@ V16 GB
 p82120
 sS'screen size'
 p82121
-V12.3 inches
+V12.3in
 p82122
 sS'processor speed'
 p82123
@@ -176406,7 +176406,7 @@ V24 GB
 p82160
 sS'screen size'
 p82161
-V14 inches
+V14in
 p82162
 sS'processor speed'
 p82163
@@ -176489,7 +176489,7 @@ V8 GB
 p82199
 sS'screen size'
 p82200
-V13.3 inches
+V13.3in
 p82201
 sS'processor speed'
 p82202
@@ -176573,7 +176573,7 @@ V16 GB
 p82239
 sS'screen size'
 p82240
-V17.3 inches
+V17.3in
 p82241
 sS'processor speed'
 p82242
@@ -176653,7 +176653,7 @@ V16 GB
 p82275
 sS'screen size'
 p82276
-V15.6 inches
+V15.6in
 p82277
 sS'processor speed'
 p82278
@@ -176737,7 +176737,7 @@ V8 GB
 p82315
 sS'screen size'
 p82316
-V14 inches
+V14in
 p82317
 sS'processor speed'
 p82318
@@ -176820,7 +176820,7 @@ V8 GB
 p82354
 sS'screen size'
 p82355
-V14 inches
+V14in
 p82356
 sS'processor speed'
 p82357
@@ -176904,7 +176904,7 @@ V16 GB
 p82394
 sS'screen size'
 p82395
-V15.6 inches
+V15.6in
 p82396
 sS'processor speed'
 p82397
@@ -176988,7 +176988,7 @@ V8 GB
 p82434
 sS'screen size'
 p82435
-V15.6 inches
+V15.6in
 p82436
 sS'processor speed'
 p82437
@@ -177070,7 +177070,7 @@ V32 GB
 p82472
 sS'screen size'
 p82473
-V14 inches
+V14in
 p82474
 sS'processor speed'
 p82475
@@ -177150,7 +177150,7 @@ V8 GB
 p82508
 sS'screen size'
 p82509
-V15.6 in
+V15.6in
 p82510
 sS'processor speed'
 p82511
@@ -177224,7 +177224,7 @@ V16 GB
 p82538
 sS'screen size'
 p82539
-V15 in
+V15in
 p82540
 sS'processor speed'
 p82541
@@ -177305,7 +177305,7 @@ V32 GB
 p82575
 sS'screen size'
 p82576
-V17.3 inches
+V17.3in
 p82577
 sS'processor speed'
 p82578
@@ -177383,7 +177383,7 @@ V8 GB
 p82609
 sS'screen size'
 p82610
-V15.6 inches
+V15.6in
 p82611
 sS'processor speed'
 p82612
@@ -177464,7 +177464,7 @@ V8 GB
 p82646
 sS'screen size'
 p82647
-V15.6 in
+V15.6in
 p82648
 sS'processor speed'
 p82649
@@ -177549,7 +177549,7 @@ V8 GB
 p82687
 sS'screen size'
 p82688
-V14 inches
+V14in
 p82689
 sS'processor speed'
 p82690
@@ -177633,7 +177633,7 @@ V6 GB
 p82727
 sS'screen size'
 p82728
-V15.6 inches
+V15.6in
 p82729
 sS'processor speed'
 p82730
@@ -177716,7 +177716,7 @@ V6 GB
 p82766
 sS'screen size'
 p82767
-V11.6 inches
+V11.6in
 p82768
 sS'processor speed'
 p82769
@@ -177799,7 +177799,7 @@ V4 GB
 p82805
 sS'screen size'
 p82806
-V15.6 inches
+V15.6in
 p82807
 sS'processor speed'
 p82808
@@ -177883,7 +177883,7 @@ V8 GB
 p82845
 sS'screen size'
 p82846
-V17.3 inches
+V17.3in
 p82847
 sS'processor speed'
 p82848
@@ -177966,7 +177966,7 @@ V8 GB
 p82884
 sS'screen size'
 p82885
-V15.6 inches
+V15.6in
 p82886
 sS'processor speed'
 p82887
@@ -178050,7 +178050,7 @@ V16 GB
 p82924
 sS'screen size'
 p82925
-V15.6 inches
+V15.6in
 p82926
 sS'processor speed'
 p82927
@@ -178134,7 +178134,7 @@ V8 GB
 p82964
 sS'screen size'
 p82965
-V13.3 inches
+V13.3in
 p82966
 sS'processor speed'
 p82967
@@ -178215,7 +178215,7 @@ V8 GB
 p83001
 sS'screen size'
 p83002
-V14 inches
+V14in
 p83003
 sS'processor speed'
 p83004
@@ -178298,7 +178298,7 @@ V4 MB
 p83040
 sS'screen size'
 p83041
-V14 inches
+V14in
 p83042
 sS'processor speed'
 p83043
@@ -178383,7 +178383,7 @@ V16 GB
 p83081
 sS'screen size'
 p83082
-V15.6 inches
+V15.6in
 p83083
 sS'processor speed'
 p83084
@@ -178466,7 +178466,7 @@ V4 GB
 p83120
 sS'screen size'
 p83121
-V15.6 inches
+V15.6in
 p83122
 sS'processor speed'
 p83123
@@ -178624,7 +178624,7 @@ V12 GB
 p83190
 sS'screen size'
 p83191
-V14 inches
+V14in
 p83192
 sS'processor speed'
 p83193
@@ -178706,7 +178706,7 @@ V8 GB
 p83228
 sS'screen size'
 p83229
-V17.3 inches
+V17.3in
 p83230
 sS'processor speed'
 p83231
@@ -178786,7 +178786,7 @@ V4 GB
 p83264
 sS'screen size'
 p83265
-V13.3 in
+V13.3in
 p83266
 sS'processor speed'
 p83267
@@ -178869,7 +178869,7 @@ V16 GB
 p83303
 sS'screen size'
 p83304
-V15.6 inches
+V15.6in
 p83305
 sS'processor speed'
 p83306
@@ -178947,7 +178947,7 @@ V8 GB
 p83337
 sS'screen size'
 p83338
-V15.6 inches
+V15.6in
 p83339
 sS'processor speed'
 p83340
@@ -179029,7 +179029,7 @@ V32 GB
 p83375
 sS'screen size'
 p83376
-V17.3 inches
+V17.3in
 p83377
 sS'processor speed'
 p83378
@@ -179112,7 +179112,7 @@ V16 GB
 p83414
 sS'screen size'
 p83415
-V15.6 inches
+V15.6in
 p83416
 sS'processor speed'
 p83417
@@ -179192,7 +179192,7 @@ V8 GB
 p83450
 sS'screen size'
 p83451
-V17.3 inches
+V17.3in
 p83452
 sS'processor speed'
 p83453
@@ -179276,7 +179276,7 @@ V8 GB
 p83490
 sS'screen size'
 p83491
-V15.6 inches
+V15.6in
 p83492
 sS'processor speed'
 p83493
@@ -179360,7 +179360,7 @@ V16 GB
 p83530
 sS'screen size'
 p83531
-V15.6 inches
+V15.6in
 p83532
 sS'processor speed'
 p83533
@@ -179439,7 +179439,7 @@ V12 GB
 p83565
 sS'screen size'
 p83566
-V15.6 inches
+V15.6in
 p83567
 sS'processor speed'
 p83568
@@ -179520,7 +179520,7 @@ V2 GB
 p83602
 sS'screen size'
 p83603
-V11.6 inches
+V11.6in
 p83604
 sS'processor speed'
 p83605
@@ -179599,7 +179599,7 @@ V32 GB
 p83637
 sS'screen size'
 p83638
-V15.6 in
+V15.6in
 p83639
 sS'processor speed'
 p83640
@@ -179679,7 +179679,7 @@ V16 GB
 p83673
 sS'screen size'
 p83674
-V15.6 inches
+V15.6in
 p83675
 sS'processor speed'
 p83676
@@ -179763,7 +179763,7 @@ V64 GB
 p83713
 sS'screen size'
 p83714
-V15.6 inches
+V15.6in
 p83715
 sS'processor speed'
 p83716
@@ -179846,7 +179846,7 @@ V8 GB
 p83752
 sS'screen size'
 p83753
-V15.6 inches
+V15.6in
 p83754
 sS'processor speed'
 p83755
@@ -179927,7 +179927,7 @@ V4 GB
 p83789
 sS'screen size'
 p83790
-V11.6 inches
+V11.6in
 p83791
 sS'processor speed'
 p83792
@@ -180012,7 +180012,7 @@ V12 GB
 p83830
 sS'screen size'
 p83831
-V14 inches
+V14in
 p83832
 sS'processor speed'
 p83833
@@ -180095,7 +180095,7 @@ V16 GB
 p83869
 sS'screen size'
 p83870
-V15.6 inches
+V15.6in
 p83871
 sS'processor speed'
 p83872
@@ -180176,7 +180176,7 @@ V12 GB
 p83906
 sS'screen size'
 p83907
-V15.6 inches
+V15.6in
 p83908
 sS'processor speed'
 p83909
@@ -180256,7 +180256,7 @@ V4 GB
 p83942
 sS'screen size'
 p83943
-V12.5 inches
+V12.5in
 p83944
 sS'processor speed'
 p83945
@@ -180341,7 +180341,7 @@ V8 GB
 p83983
 sS'screen size'
 p83984
-V11.6 inches
+V11.6in
 p83985
 sS'processor speed'
 p83986
@@ -180426,7 +180426,7 @@ V6 GB
 p84024
 sS'screen size'
 p84025
-V15.6 inches
+V15.6in
 p84026
 sS'processor speed'
 p84027
@@ -180507,7 +180507,7 @@ V4 GB
 p84061
 sS'screen size'
 p84062
-V15.6 in
+V15.6in
 p84063
 sS'processor speed'
 p84064
@@ -180587,7 +180587,7 @@ V0 GB
 p84097
 sS'screen size'
 p84098
-V13.3 inches
+V13.3in
 p84099
 sS'processor speed'
 p84100
@@ -180669,7 +180669,7 @@ V8 GB
 p84135
 sS'screen size'
 p84136
-V15.6 inches
+V15.6in
 p84137
 sS'processor speed'
 p84138
@@ -180752,7 +180752,7 @@ V4 GB
 p84174
 sS'screen size'
 p84175
-V11.6 inches
+V11.6in
 p84176
 sS'processor speed'
 p84177
@@ -180836,7 +180836,7 @@ V8 GB
 p84214
 sS'screen size'
 p84215
-V15 inches
+V15in
 p84216
 sS'processor speed'
 p84217
@@ -180917,7 +180917,7 @@ V0 GB
 p84251
 sS'screen size'
 p84252
-V17.3 inches
+V17.3in
 p84253
 sS'processor speed'
 p84254
@@ -181001,7 +181001,7 @@ V4 GB
 p84291
 sS'screen size'
 p84292
-V15.6 inches
+V15.6in
 p84293
 sS'processor speed'
 p84294
@@ -181085,7 +181085,7 @@ V8 GB
 p84331
 sS'screen size'
 p84332
-V15 inches
+V15in
 p84333
 sS'processor speed'
 p84334
@@ -181166,7 +181166,7 @@ V8 GB
 p84368
 sS'screen size'
 p84369
-V15.6 inches
+V15.6in
 p84370
 sS'processor speed'
 p84371
@@ -181251,7 +181251,7 @@ V4 GB
 p84409
 sS'screen size'
 p84410
-V14 inches
+V14in
 p84411
 sS'processor speed'
 p84412
@@ -181334,7 +181334,7 @@ V8 GB
 p84448
 sS'screen size'
 p84449
-V15.6 inches
+V15.6in
 p84450
 sS'processor speed'
 p84451
@@ -181418,7 +181418,7 @@ V8 GB
 p84488
 sS'screen size'
 p84489
-V15.6 inches
+V15.6in
 p84490
 sS'processor speed'
 p84491
@@ -181502,7 +181502,7 @@ V8 GB
 p84528
 sS'screen size'
 p84529
-V13.3 inches
+V13.3in
 p84530
 sS'processor speed'
 p84531
@@ -181587,7 +181587,7 @@ V8 GB
 p84569
 sS'screen size'
 p84570
-V13.3 inches
+V13.3in
 p84571
 sS'processor speed'
 p84572
@@ -181672,7 +181672,7 @@ V16 GB
 p84610
 sS'screen size'
 p84611
-V15.6 inches
+V15.6in
 p84612
 sS'processor speed'
 p84613
@@ -181756,7 +181756,7 @@ V8 GB
 p84650
 sS'screen size'
 p84651
-V13.3 inches
+V13.3in
 p84652
 sS'processor speed'
 p84653
@@ -181834,7 +181834,7 @@ V8 GB
 p84684
 sS'screen size'
 p84685
-V14 inches
+V14in
 p84686
 sS'processor speed'
 p84687
@@ -181917,7 +181917,7 @@ V16 GB
 p84723
 sS'screen size'
 p84724
-V15.6 inches
+V15.6in
 p84725
 sS'processor speed'
 p84726
@@ -181995,7 +181995,7 @@ V0 GB
 p84757
 sS'screen size'
 p84758
-V14 in
+V14in
 p84759
 sS'processor speed'
 p84760
@@ -182078,7 +182078,7 @@ V16 GB
 p84796
 sS'screen size'
 p84797
-V0 in
+V0in
 p84798
 sS'processor speed'
 p84799
@@ -182162,7 +182162,7 @@ V4 GB
 p84836
 sS'screen size'
 p84837
-V15.6 inches
+V15.6in
 p84838
 sS'processor speed'
 p84839
@@ -182245,7 +182245,7 @@ V16 GB
 p84875
 sS'screen size'
 p84876
-V15.6 inches
+V15.6in
 p84877
 sS'processor speed'
 p84878
@@ -182326,7 +182326,7 @@ V64 GB
 p84912
 sS'screen size'
 p84913
-V17.3 in
+V17.3in
 p84914
 sS'processor speed'
 p84915
@@ -182410,7 +182410,7 @@ V8 GB
 p84952
 sS'screen size'
 p84953
-V17.3 inches
+V17.3in
 p84954
 sS'processor speed'
 p84955
@@ -182491,7 +182491,7 @@ V16 GB
 p84989
 sS'screen size'
 p84990
-V14 inches
+V14in
 p84991
 sS'processor speed'
 p84992
@@ -182569,7 +182569,7 @@ V8 GB
 p85023
 sS'screen size'
 p85024
-V15.6 inches
+V15.6in
 p85025
 sS'processor speed'
 p85026
@@ -182650,7 +182650,7 @@ V8 GB
 p85060
 sS'screen size'
 p85061
-V17.3 inches
+V17.3in
 p85062
 sS'processor speed'
 p85063
@@ -182732,7 +182732,7 @@ V12 GB
 p85098
 sS'screen size'
 p85099
-V15.6 inches
+V15.6in
 p85100
 sS'processor speed'
 p85101
@@ -182813,7 +182813,7 @@ V4 GB
 p85135
 sS'screen size'
 p85136
-V11.6 inches
+V11.6in
 p85137
 sS'processor speed'
 p85138
@@ -182895,7 +182895,7 @@ V8 GB
 p85173
 sS'screen size'
 p85174
-V17.3 inches
+V17.3in
 p85175
 sS'processor speed'
 p85176
@@ -182975,7 +182975,7 @@ V32 GB
 p85209
 sS'screen size'
 p85210
-V15.6 inches
+V15.6in
 p85211
 sS'processor speed'
 p85212
@@ -183057,7 +183057,7 @@ V16 GB
 p85247
 sS'screen size'
 p85248
-V15.6 inches
+V15.6in
 p85249
 sS'processor speed'
 p85250
@@ -183137,7 +183137,7 @@ V8 GB
 p85283
 sS'screen size'
 p85284
-V14 inches
+V14in
 p85285
 sS'processor speed'
 p85286
@@ -183219,7 +183219,7 @@ V4 GB
 p85321
 sS'screen size'
 p85322
-V11.6 inches
+V11.6in
 p85323
 sS'processor speed'
 p85324
@@ -183303,7 +183303,7 @@ V8 GB
 p85361
 sS'screen size'
 p85362
-V14 inches
+V14in
 p85363
 sS'processor speed'
 p85364
@@ -183386,7 +183386,7 @@ V16 GB
 p85400
 sS'screen size'
 p85401
-V18.4 inches
+V18.4in
 p85402
 sS'processor speed'
 p85403
@@ -183465,7 +183465,7 @@ V16 GB
 p85435
 sS'screen size'
 p85436
-V15.6 in
+V15.6in
 p85437
 sS'processor speed'
 p85438
@@ -183547,7 +183547,7 @@ V12 GB
 p85473
 sS'screen size'
 p85474
-V17.3 inches
+V17.3in
 p85475
 sS'processor speed'
 p85476
@@ -183627,7 +183627,7 @@ V0 GB
 p85509
 sS'screen size'
 p85510
-V15.6 inches
+V15.6in
 p85511
 sS'processor speed'
 p85512
@@ -183707,7 +183707,7 @@ V32 GB
 p85545
 sS'screen size'
 p85546
-V15.6 in
+V15.6in
 p85547
 sS'processor speed'
 p85548
@@ -183792,7 +183792,7 @@ V8 GB
 p85586
 sS'screen size'
 p85587
-V15.6 inches
+V15.6in
 p85588
 sS'processor speed'
 p85589
@@ -183875,7 +183875,7 @@ V8 GB
 p85625
 sS'screen size'
 p85626
-V15.6 inches
+V15.6in
 p85627
 sS'processor speed'
 p85628
@@ -183955,7 +183955,7 @@ V12 GB
 p85661
 sS'screen size'
 p85662
-V15.6 inches
+V15.6in
 p85663
 sS'processor speed'
 p85664
@@ -184036,7 +184036,7 @@ V8 GB
 p85698
 sS'screen size'
 p85699
-V15.6 inches
+V15.6in
 p85700
 sS'processor speed'
 p85701
@@ -184116,7 +184116,7 @@ V4 GB
 p85734
 sS'screen size'
 p85735
-V15.6 inches
+V15.6in
 p85736
 sS'processor speed'
 p85737
@@ -184194,7 +184194,7 @@ V8 GB
 p85768
 sS'screen size'
 p85769
-V13.3 in
+V13.3in
 p85770
 sS'processor speed'
 p85771
@@ -184277,7 +184277,7 @@ V8 GB
 p85807
 sS'screen size'
 p85808
-V14 inches
+V14in
 p85809
 sS'processor speed'
 p85810
@@ -184358,7 +184358,7 @@ V8 GB
 p85844
 sS'screen size'
 p85845
-V15.6 inches
+V15.6in
 p85846
 sS'processor speed'
 p85847
@@ -184441,7 +184441,7 @@ V8 GB
 p85883
 sS'screen size'
 p85884
-V13.3 inches
+V13.3in
 p85885
 sS'processor speed'
 p85886
@@ -184524,7 +184524,7 @@ V16 GB
 p85922
 sS'screen size'
 p85923
-V15.6 inches
+V15.6in
 p85924
 sS'processor speed'
 p85925
@@ -184605,7 +184605,7 @@ V8 GB
 p85959
 sS'screen size'
 p85960
-V7 inches
+V7in
 p85961
 sS'processor speed'
 p85962
@@ -184689,7 +184689,7 @@ V4 GB
 p85999
 sS'screen size'
 p86000
-V14 inches
+V14in
 p86001
 sS'processor speed'
 p86002
@@ -184772,7 +184772,7 @@ V16 GB
 p86038
 sS'screen size'
 p86039
-V14 inches
+V14in
 p86040
 sS'processor speed'
 p86041
@@ -184852,7 +184852,7 @@ V8 GB
 p86074
 sS'screen size'
 p86075
-V13.3 inches
+V13.3in
 p86076
 sS'processor speed'
 p86077
@@ -184936,7 +184936,7 @@ V8 GB
 p86114
 sS'screen size'
 p86115
-V13.3 inches
+V13.3in
 p86116
 sS'processor speed'
 p86117
@@ -185019,7 +185019,7 @@ V8 GB
 p86153
 sS'screen size'
 p86154
-V13.3 inches
+V13.3in
 p86155
 sS'processor speed'
 p86156
@@ -185100,7 +185100,7 @@ V16 GB
 p86190
 sS'screen size'
 p86191
-V15.6 inches
+V15.6in
 p86192
 sS'processor speed'
 p86193
@@ -185183,7 +185183,7 @@ V8 GB
 p86229
 sS'screen size'
 p86230
-V15.6 inches
+V15.6in
 p86231
 sS'processor speed'
 p86232
@@ -185263,7 +185263,7 @@ V64 GB
 p86265
 sS'screen size'
 p86266
-V17.3 in
+V17.3in
 p86267
 sS'processor speed'
 p86268
@@ -185345,7 +185345,7 @@ V6 GB
 p86303
 sS'screen size'
 p86304
-V15.6 inches
+V15.6in
 p86305
 sS'processor speed'
 p86306
@@ -185428,7 +185428,7 @@ V16 GB
 p86342
 sS'screen size'
 p86343
-V15.6 inches
+V15.6in
 p86344
 sS'processor speed'
 p86345
@@ -185511,7 +185511,7 @@ V16 GB
 p86381
 sS'screen size'
 p86382
-V15.6 inches
+V15.6in
 p86383
 sS'processor speed'
 p86384
@@ -185591,7 +185591,7 @@ V12 GB
 p86417
 sS'screen size'
 p86418
-V11.6 inches
+V11.6in
 p86419
 sS'processor speed'
 p86420
@@ -185668,7 +185668,7 @@ V4 GB
 p86450
 sS'screen size'
 p86451
-V15.6 in
+V15.6in
 p86452
 sS'processor speed'
 p86453
@@ -185746,7 +185746,7 @@ V0 GB
 p86484
 sS'screen size'
 p86485
-V15.6 in
+V15.6in
 p86486
 sS'processor speed'
 p86487
@@ -185829,7 +185829,7 @@ V8 GB
 p86523
 sS'screen size'
 p86524
-V15.6 inches
+V15.6in
 p86525
 sS'processor speed'
 p86526
@@ -185911,7 +185911,7 @@ V8 GB
 p86561
 sS'screen size'
 p86562
-V15.6 inches
+V15.6in
 p86563
 sS'processor speed'
 p86564
@@ -185992,7 +185992,7 @@ V0 GB
 p86598
 sS'screen size'
 p86599
-V15.6 inches
+V15.6in
 p86600
 sS'processor speed'
 p86601
@@ -186073,7 +186073,7 @@ V32 GB
 p86635
 sS'screen size'
 p86636
-V14 inches
+V14in
 p86637
 sS'processor speed'
 p86638
@@ -186155,7 +186155,7 @@ V8 GB
 p86673
 sS'screen size'
 p86674
-V15.6 inches
+V15.6in
 p86675
 sS'processor speed'
 p86676
@@ -186235,7 +186235,7 @@ V16 GB
 p86709
 sS'screen size'
 p86710
-V15.6 in
+V15.6in
 p86711
 sS'processor speed'
 p86712
@@ -186315,7 +186315,7 @@ V8 GB
 p86745
 sS'screen size'
 p86746
-V17.3 in
+V17.3in
 p86747
 sS'processor speed'
 p86748
@@ -186397,7 +186397,7 @@ V8 GB
 p86783
 sS'screen size'
 p86784
-V15.6 inches
+V15.6in
 p86785
 sS'processor speed'
 p86786
@@ -186476,7 +186476,7 @@ V8 GB
 p86818
 sS'screen size'
 p86819
-V13.5 inches
+V13.5in
 p86820
 sS'processor speed'
 p86821
@@ -186560,7 +186560,7 @@ V32 GB
 p86858
 sS'screen size'
 p86859
-V13.3 inches
+V13.3in
 p86860
 sS'processor speed'
 p86861
@@ -186642,7 +186642,7 @@ V16 GB
 p86896
 sS'screen size'
 p86897
-V14 inches
+V14in
 p86898
 sS'processor speed'
 p86899
@@ -186723,7 +186723,7 @@ V8 GB
 p86933
 sS'screen size'
 p86934
-V17.3 inches
+V17.3in
 p86935
 sS'processor speed'
 p86936
@@ -186806,7 +186806,7 @@ V6 GB
 p86972
 sS'screen size'
 p86973
-V13.3 inches
+V13.3in
 p86974
 sS'processor speed'
 p86975
@@ -186883,7 +186883,7 @@ V16 GB
 p87005
 sS'screen size'
 p87006
-V13.5 in
+V13.5in
 p87007
 sS'processor speed'
 p87008
@@ -186963,7 +186963,7 @@ V8 GB
 p87041
 sS'screen size'
 p87042
-V13.3 inches
+V13.3in
 p87043
 sS'processor speed'
 p87044
@@ -187042,7 +187042,7 @@ V8 GB
 p87076
 sS'screen size'
 p87077
-V15.6 inches
+V15.6in
 p87078
 sS'processor speed'
 p87079
@@ -187126,7 +187126,7 @@ V2 GB
 p87116
 sS'screen size'
 p87117
-V11.6 inches
+V11.6in
 p87118
 sS'processor speed'
 p87119
@@ -187209,7 +187209,7 @@ V16 GB
 p87155
 sS'screen size'
 p87156
-V15.6 inches
+V15.6in
 p87157
 sS'processor speed'
 p87158
@@ -187293,7 +187293,7 @@ V16 GB
 p87195
 sS'screen size'
 p87196
-V17.3 inches
+V17.3in
 p87197
 sS'processor speed'
 p87198
@@ -187378,7 +187378,7 @@ V2 GB
 p87236
 sS'screen size'
 p87237
-V11.6 inches
+V11.6in
 p87238
 sS'processor speed'
 p87239
@@ -187458,7 +187458,7 @@ V8 GB
 p87272
 sS'screen size'
 p87273
-V15.6 inches
+V15.6in
 p87274
 sS'processor speed'
 p87275
@@ -187542,7 +187542,7 @@ V4 GB
 p87312
 sS'screen size'
 p87313
-V14 inches
+V14in
 p87314
 sS'processor speed'
 p87315
@@ -187625,7 +187625,7 @@ V16 GB
 p87351
 sS'screen size'
 p87352
-V15.4 inches
+V15.4in
 p87353
 sS'processor speed'
 p87354
@@ -187705,7 +187705,7 @@ V4 GB
 p87387
 sS'screen size'
 p87388
-V11.6 inches
+V11.6in
 p87389
 sS'processor speed'
 p87390
@@ -187787,7 +187787,7 @@ V16 GB
 p87425
 sS'screen size'
 p87426
-V15.6 inches
+V15.6in
 p87427
 sS'processor speed'
 p87428
@@ -187868,7 +187868,7 @@ V8 GB
 p87462
 sS'screen size'
 p87463
-V17.3 inches
+V17.3in
 p87464
 sS'processor speed'
 p87465
@@ -187951,7 +187951,7 @@ V4 GB
 p87501
 sS'screen size'
 p87502
-V12.5 inches
+V12.5in
 p87503
 sS'processor speed'
 p87504
@@ -188036,7 +188036,7 @@ V4 GB
 p87542
 sS'screen size'
 p87543
-V15 inches
+V15in
 p87544
 sS'processor speed'
 p87545
@@ -188119,7 +188119,7 @@ V2 GB
 p87581
 sS'screen size'
 p87582
-V11.6 inches
+V11.6in
 p87583
 sS'processor speed'
 p87584
@@ -188200,7 +188200,7 @@ V0 GB
 p87618
 sS'screen size'
 p87619
-V14 inches
+V14in
 p87620
 sS'processor speed'
 p87621
@@ -188283,7 +188283,7 @@ V8 GB
 p87657
 sS'screen size'
 p87658
-V17.3 inches
+V17.3in
 p87659
 sS'processor speed'
 p87660
@@ -188367,7 +188367,7 @@ V4 GB
 p87697
 sS'screen size'
 p87698
-V15.6 inches
+V15.6in
 p87699
 sS'processor speed'
 p87700
@@ -188449,7 +188449,7 @@ V16 GB
 p87735
 sS'screen size'
 p87736
-V14 inches
+V14in
 p87737
 sS'processor speed'
 p87738
@@ -188530,7 +188530,7 @@ V32 GB
 p87772
 sS'screen size'
 p87773
-V15.6 in
+V15.6in
 p87774
 sS'processor speed'
 p87775
@@ -188610,7 +188610,7 @@ V16 GB
 p87808
 sS'screen size'
 p87809
-V12.5 inches
+V12.5in
 p87810
 sS'processor speed'
 p87811
@@ -188690,7 +188690,7 @@ V16 GB
 p87844
 sS'screen size'
 p87845
-V15.6 in
+V15.6in
 p87846
 sS'processor speed'
 p87847
@@ -188774,7 +188774,7 @@ V8 GB
 p87884
 sS'screen size'
 p87885
-V15 inches
+V15in
 p87886
 sS'processor speed'
 p87887
@@ -188855,7 +188855,7 @@ V8 GB
 p87921
 sS'screen size'
 p87922
-V15.6 inches
+V15.6in
 p87923
 sS'processor speed'
 p87924
@@ -188938,7 +188938,7 @@ V16 GB
 p87960
 sS'screen size'
 p87961
-V15.6 inches
+V15.6in
 p87962
 sS'processor speed'
 p87963
@@ -189021,7 +189021,7 @@ V8 GB
 p87999
 sS'screen size'
 p88000
-V15.6 inches
+V15.6in
 p88001
 sS'processor speed'
 p88002
@@ -189105,7 +189105,7 @@ V4 GB
 p88039
 sS'screen size'
 p88040
-V11 inches
+V11in
 p88041
 sS'processor speed'
 p88042
@@ -189186,7 +189186,7 @@ V8 GB
 p88076
 sS'screen size'
 p88077
-V15.6 inches
+V15.6in
 p88078
 sS'processor speed'
 p88079
@@ -189267,7 +189267,7 @@ V8 GB
 p88113
 sS'screen size'
 p88114
-V15.6 inches
+V15.6in
 p88115
 sS'processor speed'
 p88116
@@ -189351,7 +189351,7 @@ V16 GB
 p88153
 sS'screen size'
 p88154
-V17.3 inches
+V17.3in
 p88155
 sS'processor speed'
 p88156
@@ -189434,7 +189434,7 @@ V8 GB
 p88192
 sS'screen size'
 p88193
-V17.3 inches
+V17.3in
 p88194
 sS'processor speed'
 p88195
@@ -189514,7 +189514,7 @@ V12 GB
 p88228
 sS'screen size'
 p88229
-V15.6 inches
+V15.6in
 p88230
 sS'processor speed'
 p88231
@@ -189596,7 +189596,7 @@ V8 GB
 p88266
 sS'screen size'
 p88267
-V15.6 inches
+V15.6in
 p88268
 sS'processor speed'
 p88269
@@ -189680,7 +189680,7 @@ V8 GB
 p88306
 sS'screen size'
 p88307
-V15.6 inches
+V15.6in
 p88308
 sS'processor speed'
 p88309
@@ -189763,7 +189763,7 @@ V8 GB
 p88345
 sS'screen size'
 p88346
-V14 inches
+V14in
 p88347
 sS'processor speed'
 p88348
@@ -189848,7 +189848,7 @@ V8 GB
 p88386
 sS'screen size'
 p88387
-V11.6 inches
+V11.6in
 p88388
 sS'processor speed'
 p88389
@@ -189925,7 +189925,7 @@ V4 GB
 p88419
 sS'screen size'
 p88420
-V11.6 inches
+V11.6in
 p88421
 sS'processor speed'
 p88422
@@ -190007,7 +190007,7 @@ V32 GB
 p88457
 sS'screen size'
 p88458
-V13.3 inches
+V13.3in
 p88459
 sS'processor speed'
 p88460
@@ -190091,7 +190091,7 @@ V4 GB
 p88497
 sS'screen size'
 p88498
-V15.6 inches
+V15.6in
 p88499
 sS'processor speed'
 p88500
@@ -190171,7 +190171,7 @@ V0 GB
 p88533
 sS'screen size'
 p88534
-V15.6 inches
+V15.6in
 p88535
 sS'processor speed'
 p88536
@@ -190252,7 +190252,7 @@ V6 GB
 p88570
 sS'screen size'
 p88571
-V15.6 in
+V15.6in
 p88572
 sS'processor speed'
 p88573
@@ -190335,7 +190335,7 @@ V4 GB
 p88609
 sS'screen size'
 p88610
-V15.6 inches
+V15.6in
 p88611
 sS'processor speed'
 p88612
@@ -190419,7 +190419,7 @@ V32 GB
 p88649
 sS'screen size'
 p88650
-V13.3 inches
+V13.3in
 p88651
 sS'processor speed'
 p88652
@@ -190503,7 +190503,7 @@ V8 GB
 p88689
 sS'screen size'
 p88690
-V14 inches
+V14in
 p88691
 sS'processor speed'
 p88692
@@ -190585,7 +190585,7 @@ V16 GB
 p88727
 sS'screen size'
 p88728
-V17.3 inches
+V17.3in
 p88729
 sS'processor speed'
 p88730
@@ -190663,7 +190663,7 @@ V8 GB
 p88761
 sS'screen size'
 p88762
-V14 inches
+V14in
 p88763
 sS'processor speed'
 p88764
@@ -190745,7 +190745,7 @@ V16 GB
 p88799
 sS'screen size'
 p88800
-V17.3 inches
+V17.3in
 p88801
 sS'processor speed'
 p88802
@@ -190829,7 +190829,7 @@ V8 GB
 p88839
 sS'screen size'
 p88840
-V14 inches
+V14in
 p88841
 sS'processor speed'
 p88842
@@ -190914,7 +190914,7 @@ V4 GB
 p88880
 sS'screen size'
 p88881
-V15.6 inches
+V15.6in
 p88882
 sS'processor speed'
 p88883
@@ -190996,7 +190996,7 @@ V8 GB
 p88918
 sS'screen size'
 p88919
-V14 inches
+V14in
 p88920
 sS'processor speed'
 p88921
@@ -191078,7 +191078,7 @@ V4 GB
 p88956
 sS'screen size'
 p88957
-V17.3 inches
+V17.3in
 p88958
 sS'processor speed'
 p88959
@@ -191160,7 +191160,7 @@ V8 GB
 p88994
 sS'screen size'
 p88995
-V15.6 inches
+V15.6in
 p88996
 sS'processor speed'
 p88997
@@ -191245,7 +191245,7 @@ V8 GB
 p89035
 sS'screen size'
 p89036
-V15.6 inches
+V15.6in
 p89037
 sS'processor speed'
 p89038
@@ -191328,7 +191328,7 @@ V12 GB
 p89074
 sS'screen size'
 p89075
-V15.6 inches
+V15.6in
 p89076
 sS'processor speed'
 p89077
@@ -191413,7 +191413,7 @@ V4 GB
 p89115
 sS'screen size'
 p89116
-V17.3 inches
+V17.3in
 p89117
 sS'processor speed'
 p89118
@@ -191495,7 +191495,7 @@ V4 GB
 p89153
 sS'screen size'
 p89154
-V15.6 inches
+V15.6in
 p89155
 sS'processor speed'
 p89156
@@ -191576,7 +191576,7 @@ V8 GB
 p89190
 sS'screen size'
 p89191
-V13.3 inches
+V13.3in
 p89192
 sS'processor speed'
 p89193
@@ -191659,7 +191659,7 @@ V16 GB
 p89229
 sS'screen size'
 p89230
-V15.6 inches
+V15.6in
 p89231
 sS'processor speed'
 p89232
@@ -191741,7 +191741,7 @@ V16 GB
 p89267
 sS'screen size'
 p89268
-V17.3 inches
+V17.3in
 p89269
 sS'processor speed'
 p89270
@@ -191823,7 +191823,7 @@ V8 GB
 p89305
 sS'screen size'
 p89306
-V15.6 inches
+V15.6in
 p89307
 sS'processor speed'
 p89308
@@ -191905,7 +191905,7 @@ V16 GB
 p89343
 sS'screen size'
 p89344
-V17.3 inches
+V17.3in
 p89345
 sS'processor speed'
 p89346
@@ -191988,7 +191988,7 @@ V16 GB
 p89382
 sS'screen size'
 p89383
-V17.3 inches
+V17.3in
 p89384
 sS'processor speed'
 p89385
@@ -192071,7 +192071,7 @@ V4 GB
 p89421
 sS'screen size'
 p89422
-V15.6 inches
+V15.6in
 p89423
 sS'processor speed'
 p89424
@@ -192149,7 +192149,7 @@ V8 GB
 p89455
 sS'screen size'
 p89456
-V15.6 inches
+V15.6in
 p89457
 sS'processor speed'
 p89458
@@ -192230,7 +192230,7 @@ V12 GB
 p89492
 sS'screen size'
 p89493
-V15.6 inches
+V15.6in
 p89494
 sS'processor speed'
 p89495
@@ -192310,7 +192310,7 @@ V4 GB
 p89528
 sS'screen size'
 p89529
-V14 inches
+V14in
 p89530
 sS'processor speed'
 p89531
@@ -192390,7 +192390,7 @@ V12 GB
 p89564
 sS'screen size'
 p89565
-V15.6 inches
+V15.6in
 p89566
 sS'processor speed'
 p89567
@@ -192475,7 +192475,7 @@ V2 GB
 p89605
 sS'screen size'
 p89606
-V10.1 inches
+V10.1in
 p89607
 sS'processor speed'
 p89608
@@ -192560,7 +192560,7 @@ V12 GB
 p89646
 sS'screen size'
 p89647
-V15.6 inches
+V15.6in
 p89648
 sS'processor speed'
 p89649
@@ -192643,7 +192643,7 @@ V4 GB
 p89685
 sS'screen size'
 p89686
-V14 inches
+V14in
 p89687
 sS'processor speed'
 p89688
@@ -192726,7 +192726,7 @@ V2 GB
 p89724
 sS'screen size'
 p89725
-V11.6 inches
+V11.6in
 p89726
 sS'processor speed'
 p89727
@@ -192809,7 +192809,7 @@ V8 GB
 p89763
 sS'screen size'
 p89764
-V15.6 inches
+V15.6in
 p89765
 sS'processor speed'
 p89766
@@ -192893,7 +192893,7 @@ V8 GB
 p89803
 sS'screen size'
 p89804
-V15.6 inches
+V15.6in
 p89805
 sS'processor speed'
 p89806
@@ -192975,7 +192975,7 @@ V4 GB
 p89841
 sS'screen size'
 p89842
-V15.6 inches
+V15.6in
 p89843
 sS'processor speed'
 p89844
@@ -193054,7 +193054,7 @@ V4 GB
 p89876
 sS'screen size'
 p89877
-V15.6 inches
+V15.6in
 p89878
 sS'processor speed'
 p89879
@@ -193135,7 +193135,7 @@ V4 GB
 p89913
 sS'screen size'
 p89914
-V15.6 inches
+V15.6in
 p89915
 sS'processor speed'
 p89916
@@ -193219,7 +193219,7 @@ V8 GB
 p89953
 sS'screen size'
 p89954
-V12.5 inches
+V12.5in
 p89955
 sS'processor speed'
 p89956
@@ -193302,7 +193302,7 @@ V4 GB
 p89992
 sS'screen size'
 p89993
-V12 inches
+V12in
 p89994
 sS'processor speed'
 p89995
@@ -193384,7 +193384,7 @@ V4 GB
 p90030
 sS'screen size'
 p90031
-V11.6 inches
+V11.6in
 p90032
 sS'processor speed'
 p90033
@@ -193463,7 +193463,7 @@ V2 GB
 p90065
 sS'screen size'
 p90066
-V11.6 in
+V11.6in
 p90067
 sS'processor speed'
 p90068
@@ -193542,7 +193542,7 @@ V8 MB
 p90100
 sS'screen size'
 p90101
-V14 inches
+V14in
 p90102
 sS'processor speed'
 p90103
@@ -193621,7 +193621,7 @@ V6 GB
 p90135
 sS'screen size'
 p90136
-V15.6 inches
+V15.6in
 p90137
 sS'processor speed'
 p90138
@@ -193702,7 +193702,7 @@ V16 GB
 p90172
 sS'screen size'
 p90173
-V14 inches
+V14in
 p90174
 sS'processor speed'
 p90175
@@ -193783,7 +193783,7 @@ V4 GB
 p90209
 sS'screen size'
 p90210
-V17.3 in
+V17.3in
 p90211
 sS'processor speed'
 p90212
@@ -193864,7 +193864,7 @@ V16 GB
 p90246
 sS'screen size'
 p90247
-V15.6 inches
+V15.6in
 p90248
 sS'processor speed'
 p90249
@@ -193948,7 +193948,7 @@ V8 GB
 p90286
 sS'screen size'
 p90287
-V13.3 inches
+V13.3in
 p90288
 sS'processor speed'
 p90289
@@ -194024,7 +194024,7 @@ V16 GB
 p90318
 sS'screen size'
 p90319
-V15.6 inches
+V15.6in
 p90320
 sS'processor speed'
 p90321
@@ -194104,7 +194104,7 @@ V16 GB
 p90354
 sS'screen size'
 p90355
-V15.6 inches
+V15.6in
 p90356
 sS'processor speed'
 p90357
@@ -194186,7 +194186,7 @@ V4 GB
 p90392
 sS'screen size'
 p90393
-V11.6 inches
+V11.6in
 p90394
 sS'processor speed'
 p90395
@@ -194269,7 +194269,7 @@ V32 GB
 p90431
 sS'screen size'
 p90432
-V15.6 inches
+V15.6in
 p90433
 sS'processor speed'
 p90434
@@ -194354,7 +194354,7 @@ V8 GB
 p90472
 sS'screen size'
 p90473
-V15.6 inches
+V15.6in
 p90474
 sS'processor speed'
 p90475
@@ -194436,7 +194436,7 @@ V32 GB
 p90510
 sS'screen size'
 p90511
-V15.6 inches
+V15.6in
 p90512
 sS'processor speed'
 p90513
@@ -194519,7 +194519,7 @@ V16 GB
 p90549
 sS'screen size'
 p90550
-V15.6 inches
+V15.6in
 p90551
 sS'processor speed'
 p90552
@@ -194600,7 +194600,7 @@ V8 GB
 p90586
 sS'screen size'
 p90587
-V15.6 inches
+V15.6in
 p90588
 sS'processor speed'
 p90589
@@ -194682,7 +194682,7 @@ V8 GB
 p90624
 sS'screen size'
 p90625
-V15.6 inches
+V15.6in
 p90626
 sS'processor speed'
 p90627
@@ -194762,7 +194762,7 @@ V8 GB
 p90660
 sS'screen size'
 p90661
-V14 inches
+V14in
 p90662
 sS'processor speed'
 p90663
@@ -194844,7 +194844,7 @@ V8 GB
 p90698
 sS'screen size'
 p90699
-V14 inches
+V14in
 p90700
 sS'processor speed'
 p90701
@@ -194927,7 +194927,7 @@ V4 GB
 p90737
 sS'screen size'
 p90738
-V15.6 inches
+V15.6in
 p90739
 sS'processor speed'
 p90740
@@ -195009,7 +195009,7 @@ V4 GB
 p90775
 sS'screen size'
 p90776
-V11.6 inches
+V11.6in
 p90777
 sS'processor speed'
 p90778
@@ -195092,7 +195092,7 @@ V8 GB
 p90814
 sS'screen size'
 p90815
-V15.6 inches
+V15.6in
 p90816
 sS'processor speed'
 p90817
@@ -195175,7 +195175,7 @@ V16 GB
 p90853
 sS'screen size'
 p90854
-V15.6 inches
+V15.6in
 p90855
 sS'processor speed'
 p90856
@@ -195257,7 +195257,7 @@ V6 GB
 p90891
 sS'screen size'
 p90892
-V15.6 millimeters
+V15.6in
 p90893
 sS'processor speed'
 p90894
@@ -195337,7 +195337,7 @@ V12 GB
 p90927
 sS'screen size'
 p90928
-V15.6 inches
+V15.6in
 p90929
 sS'processor speed'
 p90930
@@ -195421,7 +195421,7 @@ V8 GB
 p90967
 sS'screen size'
 p90968
-V15.6 inches
+V15.6in
 p90969
 sS'processor speed'
 p90970
@@ -195501,7 +195501,7 @@ V8 GB
 p91003
 sS'screen size'
 p91004
-V15.6 inches
+V15.6in
 p91005
 sS'processor speed'
 p91006
@@ -195585,7 +195585,7 @@ V4 GB
 p91043
 sS'screen size'
 p91044
-V15.6 inches
+V15.6in
 p91045
 sS'processor speed'
 p91046
@@ -195666,7 +195666,7 @@ V4 GB
 p91080
 sS'screen size'
 p91081
-V14 inches
+V14in
 p91082
 sS'processor speed'
 p91083
@@ -195751,7 +195751,7 @@ V8 GB
 p91121
 sS'screen size'
 p91122
-V15.6 inches
+V15.6in
 p91123
 sS'processor speed'
 p91124
@@ -195834,7 +195834,7 @@ V8 GB
 p91160
 sS'screen size'
 p91161
-V15.6 inches
+V15.6in
 p91162
 sS'processor speed'
 p91163
@@ -195912,7 +195912,7 @@ V4 GB
 p91194
 sS'screen size'
 p91195
-V15.6 inches
+V15.6in
 p91196
 sS'processor speed'
 p91197
@@ -195996,7 +195996,7 @@ V8 GB
 p91234
 sS'screen size'
 p91235
-V14 inches
+V14in
 p91236
 sS'processor speed'
 p91237
@@ -196079,7 +196079,7 @@ V16 GB
 p91273
 sS'screen size'
 p91274
-V17.3 inches
+V17.3in
 p91275
 sS'processor speed'
 p91276
@@ -196161,7 +196161,7 @@ V2 GB
 p91311
 sS'screen size'
 p91312
-V11.6 inches
+V11.6in
 p91313
 sS'processor speed'
 p91314
@@ -196244,7 +196244,7 @@ V6 GB
 p91350
 sS'screen size'
 p91351
-V14 inches
+V14in
 p91352
 sS'processor speed'
 p91353
@@ -196328,7 +196328,7 @@ V4 GB
 p91390
 sS'screen size'
 p91391
-V13.3 inches
+V13.3in
 p91392
 sS'processor speed'
 p91393
@@ -196406,7 +196406,7 @@ V6 GB
 p91424
 sS'screen size'
 p91425
-V15 inches
+V15in
 p91426
 sS'processor speed'
 p91427
@@ -196488,7 +196488,7 @@ V8 GB
 p91462
 sS'screen size'
 p91463
-V15.6 inches
+V15.6in
 p91464
 sS'processor speed'
 p91465
@@ -196569,7 +196569,7 @@ V64 GB
 p91499
 sS'screen size'
 p91500
-V15.6 in
+V15.6in
 p91501
 sS'processor speed'
 p91502
@@ -196652,7 +196652,7 @@ V8 GB
 p91538
 sS'screen size'
 p91539
-V14 inches
+V14in
 p91540
 sS'processor speed'
 p91541
@@ -196734,7 +196734,7 @@ V12 GB
 p91576
 sS'screen size'
 p91577
-V15.6 inches
+V15.6in
 p91578
 sS'processor speed'
 p91579
@@ -196818,7 +196818,7 @@ V4 GB
 p91616
 sS'screen size'
 p91617
-V15 inches
+V15in
 p91618
 sS'processor speed'
 p91619
@@ -196900,7 +196900,7 @@ V8 GB
 p91654
 sS'screen size'
 p91655
-V15.6 inches
+V15.6in
 p91656
 sS'processor speed'
 p91657
@@ -196981,7 +196981,7 @@ V8 GB
 p91691
 sS'screen size'
 p91692
-V14 inches
+V14in
 p91693
 sS'processor speed'
 p91694
@@ -197061,7 +197061,7 @@ V8 GB
 p91727
 sS'screen size'
 p91728
-V17.3 in
+V17.3in
 p91729
 sS'processor speed'
 p91730
@@ -197142,7 +197142,7 @@ V0 GB
 p91764
 sS'screen size'
 p91765
-V17.3 inches
+V17.3in
 p91766
 sS'processor speed'
 p91767
@@ -197223,7 +197223,7 @@ V12 GB
 p91801
 sS'screen size'
 p91802
-V15.6 inches
+V15.6in
 p91803
 sS'processor speed'
 p91804
@@ -197304,7 +197304,7 @@ V8 GB
 p91838
 sS'screen size'
 p91839
-V15.6 inches
+V15.6in
 p91840
 sS'processor speed'
 p91841
@@ -197386,7 +197386,7 @@ V4 GB
 p91876
 sS'screen size'
 p91877
-V15.6 inches
+V15.6in
 p91878
 sS'processor speed'
 p91879
@@ -197466,7 +197466,7 @@ V16 GB
 p91912
 sS'screen size'
 p91913
-V15.6 in
+V15.6in
 p91914
 sS'processor speed'
 p91915
@@ -197546,7 +197546,7 @@ V8 GB
 p91948
 sS'screen size'
 p91949
-V17.3 inches
+V17.3in
 p91950
 sS'processor speed'
 p91951
@@ -197631,7 +197631,7 @@ V4 GB
 p91989
 sS'screen size'
 p91990
-V14 inches
+V14in
 p91991
 sS'processor speed'
 p91992
@@ -197713,7 +197713,7 @@ V32 GB
 p92027
 sS'screen size'
 p92028
-V15.6 inches
+V15.6in
 p92029
 sS'processor speed'
 p92030
@@ -197795,7 +197795,7 @@ V16 GB
 p92065
 sS'screen size'
 p92066
-V13.3 inches
+V13.3in
 p92067
 sS'processor speed'
 p92068
@@ -197875,7 +197875,7 @@ V8 GB
 p92101
 sS'screen size'
 p92102
-V13.3 inches
+V13.3in
 p92103
 sS'processor speed'
 p92104
@@ -197957,7 +197957,7 @@ V4 GB
 p92139
 sS'screen size'
 p92140
-V14 inches
+V14in
 p92141
 sS'processor speed'
 p92142
@@ -198039,7 +198039,7 @@ V16 GB
 p92177
 sS'screen size'
 p92178
-V13.3 inches
+V13.3in
 p92179
 sS'processor speed'
 p92180
@@ -198121,7 +198121,7 @@ V8 GB
 p92215
 sS'screen size'
 p92216
-V15.6 inches
+V15.6in
 p92217
 sS'processor speed'
 p92218
@@ -198205,7 +198205,7 @@ V6 GB
 p92255
 sS'screen size'
 p92256
-V12 inches
+V12in
 p92257
 sS'processor speed'
 p92258
@@ -198290,7 +198290,7 @@ V2 GB
 p92296
 sS'screen size'
 p92297
-V10.1 inches
+V10.1in
 p92298
 sS'processor speed'
 p92299
@@ -198372,7 +198372,7 @@ V8 GB
 p92334
 sS'screen size'
 p92335
-V15.6 inches
+V15.6in
 p92336
 sS'processor speed'
 p92337
@@ -198454,7 +198454,7 @@ V4 GB
 p92372
 sS'screen size'
 p92373
-V15.6 inches
+V15.6in
 p92374
 sS'processor speed'
 p92375
@@ -198535,7 +198535,7 @@ V4 GB
 p92409
 sS'screen size'
 p92410
-V11.6 inches
+V11.6in
 p92411
 sS'processor speed'
 p92412
@@ -198619,7 +198619,7 @@ V4 GB
 p92449
 sS'screen size'
 p92450
-V13.3 inches
+V13.3in
 p92451
 sS'processor speed'
 p92452
@@ -198700,7 +198700,7 @@ V2 GB
 p92486
 sS'screen size'
 p92487
-V11.6 inches
+V11.6in
 p92488
 sS'processor speed'
 p92489
@@ -198784,7 +198784,7 @@ V8 GB
 p92526
 sS'screen size'
 p92527
-V14 inches
+V14in
 p92528
 sS'processor speed'
 p92529
@@ -198867,7 +198867,7 @@ V2 GB
 p92565
 sS'screen size'
 p92566
-V14 inches
+V14in
 p92567
 sS'processor speed'
 p92568
@@ -198950,7 +198950,7 @@ V16 GB
 p92604
 sS'screen size'
 p92605
-V15.6 inches
+V15.6in
 p92606
 sS'processor speed'
 p92607
@@ -199032,7 +199032,7 @@ V8 GB
 p92642
 sS'screen size'
 p92643
-V15.6 inches
+V15.6in
 p92644
 sS'processor speed'
 p92645
@@ -199113,7 +199113,7 @@ V64 GB
 p92679
 sS'screen size'
 p92680
-V15.6 in
+V15.6in
 p92681
 sS'processor speed'
 p92682
@@ -199197,7 +199197,7 @@ V16 GB
 p92719
 sS'screen size'
 p92720
-V13.3 inches
+V13.3in
 p92721
 sS'processor speed'
 p92722
@@ -199279,7 +199279,7 @@ V16 GB
 p92757
 sS'screen size'
 p92758
-V15.6 inches
+V15.6in
 p92759
 sS'processor speed'
 p92760
@@ -199359,7 +199359,7 @@ V0 GB
 p92793
 sS'screen size'
 p92794
-V15.6 inches
+V15.6in
 p92795
 sS'processor speed'
 p92796
@@ -199441,7 +199441,7 @@ V16 GB
 p92831
 sS'screen size'
 p92832
-V15.6 inches
+V15.6in
 p92833
 sS'processor speed'
 p92834
@@ -199521,7 +199521,7 @@ V8 GB
 p92867
 sS'screen size'
 p92868
-V13 inches
+V13in
 p92869
 sS'processor speed'
 p92870
@@ -199606,7 +199606,7 @@ V4 GB
 p92908
 sS'screen size'
 p92909
-V15.6 inches
+V15.6in
 p92910
 sS'processor speed'
 p92911
@@ -199689,7 +199689,7 @@ V8 GB
 p92947
 sS'screen size'
 p92948
-V17.3 inches
+V17.3in
 p92949
 sS'processor speed'
 p92950
@@ -199770,7 +199770,7 @@ V8 GB
 p92984
 sS'screen size'
 p92985
-V14 inches
+V14in
 p92986
 sS'processor speed'
 p92987
@@ -199854,7 +199854,7 @@ V16 GB
 p93024
 sS'screen size'
 p93025
-V15.4 inches
+V15.4in
 p93026
 sS'processor speed'
 p93027
@@ -199938,7 +199938,7 @@ V8 GB
 p93064
 sS'screen size'
 p93065
-V17.3 inches
+V17.3in
 p93066
 sS'processor speed'
 p93067
@@ -200023,7 +200023,7 @@ V16 GB
 p93105
 sS'screen size'
 p93106
-V15.6 inches
+V15.6in
 p93107
 sS'processor speed'
 p93108
@@ -200106,7 +200106,7 @@ V8 GB
 p93144
 sS'screen size'
 p93145
-V13.3 inches
+V13.3in
 p93146
 sS'processor speed'
 p93147
@@ -200188,7 +200188,7 @@ V8 GB
 p93182
 sS'screen size'
 p93183
-V13.3 inches
+V13.3in
 p93184
 sS'processor speed'
 p93185
@@ -200271,7 +200271,7 @@ V16 GB
 p93221
 sS'screen size'
 p93222
-V15.6 inches
+V15.6in
 p93223
 sS'processor speed'
 p93224
@@ -200352,7 +200352,7 @@ V12 GB
 p93258
 sS'screen size'
 p93259
-V17.3 inches
+V17.3in
 p93260
 sS'processor speed'
 p93261
@@ -200434,7 +200434,7 @@ V6 GB
 p93296
 sS'screen size'
 p93297
-V12 inches
+V12in
 p93298
 sS'processor speed'
 p93299
@@ -200518,7 +200518,7 @@ V8 GB
 p93336
 sS'screen size'
 p93337
-V15.6 inches
+V15.6in
 p93338
 sS'processor speed'
 p93339
@@ -200599,7 +200599,7 @@ V16 GB
 p93373
 sS'screen size'
 p93374
-V17.3 inches
+V17.3in
 p93375
 sS'processor speed'
 p93376
@@ -200680,7 +200680,7 @@ V8 GB
 p93410
 sS'screen size'
 p93411
-V13.3 inches
+V13.3in
 p93412
 sS'processor speed'
 p93413
@@ -200761,7 +200761,7 @@ V4 GB
 p93447
 sS'screen size'
 p93448
-V13.3 inches
+V13.3in
 p93449
 sS'processor speed'
 p93450
@@ -200841,7 +200841,7 @@ V12 GB
 p93483
 sS'screen size'
 p93484
-V14 in
+V14in
 p93485
 sS'processor speed'
 p93486
@@ -200923,7 +200923,7 @@ V8 GB
 p93521
 sS'screen size'
 p93522
-V15.6 inches
+V15.6in
 p93523
 sS'processor speed'
 p93524
@@ -201002,7 +201002,7 @@ V4 GB
 p93556
 sS'screen size'
 p93557
-V15.6 inches
+V15.6in
 p93558
 sS'processor speed'
 p93559
@@ -201083,7 +201083,7 @@ V8 GB
 p93593
 sS'screen size'
 p93594
-V14 inches
+V14in
 p93595
 sS'processor speed'
 p93596
@@ -201164,7 +201164,7 @@ V12 GB
 p93630
 sS'screen size'
 p93631
-V15.6 inches
+V15.6in
 p93632
 sS'processor speed'
 p93633
@@ -201247,7 +201247,7 @@ V2 GB
 p93669
 sS'screen size'
 p93670
-V14.1 inches
+V14.1in
 p93671
 sS'processor speed'
 p93672
@@ -201326,7 +201326,7 @@ V32 GB
 p93704
 sS'screen size'
 p93705
-V15.6 inches
+V15.6in
 p93706
 sS'processor speed'
 p93707
@@ -201408,7 +201408,7 @@ V8 GB
 p93742
 sS'screen size'
 p93743
-V14 inches
+V14in
 p93744
 sS'processor speed'
 p93745
@@ -201489,7 +201489,7 @@ V8 GB
 p93779
 sS'screen size'
 p93780
-V15.6 in
+V15.6in
 p93781
 sS'processor speed'
 p93782
@@ -201574,7 +201574,7 @@ V4 GB
 p93820
 sS'screen size'
 p93821
-V17.3 inches
+V17.3in
 p93822
 sS'processor speed'
 p93823
@@ -201658,7 +201658,7 @@ V4 GB
 p93860
 sS'screen size'
 p93861
-V15.6 inches
+V15.6in
 p93862
 sS'processor speed'
 p93863
@@ -201739,7 +201739,7 @@ V256 GB
 p93897
 sS'screen size'
 p93898
-V0.1 inches
+V0.1in
 p93899
 sS'processor speed'
 p93900
@@ -201821,7 +201821,7 @@ V8 GB
 p93935
 sS'screen size'
 p93936
-V15.6 inches
+V15.6in
 p93937
 sS'processor speed'
 p93938
@@ -201903,7 +201903,7 @@ V8 GB
 p93973
 sS'screen size'
 p93974
-V15.6 inches
+V15.6in
 p93975
 sS'processor speed'
 p93976
@@ -201981,7 +201981,7 @@ V8 GB
 p94007
 sS'screen size'
 p94008
-V14 inches
+V14in
 p94009
 sS'processor speed'
 p94010
@@ -202060,7 +202060,7 @@ V0 GB
 p94042
 sS'screen size'
 p94043
-V12.5 inches
+V12.5in
 p94044
 sS'processor speed'
 p94045
@@ -202142,7 +202142,7 @@ V8 GB
 p94080
 sS'screen size'
 p94081
-V14 inches
+V14in
 p94082
 sS'processor speed'
 p94083
@@ -202222,7 +202222,7 @@ V12 GB
 p94116
 sS'screen size'
 p94117
-V15.6 inches
+V15.6in
 p94118
 sS'processor speed'
 p94119
@@ -202304,7 +202304,7 @@ V16 GB
 p94154
 sS'screen size'
 p94155
-V15.6 inches
+V15.6in
 p94156
 sS'processor speed'
 p94157
@@ -202385,7 +202385,7 @@ V4 GB
 p94191
 sS'screen size'
 p94192
-V11.6 inches
+V11.6in
 p94193
 sS'processor speed'
 p94194
@@ -202467,7 +202467,7 @@ V16 GB
 p94229
 sS'screen size'
 p94230
-V15.6 inches
+V15.6in
 p94231
 sS'processor speed'
 p94232
@@ -202552,7 +202552,7 @@ V8 GB
 p94270
 sS'screen size'
 p94271
-V15.6 inches
+V15.6in
 p94272
 sS'processor speed'
 p94273
@@ -202633,7 +202633,7 @@ V8 GB
 p94307
 sS'screen size'
 p94308
-V17.3 in
+V17.3in
 p94309
 sS'processor speed'
 p94310
@@ -202715,7 +202715,7 @@ V8 GB
 p94345
 sS'screen size'
 p94346
-V15.6 inches
+V15.6in
 p94347
 sS'processor speed'
 p94348
@@ -202799,7 +202799,7 @@ V4 GB
 p94385
 sS'screen size'
 p94386
-V17.3 inches
+V17.3in
 p94387
 sS'processor speed'
 p94388
@@ -202880,7 +202880,7 @@ V32 GB
 p94422
 sS'screen size'
 p94423
-V15.6 inches
+V15.6in
 p94424
 sS'processor speed'
 p94425
@@ -202964,7 +202964,7 @@ V16 GB
 p94462
 sS'screen size'
 p94463
-V15.6 inches
+V15.6in
 p94464
 sS'processor speed'
 p94465
@@ -203126,7 +203126,7 @@ V8 GB
 p94536
 sS'screen size'
 p94537
-V13.5 inches
+V13.5in
 p94538
 sS'processor speed'
 p94539
@@ -203210,7 +203210,7 @@ V8 GB
 p94576
 sS'screen size'
 p94577
-V15.6 inches
+V15.6in
 p94578
 sS'processor speed'
 p94579
@@ -203289,7 +203289,7 @@ V12 GB
 p94611
 sS'screen size'
 p94612
-V15.6 inches
+V15.6in
 p94613
 sS'processor speed'
 p94614
@@ -203369,7 +203369,7 @@ V0 GB
 p94647
 sS'screen size'
 p94648
-V15.6 inches
+V15.6in
 p94649
 sS'processor speed'
 p94650
@@ -203451,7 +203451,7 @@ V16 GB
 p94685
 sS'screen size'
 p94686
-V13.3 inches
+V13.3in
 p94687
 sS'processor speed'
 p94688
@@ -203534,7 +203534,7 @@ V8 GB
 p94724
 sS'screen size'
 p94725
-V15.6 inches
+V15.6in
 p94726
 sS'processor speed'
 p94727
@@ -203617,7 +203617,7 @@ V32 GB
 p94763
 sS'screen size'
 p94764
-V17.3 inches
+V17.3in
 p94765
 sS'processor speed'
 p94766
@@ -203701,7 +203701,7 @@ V4 GB
 p94803
 sS'screen size'
 p94804
-V15.6 inches
+V15.6in
 p94805
 sS'processor speed'
 p94806
@@ -203786,7 +203786,7 @@ V8 GB
 p94844
 sS'screen size'
 p94845
-V12.5 inches
+V12.5in
 p94846
 sS'processor speed'
 p94847
@@ -203869,7 +203869,7 @@ V16 GB
 p94883
 sS'screen size'
 p94884
-V15.6 inches
+V15.6in
 p94885
 sS'processor speed'
 p94886
@@ -203947,7 +203947,7 @@ V8 GB
 p94917
 sS'screen size'
 p94918
-V15.6 inches
+V15.6in
 p94919
 sS'processor speed'
 p94920
@@ -204027,7 +204027,7 @@ V4 GB
 p94953
 sS'screen size'
 p94954
-V15.6 inches
+V15.6in
 p94955
 sS'processor speed'
 p94956
@@ -204111,7 +204111,7 @@ V12 GB
 p94993
 sS'screen size'
 p94994
-V15.6 inches
+V15.6in
 p94995
 sS'processor speed'
 p94996
@@ -204195,7 +204195,7 @@ V8 GB
 p95033
 sS'screen size'
 p95034
-V15.6 inches
+V15.6in
 p95035
 sS'processor speed'
 p95036
@@ -204278,7 +204278,7 @@ V8 GB
 p95072
 sS'screen size'
 p95073
-V15.6 inches
+V15.6in
 p95074
 sS'processor speed'
 p95075
@@ -204362,7 +204362,7 @@ V8 GB
 p95112
 sS'screen size'
 p95113
-V15.6 inches
+V15.6in
 p95114
 sS'processor speed'
 p95115
@@ -204445,7 +204445,7 @@ V8 GB
 p95151
 sS'screen size'
 p95152
-V15.6 inches
+V15.6in
 p95153
 sS'processor speed'
 p95154
@@ -204528,7 +204528,7 @@ V4 GB
 p95190
 sS'screen size'
 p95191
-V15.6 inches
+V15.6in
 p95192
 sS'processor speed'
 p95193
@@ -204611,7 +204611,7 @@ V8 GB
 p95229
 sS'screen size'
 p95230
-V14 inches
+V14in
 p95231
 sS'processor speed'
 p95232
@@ -204694,7 +204694,7 @@ V16 GB
 p95268
 sS'screen size'
 p95269
-V15.6 inches
+V15.6in
 p95270
 sS'processor speed'
 p95271
@@ -204776,7 +204776,7 @@ V32 GB
 p95306
 sS'screen size'
 p95307
-V14 inches
+V14in
 p95308
 sS'processor speed'
 p95309
@@ -204859,7 +204859,7 @@ V8 GB
 p95345
 sS'screen size'
 p95346
-V15.6 inches
+V15.6in
 p95347
 sS'processor speed'
 p95348
@@ -204943,7 +204943,7 @@ V8 GB
 p95385
 sS'screen size'
 p95386
-V13.3 inches
+V13.3in
 p95387
 sS'processor speed'
 p95388
@@ -205021,7 +205021,7 @@ V16 GB
 p95419
 sS'screen size'
 p95420
-V15.6 in
+V15.6in
 p95421
 sS'processor speed'
 p95422
@@ -205102,7 +205102,7 @@ V8 GB
 p95456
 sS'screen size'
 p95457
-V15.6 inches
+V15.6in
 p95458
 sS'processor speed'
 p95459
@@ -205184,7 +205184,7 @@ V6 GB
 p95494
 sS'screen size'
 p95495
-V11.6 inches
+V11.6in
 p95496
 sS'processor speed'
 p95497
@@ -205269,7 +205269,7 @@ V8 GB
 p95535
 sS'screen size'
 p95536
-V14 inches
+V14in
 p95537
 sS'processor speed'
 p95538
@@ -205350,7 +205350,7 @@ V8 GB
 p95572
 sS'screen size'
 p95573
-V13 inches
+V13in
 p95574
 sS'processor speed'
 p95575
@@ -205429,7 +205429,7 @@ V8 GB
 p95607
 sS'screen size'
 p95608
-V15.6 inches
+V15.6in
 p95609
 sS'processor speed'
 p95610
@@ -205512,7 +205512,7 @@ V12 GB
 p95646
 sS'screen size'
 p95647
-V15.6 inches
+V15.6in
 p95648
 sS'processor speed'
 p95649
@@ -205592,7 +205592,7 @@ V8 GB
 p95682
 sS'screen size'
 p95683
-V14 inches
+V14in
 p95684
 sS'processor speed'
 p95685
@@ -205676,7 +205676,7 @@ V4 MB
 p95722
 sS'screen size'
 p95723
-V11.6 inches
+V11.6in
 p95724
 sS'processor speed'
 p95725
@@ -205758,7 +205758,7 @@ V8 GB
 p95760
 sS'screen size'
 p95761
-V12.5 inches
+V12.5in
 p95762
 sS'processor speed'
 p95763
@@ -205840,7 +205840,7 @@ V0 GB
 p95798
 sS'screen size'
 p95799
-V14 inches
+V14in
 p95800
 sS'processor speed'
 p95801
@@ -205923,7 +205923,7 @@ V32 GB
 p95837
 sS'screen size'
 p95838
-V14 inches
+V14in
 p95839
 sS'processor speed'
 p95840
@@ -206006,7 +206006,7 @@ V8 TB
 p95876
 sS'screen size'
 p95877
-V13.3 inches
+V13.3in
 p95878
 sS'processor speed'
 p95879
@@ -206088,7 +206088,7 @@ V8 GB
 p95914
 sS'screen size'
 p95915
-V17.3 inches
+V17.3in
 p95916
 sS'processor speed'
 p95917
@@ -206170,7 +206170,7 @@ V4 GB
 p95952
 sS'screen size'
 p95953
-V14 inches
+V14in
 p95954
 sS'processor speed'
 p95955
@@ -206252,7 +206252,7 @@ V12 GB
 p95990
 sS'screen size'
 p95991
-V15.6 inches
+V15.6in
 p95992
 sS'processor speed'
 p95993
@@ -206335,7 +206335,7 @@ V32 GB
 p96029
 sS'screen size'
 p96030
-V17.3 inches
+V17.3in
 p96031
 sS'processor speed'
 p96032
@@ -206419,7 +206419,7 @@ V4 GB
 p96069
 sS'screen size'
 p96070
-V11.6 inches
+V11.6in
 p96071
 sS'processor speed'
 p96072
@@ -206499,7 +206499,7 @@ V8 GB
 p96105
 sS'screen size'
 p96106
-V15.6 inches
+V15.6in
 p96107
 sS'processor speed'
 p96108
@@ -206582,7 +206582,7 @@ V4 GB
 p96144
 sS'screen size'
 p96145
-V15.6 inches
+V15.6in
 p96146
 sS'processor speed'
 p96147
@@ -206665,7 +206665,7 @@ V2 GB
 p96183
 sS'screen size'
 p96184
-V14.1 inches
+V14.1in
 p96185
 sS'processor speed'
 p96186
@@ -206746,7 +206746,7 @@ V16 GB
 p96220
 sS'screen size'
 p96221
-V13.3 inches
+V13.3in
 p96222
 sS'processor speed'
 p96223
@@ -206830,7 +206830,7 @@ V2 GB
 p96260
 sS'screen size'
 p96261
-V14 inches
+V14in
 p96262
 sS'processor speed'
 p96263
@@ -206911,7 +206911,7 @@ V8 GB
 p96297
 sS'screen size'
 p96298
-V13.3 inches
+V13.3in
 p96299
 sS'processor speed'
 p96300
@@ -206995,7 +206995,7 @@ V16 GB
 p96337
 sS'screen size'
 p96338
-V17.3 inches
+V17.3in
 p96339
 sS'processor speed'
 p96340
@@ -207078,7 +207078,7 @@ V2 GB
 p96376
 sS'screen size'
 p96377
-V14 inches
+V14in
 p96378
 sS'processor speed'
 p96379
@@ -207157,7 +207157,7 @@ V8 GB
 p96411
 sS'screen size'
 p96412
-V15.6 inches
+V15.6in
 p96413
 sS'processor speed'
 p96414
@@ -207236,7 +207236,7 @@ V8 GB
 p96446
 sS'screen size'
 p96447
-V13.1 inches
+V13.1in
 p96448
 sS'processor speed'
 p96449
@@ -207320,7 +207320,7 @@ V32 GB
 p96486
 sS'screen size'
 p96487
-V13.3 inches
+V13.3in
 p96488
 sS'processor speed'
 p96489
@@ -207400,7 +207400,7 @@ V8 GB
 p96522
 sS'screen size'
 p96523
-V17.3 inches
+V17.3in
 p96524
 sS'processor speed'
 p96525
@@ -207485,7 +207485,7 @@ V8 GB
 p96563
 sS'screen size'
 p96564
-V15.6 inches
+V15.6in
 p96565
 sS'processor speed'
 p96566
@@ -207567,7 +207567,7 @@ V16 GB
 p96601
 sS'screen size'
 p96602
-V15.6 inches
+V15.6in
 p96603
 sS'processor speed'
 p96604
@@ -207647,7 +207647,7 @@ V0 GB
 p96637
 sS'screen size'
 p96638
-V15.6 inches
+V15.6in
 p96639
 sS'processor speed'
 p96640
@@ -207728,7 +207728,7 @@ V8 GB
 p96674
 sS'screen size'
 p96675
-V15.6 inches
+V15.6in
 p96676
 sS'processor speed'
 p96677
@@ -207809,7 +207809,7 @@ V4 GB
 p96711
 sS'screen size'
 p96712
-V14 inches
+V14in
 p96713
 sS'processor speed'
 p96714
@@ -207889,7 +207889,7 @@ V16 GB
 p96747
 sS'screen size'
 p96748
-V14 in
+V14in
 p96749
 sS'processor speed'
 p96750
@@ -207972,7 +207972,7 @@ V16 GB
 p96786
 sS'screen size'
 p96787
-V15.6 inches
+V15.6in
 p96788
 sS'processor speed'
 p96789
@@ -208056,7 +208056,7 @@ V4 GB
 p96826
 sS'screen size'
 p96827
-V15 inches
+V15in
 p96828
 sS'processor speed'
 p96829
@@ -208138,7 +208138,7 @@ V8 GB
 p96864
 sS'screen size'
 p96865
-V14 inches
+V14in
 p96866
 sS'processor speed'
 p96867
@@ -208221,7 +208221,7 @@ V32 GB
 p96903
 sS'screen size'
 p96904
-V15.6 inches
+V15.6in
 p96905
 sS'processor speed'
 p96906
@@ -208299,7 +208299,7 @@ V8 GB
 p96937
 sS'screen size'
 p96938
-V15.6 in
+V15.6in
 p96939
 sS'processor speed'
 p96940
@@ -208379,7 +208379,7 @@ V4 GB
 p96973
 sS'screen size'
 p96974
-V13.3 in
+V13.3in
 p96975
 sS'processor speed'
 p96976
@@ -208460,7 +208460,7 @@ V16 GB
 p97010
 sS'screen size'
 p97011
-V15.6 inches
+V15.6in
 p97012
 sS'processor speed'
 p97013
@@ -208540,7 +208540,7 @@ V16 GB
 p97046
 sS'screen size'
 p97047
-V13.3 inches
+V13.3in
 p97048
 sS'processor speed'
 p97049
@@ -208620,7 +208620,7 @@ V32 GB
 p97082
 sS'screen size'
 p97083
-V15.6 in
+V15.6in
 p97084
 sS'processor speed'
 p97085
@@ -208703,7 +208703,7 @@ V4 GB
 p97121
 sS'screen size'
 p97122
-V11.6 inches
+V11.6in
 p97123
 sS'processor speed'
 p97124
@@ -208782,7 +208782,7 @@ V16 GB
 p97156
 sS'screen size'
 p97157
-V17.3 in
+V17.3in
 p97158
 sS'processor speed'
 p97159
@@ -208865,7 +208865,7 @@ V0 GB
 p97195
 sS'screen size'
 p97196
-V15.6 inches
+V15.6in
 p97197
 sS'processor speed'
 p97198
@@ -208949,7 +208949,7 @@ V4 GB
 p97235
 sS'screen size'
 p97236
-V11.6 inches
+V11.6in
 p97237
 sS'processor speed'
 p97238
@@ -209028,7 +209028,7 @@ V16 GB
 p97270
 sS'screen size'
 p97271
-V17.3 inches
+V17.3in
 p97272
 sS'processor speed'
 p97273
@@ -209111,7 +209111,7 @@ V32 GB
 p97309
 sS'screen size'
 p97310
-V17.3 inches
+V17.3in
 p97311
 sS'processor speed'
 p97312
@@ -209196,7 +209196,7 @@ V8 GB
 p97350
 sS'screen size'
 p97351
-V15.6 inches
+V15.6in
 p97352
 sS'processor speed'
 p97353
@@ -209274,7 +209274,7 @@ V12 GB
 p97384
 sS'screen size'
 p97385
-V15.6 in
+V15.6in
 p97386
 sS'processor speed'
 p97387
@@ -209357,7 +209357,7 @@ V4 GB
 p97423
 sS'screen size'
 p97424
-V15 inches
+V15in
 p97425
 sS'processor speed'
 p97426
@@ -209440,7 +209440,7 @@ V8 GB
 p97462
 sS'screen size'
 p97463
-V14 millimeters
+V14in
 p97464
 sS'processor speed'
 p97465
@@ -209522,7 +209522,7 @@ V4 GB
 p97500
 sS'screen size'
 p97501
-V17.3 inches
+V17.3in
 p97502
 sS'processor speed'
 p97503
@@ -209607,7 +209607,7 @@ V16 GB
 p97541
 sS'screen size'
 p97542
-V17.3 inches
+V17.3in
 p97543
 sS'processor speed'
 p97544
@@ -209686,7 +209686,7 @@ V8 GB
 p97576
 sS'screen size'
 p97577
-V15.6 inches
+V15.6in
 p97578
 sS'processor speed'
 p97579
@@ -209769,7 +209769,7 @@ V8 GB
 p97615
 sS'screen size'
 p97616
-V17.3 inches
+V17.3in
 p97617
 sS'processor speed'
 p97618
@@ -209852,7 +209852,7 @@ V16 GB
 p97654
 sS'screen size'
 p97655
-V15.6 inches
+V15.6in
 p97656
 sS'processor speed'
 p97657
@@ -209934,7 +209934,7 @@ V0 GB
 p97692
 sS'screen size'
 p97693
-V13.3 inches
+V13.3in
 p97694
 sS'processor speed'
 p97695
@@ -210015,7 +210015,7 @@ V0 GB
 p97729
 sS'screen size'
 p97730
-V15.6 inches
+V15.6in
 p97731
 sS'processor speed'
 p97732
@@ -210096,7 +210096,7 @@ V12 GB
 p97766
 sS'screen size'
 p97767
-V15.6 inches
+V15.6in
 p97768
 sS'processor speed'
 p97769
@@ -210176,7 +210176,7 @@ V4 GB
 p97802
 sS'screen size'
 p97803
-V13.3 inches
+V13.3in
 p97804
 sS'processor speed'
 p97805
@@ -210259,7 +210259,7 @@ V16 GB
 p97841
 sS'screen size'
 p97842
-V13.3 inches
+V13.3in
 p97843
 sS'processor speed'
 p97844
@@ -210340,7 +210340,7 @@ V8 GB
 p97878
 sS'screen size'
 p97879
-V14 inches
+V14in
 p97880
 sS'processor speed'
 p97881
@@ -210419,7 +210419,7 @@ V16 GB
 p97913
 sS'screen size'
 p97914
-V15.6 inches
+V15.6in
 p97915
 sS'processor speed'
 p97916
@@ -210500,7 +210500,7 @@ V8 GB
 p97950
 sS'screen size'
 p97951
-V15.6 in
+V15.6in
 p97952
 sS'processor speed'
 p97953
@@ -210581,7 +210581,7 @@ V4 GB
 p97987
 sS'screen size'
 p97988
-V13.3 inches
+V13.3in
 p97989
 sS'processor speed'
 p97990
@@ -210664,7 +210664,7 @@ V16 GB
 p98026
 sS'screen size'
 p98027
-V17.3 inches
+V17.3in
 p98028
 sS'processor speed'
 p98029
@@ -210747,7 +210747,7 @@ V16 GB
 p98065
 sS'screen size'
 p98066
-V17.3 inches
+V17.3in
 p98067
 sS'processor speed'
 p98068
@@ -210828,7 +210828,7 @@ V32 GB
 p98102
 sS'screen size'
 p98103
-V15.6 inches
+V15.6in
 p98104
 sS'processor speed'
 p98105
@@ -210912,7 +210912,7 @@ V16 GB
 p98142
 sS'screen size'
 p98143
-V13 inches
+V13in
 p98144
 sS'processor speed'
 p98145
@@ -210994,7 +210994,7 @@ V16 GB
 p98180
 sS'screen size'
 p98181
-V15.6 inches
+V15.6in
 p98182
 sS'processor speed'
 p98183
@@ -211079,7 +211079,7 @@ V4 GB
 p98221
 sS'screen size'
 p98222
-V15 inches
+V15in
 p98223
 sS'processor speed'
 p98224
@@ -211158,7 +211158,7 @@ V8 GB
 p98256
 sS'screen size'
 p98257
-V13.1 inches
+V13.1in
 p98258
 sS'processor speed'
 p98259
@@ -211240,7 +211240,7 @@ V2 GB
 p98294
 sS'screen size'
 p98295
-V11.2 inches
+V11.2in
 p98296
 sS'processor speed'
 p98297
@@ -211320,7 +211320,7 @@ V0.8 GB
 p98330
 sS'screen size'
 p98331
-V11.6 inches
+V11.6in
 p98332
 sS'processor speed'
 p98333
@@ -211403,7 +211403,7 @@ V8 GB
 p98369
 sS'screen size'
 p98370
-V15.6 inches
+V15.6in
 p98371
 sS'processor speed'
 p98372
@@ -211486,7 +211486,7 @@ V16 GB
 p98408
 sS'screen size'
 p98409
-V15.6 inches
+V15.6in
 p98410
 sS'processor speed'
 p98411
@@ -211569,7 +211569,7 @@ V12 GB
 p98447
 sS'screen size'
 p98448
-V15.6 inches
+V15.6in
 p98449
 sS'processor speed'
 p98450
@@ -211651,7 +211651,7 @@ V16 GB
 p98485
 sS'screen size'
 p98486
-V13.3 inches
+V13.3in
 p98487
 sS'processor speed'
 p98488
@@ -211736,7 +211736,7 @@ V4 GB
 p98526
 sS'screen size'
 p98527
-V11.6 inches
+V11.6in
 p98528
 sS'processor speed'
 p98529
@@ -211816,7 +211816,7 @@ V16 GB
 p98562
 sS'screen size'
 p98563
-V15.6 inches
+V15.6in
 p98564
 sS'processor speed'
 p98565
@@ -211897,7 +211897,7 @@ V4 GB
 p98599
 sS'screen size'
 p98600
-V11.6 inches
+V11.6in
 p98601
 sS'processor speed'
 p98602
@@ -211981,7 +211981,7 @@ V8 GB
 p98639
 sS'screen size'
 p98640
-V12.5 inches
+V12.5in
 p98641
 sS'processor speed'
 p98642
@@ -212063,7 +212063,7 @@ V0 GB
 p98677
 sS'screen size'
 p98678
-V15.6 inches
+V15.6in
 p98679
 sS'processor speed'
 p98680
@@ -212146,7 +212146,7 @@ V6 GB
 p98716
 sS'screen size'
 p98717
-V15.6 inches
+V15.6in
 p98718
 sS'processor speed'
 p98719
@@ -212229,7 +212229,7 @@ V16 GB
 p98755
 sS'screen size'
 p98756
-V18.4 inches
+V18.4in
 p98757
 sS'processor speed'
 p98758
@@ -212313,7 +212313,7 @@ V2 GB
 p98795
 sS'screen size'
 p98796
-V11.6 inches
+V11.6in
 p98797
 sS'processor speed'
 p98798
@@ -212397,7 +212397,7 @@ V16 GB
 p98835
 sS'screen size'
 p98836
-V17.3 inches
+V17.3in
 p98837
 sS'processor speed'
 p98838
@@ -212478,7 +212478,7 @@ V16 GB
 p98872
 sS'screen size'
 p98873
-V15.6 inches
+V15.6in
 p98874
 sS'processor speed'
 p98875
@@ -212561,7 +212561,7 @@ V6 GB
 p98911
 sS'screen size'
 p98912
-V11.6 inches
+V11.6in
 p98913
 sS'processor speed'
 p98914
@@ -212644,7 +212644,7 @@ V32 GB
 p98950
 sS'screen size'
 p98951
-V15.6 inches
+V15.6in
 p98952
 sS'processor speed'
 p98953
@@ -212726,7 +212726,7 @@ V16 GB
 p98988
 sS'screen size'
 p98989
-V15.4 inches
+V15.4in
 p98990
 sS'processor speed'
 p98991
@@ -212809,7 +212809,7 @@ V4 GB
 p99027
 sS'screen size'
 p99028
-V17.3 inches
+V17.3in
 p99029
 sS'processor speed'
 p99030
@@ -212892,7 +212892,7 @@ V4 GB
 p99066
 sS'screen size'
 p99067
-V12.5 inches
+V12.5in
 p99068
 sS'processor speed'
 p99069
@@ -212970,7 +212970,7 @@ V0 GB
 p99100
 sS'screen size'
 p99101
-V13.3 in
+V13.3in
 p99102
 sS'processor speed'
 p99103
@@ -213054,7 +213054,7 @@ V2 GB
 p99140
 sS'screen size'
 p99141
-V15.6 inches
+V15.6in
 p99142
 sS'processor speed'
 p99143
@@ -213134,7 +213134,7 @@ V8 GB
 p99176
 sS'screen size'
 p99177
-V17.3 inches
+V17.3in
 p99178
 sS'processor speed'
 p99179
@@ -213215,7 +213215,7 @@ V64 GB
 p99213
 sS'screen size'
 p99214
-V15.6 in
+V15.6in
 p99215
 sS'processor speed'
 p99216
@@ -213297,7 +213297,7 @@ V32 GB
 p99251
 sS'screen size'
 p99252
-V17.3 inches
+V17.3in
 p99253
 sS'processor speed'
 p99254
@@ -213378,7 +213378,7 @@ V4 GB
 p99288
 sS'screen size'
 p99289
-V15.6 inches
+V15.6in
 p99290
 sS'processor speed'
 p99291
@@ -213459,7 +213459,7 @@ V8 GB
 p99325
 sS'screen size'
 p99326
-V12.5 inches
+V12.5in
 p99327
 sS'processor speed'
 p99328
@@ -213539,7 +213539,7 @@ V0 GB
 p99361
 sS'screen size'
 p99362
-V15.6 inches
+V15.6in
 p99363
 sS'processor speed'
 p99364
@@ -213623,7 +213623,7 @@ V4 GB
 p99401
 sS'screen size'
 p99402
-V14.1 inches
+V14.1in
 p99403
 sS'processor speed'
 p99404
@@ -213707,7 +213707,7 @@ V0 GB
 p99441
 sS'screen size'
 p99442
-V15.6 inches
+V15.6in
 p99443
 sS'processor speed'
 p99444
@@ -213791,7 +213791,7 @@ V8 GB
 p99481
 sS'screen size'
 p99482
-V14 inches
+V14in
 p99483
 sS'processor speed'
 p99484
@@ -213872,7 +213872,7 @@ V8 GB
 p99518
 sS'screen size'
 p99519
-V13.3 inches
+V13.3in
 p99520
 sS'processor speed'
 p99521
@@ -213955,7 +213955,7 @@ V8 GB
 p99557
 sS'screen size'
 p99558
-V13.3 inches
+V13.3in
 p99559
 sS'processor speed'
 p99560
@@ -214038,7 +214038,7 @@ V8 GB
 p99596
 sS'screen size'
 p99597
-V15.6 inches
+V15.6in
 p99598
 sS'processor speed'
 p99599
@@ -214120,7 +214120,7 @@ V8 GB
 p99634
 sS'screen size'
 p99635
-V15.6 inches
+V15.6in
 p99636
 sS'processor speed'
 p99637
@@ -214202,7 +214202,7 @@ V0 GB
 p99672
 sS'screen size'
 p99673
-V14 inches
+V14in
 p99674
 sS'processor speed'
 p99675
@@ -214282,7 +214282,7 @@ V8 GB
 p99708
 sS'screen size'
 p99709
-V15.6 inches
+V15.6in
 p99710
 sS'processor speed'
 p99711
@@ -214365,7 +214365,7 @@ V32 GB
 p99747
 sS'screen size'
 p99748
-V17.3 inches
+V17.3in
 p99749
 sS'processor speed'
 p99750
@@ -214448,7 +214448,7 @@ V4 GB
 p99786
 sS'screen size'
 p99787
-V15.6 inches
+V15.6in
 p99788
 sS'processor speed'
 p99789
@@ -214533,7 +214533,7 @@ V4 GB
 p99827
 sS'screen size'
 p99828
-V15.6 inches
+V15.6in
 p99829
 sS'processor speed'
 p99830
@@ -214618,7 +214618,7 @@ V4 GB
 p99868
 sS'screen size'
 p99869
-V14 inches
+V14in
 p99870
 sS'processor speed'
 p99871
@@ -214699,7 +214699,7 @@ V4 GB
 p99905
 sS'screen size'
 p99906
-V11.6 inches
+V11.6in
 p99907
 sS'processor speed'
 p99908
@@ -214782,7 +214782,7 @@ V12 GB
 p99944
 sS'screen size'
 p99945
-V14 inches
+V14in
 p99946
 sS'processor speed'
 p99947
@@ -214867,7 +214867,7 @@ V16 GB
 p99985
 sS'screen size'
 p99986
-V17.3 inches
+V17.3in
 p99987
 sS'processor speed'
 p99988
@@ -214952,7 +214952,7 @@ V2 GB
 p100026
 sS'screen size'
 p100027
-V11.6 inches
+V11.6in
 p100028
 sS'processor speed'
 p100029
@@ -215034,7 +215034,7 @@ V4 GB
 p100064
 sS'screen size'
 p100065
-V15.6 inches
+V15.6in
 p100066
 sS'processor speed'
 p100067
@@ -215115,7 +215115,7 @@ V4 GB
 p100101
 sS'screen size'
 p100102
-V15.6 inches
+V15.6in
 p100103
 sS'processor speed'
 p100104
@@ -215200,7 +215200,7 @@ V4 GB
 p100142
 sS'screen size'
 p100143
-V14 inches
+V14in
 p100144
 sS'processor speed'
 p100145
@@ -215282,7 +215282,7 @@ V2 GB
 p100180
 sS'screen size'
 p100181
-V14 inches
+V14in
 p100182
 sS'processor speed'
 p100183
@@ -215365,7 +215365,7 @@ V16 GB
 p100219
 sS'screen size'
 p100220
-V17.3 inches
+V17.3in
 p100221
 sS'processor speed'
 p100222
@@ -215449,7 +215449,7 @@ V4 GB
 p100259
 sS'screen size'
 p100260
-V13.3 inches
+V13.3in
 p100261
 sS'processor speed'
 p100262
@@ -215531,7 +215531,7 @@ V8 GB
 p100297
 sS'screen size'
 p100298
-V17.3 inches
+V17.3in
 p100299
 sS'processor speed'
 p100300
@@ -215613,7 +215613,7 @@ V8 GB
 p100335
 sS'screen size'
 p100336
-V15.6 inches
+V15.6in
 p100337
 sS'processor speed'
 p100338
@@ -215695,7 +215695,7 @@ V16 GB
 p100373
 sS'screen size'
 p100374
-V17.3 inches
+V17.3in
 p100375
 sS'processor speed'
 p100376
@@ -215776,7 +215776,7 @@ V8 GB
 p100410
 sS'screen size'
 p100411
-V15.6 inches
+V15.6in
 p100412
 sS'processor speed'
 p100413
@@ -215860,7 +215860,7 @@ V4 GB
 p100450
 sS'screen size'
 p100451
-V16 inches
+V16in
 p100452
 sS'processor speed'
 p100453
@@ -215941,7 +215941,7 @@ V64 GB
 p100487
 sS'screen size'
 p100488
-V15.6 in
+V15.6in
 p100489
 sS'processor speed'
 p100490
@@ -216025,7 +216025,7 @@ V6 GB
 p100527
 sS'screen size'
 p100528
-V15 inches
+V15in
 p100529
 sS'processor speed'
 p100530
@@ -216109,7 +216109,7 @@ V8 GB
 p100567
 sS'screen size'
 p100568
-V17.3 inches
+V17.3in
 p100569
 sS'processor speed'
 p100570
@@ -216185,7 +216185,7 @@ V8 GB
 p100599
 sS'screen size'
 p100600
-V13.3 inches
+V13.3in
 p100601
 sS'processor speed'
 p100602
@@ -216267,7 +216267,7 @@ V4 GB
 p100637
 sS'screen size'
 p100638
-V15.6 inches
+V15.6in
 p100639
 sS'processor speed'
 p100640
@@ -216350,7 +216350,7 @@ V16 GB
 p100676
 sS'screen size'
 p100677
-V17.3 inches
+V17.3in
 p100678
 sS'processor speed'
 p100679
@@ -216427,7 +216427,7 @@ V8 GB
 p100709
 sS'screen size'
 p100710
-V15.6 in
+V15.6in
 p100711
 sS'processor speed'
 p100712
@@ -216507,7 +216507,7 @@ V4 GB
 p100745
 sS'screen size'
 p100746
-V14 inches
+V14in
 p100747
 sS'processor speed'
 p100748
@@ -216592,7 +216592,7 @@ V8 GB
 p100786
 sS'screen size'
 p100787
-V14 inches
+V14in
 p100788
 sS'processor speed'
 p100789
@@ -216672,7 +216672,7 @@ V4 GB
 p100822
 sS'screen size'
 p100823
-V13.3 in
+V13.3in
 p100824
 sS'processor speed'
 p100825
@@ -216755,7 +216755,7 @@ V16 GB
 p100861
 sS'screen size'
 p100862
-V17.3 inches
+V17.3in
 p100863
 sS'processor speed'
 p100864
@@ -216837,7 +216837,7 @@ V0 GB
 p100899
 sS'screen size'
 p100900
-V15.6 inches
+V15.6in
 p100901
 sS'processor speed'
 p100902
@@ -216921,7 +216921,7 @@ V16 GB
 p100939
 sS'screen size'
 p100940
-V17 inches
+V17in
 p100941
 sS'processor speed'
 p100942
@@ -216999,7 +216999,7 @@ V16 GB
 p100973
 sS'screen size'
 p100974
-V15.6 in
+V15.6in
 p100975
 sS'processor speed'
 p100976
@@ -217081,7 +217081,7 @@ V8 GB
 p101011
 sS'screen size'
 p101012
-V15.6 inches
+V15.6in
 p101013
 sS'processor speed'
 p101014
@@ -217165,7 +217165,7 @@ V16 GB
 p101051
 sS'screen size'
 p101052
-V13.3 inches
+V13.3in
 p101053
 sS'processor speed'
 p101054
@@ -217248,7 +217248,7 @@ V32 GB
 p101090
 sS'screen size'
 p101091
-V17.3 inches
+V17.3in
 p101092
 sS'processor speed'
 p101093
@@ -217330,7 +217330,7 @@ V4 GB
 p101128
 sS'screen size'
 p101129
-V15.6 inches
+V15.6in
 p101130
 sS'processor speed'
 p101131
@@ -217412,7 +217412,7 @@ V16 GB
 p101166
 sS'screen size'
 p101167
-V13.3 inches
+V13.3in
 p101168
 sS'processor speed'
 p101169
@@ -217494,7 +217494,7 @@ V6 GB
 p101204
 sS'screen size'
 p101205
-V15.6 inches
+V15.6in
 p101206
 sS'processor speed'
 p101207
@@ -217577,7 +217577,7 @@ V4 GB
 p101243
 sS'screen size'
 p101244
-V14 inches
+V14in
 p101245
 sS'processor speed'
 p101246
@@ -217660,7 +217660,7 @@ V16 GB
 p101282
 sS'screen size'
 p101283
-V17.3 inches
+V17.3in
 p101284
 sS'processor speed'
 p101285
@@ -217743,7 +217743,7 @@ V8 GB
 p101321
 sS'screen size'
 p101322
-V15.6 inches
+V15.6in
 p101323
 sS'processor speed'
 p101324
@@ -217826,7 +217826,7 @@ V2 GB
 p101360
 sS'screen size'
 p101361
-V10.1 inches
+V10.1in
 p101362
 sS'processor speed'
 p101363
@@ -217909,7 +217909,7 @@ V16 GB
 p101399
 sS'screen size'
 p101400
-V14 inches
+V14in
 p101401
 sS'processor speed'
 p101402
@@ -217990,7 +217990,7 @@ V8 GB
 p101436
 sS'screen size'
 p101437
-V17.3 inches
+V17.3in
 p101438
 sS'processor speed'
 p101439
@@ -218073,7 +218073,7 @@ V32 GB
 p101475
 sS'screen size'
 p101476
-V17.3 inches
+V17.3in
 p101477
 sS'processor speed'
 p101478
@@ -218152,7 +218152,7 @@ V16 GB
 p101510
 sS'screen size'
 p101511
-V15 inches
+V15in
 p101512
 sS'processor speed'
 p101513
@@ -218231,7 +218231,7 @@ V16 GB
 p101545
 sS'screen size'
 p101546
-V15.6 inches
+V15.6in
 p101547
 sS'processor speed'
 p101548
@@ -218309,7 +218309,7 @@ V8 GB
 p101579
 sS'screen size'
 p101580
-V14 inches
+V14in
 p101581
 sS'processor speed'
 p101582
@@ -218392,7 +218392,7 @@ V12 GB
 p101618
 sS'screen size'
 p101619
-V15.6 inches
+V15.6in
 p101620
 sS'processor speed'
 p101621
@@ -218474,7 +218474,7 @@ V8 GB
 p101656
 sS'screen size'
 p101657
-V14 inches
+V14in
 p101658
 sS'processor speed'
 p101659
@@ -218556,7 +218556,7 @@ V32 GB
 p101694
 sS'screen size'
 p101695
-V17.3 inches
+V17.3in
 p101696
 sS'processor speed'
 p101697
@@ -218641,7 +218641,7 @@ V8 GB
 p101735
 sS'screen size'
 p101736
-V15.6 inches
+V15.6in
 p101737
 sS'processor speed'
 p101738
@@ -218726,7 +218726,7 @@ V6 GB
 p101776
 sS'screen size'
 p101777
-V15.6 inches
+V15.6in
 p101778
 sS'processor speed'
 p101779
@@ -218811,7 +218811,7 @@ V8 GB
 p101817
 sS'screen size'
 p101818
-V13.3 inches
+V13.3in
 p101819
 sS'processor speed'
 p101820
@@ -218896,7 +218896,7 @@ V4 GB
 p101858
 sS'screen size'
 p101859
-V15.6 inches
+V15.6in
 p101860
 sS'processor speed'
 p101861
@@ -218979,7 +218979,7 @@ V8 GB
 p101897
 sS'screen size'
 p101898
-V15.6 inches
+V15.6in
 p101899
 sS'processor speed'
 p101900
@@ -219062,7 +219062,7 @@ V32 GB
 p101936
 sS'screen size'
 p101937
-V14 inches
+V14in
 p101938
 sS'processor speed'
 p101939
@@ -219145,7 +219145,7 @@ V16 GB
 p101975
 sS'screen size'
 p101976
-V15.6 inches
+V15.6in
 p101977
 sS'processor speed'
 p101978
@@ -219230,7 +219230,7 @@ V6 GB
 p102016
 sS'screen size'
 p102017
-V15.6 inches
+V15.6in
 p102018
 sS'processor speed'
 p102019
@@ -219312,7 +219312,7 @@ V0 GB
 p102054
 sS'screen size'
 p102055
-V15.6 inches
+V15.6in
 p102056
 sS'processor speed'
 p102057
@@ -219396,7 +219396,7 @@ V8 GB
 p102094
 sS'screen size'
 p102095
-V14 inches
+V14in
 p102096
 sS'processor speed'
 p102097
@@ -219479,7 +219479,7 @@ V6 GB
 p102133
 sS'screen size'
 p102134
-V17.3 inches
+V17.3in
 p102135
 sS'processor speed'
 p102136
@@ -219562,7 +219562,7 @@ V8 GB
 p102172
 sS'screen size'
 p102173
-V13.3 inches
+V13.3in
 p102174
 sS'processor speed'
 p102175
@@ -219647,7 +219647,7 @@ V8 GB
 p102213
 sS'screen size'
 p102214
-V13.3 inches
+V13.3in
 p102215
 sS'processor speed'
 p102216
@@ -219730,7 +219730,7 @@ V12 GB
 p102252
 sS'screen size'
 p102253
-V15.6 inches
+V15.6in
 p102254
 sS'processor speed'
 p102255
@@ -219811,7 +219811,7 @@ V32 GB
 p102289
 sS'screen size'
 p102290
-V15.6 in
+V15.6in
 p102291
 sS'processor speed'
 p102292
@@ -219891,7 +219891,7 @@ V16 GB
 p102325
 sS'screen size'
 p102326
-V15.6 in
+V15.6in
 p102327
 sS'processor speed'
 p102328
@@ -219976,7 +219976,7 @@ V12 GB
 p102366
 sS'screen size'
 p102367
-V15.6 inches
+V15.6in
 p102368
 sS'processor speed'
 p102369
@@ -220059,7 +220059,7 @@ V2 GB
 p102405
 sS'screen size'
 p102406
-V11.6 inches
+V11.6in
 p102407
 sS'processor speed'
 p102408
@@ -220140,7 +220140,7 @@ V0 GB
 p102442
 sS'screen size'
 p102443
-V15.6 inches
+V15.6in
 p102444
 sS'processor speed'
 p102445
@@ -220221,7 +220221,7 @@ V20 GB
 p102479
 sS'screen size'
 p102480
-V17.3 inches
+V17.3in
 p102481
 sS'processor speed'
 p102482
@@ -220301,7 +220301,7 @@ V16 GB
 p102515
 sS'screen size'
 p102516
-V17.3 inches
+V17.3in
 p102517
 sS'processor speed'
 p102518
@@ -220384,7 +220384,7 @@ V6 GB
 p102554
 sS'screen size'
 p102555
-V15.6 inches
+V15.6in
 p102556
 sS'processor speed'
 p102557
@@ -220469,7 +220469,7 @@ V4 GB
 p102595
 sS'screen size'
 p102596
-V14 inches
+V14in
 p102597
 sS'processor speed'
 p102598
@@ -220553,7 +220553,7 @@ V16 GB
 p102635
 sS'screen size'
 p102636
-V15.6 inches
+V15.6in
 p102637
 sS'processor speed'
 p102638
@@ -220636,7 +220636,7 @@ V16 GB
 p102674
 sS'screen size'
 p102675
-V17.3 inches
+V17.3in
 p102676
 sS'processor speed'
 p102677
@@ -220720,7 +220720,7 @@ V8 GB
 p102714
 sS'screen size'
 p102715
-V15.6 inches
+V15.6in
 p102716
 sS'processor speed'
 p102717
@@ -220802,7 +220802,7 @@ V16 GB
 p102752
 sS'screen size'
 p102753
-V17.3 inches
+V17.3in
 p102754
 sS'processor speed'
 p102755
@@ -220882,7 +220882,7 @@ V16 GB
 p102788
 sS'screen size'
 p102789
-V15.6 inches
+V15.6in
 p102790
 sS'processor speed'
 p102791
@@ -220963,7 +220963,7 @@ V16 GB
 p102825
 sS'screen size'
 p102826
-V15.6 inches
+V15.6in
 p102827
 sS'processor speed'
 p102828
@@ -221044,7 +221044,7 @@ V2 GB
 p102862
 sS'screen size'
 p102863
-V11.6 inches
+V11.6in
 p102864
 sS'processor speed'
 p102865
@@ -221121,7 +221121,7 @@ V2 GB
 p102895
 sS'screen size'
 p102896
-V11.6 inches
+V11.6in
 p102897
 sS'processor speed'
 p102898
@@ -221200,7 +221200,7 @@ V0 GB
 p102930
 sS'screen size'
 p102931
-V11.6 inches
+V11.6in
 p102932
 sS'processor speed'
 p102933
@@ -221284,7 +221284,7 @@ V8 GB
 p102970
 sS'screen size'
 p102971
-V14.1 inches
+V14.1in
 p102972
 sS'processor speed'
 p102973
@@ -221369,7 +221369,7 @@ V6 GB
 p103011
 sS'screen size'
 p103012
-V15.6 inches
+V15.6in
 p103013
 sS'processor speed'
 p103014
@@ -221450,7 +221450,7 @@ V64 GB
 p103048
 sS'screen size'
 p103049
-V15.6 in
+V15.6in
 p103050
 sS'processor speed'
 p103051
@@ -221533,7 +221533,7 @@ V0 GB
 p103087
 sS'screen size'
 p103088
-V15.6 inches
+V15.6in
 p103089
 sS'processor speed'
 p103090
@@ -221612,7 +221612,7 @@ V0 GB
 p103122
 sS'screen size'
 p103123
-V15.6 in
+V15.6in
 p103124
 sS'processor speed'
 p103125
@@ -221696,7 +221696,7 @@ V4 GB
 p103162
 sS'screen size'
 p103163
-V11.6 inches
+V11.6in
 p103164
 sS'processor speed'
 p103165
@@ -221779,7 +221779,7 @@ V4 GB
 p103201
 sS'screen size'
 p103202
-V12.5 inches
+V12.5in
 p103203
 sS'processor speed'
 p103204
@@ -221858,7 +221858,7 @@ V16 GB
 p103236
 sS'screen size'
 p103237
-V13.1 inches
+V13.1in
 p103238
 sS'processor speed'
 p103239
@@ -221941,7 +221941,7 @@ V8 GB
 p103275
 sS'screen size'
 p103276
-V14 inches
+V14in
 p103277
 sS'processor speed'
 p103278
@@ -222025,7 +222025,7 @@ V8 GB
 p103315
 sS'screen size'
 p103316
-V13.3 inches
+V13.3in
 p103317
 sS'processor speed'
 p103318
@@ -222186,7 +222186,7 @@ V64 GB
 p103388
 sS'screen size'
 p103389
-V15.6 in
+V15.6in
 p103390
 sS'processor speed'
 p103391
@@ -222269,7 +222269,7 @@ V8 GB
 p103427
 sS'screen size'
 p103428
-V13.3 inches
+V13.3in
 p103429
 sS'processor speed'
 p103430
@@ -222349,7 +222349,7 @@ V4 GB
 p103463
 sS'screen size'
 p103464
-V11.6 in
+V11.6in
 p103465
 sS'processor speed'
 p103466
@@ -222433,7 +222433,7 @@ V8 GB
 p103503
 sS'screen size'
 p103504
-V15.6 inches
+V15.6in
 p103505
 sS'processor speed'
 p103506
@@ -222514,7 +222514,7 @@ V4 GB
 p103540
 sS'screen size'
 p103541
-V15.6 inches
+V15.6in
 p103542
 sS'processor speed'
 p103543
@@ -222595,7 +222595,7 @@ V32 GB
 p103577
 sS'screen size'
 p103578
-V15.6 in
+V15.6in
 p103579
 sS'processor speed'
 p103580
@@ -222678,7 +222678,7 @@ V8 GB
 p103616
 sS'screen size'
 p103617
-V15.6 inches
+V15.6in
 p103618
 sS'processor speed'
 p103619
@@ -222762,7 +222762,7 @@ V8 GB
 p103656
 sS'screen size'
 p103657
-V14 inches
+V14in
 p103658
 sS'processor speed'
 p103659
@@ -222847,7 +222847,7 @@ V16 GB
 p103697
 sS'screen size'
 p103698
-V14 inches
+V14in
 p103699
 sS'processor speed'
 p103700
@@ -222928,7 +222928,7 @@ V16 GB
 p103734
 sS'screen size'
 p103735
-V14 inches
+V14in
 p103736
 sS'processor speed'
 p103737
@@ -223008,7 +223008,7 @@ V8 GB
 p103770
 sS'screen size'
 p103771
-V15.6 inches
+V15.6in
 p103772
 sS'processor speed'
 p103773
@@ -223090,7 +223090,7 @@ V4 GB
 p103808
 sS'screen size'
 p103809
-V15.6 inches
+V15.6in
 p103810
 sS'processor speed'
 p103811
@@ -223174,7 +223174,7 @@ V4 GB
 p103848
 sS'screen size'
 p103849
-V15.6 inches
+V15.6in
 p103850
 sS'processor speed'
 p103851
@@ -223257,7 +223257,7 @@ V16 GB
 p103887
 sS'screen size'
 p103888
-V13.3 inches
+V13.3in
 p103889
 sS'processor speed'
 p103890
@@ -223338,7 +223338,7 @@ V0 GB
 p103924
 sS'screen size'
 p103925
-V15.6 inches
+V15.6in
 p103926
 sS'processor speed'
 p103927
@@ -223422,7 +223422,7 @@ V8 GB
 p103964
 sS'screen size'
 p103965
-V14 inches
+V14in
 p103966
 sS'processor speed'
 p103967
@@ -223505,7 +223505,7 @@ V4 GB
 p104003
 sS'screen size'
 p104004
-V14 inches
+V14in
 p104005
 sS'processor speed'
 p104006
@@ -223586,7 +223586,7 @@ V4 GB
 p104040
 sS'screen size'
 p104041
-V15.6 inches
+V15.6in
 p104042
 sS'processor speed'
 p104043
@@ -223665,7 +223665,7 @@ V32 GB
 p104075
 sS'screen size'
 p104076
-V17.3 in
+V17.3in
 p104077
 sS'processor speed'
 p104078
@@ -223748,7 +223748,7 @@ V4 GB
 p104114
 sS'screen size'
 p104115
-V12.5 inches
+V12.5in
 p104116
 sS'processor speed'
 p104117
@@ -223827,7 +223827,7 @@ V8 GB
 p104149
 sS'screen size'
 p104150
-V15.6 inches
+V15.6in
 p104151
 sS'processor speed'
 p104152
@@ -223910,7 +223910,7 @@ V16 GB
 p104188
 sS'screen size'
 p104189
-V17.3 inches
+V17.3in
 p104190
 sS'processor speed'
 p104191
@@ -223992,7 +223992,7 @@ V4 GB
 p104226
 sS'screen size'
 p104227
-V11.6 inches
+V11.6in
 p104228
 sS'processor speed'
 p104229
@@ -224073,7 +224073,7 @@ V4 GB
 p104263
 sS'screen size'
 p104264
-V15.6 inches
+V15.6in
 p104265
 sS'processor speed'
 p104266
@@ -224156,7 +224156,7 @@ V8 GB
 p104302
 sS'screen size'
 p104303
-V15.6 inches
+V15.6in
 p104304
 sS'processor speed'
 p104305
@@ -224239,7 +224239,7 @@ V16 GB
 p104341
 sS'screen size'
 p104342
-V15.6 inches
+V15.6in
 p104343
 sS'processor speed'
 p104344
@@ -224322,7 +224322,7 @@ V16 GB
 p104380
 sS'screen size'
 p104381
-V15.6 inches
+V15.6in
 p104382
 sS'processor speed'
 p104383
@@ -224406,7 +224406,7 @@ V2 GB
 p104420
 sS'screen size'
 p104421
-V14 inches
+V14in
 p104422
 sS'processor speed'
 p104423
@@ -224489,7 +224489,7 @@ V8 GB
 p104459
 sS'screen size'
 p104460
-V15.6 inches
+V15.6in
 p104461
 sS'processor speed'
 p104462
@@ -224571,7 +224571,7 @@ V6 GB
 p104497
 sS'screen size'
 p104498
-V15.6 inches
+V15.6in
 p104499
 sS'processor speed'
 p104500
@@ -224653,7 +224653,7 @@ V16 GB
 p104535
 sS'screen size'
 p104536
-V15.6 inches
+V15.6in
 p104537
 sS'processor speed'
 p104538
@@ -224737,7 +224737,7 @@ V8 GB
 p104575
 sS'screen size'
 p104576
-V15.6 inches
+V15.6in
 p104577
 sS'processor speed'
 p104578
@@ -224816,7 +224816,7 @@ V2 GB
 p104610
 sS'screen size'
 p104611
-V14 inches
+V14in
 p104612
 sS'processor speed'
 p104613
@@ -224898,7 +224898,7 @@ V32 GB
 p104648
 sS'screen size'
 p104649
-V17.3 inches
+V17.3in
 p104650
 sS'processor speed'
 p104651
@@ -224981,7 +224981,7 @@ V16 GB
 p104687
 sS'screen size'
 p104688
-V15.6 inches
+V15.6in
 p104689
 sS'processor speed'
 p104690
@@ -225063,7 +225063,7 @@ V16 GB
 p104725
 sS'screen size'
 p104726
-V13.3 inches
+V13.3in
 p104727
 sS'processor speed'
 p104728
@@ -225143,7 +225143,7 @@ V8 GB
 p104761
 sS'screen size'
 p104762
-V17.3 inches
+V17.3in
 p104763
 sS'processor speed'
 p104764
@@ -225225,7 +225225,7 @@ V16 GB
 p104799
 sS'screen size'
 p104800
-V17.3 inches
+V17.3in
 p104801
 sS'processor speed'
 p104802
@@ -225304,7 +225304,7 @@ V16 GB
 p104834
 sS'screen size'
 p104835
-V14 inches
+V14in
 p104836
 sS'processor speed'
 p104837
@@ -225387,7 +225387,7 @@ V8 GB
 p104873
 sS'screen size'
 p104874
-V15.6 inches
+V15.6in
 p104875
 sS'processor speed'
 p104876
@@ -225470,7 +225470,7 @@ V8 GB
 p104912
 sS'screen size'
 p104913
-V15.6 inches
+V15.6in
 p104914
 sS'processor speed'
 p104915
@@ -225553,7 +225553,7 @@ V12 GB
 p104951
 sS'screen size'
 p104952
-V15.6 inches
+V15.6in
 p104953
 sS'processor speed'
 p104954
@@ -225636,7 +225636,7 @@ V8 GB
 p104990
 sS'screen size'
 p104991
-V14 inches
+V14in
 p104992
 sS'processor speed'
 p104993
@@ -225717,7 +225717,7 @@ V16 GB
 p105027
 sS'screen size'
 p105028
-V13.3 inches
+V13.3in
 p105029
 sS'processor speed'
 p105030
@@ -225800,7 +225800,7 @@ V8 GB
 p105066
 sS'screen size'
 p105067
-V17.3 inches
+V17.3in
 p105068
 sS'processor speed'
 p105069
@@ -225882,7 +225882,7 @@ V8 GB
 p105104
 sS'screen size'
 p105105
-V15.6 inches
+V15.6in
 p105106
 sS'processor speed'
 p105107
@@ -225966,7 +225966,7 @@ V4 GB
 p105144
 sS'screen size'
 p105145
-V14 inches
+V14in
 p105146
 sS'processor speed'
 p105147
@@ -226050,7 +226050,7 @@ V16 GB
 p105184
 sS'screen size'
 p105185
-V15.6 inches
+V15.6in
 p105186
 sS'processor speed'
 p105187
@@ -226133,7 +226133,7 @@ V8 GB
 p105223
 sS'screen size'
 p105224
-V15.6 inches
+V15.6in
 p105225
 sS'processor speed'
 p105226
@@ -226217,7 +226217,7 @@ V16 MB
 p105263
 sS'screen size'
 p105264
-V15.6 inches
+V15.6in
 p105265
 sS'processor speed'
 p105266
@@ -226300,7 +226300,7 @@ V16 GB
 p105302
 sS'screen size'
 p105303
-V15.6 inches
+V15.6in
 p105304
 sS'processor speed'
 p105305
@@ -226383,7 +226383,7 @@ V16 GB
 p105341
 sS'screen size'
 p105342
-V15.6 inches
+V15.6in
 p105343
 sS'processor speed'
 p105344
@@ -226465,7 +226465,7 @@ V8 GB
 p105379
 sS'screen size'
 p105380
-V15.6 inches
+V15.6in
 p105381
 sS'processor speed'
 p105382
@@ -226547,7 +226547,7 @@ V8 GB
 p105417
 sS'screen size'
 p105418
-V12.5 inches
+V12.5in
 p105419
 sS'processor speed'
 p105420
@@ -226630,7 +226630,7 @@ V4 GB
 p105456
 sS'screen size'
 p105457
-V12.1 inches
+V12.1in
 p105458
 sS'processor speed'
 p105459
@@ -226712,7 +226712,7 @@ V16 GB
 p105494
 sS'screen size'
 p105495
-V17.3 inches
+V17.3in
 p105496
 sS'processor speed'
 p105497
@@ -226793,7 +226793,7 @@ V16 GB
 p105531
 sS'screen size'
 p105532
-V15.6 inches
+V15.6in
 p105533
 sS'processor speed'
 p105534
@@ -226873,7 +226873,7 @@ V0 GB
 p105567
 sS'screen size'
 p105568
-V15.6 inches
+V15.6in
 p105569
 sS'processor speed'
 p105570
@@ -226948,7 +226948,7 @@ V16 GB
 p105598
 sS'screen size'
 p105599
-V15 inches
+V15in
 p105600
 sS'processor speed'
 p105601
@@ -227027,7 +227027,7 @@ V32 GB
 p105633
 sS'screen size'
 p105634
-V15.6 in
+V15.6in
 p105635
 sS'processor speed'
 p105636
@@ -227109,7 +227109,7 @@ V4 GB
 p105671
 sS'screen size'
 p105672
-V11.6 inches
+V11.6in
 p105673
 sS'processor speed'
 p105674
@@ -227193,7 +227193,7 @@ V16 GB
 p105711
 sS'screen size'
 p105712
-V12.5 inches
+V12.5in
 p105713
 sS'processor speed'
 p105714
@@ -227269,7 +227269,7 @@ V16 GB
 p105743
 sS'screen size'
 p105744
-V15.4 inches
+V15.4in
 p105745
 sS'processor speed'
 p105746
@@ -227352,7 +227352,7 @@ V4 MB
 p105782
 sS'screen size'
 p105783
-V12.5 inches
+V12.5in
 p105784
 sS'processor speed'
 p105785
@@ -227433,7 +227433,7 @@ V64 GB
 p105819
 sS'screen size'
 p105820
-V15.6 in
+V15.6in
 p105821
 sS'processor speed'
 p105822
@@ -227516,7 +227516,7 @@ V16 GB
 p105858
 sS'screen size'
 p105859
-V15.6 inches
+V15.6in
 p105860
 sS'processor speed'
 p105861
@@ -227596,7 +227596,7 @@ V4 GB
 p105894
 sS'screen size'
 p105895
-V15.6 inches
+V15.6in
 p105896
 sS'processor speed'
 p105897
@@ -227675,7 +227675,7 @@ V16 GB
 p105929
 sS'screen size'
 p105930
-V15.6 in
+V15.6in
 p105931
 sS'processor speed'
 p105932
@@ -227756,7 +227756,7 @@ V0 GB
 p105966
 sS'screen size'
 p105967
-V14 inches
+V14in
 p105968
 sS'processor speed'
 p105969
@@ -227840,7 +227840,7 @@ V16 GB
 p106006
 sS'screen size'
 p106007
-V13.3 inches
+V13.3in
 p106008
 sS'processor speed'
 p106009
@@ -227921,7 +227921,7 @@ V8 GB
 p106043
 sS'screen size'
 p106044
-V15.6 inches
+V15.6in
 p106045
 sS'processor speed'
 p106046
@@ -227998,7 +227998,7 @@ V8 GB
 p106076
 sS'screen size'
 p106077
-V15.6 in
+V15.6in
 p106078
 sS'processor speed'
 p106079
@@ -228074,7 +228074,7 @@ V8 GB
 p106108
 sS'screen size'
 p106109
-V15.6 inches
+V15.6in
 p106110
 sS'processor speed'
 p106111
@@ -228151,7 +228151,7 @@ V6 GB
 p106141
 sS'screen size'
 p106142
-V15.6 inches
+V15.6in
 p106143
 sS'processor speed'
 p106144
@@ -228236,7 +228236,7 @@ V8 GB
 p106182
 sS'screen size'
 p106183
-V15.6 inches
+V15.6in
 p106184
 sS'processor speed'
 p106185
@@ -228319,7 +228319,7 @@ V12 GB
 p106221
 sS'screen size'
 p106222
-V15.6 inches
+V15.6in
 p106223
 sS'processor speed'
 p106224
@@ -228400,7 +228400,7 @@ V0 GB
 p106258
 sS'screen size'
 p106259
-V14 inches
+V14in
 p106260
 sS'processor speed'
 p106261
@@ -228484,7 +228484,7 @@ V2 GB
 p106298
 sS'screen size'
 p106299
-V11.6 inches
+V11.6in
 p106300
 sS'processor speed'
 p106301
@@ -228568,7 +228568,7 @@ V8 GB
 p106338
 sS'screen size'
 p106339
-V15.6 inches
+V15.6in
 p106340
 sS'processor speed'
 p106341
@@ -228649,7 +228649,7 @@ V64 GB
 p106375
 sS'screen size'
 p106376
-V17.3 in
+V17.3in
 p106377
 sS'processor speed'
 p106378
@@ -228731,7 +228731,7 @@ V8 GB
 p106413
 sS'screen size'
 p106414
-V15.6 inches
+V15.6in
 p106415
 sS'processor speed'
 p106416
@@ -228814,7 +228814,7 @@ V32 GB
 p106452
 sS'screen size'
 p106453
-V15.6 inches
+V15.6in
 p106454
 sS'processor speed'
 p106455
@@ -228890,7 +228890,7 @@ V16 GB
 p106484
 sS'screen size'
 p106485
-V15.6 inches
+V15.6in
 p106486
 sS'processor speed'
 p106487
@@ -228971,7 +228971,7 @@ V16 GB
 p106521
 sS'screen size'
 p106522
-V17.3 inches
+V17.3in
 p106523
 sS'processor speed'
 p106524
@@ -229053,7 +229053,7 @@ V8 GB
 p106559
 sS'screen size'
 p106560
-V15.6 inches
+V15.6in
 p106561
 sS'processor speed'
 p106562
@@ -229136,7 +229136,7 @@ V4 GB
 p106598
 sS'screen size'
 p106599
-V15.6 inches
+V15.6in
 p106600
 sS'processor speed'
 p106601
@@ -229218,7 +229218,7 @@ V8 GB
 p106636
 sS'screen size'
 p106637
-V15.6 inches
+V15.6in
 p106638
 sS'processor speed'
 p106639
@@ -229300,7 +229300,7 @@ V16 GB
 p106674
 sS'screen size'
 p106675
-V13 inches
+V13in
 p106676
 sS'processor speed'
 p106677
@@ -229379,7 +229379,7 @@ V8 GB
 p106709
 sS'screen size'
 p106710
-V15.6 in
+V15.6in
 p106711
 sS'processor speed'
 p106712
@@ -229464,7 +229464,7 @@ V4 GB
 p106750
 sS'screen size'
 p106751
-V13.3 inches
+V13.3in
 p106752
 sS'processor speed'
 p106753
@@ -229547,7 +229547,7 @@ V8 GB
 p106789
 sS'screen size'
 p106790
-V15.6 inches
+V15.6in
 p106791
 sS'processor speed'
 p106792
@@ -229630,7 +229630,7 @@ V8 GB
 p106828
 sS'screen size'
 p106829
-V12.5 inches
+V12.5in
 p106830
 sS'processor speed'
 p106831
@@ -229713,7 +229713,7 @@ V8 GB
 p106867
 sS'screen size'
 p106868
-V15.6 inches
+V15.6in
 p106869
 sS'processor speed'
 p106870
@@ -229796,7 +229796,7 @@ V12 GB
 p106906
 sS'screen size'
 p106907
-V14 inches
+V14in
 p106908
 sS'processor speed'
 p106909
@@ -229881,7 +229881,7 @@ V16 GB
 p106947
 sS'screen size'
 p106948
-V15.6 inches
+V15.6in
 p106949
 sS'processor speed'
 p106950
@@ -229961,7 +229961,7 @@ V16 GB
 p106983
 sS'screen size'
 p106984
-V14 in
+V14in
 p106985
 sS'processor speed'
 p106986
@@ -230043,7 +230043,7 @@ V8 GB
 p107021
 sS'screen size'
 p107022
-V15.6 inches
+V15.6in
 p107023
 sS'processor speed'
 p107024
@@ -230125,7 +230125,7 @@ V8 GB
 p107059
 sS'screen size'
 p107060
-V15.6 inches
+V15.6in
 p107061
 sS'processor speed'
 p107062
@@ -230205,7 +230205,7 @@ V12 GB
 p107095
 sS'screen size'
 p107096
-V15.6 inches
+V15.6in
 p107097
 sS'processor speed'
 p107098
@@ -230285,7 +230285,7 @@ V64 GB
 p107131
 sS'screen size'
 p107132
-V17.3 in
+V17.3in
 p107133
 sS'processor speed'
 p107134
@@ -230367,7 +230367,7 @@ V2 GB
 p107169
 sS'screen size'
 p107170
-V10.1 inches
+V10.1in
 p107171
 sS'processor speed'
 p107172
@@ -230450,7 +230450,7 @@ V2 GB
 p107208
 sS'screen size'
 p107209
-V14 inches
+V14in
 p107210
 sS'processor speed'
 p107211
@@ -230532,7 +230532,7 @@ V8 GB
 p107246
 sS'screen size'
 p107247
-V14 inches
+V14in
 p107248
 sS'processor speed'
 p107249
@@ -230616,7 +230616,7 @@ V16 GB
 p107286
 sS'screen size'
 p107287
-V17.3 inches
+V17.3in
 p107288
 sS'processor speed'
 p107289
@@ -230699,7 +230699,7 @@ V16 GB
 p107325
 sS'screen size'
 p107326
-V14 inches
+V14in
 p107327
 sS'processor speed'
 p107328
@@ -230782,7 +230782,7 @@ V16 GB
 p107364
 sS'screen size'
 p107365
-V14 inches
+V14in
 p107366
 sS'processor speed'
 p107367
@@ -230866,7 +230866,7 @@ V8 GB
 p107404
 sS'screen size'
 p107405
-V13.3 inches
+V13.3in
 p107406
 sS'processor speed'
 p107407
@@ -230948,7 +230948,7 @@ V16 GB
 p107442
 sS'screen size'
 p107443
-V15.6 inches
+V15.6in
 p107444
 sS'processor speed'
 p107445
@@ -231031,7 +231031,7 @@ V12 GB
 p107481
 sS'screen size'
 p107482
-V17.3 inches
+V17.3in
 p107483
 sS'processor speed'
 p107484
@@ -231112,7 +231112,7 @@ V8 GB
 p107518
 sS'screen size'
 p107519
-V14 inches
+V14in
 p107520
 sS'processor speed'
 p107521
@@ -231195,7 +231195,7 @@ V16 GB
 p107557
 sS'screen size'
 p107558
-V15.6 inches
+V15.6in
 p107559
 sS'processor speed'
 p107560
@@ -231274,7 +231274,7 @@ V12 GB
 p107592
 sS'screen size'
 p107593
-V14.6 inches
+V14.6in
 p107594
 sS'processor speed'
 p107595
@@ -231352,7 +231352,7 @@ V0 GB
 p107626
 sS'screen size'
 p107627
-V15.6 inches
+V15.6in
 p107628
 sS'processor speed'
 p107629
@@ -231437,7 +231437,7 @@ V8 GB
 p107667
 sS'screen size'
 p107668
-V15.6 inches
+V15.6in
 p107669
 sS'processor speed'
 p107670
@@ -231520,7 +231520,7 @@ V4 GB
 p107706
 sS'screen size'
 p107707
-V13 inches
+V13in
 p107708
 sS'processor speed'
 p107709
@@ -231600,7 +231600,7 @@ V4 GB
 p107742
 sS'screen size'
 p107743
-V14 inches
+V14in
 p107744
 sS'processor speed'
 p107745
@@ -231683,7 +231683,7 @@ V16 GB
 p107781
 sS'screen size'
 p107782
-V17.3 inches
+V17.3in
 p107783
 sS'processor speed'
 p107784
@@ -231765,7 +231765,7 @@ V16 GB
 p107819
 sS'screen size'
 p107820
-V15.6 inches
+V15.6in
 p107821
 sS'processor speed'
 p107822
@@ -231846,7 +231846,7 @@ V64 GB
 p107856
 sS'screen size'
 p107857
-V10.1 inches
+V10.1in
 p107858
 sS'processor speed'
 p107859
@@ -231925,7 +231925,7 @@ V16 GB
 p107891
 sS'screen size'
 p107892
-V14 inches
+V14in
 p107893
 sS'processor speed'
 p107894
@@ -232009,7 +232009,7 @@ V4 GB
 p107931
 sS'screen size'
 p107932
-V11.6 inches
+V11.6in
 p107933
 sS'processor speed'
 p107934
@@ -232091,7 +232091,7 @@ V8 GB
 p107969
 sS'screen size'
 p107970
-V15.6 inches
+V15.6in
 p107971
 sS'processor speed'
 p107972
@@ -232175,7 +232175,7 @@ V16 GB
 p108009
 sS'screen size'
 p108010
-V15.6 inches
+V15.6in
 p108011
 sS'processor speed'
 p108012
@@ -232254,7 +232254,7 @@ V16 GB
 p108044
 sS'screen size'
 p108045
-V15.6 inches
+V15.6in
 p108046
 sS'processor speed'
 p108047
@@ -232333,7 +232333,7 @@ V8 GB
 p108079
 sS'screen size'
 p108080
-V13.3 inches
+V13.3in
 p108081
 sS'processor speed'
 p108082
@@ -232414,7 +232414,7 @@ V8 GB
 p108116
 sS'screen size'
 p108117
-V12.5 inches
+V12.5in
 p108118
 sS'processor speed'
 p108119
@@ -232493,7 +232493,7 @@ V8 GB
 p108151
 sS'screen size'
 p108152
-V12.5 inches
+V12.5in
 p108153
 sS'processor speed'
 p108154
@@ -232577,7 +232577,7 @@ V2 GB
 p108191
 sS'screen size'
 p108192
-V11.6 inches
+V11.6in
 p108193
 sS'processor speed'
 p108194
@@ -232656,7 +232656,7 @@ V4 GB
 p108226
 sS'screen size'
 p108227
-V12.3 in
+V12.3in
 p108228
 sS'processor speed'
 p108229
@@ -232738,7 +232738,7 @@ V8 GB
 p108264
 sS'screen size'
 p108265
-V13.3 inches
+V13.3in
 p108266
 sS'processor speed'
 p108267
@@ -232820,7 +232820,7 @@ V4 GB
 p108302
 sS'screen size'
 p108303
-V17.3 inches
+V17.3in
 p108304
 sS'processor speed'
 p108305
@@ -232901,7 +232901,7 @@ V4 GB
 p108339
 sS'screen size'
 p108340
-V11.6 inches
+V11.6in
 p108341
 sS'processor speed'
 p108342
@@ -232982,7 +232982,7 @@ V0 GB
 p108376
 sS'screen size'
 p108377
-V15.6 inches
+V15.6in
 p108378
 sS'processor speed'
 p108379
@@ -233065,7 +233065,7 @@ V16 GB
 p108415
 sS'screen size'
 p108416
-V17.3 inches
+V17.3in
 p108417
 sS'processor speed'
 p108418
@@ -233148,7 +233148,7 @@ V8 GB
 p108454
 sS'screen size'
 p108455
-V15.6 inches
+V15.6in
 p108456
 sS'processor speed'
 p108457
@@ -233230,7 +233230,7 @@ V16 GB
 p108492
 sS'screen size'
 p108493
-V15.6 inches
+V15.6in
 p108494
 sS'processor speed'
 p108495
@@ -233315,7 +233315,7 @@ V4 GB
 p108533
 sS'screen size'
 p108534
-V13.3 inches
+V13.3in
 p108535
 sS'processor speed'
 p108536
@@ -233397,7 +233397,7 @@ V8 GB
 p108571
 sS'screen size'
 p108572
-V13.3 inches
+V13.3in
 p108573
 sS'processor speed'
 p108574
@@ -233478,7 +233478,7 @@ V64 GB
 p108608
 sS'screen size'
 p108609
-V15.6 in
+V15.6in
 p108610
 sS'processor speed'
 p108611
@@ -233561,7 +233561,7 @@ V16 GB
 p108647
 sS'screen size'
 p108648
-V15.6 inches
+V15.6in
 p108649
 sS'processor speed'
 p108650
@@ -233643,7 +233643,7 @@ V16 GB
 p108685
 sS'screen size'
 p108686
-V14 inches
+V14in
 p108687
 sS'processor speed'
 p108688
@@ -233728,7 +233728,7 @@ V12 GB
 p108726
 sS'screen size'
 p108727
-V15.6 inches
+V15.6in
 p108728
 sS'processor speed'
 p108729
@@ -233810,7 +233810,7 @@ V12 GB
 p108764
 sS'screen size'
 p108765
-V15.6 inches
+V15.6in
 p108766
 sS'processor speed'
 p108767
@@ -233891,7 +233891,7 @@ V8 GB
 p108801
 sS'screen size'
 p108802
-V15.6 inches
+V15.6in
 p108803
 sS'processor speed'
 p108804
@@ -233974,7 +233974,7 @@ V2 GB
 p108840
 sS'screen size'
 p108841
-V11.6 inches
+V11.6in
 p108842
 sS'processor speed'
 p108843
@@ -234055,7 +234055,7 @@ V8 GB
 p108877
 sS'screen size'
 p108878
-V15.6 inches
+V15.6in
 p108879
 sS'processor speed'
 p108880
@@ -234137,7 +234137,7 @@ V4 GB
 p108915
 sS'screen size'
 p108916
-V15.6 inches
+V15.6in
 p108917
 sS'processor speed'
 p108918
@@ -234220,7 +234220,7 @@ V8 GB
 p108954
 sS'screen size'
 p108955
-V13.3 inches
+V13.3in
 p108956
 sS'processor speed'
 p108957
@@ -234305,7 +234305,7 @@ V12 GB
 p108995
 sS'screen size'
 p108996
-V15.6 inches
+V15.6in
 p108997
 sS'processor speed'
 p108998
@@ -234388,7 +234388,7 @@ V4 GB
 p109034
 sS'screen size'
 p109035
-V15.6 inches
+V15.6in
 p109036
 sS'processor speed'
 p109037
@@ -234468,7 +234468,7 @@ V16 GB
 p109070
 sS'screen size'
 p109071
-V15.6 inches
+V15.6in
 p109072
 sS'processor speed'
 p109073
@@ -234551,7 +234551,7 @@ V2 GB
 p109109
 sS'screen size'
 p109110
-V11.6 inches
+V11.6in
 p109111
 sS'processor speed'
 p109112
@@ -234633,7 +234633,7 @@ V4 GB
 p109147
 sS'screen size'
 p109148
-V15.6 inches
+V15.6in
 p109149
 sS'processor speed'
 p109150
@@ -234717,7 +234717,7 @@ V8 GB
 p109187
 sS'screen size'
 p109188
-V15.6 inches
+V15.6in
 p109189
 sS'processor speed'
 p109190
@@ -234799,7 +234799,7 @@ V16 GB
 p109225
 sS'screen size'
 p109226
-V15.6 inches
+V15.6in
 p109227
 sS'processor speed'
 p109228
@@ -234875,7 +234875,7 @@ V2 GB
 p109257
 sS'screen size'
 p109258
-V11.6 in
+V11.6in
 p109259
 sS'processor speed'
 p109260
@@ -234957,7 +234957,7 @@ V32 GB
 p109295
 sS'screen size'
 p109296
-V15.6 inches
+V15.6in
 p109297
 sS'processor speed'
 p109298
@@ -235039,7 +235039,7 @@ V8 GB
 p109333
 sS'screen size'
 p109334
-V13.3 inches
+V13.3in
 p109335
 sS'processor speed'
 p109336
@@ -235121,7 +235121,7 @@ V8 GB
 p109371
 sS'screen size'
 p109372
-V17.3 inches
+V17.3in
 p109373
 sS'processor speed'
 p109374
@@ -235206,7 +235206,7 @@ V4 GB
 p109412
 sS'screen size'
 p109413
-V12 inches
+V12in
 p109414
 sS'processor speed'
 p109415
@@ -235289,7 +235289,7 @@ V16 GB
 p109451
 sS'screen size'
 p109452
-V18.4 inches
+V18.4in
 p109453
 sS'processor speed'
 p109454
@@ -235369,7 +235369,7 @@ V16 GB
 p109487
 sS'screen size'
 p109488
-V15.6 inches
+V15.6in
 p109489
 sS'processor speed'
 p109490
@@ -235451,7 +235451,7 @@ V4 GB
 p109525
 sS'screen size'
 p109526
-V14 inches
+V14in
 p109527
 sS'processor speed'
 p109528
@@ -235533,7 +235533,7 @@ V16 GB
 p109563
 sS'screen size'
 p109564
-V15.6 inches
+V15.6in
 p109565
 sS'processor speed'
 p109566
@@ -235615,7 +235615,7 @@ V16 GB
 p109601
 sS'screen size'
 p109602
-V15.6 inches
+V15.6in
 p109603
 sS'processor speed'
 p109604
@@ -235694,7 +235694,7 @@ V16 GB
 p109636
 sS'screen size'
 p109637
-V14.1 inches
+V14.1in
 p109638
 sS'processor speed'
 p109639
@@ -235775,7 +235775,7 @@ V16 GB
 p109673
 sS'screen size'
 p109674
-V17.3 inches
+V17.3in
 p109675
 sS'processor speed'
 p109676
@@ -235859,7 +235859,7 @@ V4 GB
 p109713
 sS'screen size'
 p109714
-V11.6 inches
+V11.6in
 p109715
 sS'processor speed'
 p109716
@@ -235940,7 +235940,7 @@ V0 GB
 p109750
 sS'screen size'
 p109751
-V15.6 inches
+V15.6in
 p109752
 sS'processor speed'
 p109753
@@ -236021,7 +236021,7 @@ V1 GB
 p109787
 sS'screen size'
 p109788
-V11.6 inches
+V11.6in
 p109789
 sS'processor speed'
 p109790
@@ -236102,7 +236102,7 @@ V8 GB
 p109824
 sS'screen size'
 p109825
-V13 inches
+V13in
 p109826
 sS'processor speed'
 p109827
@@ -236185,7 +236185,7 @@ V16 GB
 p109863
 sS'screen size'
 p109864
-V15.6 inches
+V15.6in
 p109865
 sS'processor speed'
 p109866
@@ -236265,7 +236265,7 @@ V0 GB
 p109899
 sS'screen size'
 p109900
-V17.3 inches
+V17.3in
 p109901
 sS'processor speed'
 p109902
@@ -236348,7 +236348,7 @@ V8 GB
 p109938
 sS'screen size'
 p109939
-V13.3 inches
+V13.3in
 p109940
 sS'processor speed'
 p109941
@@ -236429,7 +236429,7 @@ V8 GB
 p109975
 sS'screen size'
 p109976
-V14 inches
+V14in
 p109977
 sS'processor speed'
 p109978
@@ -236514,7 +236514,7 @@ V16 GB
 p110016
 sS'screen size'
 p110017
-V15.6 inches
+V15.6in
 p110018
 sS'processor speed'
 p110019
@@ -236595,7 +236595,7 @@ V6 GB
 p110053
 sS'screen size'
 p110054
-V13.3 inches
+V13.3in
 p110055
 sS'processor speed'
 p110056
@@ -236679,7 +236679,7 @@ V8 GB
 p110093
 sS'screen size'
 p110094
-V15.6 inches
+V15.6in
 p110095
 sS'processor speed'
 p110096
@@ -236762,7 +236762,7 @@ V16 GB
 p110132
 sS'screen size'
 p110133
-V15.6 inches
+V15.6in
 p110134
 sS'processor speed'
 p110135
@@ -236835,7 +236835,7 @@ p110161
 g24
 sS'screen size'
 p110162
-V11.6 in
+V11.6in
 p110163
 sS'processor speed'
 p110164
@@ -236914,7 +236914,7 @@ V16 GB
 p110196
 sS'screen size'
 p110197
-V15.6 inches
+V15.6in
 p110198
 sS'processor speed'
 p110199
@@ -236996,7 +236996,7 @@ V4 GB
 p110234
 sS'screen size'
 p110235
-V11.6 inches
+V11.6in
 p110236
 sS'processor speed'
 p110237
@@ -237076,7 +237076,7 @@ V32 GB
 p110270
 sS'screen size'
 p110271
-V15.6 in
+V15.6in
 p110272
 sS'processor speed'
 p110273
@@ -237157,7 +237157,7 @@ V8 GB
 p110307
 sS'screen size'
 p110308
-V14 inches
+V14in
 p110309
 sS'processor speed'
 p110310
@@ -237242,7 +237242,7 @@ V4 GB
 p110348
 sS'screen size'
 p110349
-V14 inches
+V14in
 p110350
 sS'processor speed'
 p110351
@@ -237323,7 +237323,7 @@ V4 GB
 p110385
 sS'screen size'
 p110386
-V15.6 inches
+V15.6in
 p110387
 sS'processor speed'
 p110388
@@ -237403,7 +237403,7 @@ V64 GB
 p110421
 sS'screen size'
 p110422
-V17.3 inches
+V17.3in
 p110423
 sS'processor speed'
 p110424
@@ -237483,7 +237483,7 @@ V32 GB
 p110457
 sS'screen size'
 p110458
-V15.6 inches
+V15.6in
 p110459
 sS'processor speed'
 p110460
@@ -237568,7 +237568,7 @@ V4 GB
 p110498
 sS'screen size'
 p110499
-V15.6 inches
+V15.6in
 p110500
 sS'processor speed'
 p110501
@@ -237649,7 +237649,7 @@ V4 GB
 p110535
 sS'screen size'
 p110536
-V15.6 inches
+V15.6in
 p110537
 sS'processor speed'
 p110538
@@ -237731,7 +237731,7 @@ V8 GB
 p110573
 sS'screen size'
 p110574
-V17.3 inches
+V17.3in
 p110575
 sS'processor speed'
 p110576
@@ -237813,7 +237813,7 @@ V4 GB
 p110611
 sS'screen size'
 p110612
-V11.6 inches
+V11.6in
 p110613
 sS'processor speed'
 p110614
@@ -237897,7 +237897,7 @@ V8 GB
 p110651
 sS'screen size'
 p110652
-V13.3 inches
+V13.3in
 p110653
 sS'processor speed'
 p110654
@@ -237981,7 +237981,7 @@ V4 GB
 p110691
 sS'screen size'
 p110692
-V15.6 inches
+V15.6in
 p110693
 sS'processor speed'
 p110694
@@ -238059,7 +238059,7 @@ V0 GB
 p110725
 sS'screen size'
 p110726
-V15.6 in
+V15.6in
 p110727
 sS'processor speed'
 p110728
@@ -238137,7 +238137,7 @@ V16 GB
 p110759
 sS'screen size'
 p110760
-V17.3 in
+V17.3in
 p110761
 sS'processor speed'
 p110762
@@ -238219,7 +238219,7 @@ V32 GB
 p110797
 sS'screen size'
 p110798
-V15.6 inches
+V15.6in
 p110799
 sS'processor speed'
 p110800
@@ -238302,7 +238302,7 @@ V32 GB
 p110836
 sS'screen size'
 p110837
-V17.3 inches
+V17.3in
 p110838
 sS'processor speed'
 p110839
@@ -238385,7 +238385,7 @@ V8 GB
 p110875
 sS'screen size'
 p110876
-V13.3 inches
+V13.3in
 p110877
 sS'processor speed'
 p110878
@@ -238466,7 +238466,7 @@ V8 GB
 p110912
 sS'screen size'
 p110913
-V13.3 inches
+V13.3in
 p110914
 sS'processor speed'
 p110915
@@ -238544,7 +238544,7 @@ V8 GB
 p110946
 sS'screen size'
 p110947
-V13.3 inches
+V13.3in
 p110948
 sS'processor speed'
 p110949
@@ -238627,7 +238627,7 @@ V32 GB
 p110985
 sS'screen size'
 p110986
-V17.3 inches
+V17.3in
 p110987
 sS'processor speed'
 p110988
@@ -238708,7 +238708,7 @@ V0 GB
 p111022
 sS'screen size'
 p111023
-V15.6 inches
+V15.6in
 p111024
 sS'processor speed'
 p111025
@@ -238792,7 +238792,7 @@ V8 GB
 p111062
 sS'screen size'
 p111063
-V15.6 inches
+V15.6in
 p111064
 sS'processor speed'
 p111065
@@ -238876,7 +238876,7 @@ V8 GB
 p111102
 sS'screen size'
 p111103
-V13.3 inches
+V13.3in
 p111104
 sS'processor speed'
 p111105
@@ -238955,7 +238955,7 @@ V2 GB
 p111137
 sS'screen size'
 p111138
-V14 inches
+V14in
 p111139
 sS'processor speed'
 p111140
@@ -239035,7 +239035,7 @@ V16 GB
 p111173
 sS'screen size'
 p111174
-V13.3 inches
+V13.3in
 p111175
 sS'processor speed'
 p111176
@@ -239115,7 +239115,7 @@ V8 GB
 p111209
 sS'screen size'
 p111210
-V15.6 inches
+V15.6in
 p111211
 sS'processor speed'
 p111212
@@ -239274,7 +239274,7 @@ V16 GB
 p111280
 sS'screen size'
 p111281
-V17.3 inches
+V17.3in
 p111282
 sS'processor speed'
 p111283
@@ -239355,7 +239355,7 @@ V8 GB
 p111317
 sS'screen size'
 p111318
-V15.6 inches
+V15.6in
 p111319
 sS'processor speed'
 p111320
@@ -239436,7 +239436,7 @@ V16384 MB
 p111354
 sS'screen size'
 p111355
-V13.3 inches
+V13.3in
 p111356
 sS'processor speed'
 p111357
@@ -239520,7 +239520,7 @@ V4 GB
 p111394
 sS'screen size'
 p111395
-V15.6 inches
+V15.6in
 p111396
 sS'processor speed'
 p111397
@@ -239602,7 +239602,7 @@ V16 GB
 p111432
 sS'screen size'
 p111433
-V15.6 inches
+V15.6in
 p111434
 sS'processor speed'
 p111435
@@ -239685,7 +239685,7 @@ V2 GB
 p111471
 sS'screen size'
 p111472
-V11.6 inches
+V11.6in
 p111473
 sS'processor speed'
 p111474
@@ -239768,7 +239768,7 @@ V6 GB
 p111510
 sS'screen size'
 p111511
-V15.6 inches
+V15.6in
 p111512
 sS'processor speed'
 p111513
@@ -239852,7 +239852,7 @@ V4 GB
 p111550
 sS'screen size'
 p111551
-V14.1 inches
+V14.1in
 p111552
 sS'processor speed'
 p111553
@@ -239930,7 +239930,7 @@ V2 GB
 p111584
 sS'screen size'
 p111585
-V13.3 inches
+V13.3in
 p111586
 sS'processor speed'
 p111587
@@ -240009,7 +240009,7 @@ V16 GB
 p111619
 sS'screen size'
 p111620
-V14 inches
+V14in
 p111621
 sS'processor speed'
 p111622
@@ -240094,7 +240094,7 @@ V4 GB
 p111660
 sS'screen size'
 p111661
-V14 inches
+V14in
 p111662
 sS'processor speed'
 p111663
@@ -240175,7 +240175,7 @@ V16 GB
 p111697
 sS'screen size'
 p111698
-V17.3 inches
+V17.3in
 p111699
 sS'processor speed'
 p111700
@@ -240260,7 +240260,7 @@ V8 GB
 p111738
 sS'screen size'
 p111739
-V14 inches
+V14in
 p111740
 sS'processor speed'
 p111741
@@ -240344,7 +240344,7 @@ V16 GB
 p111778
 sS'screen size'
 p111779
-V15.6 inches
+V15.6in
 p111780
 sS'processor speed'
 p111781
@@ -240424,7 +240424,7 @@ V32 GB
 p111814
 sS'screen size'
 p111815
-V15.6 in
+V15.6in
 p111816
 sS'processor speed'
 p111817
@@ -240507,7 +240507,7 @@ V12 GB
 p111853
 sS'screen size'
 p111854
-V15.6 inches
+V15.6in
 p111855
 sS'processor speed'
 p111856
@@ -240588,7 +240588,7 @@ V8 GB
 p111890
 sS'screen size'
 p111891
-V14 inches
+V14in
 p111892
 sS'processor speed'
 p111893
@@ -240673,7 +240673,7 @@ V12 GB
 p111931
 sS'screen size'
 p111932
-V15.6 inches
+V15.6in
 p111933
 sS'processor speed'
 p111934
@@ -240755,7 +240755,7 @@ V8 GB
 p111969
 sS'screen size'
 p111970
-V17.3 inches
+V17.3in
 p111971
 sS'processor speed'
 p111972
@@ -240835,7 +240835,7 @@ V16 GB
 p112005
 sS'screen size'
 p112006
-V15.6 inches
+V15.6in
 p112007
 sS'processor speed'
 p112008
@@ -240918,7 +240918,7 @@ V16 GB
 p112044
 sS'screen size'
 p112045
-V17.3 inches
+V17.3in
 p112046
 sS'processor speed'
 p112047
@@ -240999,7 +240999,7 @@ V8 GB
 p112081
 sS'screen size'
 p112082
-V13 inches
+V13in
 p112083
 sS'processor speed'
 p112084
@@ -241080,7 +241080,7 @@ V16 GB
 p112118
 sS'screen size'
 p112119
-V15.6 in
+V15.6in
 p112120
 sS'processor speed'
 p112121
@@ -241163,7 +241163,7 @@ V4 GB
 p112157
 sS'screen size'
 p112158
-V13.3 inches
+V13.3in
 p112159
 sS'processor speed'
 p112160
@@ -241245,7 +241245,7 @@ V32 GB
 p112195
 sS'screen size'
 p112196
-V15.6 inches
+V15.6in
 p112197
 sS'processor speed'
 p112198
@@ -241328,7 +241328,7 @@ V16 GB
 p112234
 sS'screen size'
 p112235
-V15.6 inches
+V15.6in
 p112236
 sS'processor speed'
 p112237
@@ -241410,7 +241410,7 @@ V16 GB
 p112272
 sS'screen size'
 p112273
-V15.6 inches
+V15.6in
 p112274
 sS'processor speed'
 p112275
@@ -241494,7 +241494,7 @@ V8 GB
 p112312
 sS'screen size'
 p112313
-V15.6 inches
+V15.6in
 p112314
 sS'processor speed'
 p112315
@@ -241572,7 +241572,7 @@ V8 GB
 p112346
 sS'screen size'
 p112347
-V17.3 inches
+V17.3in
 p112348
 sS'processor speed'
 p112349
@@ -241655,7 +241655,7 @@ V2 GB
 p112385
 sS'screen size'
 p112386
-V14 inches
+V14in
 p112387
 sS'processor speed'
 p112388
@@ -241737,7 +241737,7 @@ V8 GB
 p112423
 sS'screen size'
 p112424
-V15.6 inches
+V15.6in
 p112425
 sS'processor speed'
 p112426
@@ -241821,7 +241821,7 @@ V32 GB
 p112463
 sS'screen size'
 p112464
-V15.6 inches
+V15.6in
 p112465
 sS'processor speed'
 p112466
@@ -241902,7 +241902,7 @@ V32 GB
 p112500
 sS'screen size'
 p112501
-V15.6 in
+V15.6in
 p112502
 sS'processor speed'
 p112503
@@ -241982,7 +241982,7 @@ V4 GB
 p112536
 sS'screen size'
 p112537
-V11.6 inches
+V11.6in
 p112538
 sS'processor speed'
 p112539
@@ -242064,7 +242064,7 @@ V16 GB
 p112574
 sS'screen size'
 p112575
-V15.6 inches
+V15.6in
 p112576
 sS'processor speed'
 p112577
@@ -242142,7 +242142,7 @@ V16 GB
 p112608
 sS'screen size'
 p112609
-V15.6 inches
+V15.6in
 p112610
 sS'processor speed'
 p112611
@@ -242222,7 +242222,7 @@ V0 GB
 p112644
 sS'screen size'
 p112645
-V17.3 inches
+V17.3in
 p112646
 sS'processor speed'
 p112647
@@ -242304,7 +242304,7 @@ V4 GB
 p112682
 sS'screen size'
 p112683
-V13.3 inches
+V13.3in
 p112684
 sS'processor speed'
 p112685
@@ -242387,7 +242387,7 @@ V12 GB
 p112721
 sS'screen size'
 p112722
-V15.6 inches
+V15.6in
 p112723
 sS'processor speed'
 p112724
@@ -242472,7 +242472,7 @@ V8 GB
 p112762
 sS'screen size'
 p112763
-V15.6 inches
+V15.6in
 p112764
 sS'processor speed'
 p112765
@@ -242557,7 +242557,7 @@ V12 GB
 p112803
 sS'screen size'
 p112804
-V15.6 inches
+V15.6in
 p112805
 sS'processor speed'
 p112806
@@ -242640,7 +242640,7 @@ V8 GB
 p112842
 sS'screen size'
 p112843
-V15.6 inches
+V15.6in
 p112844
 sS'processor speed'
 p112845
@@ -242720,7 +242720,7 @@ V0 GB
 p112878
 sS'screen size'
 p112879
-V15.6 inches
+V15.6in
 p112880
 sS'processor speed'
 p112881
@@ -242803,7 +242803,7 @@ V8 GB
 p112917
 sS'screen size'
 p112918
-V12 inches
+V12in
 p112919
 sS'processor speed'
 p112920
@@ -242886,7 +242886,7 @@ V4 GB
 p112956
 sS'screen size'
 p112957
-V11.6 inches
+V11.6in
 p112958
 sS'processor speed'
 p112959
@@ -242968,7 +242968,7 @@ V8 GB
 p112994
 sS'screen size'
 p112995
-V15.6 inches
+V15.6in
 p112996
 sS'processor speed'
 p112997
@@ -243052,7 +243052,7 @@ V16 GB
 p113034
 sS'screen size'
 p113035
-V17.3 inches
+V17.3in
 p113036
 sS'processor speed'
 p113037
@@ -243133,7 +243133,7 @@ V12 GB
 p113071
 sS'screen size'
 p113072
-V14 inches
+V14in
 p113073
 sS'processor speed'
 p113074
@@ -243215,7 +243215,7 @@ V16 GB
 p113109
 sS'screen size'
 p113110
-V15.6 inches
+V15.6in
 p113111
 sS'processor speed'
 p113112
@@ -243297,7 +243297,7 @@ V8 GB
 p113147
 sS'screen size'
 p113148
-V15.6 inches
+V15.6in
 p113149
 sS'processor speed'
 p113150
@@ -243380,7 +243380,7 @@ V8 GB
 p113186
 sS'screen size'
 p113187
-V15.6 inches
+V15.6in
 p113188
 sS'processor speed'
 p113189
@@ -243464,7 +243464,7 @@ V32 GB
 p113226
 sS'screen size'
 p113227
-V17.3 inches
+V17.3in
 p113228
 sS'processor speed'
 p113229
@@ -243547,7 +243547,7 @@ V8 GB
 p113265
 sS'screen size'
 p113266
-V17.3 inches
+V17.3in
 p113267
 sS'processor speed'
 p113268
@@ -243628,7 +243628,7 @@ V8 GB
 p113302
 sS'screen size'
 p113303
-V12.5 inches
+V12.5in
 p113304
 sS'processor speed'
 p113305
@@ -243713,7 +243713,7 @@ V4 GB
 p113343
 sS'screen size'
 p113344
-V15.6 inches
+V15.6in
 p113345
 sS'processor speed'
 p113346
@@ -243797,7 +243797,7 @@ V16 GB
 p113383
 sS'screen size'
 p113384
-V17.3 inches
+V17.3in
 p113385
 sS'processor speed'
 p113386
@@ -243879,7 +243879,7 @@ V4 GB
 p113421
 sS'screen size'
 p113422
-V13.3 inches
+V13.3in
 p113423
 sS'processor speed'
 p113424
@@ -243961,7 +243961,7 @@ V8 GB
 p113459
 sS'screen size'
 p113460
-V15.6 millimeters
+V15.6in
 p113461
 sS'processor speed'
 p113462
@@ -244043,7 +244043,7 @@ V16 GB
 p113497
 sS'screen size'
 p113498
-V14 inches
+V14in
 p113499
 sS'processor speed'
 p113500
@@ -244127,7 +244127,7 @@ V12 GB
 p113537
 sS'screen size'
 p113538
-V15.6 inches
+V15.6in
 p113539
 sS'processor speed'
 p113540
@@ -244210,7 +244210,7 @@ V16 GB
 p113576
 sS'screen size'
 p113577
-V15.6 inches
+V15.6in
 p113578
 sS'processor speed'
 p113579
@@ -244292,7 +244292,7 @@ V8 GB
 p113614
 sS'screen size'
 p113615
-V14 inches
+V14in
 p113616
 sS'processor speed'
 p113617
@@ -244377,7 +244377,7 @@ V16 GB
 p113655
 sS'screen size'
 p113656
-V15.6 inches
+V15.6in
 p113657
 sS'processor speed'
 p113658
@@ -244461,7 +244461,7 @@ V16 GB
 p113695
 sS'screen size'
 p113696
-V17.3 inches
+V17.3in
 p113697
 sS'processor speed'
 p113698
@@ -244544,7 +244544,7 @@ V1600 MB
 p113734
 sS'screen size'
 p113735
-V17.3 inches
+V17.3in
 p113736
 sS'processor speed'
 p113737
@@ -244627,7 +244627,7 @@ V4 GB
 p113773
 sS'screen size'
 p113774
-V11.6 inches
+V11.6in
 p113775
 sS'processor speed'
 p113776
@@ -244712,7 +244712,7 @@ V8 GB
 p113814
 sS'screen size'
 p113815
-V15.6 inches
+V15.6in
 p113816
 sS'processor speed'
 p113817
@@ -244792,7 +244792,7 @@ V32 GB
 p113850
 sS'screen size'
 p113851
-V15.6 in
+V15.6in
 p113852
 sS'processor speed'
 p113853

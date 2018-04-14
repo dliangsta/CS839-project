@@ -38,7 +38,7 @@ def main(brand):
         # Overwrite properties
         item.properties = new
     
-    pickle.dump(data, open(filename,'wb'))
+    # pickle.dump(data, open(filename,'wb'))
     count = 0
     with open('data/'+brand+'_products.csv', 'w') as f:
         keys = ','.join(sorted(data[0].properties.keys()))
@@ -53,20 +53,17 @@ def main(brand):
                 if brand == 'amazon':
                     if item.title[0] == '-' or item.title[0] == 'N/A' or item.title[0] == 'Missing':
                         item.title[0] = ''
-                    item_string = str(item.title[0]).replace(',' , '').replace('\\','').replace('\n','').replace('"', '') + ',' + values
-                    item_string += ',' + item_string.replace(',',' ')
-                    item_string = str(pid) + ','  + item_string
-                    item_string = item_string.replace('  ', ' ').lower().replace('  ', ' ')
-                    f.write(item_string)
+                    title = str(item.title[0]).replace(',' , '').replace('\\','').replace('\n','').replace('"', '')
                 else:
                     if item.title == '-' or item.title == 'N/A' or item.title == 'Missing':
                         item.title = ''
-                    item_string = str(item.title).replace(',' , '').replace('\\','').replace('\n','').replace('"', '') + ',' + values
-                    item_string += ',' + item_string.replace(',',' ')
-                    item_string = str(pid) + ','  + item_string
-                    item_string = item_string.replace('  ', ' ').lower().replace('  ', ' ')
-                    f.write(item_string)
-                f.write('\n')
+                    title = str(item.title).replace(',' , '').replace('\\','').replace('\n','').replace('"', '')
+                item_string = title + ',' + values
+                # Combo field
+                item_string += ',' + title + ' ' + ' '.join([word for word in item_string.replace(',',' ').split(' ') if word not in title])
+                item_string = str(pid) + ','  + item_string
+                item_string = item_string.replace('  ', ' ').lower().replace('  ', ' ')
+                f.write(item_string + '\n')
                 count += 1
             except Exception as e:
                 print e

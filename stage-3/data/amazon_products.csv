@@ -1,4 +1,4 @@
-id,product title,brand,model,operating system,combo
+id,product_title,brand,model,operating system,extended_title
 a0,acer predator helios 300 gaming laptop 15.6 full hd intel core i7-7700hq cpu 16gb ddr4 ram 256gb ssd geforce gtx 1060-6gb vr ready red backlit kb metal chassis g3-571-77qk,acer,nh.q28aa.001,windows 10,acer predator helios 300 gaming laptop 15.6 full hd intel core i7-7700hq cpu 16gb ddr4 ram 256gb ssd geforce gtx 1060-6gb vr ready red backlit kb metal chassis g3-571-77qk nh.q28aa.001 windows
 a1,acer aspire e 15 15.6 full hd 8th gen intel core i5-8250u geforce mx150 8gb ram memory 256gb ssd e5-576g-5762,acer,e5-576g-5762,windows 10,acer aspire e 15 15.6 full hd 8th gen intel core i5-8250u geforce mx150 8gb ram memory 256gb ssd e5-576g-5762 windows 10
 a2,asus vivobook f510ua fhd laptop intel core i5-8250u 8gb ram 1tb hdd usb-c nanoedge display fingerprint windows 10 star gray (f510ua-ah51),asus,f510ua-ah51,windows 10,asus vivobook f510ua fhd laptop intel core i5-8250u 8gb ram 1tb hdd usb-c nanoedge display fingerprint windows 10 star gray (f510ua-ah51) asus

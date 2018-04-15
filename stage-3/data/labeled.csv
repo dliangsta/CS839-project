@@ -1,4 +1,4 @@
-_id,ltable_id,rtable_id,ltable_model,ltable_combo,rtable_model,rtable_combo,match
+_id,ltable_id,rtable_id,ltable_model,ltable_extended_title,rtable_model,rtable_extended_title,match
 5,a0,w2300,nh.q28aa.001,acer predator helios 300 gaming laptop 15.6 full hd intel core i7-7700hq cpu 16gb ddr4 ram 256gb ssd geforce gtx 1060-6gb vr ready red backlit kb metal chassis g3-571-77qk nh.q28aa.001 windows,nh.q1caa.001,acer 15.6 intel core i7 2.6ghz 16 gb ram 1 tb hdd + 256 gb ssd windows 10 home|g9-593-72vt nh.q1caa.001,1
 26,a1011,w685,t8tjg,2018 flagship lenovo thinkpad 11e (4h generation) 11.6 notebook intel i3-7100u 128gb m.2 ssd 4gb ddr4 802.11ac bluetooth win10 t8tjg windows,t8tjg,dell chromebook 11 3189 - 11.6 - celeron n3060 - 4 gb ram - 64 gb ssd t8tjg os,0
 30,a102,w1746,c300sa-dh02,asus chromebook c300sa compact 13.3 inch (intel celeron 4gb 16gb emmc black) asus c300sa-dh02,c300sa-dh02,c300sa-dh02 cel n3060 4gb 16gb 13.3in chrome os asus chrome,1

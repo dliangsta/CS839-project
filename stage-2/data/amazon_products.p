@@ -88646,4 +88646,4229 @@ ssg19
 (S'Lenovo ThinkPad P50 Laptop Computer 15.6 inch FHD IPS Screen, Intel Quad Core i7-6700HQ, 32GB RAM, 1TB Solid State Drive, W7P / W10P, 3 YR WTY'
 p41027
 Ntp41028
+sbag1
+(c__main__
+ProductRecord
+p41029
+g3
+Ntp41030
+Rp41031
+(dp41032
+g7
+S'https://www.amazon.com/Apple-MacBook-Display-Graphics-MJLQ2LL/dp/B00XZGMBVC'
+p41033
+sg9
+V$1,779.00
+p41034
+sg11
+(dp41035
+VDisplay Resolution Maximum
+p41036
+V2880x1800 pixels
+p41037
+sVItem model number
+p41038
+VMJLQ2LL/A
+p41039
+sVScreen Resolution
+p41040
+V2880 x 1800
+p41041
+sVInternational Shipping
+p41042
+VThis item is not eligible for international shipping.  Learn More
+p41043
+sVPower Source
+p41044
+VBattery
+p41045
+sVItem Dimensions
+p41046
+V14.13 x 9.73 x 0.71 in
+p41047
+sVDate First Available
+p41048
+VMay 21, 2015
+p41049
+sVAverage Battery Life (in hours)
+p41050
+V9 hours
+p41051
+sVProcessor Count
+p41052
+V1
+p41053
+sVRAM Size
+p41054
+V16 GB
+p41055
+sVChipset Brand
+p41056
+Vintel
+p41057
+sVWireless Type
+p41058
+V802.11A
+p41059
+sVASIN
+p41060
+VB00XZGMBVC
+p41061
+sVOperating System
+p41062
+VMac OS X
+p41063
+sVAudio-out Ports (#)
+p41064
+g41053
+sVBrand Name
+p41065
+VApple
+p41066
+sVHard-Drive Size
+p41067
+V256 GB
+p41068
+sVDisplay Technology
+p41069
+VLED
+p41070
+sVRAM
+p41071
+V16 GB DDR3L
+p41072
+sVDomestic Shipping
+p41073
+VCurrently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.
+p41074
+sVProcessor (CPU) Manufacturer
+p41075
+VIntel
+p41076
+sVBattery Type
+p41077
+VLithium Polymer (LiPo)
+p41078
+sVProcessor Brand
+p41079
+VIntel
+p41080
+sVScreen Size
+p41081
+V15 inches
+p41082
+sVGraphics Coprocessor
+p41083
+VIntel Iris Pro Graphics
+p41084
+sVHardware Platform
+p41085
+VMac
+p41086
+sVOptical Drive Type
+p41087
+VNo
+p41088
+sVNumber of USB 2.0 Ports
+p41089
+V2
+p41090
+sVRAM Type
+p41091
+VDDR3L-1600 SDRAM
+p41092
+sVRear Webcam Resolution
+p41093
+V5.1 	MP
+p41094
+sVMax Screen Resolution
+p41095
+V2880x1800 pixels
+p41096
+sVWireless Compatibility
+p41097
+V802.11A
+p41098
+sVItem Weight
+p41099
+V4.49 pounds
+p41100
+sVItem Dimensions  L x W x H
+p41101
+V9.73 x 14.13 x 0.71 inches
+p41102
+sVHard Drive
+p41103
+V256 GB Flash Memory Solid State Drive
+p41104
+sVProcessor Speed
+p41105
+V2.2 GHz
+p41106
+sVProcessor
+p41107
+V2.2 GHz Intel Core i7
+p41108
+sVCustomer Reviews
+p41109
+V/* \u000a    * Fix for UDP-1061. Average customer reviews has a small extra line on hover \u000a    * https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\u000a    */\u000a    .noUnderline a:hover { \u000a        text-decoration: none; \u000a    }\u000a\u000a\u000a\u000a\u000a    \u000a    \u000a    \u000a    \u000a        \u000a\u000a        \u000a        \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a		\u000a		\u000a		\u000a		\u000a		        \u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		        \u000a        \u000a\u000a        \u000a            \u000a            \u000a            \u000a                \u000a                \u000a                \u000a                    \u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a        \u000a            \u000a\u000a\u000a\u000a\u000a\u000a    \u000a        \u000a            \u000a                \u000a\u000a4.5 out of 5 stars\u000a                \u000a            \u000a        \u000a        \u000a    \u000a\u000a\u000a        \u000a        \u000a        \u000a        \u000a\u000a        \u000a\u000a        \u000a            \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a            \u000a            \u000a                \u000a                    \u000a                        1,259 customer reviews\u000a                    \u000a                \u000a            \u000a                \u000a                    P.when('A', 'ready').execute(function(A) {\u000a                        A.declarative('acrLink-click-metrics', 'click', { "allowLinkDefault" : true }, function(event){\u000a                            if(window.ue) {\u000a                                ue.count("acrLinkClickCount", (ue.count("acrLinkClickCount") || 0) + 1);\u000a                            }\u000a                        });\u000a                    });\u000a                \u000a            \u000a            \u000a            \u000a            \u000a        \u000a        \u000a        \u000a            P.when('A', 'cf').execute(function(A) {\u000a                A.declarative('acrStarsLink-click-metrics', 'click', { "allowLinkDefault" : true },  function(event){\u000a                    if(window.ue) {\u000a                        ue.count("acrStarsLinkWithPopoverClickCount", (ue.count("acrStarsLinkWithPopoverClickCount") || 0) + 1);\u000a                    }\u000a                });\u000a            });\u000a        \u000a\u000a\u000a                \u000a            \u000a        \u000a    \u000a\u000a\u000a  4.5 out of 5 stars
+p41110
+sVComputer Memory Type
+p41111
+VDDR3L-1600 SDRAM
+p41112
+sVShipping Weight
+p41113
+V8.4 pounds (View shipping rates and policies)
+p41114
+sVColor
+p41115
+VSilver
+p41116
+sVSeries
+p41117
+VMacBook Pro
+p41118
+sVNumber of USB 3.0 Ports
+p41119
+g41090
+sVFlash Memory Size
+p41120
+V16
+p41121
+sVMemory Speed
+p41122
+V1600 MHz
+p41123
+sVBatteries
+p41124
+V1 Lithium Metal batteries required.
+p41125
+sVCard Description
+p41126
+Vintegrated
+p41127
+sVVoltage
+p41128
+V240 volts
+p41129
+sVHard Drive Interface
+p41130
+VSolid State
+p41131
+sVBest Sellers Rank
+p41132
+V#539 in Computers & Accessories (See top 100)\u000a        \u000a              \u000a                #41 in Computers & Accessories > Laptops > Traditional Laptops
+p41133
+sVProduct Dimensions
+p41134
+V9.7 x 14.1 x 0.7 inches
+p41135
+ssg19
+(S'Apple 15 Inch MacBook Pro Laptop (Retina Display, 2.2GHz Intel Core i7, 16GB RAM, 256GB Hard Drive, Intel Iris Pro Graphics) Silver, MJLQ2LL/A'
+p41136
+Ntp41137
+sbag1
+(g41029
+g3
+Ntp41138
+Rp41139
+(dp41140
+g7
+S'https://www.amazon.com/Dell-Inspiron-Gaming-Laptop-i5577-7359BLK-PUS/dp/B06XFGF7SN'
+p41141
+sg9
+V$809.00
+p41142
+sg11
+(dp41143
+VDisplay Resolution Maximum
+p41144
+V1920 x 1080
+p41145
+sVItem model number
+p41146
+Vi5577-7359BLK-PUS
+p41147
+sVInternational Shipping
+p41148
+VThis item is not eligible for international shipping.  Learn More
+p41149
+sVItem Dimensions
+p41150
+V15.7 x 10.43 x 0.99 in
+p41151
+sVDate First Available
+p41152
+VMarch 29, 2017
+p41153
+sVHard Drive Rotational Speed
+p41154
+V5400 RPM
+p41155
+sVProcessor Count
+p41156
+V4
+p41157
+sVRAM Size
+p41158
+V8 GB
+p41159
+sVChipset Brand
+p41160
+VNVIDIA
+p41161
+sVHard-Drive Size
+p41162
+V1,000 GB
+p41163
+sVASIN
+p41164
+VB06XFGF7SN
+p41165
+sVOperating System
+p41166
+VWindows 10
+p41167
+sVBrand Name
+p41168
+VDell
+p41169
+sVProcessor Brand
+p41170
+VIntel
+p41171
+sVDisplay Technology
+p41172
+VLED-Lit
+p41173
+sVRAM
+p41174
+V8 GB DDR4
+p41175
+sVDomestic Shipping
+p41176
+VCurrently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.
+p41177
+sVProcessor (CPU) Manufacturer
+p41178
+VIntel
+p41179
+sVScreen Size
+p41180
+V15.6 inches
+p41181
+sVGraphics Coprocessor
+p41182
+VNVIDIA GeForce GTX 1050
+p41183
+sVHardware Platform
+p41184
+VPC
+p41185
+sVOptical Drive Type
+p41186
+VNone
+p41187
+sVRAM Type
+p41188
+VDDR4 SDRAM
+p41189
+sVMax Screen Resolution
+p41190
+V1920 x 1080
+p41191
+sVWireless Compatibility
+p41192
+V\u2014
+p41193
+sVItem Weight
+p41194
+V5.66 pounds
+p41195
+sVItem Dimensions  L x W x H
+p41196
+V10.43 x 15.7 x 0.99 inches
+p41197
+sVHard Drive
+p41198
+V1000 GB Hybrid Drive
+p41199
+sVProcessor Speed
+p41200
+V3.8 GHz
+p41201
+sVProcessor
+p41202
+V3.8 GHz Core i7 Family
+p41203
+sVCustomer Reviews
+p41204
+V/* \u000a    * Fix for UDP-1061. Average customer reviews has a small extra line on hover \u000a    * https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\u000a    */\u000a    .noUnderline a:hover { \u000a        text-decoration: none; \u000a    }\u000a\u000a\u000a\u000a\u000a    \u000a    \u000a    \u000a    \u000a        \u000a\u000a        \u000a        \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a		\u000a		\u000a		\u000a		\u000a		        \u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		        \u000a        \u000a\u000a        \u000a            \u000a            \u000a            \u000a                \u000a                \u000a                \u000a                    \u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a        \u000a            \u000a\u000a\u000a\u000a\u000a\u000a    \u000a        \u000a            \u000a                \u000a\u000a3.8 out of 5 stars\u000a                \u000a            \u000a        \u000a        \u000a    \u000a\u000a\u000a        \u000a        \u000a        \u000a        \u000a\u000a        \u000a\u000a        \u000a            \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a            \u000a            \u000a                \u000a                    \u000a                        390 customer reviews\u000a                    \u000a                \u000a            \u000a                \u000a                    P.when('A', 'ready').execute(function(A) {\u000a                        A.declarative('acrLink-click-metrics', 'click', { "allowLinkDefault" : true }, function(event){\u000a                            if(window.ue) {\u000a                                ue.count("acrLinkClickCount", (ue.count("acrLinkClickCount") || 0) + 1);\u000a                            }\u000a                        });\u000a                    });\u000a                \u000a            \u000a            \u000a            \u000a            \u000a        \u000a        \u000a        \u000a            P.when('A', 'cf').execute(function(A) {\u000a                A.declarative('acrStarsLink-click-metrics', 'click', { "allowLinkDefault" : true },  function(event){\u000a                    if(window.ue) {\u000a                        ue.count("acrStarsLinkWithPopoverClickCount", (ue.count("acrStarsLinkWithPopoverClickCount") || 0) + 1);\u000a                    }\u000a                });\u000a            });\u000a        \u000a\u000a\u000a                \u000a            \u000a        \u000a    \u000a\u000a\u000a  3.8 out of 5 stars
+p41205
+sVComputer Memory Type
+p41206
+VDDR4 SDRAM
+p41207
+sVShipping Weight
+p41208
+V8.9 pounds (View shipping rates and policies)
+p41209
+sVColor
+p41210
+VBlack
+p41211
+sVSeries
+p41212
+VDell Inspiron
+p41213
+sVNumber of USB 3.0 Ports
+p41214
+V3
+p41215
+sVFlash Memory Size
+p41216
+V128.0
+p41217
+sVGraphics Card Ram Size
+p41218
+V4 GB
+p41219
+sVBatteries
+p41220
+V1 Lithium Polymer batteries required. (included)
+p41221
+sVCard Description
+p41222
+VDedicated
+p41223
+sVHard Drive Interface
+p41224
+VSerial ATA
+p41225
+sVBest Sellers Rank
+p41226
+V#428 in Computers & Accessories (See top 100)\u000a        \u000a              \u000a                #32 in Computers & Accessories > Laptops > Traditional Laptops
+p41227
+sVProduct Dimensions
+p41228
+V10.4 x 15.7 x 1 inches
+p41229
+ssg19
+(S'Dell Inspiron Gaming Laptop - 15.6" Full HD, Core i7- 7700HQ, 8 GB RAM, 1000 GB HDD + 128GB SSD, GTX 1050, Metal Chassis - i5577-7359BLK-PUS'
+p41230
+Ntp41231
+sbag1
+(g41029
+g3
+Ntp41232
+Rp41233
+(dp41234
+g7
+S'https://www.amazon.com/Performance-HP-Quad-Core-Processor-Graphics/dp/B01NBE6Y5D'
+p41235
+sg9
+V$295.00
+p41236
+sg11
+(dp41237
+VDisplay Resolution Maximum
+p41238
+V\u2014
+p41239
+sVItem model number
+p41240
+V15-BA009DX
+p41241
+sVItem Dimensions
+p41242
+V10 x 15 x 0.9 in
+p41243
+sVDate First Available
+p41244
+VDecember 15, 2016
+p41245
+sVHard Drive Rotational Speed
+p41246
+V5400 RPM
+p41247
+sVAverage Battery Life (in hours)
+p41248
+V5.5 hours
+p41249
+sVProcessor Count
+p41250
+V2
+p41251
+sVRAM Size
+p41252
+V4 GB
+p41253
+sVChipset Brand
+p41254
+Vamd
+p41255
+sVWireless Type
+p41256
+V802.11 B/G, 802.11bgn, 802.11n, 802.11B
+p41257
+sVHard-Drive Size
+p41258
+V500 GB
+p41259
+sVASIN
+p41260
+VB01NBE6Y5D
+p41261
+sVOperating System
+p41262
+Vwindows 10
+p41263
+sVBrand Name
+p41264
+VHP
+p41265
+sVProcessor Brand
+p41266
+VAMD
+p41267
+sVDisplay Technology
+p41268
+VLED
+p41269
+sVRAM
+p41270
+V4 GB DDR3 SDRAM
+p41271
+sVProcessor (CPU) Manufacturer
+p41272
+VAMD
+p41273
+sVScreen Size
+p41274
+V15.6 inches
+p41275
+sVGraphics Coprocessor
+p41276
+Vradeon r4
+p41277
+sVNumber of USB 2.0 Ports
+p41278
+V1
+p41279
+sVRAM Type
+p41280
+VDDR3 SDRAM
+p41281
+sVWireless Compatibility
+p41282
+V802.11 B/G, 802.11bgn, 802.11n, 802.11B
+p41283
+sVItem Weight
+p41284
+V5.73 pounds
+p41285
+sVItem Dimensions  L x W x H
+p41286
+V15 x 10 x 0.9 inches
+p41287
+sVHard Drive
+p41288
+V500 GB mechanical_hard_drive
+p41289
+sVProcessor Speed
+p41290
+V2 GHz
+p41291
+sVProcessor
+p41292
+V2 GHz AMD A6
+p41293
+sVCustomer Reviews
+p41294
+V/* \u000a    * Fix for UDP-1061. Average customer reviews has a small extra line on hover \u000a    * https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\u000a    */\u000a    .noUnderline a:hover { \u000a        text-decoration: none; \u000a    }\u000a\u000a\u000a\u000a\u000a    \u000a    \u000a    \u000a    \u000a        \u000a\u000a        \u000a        \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a		\u000a		\u000a		\u000a		\u000a		        \u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		        \u000a        \u000a\u000a        \u000a            \u000a            \u000a            \u000a                \u000a                \u000a                \u000a                    \u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a        \u000a            \u000a\u000a\u000a\u000a\u000a\u000a    \u000a        \u000a            \u000a                \u000a\u000a3.4 out of 5 stars\u000a                \u000a            \u000a        \u000a        \u000a    \u000a\u000a\u000a        \u000a        \u000a        \u000a        \u000a\u000a        \u000a\u000a        \u000a            \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a            \u000a            \u000a                \u000a                    \u000a                        658 customer reviews\u000a                    \u000a                \u000a            \u000a                \u000a                    P.when('A', 'ready').execute(function(A) {\u000a                        A.declarative('acrLink-click-metrics', 'click', { "allowLinkDefault" : true }, function(event){\u000a                            if(window.ue) {\u000a                                ue.count("acrLinkClickCount", (ue.count("acrLinkClickCount") || 0) + 1);\u000a                            }\u000a                        });\u000a                    });\u000a                \u000a            \u000a            \u000a            \u000a            \u000a        \u000a        \u000a        \u000a            P.when('A', 'cf').execute(function(A) {\u000a                A.declarative('acrStarsLink-click-metrics', 'click', { "allowLinkDefault" : true },  function(event){\u000a                    if(window.ue) {\u000a                        ue.count("acrStarsLinkWithPopoverClickCount", (ue.count("acrStarsLinkWithPopoverClickCount") || 0) + 1);\u000a                    }\u000a                });\u000a            });\u000a        \u000a\u000a\u000a                \u000a            \u000a        \u000a    \u000a\u000a\u000a  3.4 out of 5 stars
+p41295
+sVComputer Memory Type
+p41296
+VDDR3 SDRAM
+p41297
+sVShipping Weight
+p41298
+V5.95 pounds (View shipping rates and policies)
+p41299
+sVSeries
+p41300
+V15-BA009DX
+p41301
+sVBatteries
+p41302
+V2 Lithium Polymer batteries required. (included)
+p41303
+sVCard Description
+p41304
+Vintegrated
+p41305
+sVBest Sellers Rank
+p41306
+V#376 in Computers & Accessories (See top 100)\u000a        \u000a              \u000a                #26 in Computers & Accessories > Laptops > Traditional Laptops
+p41307
+sVProduct Dimensions
+p41308
+V15 x 10 x 0.9 inches
+p41309
+ssg19
+(S'High Performance HP 15.6" Laptop PC AMD A6-7310 Quad-Core Processor 4GB RAM 500GB HDD AMD Radeon R4 Graphics DVD-RW HDMI WIFI HDMI Webcam DTS Audio Windows 10-Black'
+p41310
+Ntp41311
+sbag1
+(g41029
+g3
+Ntp41312
+Rp41313
+(dp41314
+g7
+S'https://www.amazon.com/HP-Stream-Laptop-PC-14-ax010nr/dp/B01JLCKP34'
+p41315
+sg9
+V$209.99
+p41316
+sg11
+(dp41317
+VDisplay Resolution Maximum
+p41318
+V1366 x 768
+p41319
+sVItem model number
+p41320
+V14-ax010nr
+p41321
+sVInternational Shipping
+p41322
+VThis item is not eligible for international shipping.  Learn More
+p41323
+sVItem Dimensions
+p41324
+V13.27 x 8.9 x 0.7 in
+p41325
+sVDate First Available
+p41326
+VSeptember 1, 2016
+p41327
+sVAverage Battery Life (in hours)
+p41328
+V10.45 hours
+p41329
+sVProcessor Count
+p41330
+V2
+p41331
+sVRAM Size
+p41332
+V4 GB
+p41333
+sVProcessor Brand
+p41334
+VIntel
+p41335
+sVWireless Type
+p41336
+V802.11 A/C
+p41337
+sVASIN
+p41338
+VB01JLCKP34
+p41339
+sVOperating System
+p41340
+VWindows 10
+p41341
+sVBrand Name
+p41342
+VHP
+p41343
+sVHard-Drive Size
+p41344
+V32 GB
+p41345
+sVDisplay Technology
+p41346
+VLED-Lit
+p41347
+sVRAM
+p41348
+V4 GB DDR3 SDRAM
+p41349
+sVDomestic Shipping
+p41350
+VCurrently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.
+p41351
+sVProcessor (CPU) Manufacturer
+p41352
+VIntel
+p41353
+sVScreen Size
+p41354
+V14 inches
+p41355
+sVGraphics Coprocessor
+p41356
+VIntel HD Graphics 400
+p41357
+sVNumber of USB 2.0 Ports
+p41358
+V1
+p41359
+sVRAM Type
+p41360
+VUnknown
+p41361
+sVMax Screen Resolution
+p41362
+V1366 x 768
+p41363
+sVWireless Compatibility
+p41364
+V802.11 A/C
+p41365
+sVItem Weight
+p41366
+V3.17 pounds
+p41367
+sVItem Dimensions  L x W x H
+p41368
+V8.9 x 13.27 x 0.7 inches
+p41369
+sVHard Drive
+p41370
+V32 GB eMMC
+p41371
+sVProcessor Speed
+p41372
+V1.6 GHz
+p41373
+sVProcessor
+p41374
+V1.6 GHz Intel Celeron
+p41375
+sVCustomer Reviews
+p41376
+V/* \u000a    * Fix for UDP-1061. Average customer reviews has a small extra line on hover \u000a    * https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\u000a    */\u000a    .noUnderline a:hover { \u000a        text-decoration: none; \u000a    }\u000a\u000a\u000a\u000a\u000a    \u000a    \u000a    \u000a    \u000a        \u000a\u000a        \u000a        \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a		\u000a		\u000a		\u000a		\u000a		        \u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		        \u000a        \u000a\u000a        \u000a            \u000a            \u000a            \u000a                \u000a                \u000a                \u000a                    \u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a        \u000a            \u000a\u000a\u000a\u000a\u000a\u000a    \u000a        \u000a            \u000a                \u000a\u000a3.3 out of 5 stars\u000a                \u000a            \u000a        \u000a        \u000a    \u000a\u000a\u000a        \u000a        \u000a        \u000a        \u000a\u000a        \u000a\u000a        \u000a            \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a            \u000a            \u000a                \u000a                    \u000a                        1,816 customer reviews\u000a                    \u000a                \u000a            \u000a                \u000a                    P.when('A', 'ready').execute(function(A) {\u000a                        A.declarative('acrLink-click-metrics', 'click', { "allowLinkDefault" : true }, function(event){\u000a                            if(window.ue) {\u000a                                ue.count("acrLinkClickCount", (ue.count("acrLinkClickCount") || 0) + 1);\u000a                            }\u000a                        });\u000a                    });\u000a                \u000a            \u000a            \u000a            \u000a            \u000a        \u000a        \u000a        \u000a            P.when('A', 'cf').execute(function(A) {\u000a                A.declarative('acrStarsLink-click-metrics', 'click', { "allowLinkDefault" : true },  function(event){\u000a                    if(window.ue) {\u000a                        ue.count("acrStarsLinkWithPopoverClickCount", (ue.count("acrStarsLinkWithPopoverClickCount") || 0) + 1);\u000a                    }\u000a                });\u000a            });\u000a        \u000a\u000a\u000a                \u000a            \u000a        \u000a    \u000a\u000a\u000a  3.3 out of 5 stars
+p41377
+sVShipping Weight
+p41378
+V5.15 pounds (View shipping rates and policies)
+p41379
+sVColor
+p41380
+VBlue
+p41381
+sVSeries
+p41382
+VHp Stream
+p41383
+sVNumber of USB 3.0 Ports
+p41384
+g41331
+sVFlash Memory Size
+p41385
+V32
+p41386
+sVMemory Speed
+p41387
+V1600 MHz
+p41388
+sVBatteries
+p41389
+V1 Lithium Polymer batteries required. (included)
+p41390
+sVCard Description
+p41391
+VIntegrated
+p41392
+sVBest Sellers Rank
+p41393
+V#398 in Computers & Accessories (See top 100)\u000a        \u000a              \u000a                #27 in Computers & Accessories > Laptops > Traditional Laptops
+p41394
+sVProduct Dimensions
+p41395
+V8.9 x 13.3 x 0.7 inches
+p41396
+ssg19
+(S'HP Stream Laptop PC - 14" HD, Intel Celeron N3060, 4 GB RAM, 32 GB eMMC, Office 365 Personal for one year - 14-ax010nr'
+p41397
+Ntp41398
+sbag1
+(g41029
+g3
+Ntp41399
+Rp41400
+(dp41401
+g7
+S'https://www.amazon.com/Lenovo-Anti-Glare-Touchscreen-Quad-Core-Processor/dp/B077XS11LS'
+p41402
+sg9
+V$599.00
+p41403
+sg11
+(dp41404
+VDisplay Resolution Maximum
+p41405
+V1366x768
+p41406
+sVItem model number
+p41407
+VT8TJG
+p41408
+sVItem Dimensions
+p41409
+V11 x 15 x 1 in
+p41410
+sVDate First Available
+p41411
+VDecember 3, 2017
+p41412
+sVHard Drive Rotational Speed
+p41413
+V5400 RPM
+p41414
+sVProcessor Count
+p41415
+V4
+p41416
+sVRAM Size
+p41417
+V8 GB
+p41418
+sVChipset Brand
+p41419
+Vintel
+p41420
+sVHard-Drive Size
+p41421
+V1 TB
+p41422
+sVASIN
+p41423
+VB077XS11LS
+p41424
+sVOperating System
+p41425
+Vwindows 10
+p41426
+sVBrand Name
+p41427
+VLenovo
+p41428
+sVProcessor Brand
+p41429
+VIntel
+p41430
+sVDisplay Technology
+p41431
+VLED
+p41432
+sVRAM
+p41433
+V8 GB SDRAM DDR4
+p41434
+sVProcessor (CPU) Manufacturer
+p41435
+VIntel
+p41436
+sVScreen Size
+p41437
+V15.6 inches
+p41438
+sVGraphics Coprocessor
+p41439
+Vintegrated_graphics
+p41440
+sVHardware Platform
+p41441
+VPC
+p41442
+sVRAM Type
+p41443
+VDDR3 SDRAM
+p41444
+sVMax Screen Resolution
+p41445
+V1366x768
+p41446
+sVWireless Compatibility
+p41447
+V\u2014
+p41448
+sVItem Weight
+p41449
+V4.85 pounds
+p41450
+sVItem Dimensions  L x W x H
+p41451
+V15 x 11 x 1 inches
+p41452
+sVHard Drive
+p41453
+V1 TB HDD 5400 rpm
+p41454
+sVProcessor Speed
+p41455
+V1.6 GHz
+p41456
+sVProcessor
+p41457
+V1.6 GHz Intel Core i5
+p41458
+sVCustomer Reviews
+p41459
+V/* \u000a    * Fix for UDP-1061. Average customer reviews has a small extra line on hover \u000a    * https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\u000a    */\u000a    .noUnderline a:hover { \u000a        text-decoration: none; \u000a    }\u000a\u000a\u000a\u000a\u000a    \u000a    \u000a    \u000a    \u000a        \u000a\u000a        \u000a        \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a		\u000a		\u000a		\u000a		\u000a		        \u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		        \u000a        \u000a\u000a        \u000a            \u000a            \u000a            \u000a                \u000a                \u000a                \u000a                    \u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a        \u000a            \u000a\u000a\u000a\u000a\u000a\u000a    \u000a        \u000a            \u000a                \u000a\u000a3.8 out of 5 stars\u000a                \u000a            \u000a        \u000a        \u000a    \u000a\u000a\u000a        \u000a        \u000a        \u000a        \u000a\u000a        \u000a\u000a        \u000a            \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a            \u000a            \u000a                \u000a                    \u000a                        17 customer reviews\u000a                    \u000a                \u000a            \u000a                \u000a                    P.when('A', 'ready').execute(function(A) {\u000a                        A.declarative('acrLink-click-metrics', 'click', { "allowLinkDefault" : true }, function(event){\u000a                            if(window.ue) {\u000a                                ue.count("acrLinkClickCount", (ue.count("acrLinkClickCount") || 0) + 1);\u000a                            }\u000a                        });\u000a                    });\u000a                \u000a            \u000a            \u000a            \u000a            \u000a        \u000a        \u000a        \u000a            P.when('A', 'cf').execute(function(A) {\u000a                A.declarative('acrStarsLink-click-metrics', 'click', { "allowLinkDefault" : true },  function(event){\u000a                    if(window.ue) {\u000a                        ue.count("acrStarsLinkWithPopoverClickCount", (ue.count("acrStarsLinkWithPopoverClickCount") || 0) + 1);\u000a                    }\u000a                });\u000a            });\u000a        \u000a\u000a\u000a                \u000a            \u000a        \u000a    \u000a\u000a\u000a  3.8 out of 5 stars
+p41460
+sVComputer Memory Type
+p41461
+VDDR3 SDRAM
+p41462
+sVShipping Weight
+p41463
+V5.95 pounds (View shipping rates and policies)
+p41464
+sVColor
+p41465
+VSilver
+p41466
+sVSeries
+p41467
+VLenovo 320
+p41468
+sVBatteries
+p41469
+V1 Lithium Polymer batteries required. (included)
+p41470
+sVCard Description
+p41471
+Vintegrated
+p41472
+sVHard Drive Interface
+p41473
+VSerial ATA
+p41474
+sVBest Sellers Rank
+p41475
+V#680 in Computers & Accessories (See top 100)\u000a        \u000a              \u000a                #61 in Computers & Accessories > Laptops > Traditional Laptops
+p41476
+sVProduct Dimensions
+p41477
+V15 x 11 x 1 inches
+p41478
+ssg19
+(S'2018 Lenovo Business Flagship Laptop PC 15.6" Anti-Glare Touchscreen Intel 8th Gen i5-8250U Quad-Core Processor 12GB DDR4 RAM 1TB HDD DVD-RW Webcam HDMI Dolby Audio Windows 10'
+p41479
+Ntp41480
+sbag1
+(g41029
+g3
+Ntp41481
+Rp41482
+(dp41483
+g7
+S'https://www.amazon.com/UX550VE-DB71T-15-6-inch-NanoEdge-i7-7700HQ-Fingerprint/dp/B07532Y2LL'
+p41484
+sg9
+V$1,698.99
+p41485
+sg11
+(dp41486
+VDisplay Resolution Maximum
+p41487
+V1920 x 1080 pixels
+p41488
+sVItem model number
+p41489
+VUX550VE-DB71T
+p41490
+sVInternational Shipping
+p41491
+VThis item can be shipped to select countries outside of the U.S.  Learn More
+p41492
+sVItem Dimensions
+p41493
+V9.9 x 14.4 x 0.6 in
+p41494
+sVDate First Available
+p41495
+VAugust 23, 2017
+p41496
+sVAverage Battery Life (in hours)
+p41497
+V14 hours
+p41498
+sVProcessor Count
+p41499
+V4
+p41500
+sVRAM Size
+p41501
+V16 GB
+p41502
+sVProcessor Brand
+p41503
+VIntel
+p41504
+sVWireless Type
+p41505
+V802.11 A/C
+p41506
+sVASIN
+p41507
+VB07532Y2LL
+p41508
+sVOperating System
+p41509
+VWindows 10
+p41510
+sVBrand Name
+p41511
+VAsus
+p41512
+sVHard-Drive Size
+p41513
+V0 GB
+p41514
+sVDisplay Technology
+p41515
+VLED-Lit
+p41516
+sVRAM
+p41517
+V16 GB DDR4
+p41518
+sVDomestic Shipping
+p41519
+VCurrently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.
+p41520
+sVProcessor (CPU) Manufacturer
+p41521
+VIntel
+p41522
+sVScreen Size
+p41523
+V15.6 inches
+p41524
+sVGraphics Coprocessor
+p41525
+VNVIDIA GeForce GTX 1050 Ti
+p41526
+sVOptical Drive Type
+p41527
+VNone
+p41528
+sVRAM Type
+p41529
+VUnknown
+p41530
+sVMax Screen Resolution
+p41531
+V1920 x 1080 pixels
+p41532
+sVWireless Compatibility
+p41533
+V802.11 A/C
+p41534
+sVItem Weight
+p41535
+V4 pounds
+p41536
+sVItem Dimensions  L x W x H
+p41537
+V14.4 x 9.9 x 0.6 inches
+p41538
+sVHard Drive
+p41539
+VFlash Memory Solid State
+p41540
+sVProcessor Speed
+p41541
+V2.8 GHz
+p41542
+sVProcessor
+p41543
+V2.8 GHz Intel Core i7
+p41544
+sVCustomer Reviews
+p41545
+V/* \u000a    * Fix for UDP-1061. Average customer reviews has a small extra line on hover \u000a    * https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\u000a    */\u000a    .noUnderline a:hover { \u000a        text-decoration: none; \u000a    }\u000a\u000a\u000a\u000a\u000a    \u000a    \u000a    \u000a    \u000a        \u000a\u000a        \u000a        \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a		\u000a		\u000a		\u000a		\u000a		        \u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		        \u000a        \u000a\u000a        \u000a            \u000a            \u000a            \u000a                \u000a                \u000a                \u000a                    \u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a        \u000a            \u000a\u000a\u000a\u000a\u000a\u000a    \u000a        \u000a            \u000a                \u000a\u000a4.0 out of 5 stars\u000a                \u000a            \u000a        \u000a        \u000a    \u000a\u000a\u000a        \u000a        \u000a        \u000a        \u000a\u000a        \u000a\u000a        \u000a            \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a            \u000a            \u000a                \u000a                    \u000a                        28 customer reviews\u000a                    \u000a                \u000a            \u000a                \u000a                    P.when('A', 'ready').execute(function(A) {\u000a                        A.declarative('acrLink-click-metrics', 'click', { "allowLinkDefault" : true }, function(event){\u000a                            if(window.ue) {\u000a                                ue.count("acrLinkClickCount", (ue.count("acrLinkClickCount") || 0) + 1);\u000a                            }\u000a                        });\u000a                    });\u000a                \u000a            \u000a            \u000a            \u000a            \u000a        \u000a        \u000a        \u000a            P.when('A', 'cf').execute(function(A) {\u000a                A.declarative('acrStarsLink-click-metrics', 'click', { "allowLinkDefault" : true },  function(event){\u000a                    if(window.ue) {\u000a                        ue.count("acrStarsLinkWithPopoverClickCount", (ue.count("acrStarsLinkWithPopoverClickCount") || 0) + 1);\u000a                    }\u000a                });\u000a            });\u000a        \u000a\u000a\u000a                \u000a            \u000a        \u000a    \u000a\u000a\u000a  4.0 out of 5 stars
+p41546
+sVShipping Weight
+p41547
+V8.7 pounds (View shipping rates and policies)
+p41548
+sVColor
+p41549
+VBlack
+p41550
+sVSeries
+p41551
+VASUS ZenBook
+p41552
+sVNumber of USB 3.0 Ports
+p41553
+V2
+p41554
+sVFlash Memory Size
+p41555
+V512 GB
+p41556
+sVGraphics Card Ram Size
+p41557
+V4 GB
+p41558
+sVBatteries
+p41559
+V1 Lithium Polymer batteries required. (included)
+p41560
+sVCard Description
+p41561
+VDedicated
+p41562
+sVBest Sellers Rank
+p41563
+V#2,365 in Computers & Accessories (See top 100)\u000a        \u000a              \u000a                #266 in Computers & Accessories > Laptops > Traditional Laptops
+p41564
+sVProduct Dimensions
+p41565
+V14.4 x 9.9 x 0.6 inches
+p41566
+ssg19
+(S'ASUS ZenBook Pro UX550VE-DB71T 15.6-inch NanoEdge FHD Touch Laptop, Intel Core i7-7700HQ, GTX 1050Ti, 16GB DDR4, PCIE NVMe 512GB SSD, Windows 10, Backlit keyboard, Fingerprint Reader, Black, Gaming'
+p41567
+Ntp41568
+sbag1
+(g41029
+g3
+Ntp41569
+Rp41570
+(dp41571
+g7
+S'https://www.amazon.com/Dell-Inspiron-5000-Theoretical-i5379-5893GRY-PUS/dp/B0764LNTCZ'
+p41572
+sg9
+V$679.88
+p41573
+sg11
+(dp41574
+VDisplay Resolution Maximum
+p41575
+V1920 x 1080
+p41576
+sVItem model number
+p41577
+Vi5379-5893GRY-PUS
+p41578
+sVInternational Shipping
+p41579
+VThis item is not eligible for international shipping.  Learn More
+p41580
+sVItem Dimensions
+p41581
+V12.76 x 8.85 x 0.79 in
+p41582
+sVHard Disk Description
+p41583
+VFlash Memory Solid State, SATA
+p41584
+sVDate First Available
+p41585
+VOctober 19, 2017
+p41586
+sVProcessor Count
+p41587
+V2
+p41588
+sVRAM Size
+p41589
+V8 GB
+p41590
+sVProcessor Brand
+p41591
+VIntel
+p41592
+sVWireless Type
+p41593
+V802.11A
+p41594
+sVHard-Drive Size
+p41595
+V256 GB
+p41596
+sVASIN
+p41597
+VB0764LNTCZ
+p41598
+sVHuman-Interface Input
+p41599
+VTouch Pad
+p41600
+sVBrand Name
+p41601
+VDell
+p41602
+sVChipset Brand
+p41603
+VIntel
+p41604
+sVDisplay Technology
+p41605
+VLED-Lit
+p41606
+sVRAM
+p41607
+V8 GB DDR4
+p41608
+sVDomestic Shipping
+p41609
+VCurrently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.
+p41610
+sVProcessor (CPU) Manufacturer
+p41611
+VIntel
+p41612
+sVScreen Size
+p41613
+V13.3 inches
+p41614
+sVGraphics Coprocessor
+p41615
+VIntel UHD Graphics 620
+p41616
+sVHardware Platform
+p41617
+VPC
+p41618
+sVOptical Drive Type
+p41619
+VNone
+p41620
+sVNumber of USB 2.0 Ports
+p41621
+V1
+p41622
+sVGraphics Description
+p41623
+VIntegrated
+p41624
+sVWireless Compatibility
+p41625
+V802.11A
+p41626
+sVMax Screen Resolution
+p41627
+V1920 x 1080
+p41628
+sVItem Weight
+p41629
+V3.56 pounds
+p41630
+sVItem Dimensions  L x W x H
+p41631
+V8.85 x 12.76 x 0.79 inches
+p41632
+sVHard Drive
+p41633
+V256 GB Flash Memory Solid State
+p41634
+sVOperating System
+p41635
+VWindows 10
+p41636
+sVProcessor Speed
+p41637
+V3.4 GHz
+p41638
+sVProcessor
+p41639
+V3.4 GHz Intel Core i5
+p41640
+sVCustomer Reviews
+p41641
+V/* \u000a    * Fix for UDP-1061. Average customer reviews has a small extra line on hover \u000a    * https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\u000a    */\u000a    .noUnderline a:hover { \u000a        text-decoration: none; \u000a    }\u000a\u000a\u000a\u000a\u000a    \u000a    \u000a    \u000a    \u000a        \u000a\u000a        \u000a        \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a		\u000a		\u000a		\u000a		\u000a		        \u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		        \u000a        \u000a\u000a        \u000a            \u000a            \u000a            \u000a                \u000a                \u000a                \u000a                    \u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a        \u000a            \u000a\u000a\u000a\u000a\u000a\u000a    \u000a        \u000a            \u000a                \u000a\u000a4.1 out of 5 stars\u000a                \u000a            \u000a        \u000a        \u000a    \u000a\u000a\u000a        \u000a        \u000a        \u000a        \u000a\u000a        \u000a\u000a        \u000a            \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a            \u000a            \u000a                \u000a                    \u000a                        20 customer reviews\u000a                    \u000a                \u000a            \u000a                \u000a                    P.when('A', 'ready').execute(function(A) {\u000a                        A.declarative('acrLink-click-metrics', 'click', { "allowLinkDefault" : true }, function(event){\u000a                            if(window.ue) {\u000a                                ue.count("acrLinkClickCount", (ue.count("acrLinkClickCount") || 0) + 1);\u000a                            }\u000a                        });\u000a                    });\u000a                \u000a            \u000a            \u000a            \u000a            \u000a        \u000a        \u000a        \u000a            P.when('A', 'cf').execute(function(A) {\u000a                A.declarative('acrStarsLink-click-metrics', 'click', { "allowLinkDefault" : true },  function(event){\u000a                    if(window.ue) {\u000a                        ue.count("acrStarsLinkWithPopoverClickCount", (ue.count("acrStarsLinkWithPopoverClickCount") || 0) + 1);\u000a                    }\u000a                });\u000a            });\u000a        \u000a\u000a\u000a                \u000a            \u000a        \u000a    \u000a\u000a\u000a  4.1 out of 5 stars
+p41642
+sVComputer Memory Type
+p41643
+VDDR3 SDRAM
+p41644
+sVShipping Weight
+p41645
+V5.1 pounds (View shipping rates and policies)
+p41646
+sVColor
+p41647
+VTheoretical Gray
+p41648
+sVSeries
+p41649
+VDell Inspiron
+p41650
+sVNumber of USB 3.0 Ports
+p41651
+g41588
+sVFlash Memory Size
+p41652
+V256.0
+p41653
+sVBatteries
+p41654
+V1 Lithium ion batteries required. (included)
+p41655
+sVCard Description
+p41656
+VIntegrated
+p41657
+sVHard Drive Interface
+p41658
+VSerial ATA
+p41659
+sVBest Sellers Rank
+p41660
+V#461 in Computers & Accessories (See top 100)\u000a        \u000a              \u000a                #7 in Computers & Accessories > Laptops > 2 in 1 Laptops
+p41661
+sVProcessor Series
+p41662
+VIntel Core i5
+p41663
+sVProduct Dimensions
+p41664
+V8.8 x 12.8 x 0.8 inches
+p41665
+ssg19
+(S'Dell Inspiron 13 5000 2-in-1 - 13.3" FHD Touch - 8th Gen Intel i5-8250U - 8GB Memory - 256GB SSD - Intel UHD Graphics 620 - Theoretical Gray - i5379-5893GRY-PUS'
+p41666
+Ntp41667
+sbag1
+(g41029
+g3
+Ntp41668
+Rp41669
+(dp41670
+g7
+S'https://www.amazon.com/Apple-MacBook-Latest-Model-128GB/dp/B01N7V3V2M'
+p41671
+sg9
+V$835.00
+p41672
+sg11
+(dp41673
+VDisplay Resolution Maximum
+p41674
+V\u2014
+p41675
+sVASIN
+p41676
+VB01N7V3V2M
+p41677
+sVScreen Size
+p41678
+V13.3 in
+p41679
+sVOperating System
+p41680
+VMac OS X
+p41681
+sVProcessor (CPU) Manufacturer
+p41682
+VIntel
+p41683
+sVItem Dimensions
+p41684
+V13 x 17 x 4 in
+p41685
+sVRAM Type
+p41686
+VDDR3 SDRAM
+p41687
+sVBest Sellers Rank
+p41688
+V#1,949 in Electronics (See Top 100 in Electronics)\u000a        \u000a              \u000a                #39 in Electronics > Computers & Accessories > Computers & Tablets > Laptops > Traditional Laptops
+p41689
+sVDisplay Technology
+p41690
+VLED
+p41691
+sVDate first available at Amazon.com
+p41692
+VJanuary 23, 2017
+p41693
+sVWireless Compatibility
+p41694
+V802.11 A/C
+p41695
+sVShipping Weight
+p41696
+V5 pounds (View shipping rates and policies)
+p41697
+sVItem Weight
+p41698
+V5 pounds
+p41699
+sVProduct Dimensions
+p41700
+V17 x 13 x 4 inches
+p41701
+sVBatteries
+p41702
+V1 Lithium Polymer batteries required.
+p41703
+sVProcessor Count
+p41704
+V1
+p41705
+sVItem model number
+p41706
+VMQD32LL/A
+p41707
+sVRAM Size
+p41708
+V8 GB
+p41709
+sVHard-Drive Size
+p41710
+V128 GB
+p41711
+sVProcessor Speed
+p41712
+V1.6 GHz
+p41713
+sVCustomer Reviews
+p41714
+V/* \u000a    * Fix for UDP-1061. Average customer reviews has a small extra line on hover \u000a    * https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\u000a    */\u000a    .noUnderline a:hover { \u000a        text-decoration: none; \u000a    }\u000a\u000a\u000a\u000a\u000a    \u000a    \u000a    \u000a    \u000a        \u000a\u000a        \u000a        \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a		\u000a		\u000a		\u000a		\u000a		        \u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		        \u000a        \u000a\u000a        \u000a            \u000a            \u000a            \u000a                \u000a                \u000a                \u000a                    \u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a        \u000a            \u000a\u000a\u000a\u000a\u000a\u000a    \u000a        \u000a            \u000a                \u000a\u000a3.1 out of 5 stars\u000a                \u000a            \u000a        \u000a        \u000a    \u000a\u000a\u000a        \u000a        \u000a        \u000a        \u000a\u000a        \u000a\u000a        \u000a            \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a            \u000a            \u000a                \u000a                    \u000a                        4 customer reviews\u000a                    \u000a                \u000a            \u000a                \u000a                    P.when('A', 'ready').execute(function(A) {\u000a                        A.declarative('acrLink-click-metrics', 'click', { "allowLinkDefault" : true }, function(event){\u000a                            if(window.ue) {\u000a                                ue.count("acrLinkClickCount", (ue.count("acrLinkClickCount") || 0) + 1);\u000a                            }\u000a                        });\u000a                    });\u000a                \u000a            \u000a            \u000a            \u000a            \u000a        \u000a        \u000a        \u000a            P.when('A', 'cf').execute(function(A) {\u000a                A.declarative('acrStarsLink-click-metrics', 'click', { "allowLinkDefault" : true },  function(event){\u000a                    if(window.ue) {\u000a                        ue.count("acrStarsLinkWithPopoverClickCount", (ue.count("acrStarsLinkWithPopoverClickCount") || 0) + 1);\u000a                    }\u000a                });\u000a            });\u000a        \u000a\u000a\u000a                \u000a            \u000a        \u000a    \u000a\u000a\u000a  3.1 out of 5 stars
+p41715
+ssg19
+(S'New Apple 13" MacBook Air Core i5 CPU, 8GB RAM (2017 Latest Model 128GB)'
+p41716
+Ntp41717
+sbag1
+(g41029
+g3
+Ntp41718
+Rp41719
+(dp41720
+g7
+S'https://www.amazon.com/Gaming-i7-7700HQ-Processor-Keyboard-GL503VD/dp/B0753NHZY7'
+p41721
+sg9
+V$1,099.00
+p41722
+sg11
+(dp41723
+VDisplay Resolution Maximum
+p41724
+V1920 x 1080 pixels
+p41725
+sVItem model number
+p41726
+VGL503VD-DB74
+p41727
+sVInternational Shipping
+p41728
+VThis item can be shipped to select countries outside of the U.S.  Learn More
+p41729
+sVItem Dimensions
+p41730
+V10.3 x 15.1 x 0.8 in
+p41731
+sVDate First Available
+p41732
+VAugust 10, 2017
+p41733
+sVHard Drive Rotational Speed
+p41734
+V7200 RPM
+p41735
+sVAverage Battery Life (in hours)
+p41736
+V9 hours
+p41737
+sVProcessor Count
+p41738
+V4
+p41739
+sVRAM Size
+p41740
+V16 GB
+p41741
+sVChipset Brand
+p41742
+Vnvidia
+p41743
+sVWireless Type
+p41744
+V802.11 A/C
+p41745
+sVHard-Drive Size
+p41746
+V1,000 GB
+p41747
+sVASIN
+p41748
+VB0753NHZY7
+p41749
+sVOperating System
+p41750
+VWindows 10
+p41751
+sVBrand Name
+p41752
+VAsus
+p41753
+sVProcessor Brand
+p41754
+VIntel
+p41755
+sVDisplay Technology
+p41756
+VLED-Lit
+p41757
+sVRAM
+p41758
+V16 GB DDR4
+p41759
+sVDomestic Shipping
+p41760
+VCurrently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.
+p41761
+sVProcessor (CPU) Manufacturer
+p41762
+VIntel
+p41763
+sVScreen Size
+p41764
+V15.6 inches
+p41765
+sVGraphics Coprocessor
+p41766
+VNVIDIA GeForce GTX 1050
+p41767
+sVOptical Drive Type
+p41768
+VNone
+p41769
+sVNumber of USB 2.0 Ports
+p41770
+V1
+p41771
+sVRAM Type
+p41772
+VDDR4 SDRAM
+p41773
+sVMax Screen Resolution
+p41774
+V1920 x 1080 pixels
+p41775
+sVWireless Compatibility
+p41776
+V802.11 A/C
+p41777
+sVItem Weight
+p41778
+V5.6 pounds
+p41779
+sVItem Dimensions  L x W x H
+p41780
+V15.1 x 10.3 x 0.8 inches
+p41781
+sVHard Drive
+p41782
+V1000 GB Hybrid Drive
+p41783
+sVProcessor Speed
+p41784
+V2.8 GHz
+p41785
+sVProcessor
+p41786
+V2.8 GHz Intel Core i7
+p41787
+sVCustomer Reviews
+p41788
+V/* \u000a    * Fix for UDP-1061. Average customer reviews has a small extra line on hover \u000a    * https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\u000a    */\u000a    .noUnderline a:hover { \u000a        text-decoration: none; \u000a    }\u000a\u000a\u000a\u000a\u000a    \u000a    \u000a    \u000a    \u000a        \u000a\u000a        \u000a        \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a		\u000a		\u000a		\u000a		\u000a		        \u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		        \u000a        \u000a\u000a        \u000a            \u000a            \u000a            \u000a                \u000a                \u000a                \u000a                    \u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a        \u000a            \u000a\u000a\u000a\u000a\u000a\u000a    \u000a        \u000a            \u000a                \u000a\u000a3.9 out of 5 stars\u000a                \u000a            \u000a        \u000a        \u000a    \u000a\u000a\u000a        \u000a        \u000a        \u000a        \u000a\u000a        \u000a\u000a        \u000a            \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a            \u000a            \u000a                \u000a                    \u000a                        44 customer reviews\u000a                    \u000a                \u000a            \u000a                \u000a                    P.when('A', 'ready').execute(function(A) {\u000a                        A.declarative('acrLink-click-metrics', 'click', { "allowLinkDefault" : true }, function(event){\u000a                            if(window.ue) {\u000a                                ue.count("acrLinkClickCount", (ue.count("acrLinkClickCount") || 0) + 1);\u000a                            }\u000a                        });\u000a                    });\u000a                \u000a            \u000a            \u000a            \u000a            \u000a        \u000a        \u000a        \u000a            P.when('A', 'cf').execute(function(A) {\u000a                A.declarative('acrStarsLink-click-metrics', 'click', { "allowLinkDefault" : true },  function(event){\u000a                    if(window.ue) {\u000a                        ue.count("acrStarsLinkWithPopoverClickCount", (ue.count("acrStarsLinkWithPopoverClickCount") || 0) + 1);\u000a                    }\u000a                });\u000a            });\u000a        \u000a\u000a\u000a                \u000a            \u000a        \u000a    \u000a\u000a\u000a  3.9 out of 5 stars
+p41789
+sVComputer Memory Type
+p41790
+VDDR4 SDRAM
+p41791
+sVShipping Weight
+p41792
+V9.15 pounds (View shipping rates and policies)
+p41793
+sVSeries
+p41794
+VAsus Rog Strix
+p41795
+sVNumber of USB 3.0 Ports
+p41796
+V3
+p41797
+sVFlash Memory Size
+p41798
+V256.0
+p41799
+sVGraphics Card Ram Size
+p41800
+V4 GB
+p41801
+sVBatteries
+p41802
+V1 Lithium ion batteries required. (included)
+p41803
+sVCard Description
+p41804
+VDedicated
+p41805
+sVHard Drive Interface
+p41806
+VSerial ATA
+p41807
+sVBest Sellers Rank
+p41808
+V#1,690 in Computers & Accessories (See top 100)\u000a        \u000a              \u000a                #161 in Computers & Accessories > Laptops > Traditional Laptops
+p41809
+sVProduct Dimensions
+p41810
+V15.1 x 10.3 x 0.8 inches
+p41811
+ssg19
+(S'ASUS ROG STRIX Thin and Light Gaming Laptop, 15\xe2\x80\x9d Full HD,  Intel Core i7-7700HQ Processor, 16GB DDR4 RAM, 256GB SSD + 1TB HDD, GTX 1050 4GB, RGB Keyboard, GL503VD'
+p41812
+Ntp41813
+sbag1
+(g41029
+g3
+Ntp41814
+Rp41815
+(dp41816
+g7
+S'https://www.amazon.com/NuVision-Touchscreen-x5-Z8300-Quad-Core-Processor/dp/B01MYZEPGP'
+p41817
+sg9
+V$63.98
+p41818
+sg11
+(dp41819
+VItem model number
+p41820
+VTM800W610L
+p41821
+sVPower Source
+p41822
+VBattery
+p41823
+sVItem Dimensions
+p41824
+V0.5 x 8.3 x 4.9 in
+p41825
+sVDate First Available
+p41826
+VDecember 13, 2016
+p41827
+sVAverage Battery Life (in hours)
+p41828
+V9 hours
+p41829
+sVProcessor Count
+p41830
+V4
+p41831
+sVRAM Size
+p41832
+V2 GB
+p41833
+sVProcessor Brand
+p41834
+Vintel
+p41835
+sVWireless Type
+p41836
+V802.11 B/G, 802.11bgn, 802.11B
+p41837
+sVASIN
+p41838
+VB01MYZEPGP
+p41839
+sVOperating System
+p41840
+VWindows 10 Home
+p41841
+sVBrand Name
+p41842
+VNUVISION
+p41843
+sVHard-Drive Size
+p41844
+V32 GB
+p41845
+sVProduct Dimensions
+p41846
+V8.3 x 0.5 x 4.9 inches
+p41847
+sVRAM
+p41848
+V2 GB
+p41849
+sVScreen Size
+p41850
+V8 inches
+p41851
+sVHardware Platform
+p41852
+V\u2014
+p41853
+sVRear Webcam Resolution
+p41854
+V5 	MP
+p41855
+sVWireless Technology
+p41856
+VBluetooth, WiFi
+p41857
+sVMax Screen Resolution
+p41858
+V1920 x 1200
+p41859
+sVNative Resolution
+p41860
+V\u2014
+p41861
+sVItem Dimensions  L x W x H
+p41862
+V8.3 x 0.5 x 4.9 inches
+p41863
+sVConnectivity Technology
+p41864
+V\u2014
+p41865
+sVHard Drive
+p41866
+V32 GB
+p41867
+sVProcessor
+p41868
+VIntel Atom
+p41869
+sVCustomer Reviews
+p41870
+V/* \u000a    * Fix for UDP-1061. Average customer reviews has a small extra line on hover \u000a    * https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\u000a    */\u000a    .noUnderline a:hover { \u000a        text-decoration: none; \u000a    }\u000a\u000a\u000a\u000a\u000a    \u000a    \u000a    \u000a    \u000a        \u000a\u000a        \u000a        \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a		\u000a		\u000a		\u000a		\u000a		        \u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		        \u000a        \u000a\u000a        \u000a            \u000a            \u000a            \u000a                \u000a                \u000a                \u000a                    \u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a        \u000a            \u000a\u000a\u000a\u000a\u000a\u000a    \u000a        \u000a            \u000a                \u000a\u000a3.3 out of 5 stars\u000a                \u000a            \u000a        \u000a        \u000a    \u000a\u000a\u000a        \u000a        \u000a        \u000a        \u000a\u000a        \u000a\u000a        \u000a            \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a            \u000a            \u000a                \u000a                    \u000a                        359 customer reviews\u000a                    \u000a                \u000a            \u000a                \u000a                    P.when('A', 'ready').execute(function(A) {\u000a                        A.declarative('acrLink-click-metrics', 'click', { "allowLinkDefault" : true }, function(event){\u000a                            if(window.ue) {\u000a                                ue.count("acrLinkClickCount", (ue.count("acrLinkClickCount") || 0) + 1);\u000a                            }\u000a                        });\u000a                    });\u000a                \u000a            \u000a            \u000a            \u000a            \u000a        \u000a        \u000a        \u000a            P.when('A', 'cf').execute(function(A) {\u000a                A.declarative('acrStarsLink-click-metrics', 'click', { "allowLinkDefault" : true },  function(event){\u000a                    if(window.ue) {\u000a                        ue.count("acrStarsLinkWithPopoverClickCount", (ue.count("acrStarsLinkWithPopoverClickCount") || 0) + 1);\u000a                    }\u000a                });\u000a            });\u000a        \u000a\u000a\u000a                \u000a            \u000a        \u000a    \u000a\u000a\u000a  3.3 out of 5 stars
+p41871
+sVComputer Memory Type
+p41872
+VDDR DRAM
+p41873
+sVItem Weight
+p41874
+V9.6 ounces
+p41875
+sVShipping Weight
+p41876
+V1.72 pounds (View shipping rates and policies)
+p41877
+sVColor
+p41878
+Vsilver
+p41879
+sVFlash Memory Installed Size
+p41880
+V32 GB
+p41881
+sVFlash Memory Size
+p41882
+V32 GB
+p41883
+sVBatteries
+p41884
+V1 Lithium Polymer batteries required.
+p41885
+sVBest Sellers Rank
+p41886
+V#433 in Computers & Accessories (See top 100)\u000a        \u000a              \u000a                #33 in Computers & Accessories > Laptops > Traditional Laptops\u000a        \u000a              \u000a                #60 in Computers & Accessories > Tablets
+p41887
+ssg19
+(S'NuVision 8-inch Full HD (1920 x 1200) IPS Touchscreen Tablet PC, Intel Atom x5-Z8300 Quad-Core Processor, 2GB RAM, 32GB SSD eMMC, Webcam, WIFI, Windows 10, Silver'
+p41888
+Ntp41889
+sbag1
+(g41029
+g3
+Ntp41890
+Rp41891
+(dp41892
+g7
+S'https://www.amazon.com/HP-i7-7700HQ-Processor-solid-state-15-cb079nr/dp/B075VT9LFC'
+p41893
+sg9
+V$1,176.99
+p41894
+sg11
+(dp41895
+VDisplay Resolution Maximum
+p41896
+V1920 x 1080
+p41897
+sVItem model number
+p41898
+V15-cb079nr
+p41899
+sVInternational Shipping
+p41900
+VThis item is not eligible for international shipping.  Learn More
+p41901
+sVItem Dimensions
+p41902
+V14.88 x 9.93 x 0.95 in
+p41903
+sVDate First Available
+p41904
+VNovember 12, 2017
+p41905
+sVHard Drive Rotational Speed
+p41906
+V7200 RPM
+p41907
+sVAverage Battery Life (in hours)
+p41908
+V11 hours
+p41909
+sVProcessor Count
+p41910
+V4
+p41911
+sVRAM Size
+p41912
+V16 GB
+p41913
+sVChipset Brand
+p41914
+Vnvidia
+p41915
+sVHard-Drive Size
+p41916
+V1,000 GB
+p41917
+sVASIN
+p41918
+VB075VT9LFC
+p41919
+sVOperating System
+p41920
+VWindows 10
+p41921
+sVBrand Name
+p41922
+VHP
+p41923
+sVProcessor Brand
+p41924
+VIntel
+p41925
+sVDisplay Technology
+p41926
+VLED-Lit
+p41927
+sVRAM
+p41928
+V16 GB
+p41929
+sVDomestic Shipping
+p41930
+VCurrently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.
+p41931
+sVProcessor (CPU) Manufacturer
+p41932
+VIntel
+p41933
+sVScreen Size
+p41934
+V15.6 inches
+p41935
+sVGraphics Coprocessor
+p41936
+VNVIDIA GeForce GTX 1050 Ti
+p41937
+sVOptical Drive Type
+p41938
+VNone
+p41939
+sVRAM Type
+p41940
+V\u2014
+p41941
+sVMax Screen Resolution
+p41942
+V1920 x 1080
+p41943
+sVWireless Compatibility
+p41944
+V\u2014
+p41945
+sVItem Weight
+p41946
+V4 pounds
+p41947
+sVItem Dimensions  L x W x H
+p41948
+V9.93 x 14.88 x 0.95 inches
+p41949
+sVHard Drive
+p41950
+V1000 GB Hybrid Drive
+p41951
+sVProcessor Speed
+p41952
+V2.8 GHz
+p41953
+sVProcessor
+p41954
+V2.8 GHz
+p41955
+sVCustomer Reviews
+p41956
+V/* \u000a    * Fix for UDP-1061. Average customer reviews has a small extra line on hover \u000a    * https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\u000a    */\u000a    .noUnderline a:hover { \u000a        text-decoration: none; \u000a    }\u000a\u000a\u000a\u000a\u000a    \u000a    \u000a    \u000a    \u000a        \u000a\u000a        \u000a        \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a		\u000a		\u000a		\u000a		\u000a		        \u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		        \u000a        \u000a\u000a        \u000a            \u000a            \u000a            \u000a                \u000a                \u000a                \u000a                    \u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a        \u000a            \u000a\u000a\u000a\u000a\u000a\u000a    \u000a        \u000a            \u000a                \u000a\u000a4.1 out of 5 stars\u000a                \u000a            \u000a        \u000a        \u000a    \u000a\u000a\u000a        \u000a        \u000a        \u000a        \u000a\u000a        \u000a\u000a        \u000a            \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a            \u000a            \u000a                \u000a                    \u000a                        82 customer reviews\u000a                    \u000a                \u000a            \u000a                \u000a                    P.when('A', 'ready').execute(function(A) {\u000a                        A.declarative('acrLink-click-metrics', 'click', { "allowLinkDefault" : true }, function(event){\u000a                            if(window.ue) {\u000a                                ue.count("acrLinkClickCount", (ue.count("acrLinkClickCount") || 0) + 1);\u000a                            }\u000a                        });\u000a                    });\u000a                \u000a            \u000a            \u000a            \u000a            \u000a        \u000a        \u000a        \u000a            P.when('A', 'cf').execute(function(A) {\u000a                A.declarative('acrStarsLink-click-metrics', 'click', { "allowLinkDefault" : true },  function(event){\u000a                    if(window.ue) {\u000a                        ue.count("acrStarsLinkWithPopoverClickCount", (ue.count("acrStarsLinkWithPopoverClickCount") || 0) + 1);\u000a                    }\u000a                });\u000a            });\u000a        \u000a\u000a\u000a                \u000a            \u000a        \u000a    \u000a\u000a\u000a  4.1 out of 5 stars
+p41957
+sVShipping Weight
+p41958
+V7.1 pounds (View shipping rates and policies)
+p41959
+sVColor
+p41960
+VBlack
+p41961
+sVSeries
+p41962
+VHP Pavilion
+p41963
+sVFlash Memory Size
+p41964
+V128.0
+p41965
+sVBatteries
+p41966
+V1 Lithium ion batteries required. (included)
+p41967
+sVCard Description
+p41968
+VDedicated
+p41969
+sVHard Drive Interface
+p41970
+VSerial ATA
+p41971
+sVBest Sellers Rank
+p41972
+V#1,705 in Computers & Accessories (See top 100)\u000a        \u000a              \u000a                #165 in Computers & Accessories > Laptops > Traditional Laptops
+p41973
+sVProduct Dimensions
+p41974
+V9.9 x 14.9 x 0.9 inches
+p41975
+ssg19
+(S'HP Pavilion Power 15" GTX 1050 Ti Gaming Laptop, Intel Core i7-7700HQ Processor, 16GB RAM, 1TB hard drive, 128GB solid-state drive, Windows 10 (15-cb079nr, Black)'
+p41976
+Ntp41977
+sbag1
+(g41029
+g3
+Ntp41978
+Rp41979
+(dp41980
+g7
+S'https://www.amazon.com/HP-Flagship-Touchscreen-Signature-Bluetooth/dp/B00SL6A8NY'
+p41981
+sg9
+V$436.00
+p41982
+sg11
+(dp41983
+VDisplay Resolution Maximum
+p41984
+V1366 x 768
+p41985
+sVItem model number
+p41986
+VJ9148A
+p41987
+sVScreen Resolution
+p41988
+V1366x768
+p41989
+sVPower Source
+p41990
+VAC & Battery
+p41991
+sVItem Dimensions
+p41992
+V14.4 x 17.42 x 1.73 in
+p41993
+sVDate First Available
+p41994
+VOctober 11, 2016
+p41995
+sVHard Drive Rotational Speed
+p41996
+V5400.00
+p41997
+sVAverage Battery Life (in hours)
+p41998
+V6.25 hours
+p41999
+sVProcessor Count
+p42000
+V2
+p42001
+sVRAM Size
+p42002
+V8 GB
+p42003
+sVChipset Brand
+p42004
+Vintel
+p42005
+sVWireless Type
+p42006
+V802.11bgn, Bluetooth
+p42007
+sVHard-Drive Size
+p42008
+V1 TB
+p42009
+sVASIN
+p42010
+VB00SL6A8NY
+p42011
+sVOperating System
+p42012
+VWindows 10
+p42013
+sVBrand Name
+p42014
+VHP
+p42015
+sVProcessor Brand
+p42016
+VIntel
+p42017
+sVDisplay Technology
+p42018
+VLED
+p42019
+sVRAM
+p42020
+V8 GB SDRAM DDR4
+p42021
+sVProcessor (CPU) Manufacturer
+p42022
+VIntel
+p42023
+sVScreen Size
+p42024
+V15.6 inches
+p42025
+sVGraphics Coprocessor
+p42026
+VIntel HD Graphics 620
+p42027
+sVHardware Platform
+p42028
+VPC
+p42029
+sVNumber of USB 2.0 Ports
+p42030
+g42001
+sVRAM Type
+p42031
+VDDR SDRAM
+p42032
+sVMax Screen Resolution
+p42033
+V1366 x 768
+p42034
+sVWireless Compatibility
+p42035
+V802.11bgn, Bluetooth
+p42036
+sVItem Weight
+p42037
+V12.96 pounds
+p42038
+sVItem Dimensions  L x W x H
+p42039
+V17.42 x 14.4 x 1.73 inches
+p42040
+sVHard Drive
+p42041
+V1 TB HDD 5400 rpm
+p42042
+sVProcessor Speed
+p42043
+V2.7 GHz
+p42044
+sVProcessor
+p42045
+V2.7 GHz None
+p42046
+sVCustomer Reviews
+p42047
+V/* \u000a    * Fix for UDP-1061. Average customer reviews has a small extra line on hover \u000a    * https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\u000a    */\u000a    .noUnderline a:hover { \u000a        text-decoration: none; \u000a    }\u000a\u000a\u000a\u000a\u000a    \u000a    \u000a    \u000a    \u000a        \u000a\u000a        \u000a        \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a		\u000a		\u000a		\u000a		\u000a		        \u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		        \u000a        \u000a\u000a        \u000a            \u000a            \u000a            \u000a                \u000a                \u000a                \u000a                    \u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a        \u000a            \u000a\u000a\u000a\u000a\u000a\u000a    \u000a        \u000a            \u000a                \u000a\u000a3.8 out of 5 stars\u000a                \u000a            \u000a        \u000a        \u000a    \u000a\u000a\u000a        \u000a        \u000a        \u000a        \u000a\u000a        \u000a\u000a        \u000a            \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a            \u000a            \u000a                \u000a                    \u000a                        288 customer reviews\u000a                    \u000a                \u000a            \u000a                \u000a                    P.when('A', 'ready').execute(function(A) {\u000a                        A.declarative('acrLink-click-metrics', 'click', { "allowLinkDefault" : true }, function(event){\u000a                            if(window.ue) {\u000a                                ue.count("acrLinkClickCount", (ue.count("acrLinkClickCount") || 0) + 1);\u000a                            }\u000a                        });\u000a                    });\u000a                \u000a            \u000a            \u000a            \u000a            \u000a        \u000a        \u000a        \u000a            P.when('A', 'cf').execute(function(A) {\u000a                A.declarative('acrStarsLink-click-metrics', 'click', { "allowLinkDefault" : true },  function(event){\u000a                    if(window.ue) {\u000a                        ue.count("acrStarsLinkWithPopoverClickCount", (ue.count("acrStarsLinkWithPopoverClickCount") || 0) + 1);\u000a                    }\u000a                });\u000a            });\u000a        \u000a\u000a\u000a                \u000a            \u000a        \u000a    \u000a\u000a\u000a  3.8 out of 5 stars
+p42048
+sVComputer Memory Type
+p42049
+VDDR SDRAM
+p42050
+sVShipping Weight
+p42051
+V6.25 pounds (View shipping rates and policies)
+p42052
+sVColor
+p42053
+VBlack
+p42054
+sVSeries
+p42055
+VHP Pavilion
+p42056
+sVFlash Memory Size
+p42057
+V4
+p42058
+sVMemory Speed
+p42059
+V2133 MHz
+p42060
+sVBatteries
+p42061
+V1 LR44 batteries required. (included)
+p42062
+sVCard Description
+p42063
+Vintegrated
+p42064
+sVVoltage
+p42065
+V110 volts
+p42066
+sVHard Drive Interface
+p42067
+VSerial ATA
+p42068
+sVBest Sellers Rank
+p42069
+V#1,141 in Computers & Accessories (See top 100)\u000a        \u000a              \u000a                #109 in Computers & Accessories > Laptops > Traditional Laptops
+p42070
+sVProduct Dimensions
+p42071
+V17.4 x 14.4 x 1.7 inches
+p42072
+ssg19
+(S'HP Flagship 15.6" HD Touchscreen Signature Laptop Computer, Intel Core i3-7100u 2.40 GHz, 8GB DDR4 Memory, 1TB HDD, DVDRW, HDMI, HD Webcam, Bluetooth, Windows 10 Home'
+p42073
+Ntp42074
+sbag1
+(g41029
+g3
+Ntp42075
+Rp42076
+(dp42077
+g7
+S'https://www.amazon.com/STRIX-GL703VD-Gaming-Laptop-Keyboard/dp/B0753PV7PH'
+p42078
+sg9
+V$1,169.00
+p42079
+sg11
+(dp42080
+VDisplay Resolution Maximum
+p42081
+V1920 x 1080 pixels
+p42082
+sVItem model number
+p42083
+VGL703VD-DB74
+p42084
+sVInternational Shipping
+p42085
+VThis item can be shipped to select countries outside of the U.S.  Learn More
+p42086
+sVItem Dimensions
+p42087
+V11 x 16.5 x 0.9 in
+p42088
+sVDate First Available
+p42089
+VAugust 28, 2017
+p42090
+sVHard Drive Rotational Speed
+p42091
+V7200 RPM
+p42092
+sVAverage Battery Life (in hours)
+p42093
+V5 hours
+p42094
+sVProcessor Count
+p42095
+V4
+p42096
+sVRAM Size
+p42097
+V16 GB
+p42098
+sVChipset Brand
+p42099
+Vnvidia
+p42100
+sVWireless Type
+p42101
+V802.11 A/C
+p42102
+sVHard-Drive Size
+p42103
+V1,000 GB
+p42104
+sVMemory Speed
+p42105
+V2800 MHz
+p42106
+sVOperating System
+p42107
+VWindows 10
+p42108
+sVBrand Name
+p42109
+VAsus
+p42110
+sVProcessor Brand
+p42111
+VIntel
+p42112
+sVDisplay Technology
+p42113
+VLED-Lit
+p42114
+sVRAM
+p42115
+V16 GB DDR4
+p42116
+sVDomestic Shipping
+p42117
+VCurrently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.
+p42118
+sVProcessor (CPU) Manufacturer
+p42119
+VIntel
+p42120
+sVScreen Size
+p42121
+V17.3 inches
+p42122
+sVGraphics Coprocessor
+p42123
+VNVIDIA GeForce GTX 1050
+p42124
+sVOptical Drive Type
+p42125
+VNone
+p42126
+sVNumber of USB 2.0 Ports
+p42127
+V1
+p42128
+sVRAM Type
+p42129
+VUnknown
+p42130
+sVMax Screen Resolution
+p42131
+V1920 x 1080 pixels
+p42132
+sVWireless Compatibility
+p42133
+V802.11 A/C
+p42134
+sVItem Weight
+p42135
+V6.7 pounds
+p42136
+sVItem Dimensions  L x W x H
+p42137
+V16.5 x 11 x 0.9 inches
+p42138
+sVHard Drive
+p42139
+V1000 GB Hybrid Drive
+p42140
+sVProcessor Speed
+p42141
+V2.8 GHz
+p42142
+sVProcessor
+p42143
+V2.8 GHz Intel Core i7
+p42144
+sVCustomer Reviews
+p42145
+V/* \u000a    * Fix for UDP-1061. Average customer reviews has a small extra line on hover \u000a    * https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\u000a    */\u000a    .noUnderline a:hover { \u000a        text-decoration: none; \u000a    }\u000a\u000a\u000a\u000a\u000a    \u000a    \u000a    \u000a    \u000a        \u000a\u000a        \u000a        \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a		\u000a		\u000a		\u000a		\u000a		        \u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		        \u000a        \u000a\u000a        \u000a            \u000a            \u000a            \u000a                \u000a                \u000a                \u000a                    \u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a        \u000a            \u000a\u000a\u000a\u000a\u000a\u000a    \u000a        \u000a            \u000a                \u000a\u000a3.6 out of 5 stars\u000a                \u000a            \u000a        \u000a        \u000a    \u000a\u000a\u000a        \u000a        \u000a        \u000a        \u000a\u000a        \u000a\u000a        \u000a            \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a            \u000a            \u000a                \u000a                    \u000a                        29 customer reviews\u000a                    \u000a                \u000a            \u000a                \u000a                    P.when('A', 'ready').execute(function(A) {\u000a                        A.declarative('acrLink-click-metrics', 'click', { "allowLinkDefault" : true }, function(event){\u000a                            if(window.ue) {\u000a                                ue.count("acrLinkClickCount", (ue.count("acrLinkClickCount") || 0) + 1);\u000a                            }\u000a                        });\u000a                    });\u000a                \u000a            \u000a            \u000a            \u000a            \u000a        \u000a        \u000a        \u000a            P.when('A', 'cf').execute(function(A) {\u000a                A.declarative('acrStarsLink-click-metrics', 'click', { "allowLinkDefault" : true },  function(event){\u000a                    if(window.ue) {\u000a                        ue.count("acrStarsLinkWithPopoverClickCount", (ue.count("acrStarsLinkWithPopoverClickCount") || 0) + 1);\u000a                    }\u000a                });\u000a            });\u000a        \u000a\u000a\u000a                \u000a            \u000a        \u000a    \u000a\u000a\u000a  3.6 out of 5 stars
+p42146
+sVShipping Weight
+p42147
+V10 pounds (View shipping rates and policies)
+p42148
+sVSeries
+p42149
+VAsus Rog Strix
+p42150
+sVNumber of USB 3.0 Ports
+p42151
+V3
+p42152
+sVFlash Memory Size
+p42153
+V256
+p42154
+sVGraphics Card Ram Size
+p42155
+V4 GB
+p42156
+sVASIN
+p42157
+VB0753PV7PH
+p42158
+sVBatteries
+p42159
+V1 Lithium ion batteries required. (included)
+p42160
+sVCard Description
+p42161
+VDedicated
+p42162
+sVVoltage
+p42163
+V19.5 volts
+p42164
+sVHard Drive Interface
+p42165
+VSerial ATA
+p42166
+sVBest Sellers Rank
+p42167
+V#1,950 in Computers & Accessories (See top 100)\u000a        \u000a              \u000a                #203 in Computers & Accessories > Laptops > Traditional Laptops
+p42168
+sVProduct Dimensions
+p42169
+V16.5 x 11 x 0.9 inches
+p42170
+ssg19
+(S'ASUS ROG STRIX GL703VD 17\xe2\x80\x9d Gaming Laptop, GTX 1050 4GB, Intel Core i7 2.8 GHz, 16GB DDR4, 256GB SSD + 1TB HDD, RGB Keyboard'
+p42171
+Ntp42172
+sbag1
+(g41029
+g3
+Ntp42173
+Rp42174
+(dp42175
+g7
+S'https://www.amazon.com/Zephyrus-8th-Gen-IPS-Type-i7-8750H-processor/dp/B07BP9LSVS'
+p42176
+sg9
+V$2,899.00
+p42177
+sg11
+(dp42178
+VDisplay Resolution Maximum
+p42179
+V1920x1080 pixels
+p42180
+sVItem model number
+p42181
+VGX501GI-XS74
+p42182
+sVInternational Shipping
+p42183
+VThis item is not eligible for international shipping.  Learn More
+p42184
+sVItem Dimensions
+p42185
+V10.31 x 14.92 x 0.7 in
+p42186
+sVDate First Available
+p42187
+VMarch 28, 2018
+p42188
+sVProcessor Count
+p42189
+V6
+p42190
+sVRAM Size
+p42191
+V16 GB
+p42192
+sVProcessor Brand
+p42193
+VIntel
+p42194
+sVASIN
+p42195
+VB07BP9LSVS
+p42196
+sVOperating System
+p42197
+VWindows 10 Pro
+p42198
+sVBrand Name
+p42199
+VAsus
+p42200
+sVHard-Drive Size
+p42201
+V512 GB
+p42202
+sVDisplay Technology
+p42203
+VLED-Lit
+p42204
+sVRAM
+p42205
+V16 GB DDR4 2666MHz
+p42206
+sVDomestic Shipping
+p42207
+VAmazon only ships this item within the contiguous 48 United States. Other Sellers on Amazon may ship this item to Alaska, Hawaii and US Territories.
+p42208
+sVProcessor (CPU) Manufacturer
+p42209
+VIntel
+p42210
+sVScreen Size
+p42211
+V15.6 inches
+p42212
+sVGraphics Coprocessor
+p42213
+VGTX 1080
+p42214
+sVOptical Drive Type
+p42215
+VNone
+p42216
+sVRAM Type
+p42217
+V\u2014
+p42218
+sVMax Screen Resolution
+p42219
+V1920x1080 pixels
+p42220
+sVWireless Compatibility
+p42221
+V\u2014
+p42222
+sVItem Weight
+p42223
+V4.97 pounds
+p42224
+sVItem Dimensions  L x W x H
+p42225
+V14.92 x 10.31 x 0.7 inches
+p42226
+sVHard Drive
+p42227
+V512 GB PCIe NVMe M.2 SSD (Hyper Drive)
+p42228
+sVProcessor Speed
+p42229
+V2.2 GHz
+p42230
+sVProcessor
+p42231
+V2.2 GHz Intel Core i7
+p42232
+sVCustomer Reviews
+p42233
+V/* \u000a    * Fix for UDP-1061. Average customer reviews has a small extra line on hover \u000a    * https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\u000a    */\u000a    .noUnderline a:hover { \u000a        text-decoration: none; \u000a    }\u000a\u000a\u000a\u000a\u000a    \u000a    \u000a    \u000a    \u000a        \u000a\u000a        \u000a        \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a		\u000a		\u000a		\u000a		\u000a		        \u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		        \u000a        \u000a\u000a        \u000a            \u000a            \u000a            \u000a                \u000a                \u000a                    \u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a    \u000a    \u000a        \u000a            \u000a                \u000a                    Be the first to review this item\u000a                \u000a            \u000a        \u000a    \u000a\u000a                \u000a                \u000a            \u000a        \u000a    \u000a\u000a\u000a  0.0 out of 5 stars
+p42234
+sVShipping Weight
+p42235
+V11 pounds (View shipping rates and policies)
+p42236
+sVSeries
+p42237
+VGX501GI-XS74
+p42238
+sVNumber of USB 3.0 Ports
+p42239
+V4
+p42240
+sVFlash Memory Size
+p42241
+V512.0
+p42242
+sVGraphics Card Ram Size
+p42243
+V8 GB
+p42244
+sVBatteries
+p42245
+V1 Lithium ion batteries required. (included)
+p42246
+sVCard Description
+p42247
+VDedicated
+p42248
+sVHard Drive Interface
+p42249
+VSolid State
+p42250
+sVBest Sellers Rank
+p42251
+V#2,561 in Computers & Accessories (See top 100)\u000a        \u000a              \u000a                #291 in Computers & Accessories > Laptops > Traditional Laptops
+p42252
+sVProduct Dimensions
+p42253
+V14.9 x 10.3 x 0.7 inches
+p42254
+ssg19
+(S'ROG Zephyrus GX501 (8th-Gen) 15.6\xe2\x80\x9d Ultra Slim Gaming Laptop, 144Hz IPS-Type G-SYNC Panel, GTX 1080 8GB, Intel Core i7-8750H processor (up to 3.9GHz), 512GB PCIe SSD, 16GB DDR4 2666MHz'
+p42255
+Ntp42256
+sbag1
+(g41029
+g3
+Ntp42257
+Rp42258
+(dp42259
+g7
+S'https://www.amazon.com/Dell-Thin-Light-Laptop-XPS9560-7369SLV-PUS/dp/B01MG1KFQK'
+p42260
+sg9
+V$1,884.60
+p42261
+sg11
+(dp42262
+VDisplay Resolution Maximum
+p42263
+V3840 x 2160
+p42264
+sVItem model number
+p42265
+VXPS9560-7369SLV-PUS
+p42266
+sVInternational Shipping
+p42267
+VThis item is not eligible for international shipping.  Learn More
+p42268
+sVItem Dimensions
+p42269
+V14.1 x 9.3 x 0.66 in
+p42270
+sVDate First Available
+p42271
+VJanuary 5, 2017
+p42272
+sVProcessor Count
+p42273
+V4
+p42274
+sVRAM Size
+p42275
+V16 GB
+p42276
+sVChipset Brand
+p42277
+VNVIDIA
+p42278
+sVWireless Type
+p42279
+V802.11 A/C
+p42280
+sVHard-Drive Size
+p42281
+V0 GB
+p42282
+sVASIN
+p42283
+VB01MG1KFQK
+p42284
+sVOperating System
+p42285
+VWindows 10
+p42286
+sVBrand Name
+p42287
+VDell
+p42288
+sVProcessor Brand
+p42289
+VIntel
+p42290
+sVDisplay Technology
+p42291
+VLED-Lit
+p42292
+sVRAM
+p42293
+V16 GB
+p42294
+sVDomestic Shipping
+p42295
+VCurrently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.
+p42296
+sVProcessor (CPU) Manufacturer
+p42297
+VIntel
+p42298
+sVScreen Size
+p42299
+V15.6 inches
+p42300
+sVGraphics Coprocessor
+p42301
+VNVIDIA GeForce GTX 1050
+p42302
+sVHardware Platform
+p42303
+VPC
+p42304
+sVOptical Drive Type
+p42305
+VNone
+p42306
+sVRAM Type
+p42307
+VUnknown
+p42308
+sVMax Screen Resolution
+p42309
+V3840 x 2160
+p42310
+sVWireless Compatibility
+p42311
+V802.11 A/C
+p42312
+sVItem Weight
+p42313
+V3.9 pounds
+p42314
+sVItem Dimensions  L x W x H
+p42315
+V9.3 x 14.1 x 0.66 inches
+p42316
+sVHard Drive
+p42317
+VFlash Memory Solid State
+p42318
+sVProcessor Speed
+p42319
+V3.8 GHz
+p42320
+sVProcessor
+p42321
+V3.8 GHz 8032
+p42322
+sVCustomer Reviews
+p42323
+V/* \u000a    * Fix for UDP-1061. Average customer reviews has a small extra line on hover \u000a    * https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\u000a    */\u000a    .noUnderline a:hover { \u000a        text-decoration: none; \u000a    }\u000a\u000a\u000a\u000a\u000a    \u000a    \u000a    \u000a    \u000a        \u000a\u000a        \u000a        \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a		\u000a		\u000a		\u000a		\u000a		        \u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		        \u000a        \u000a\u000a        \u000a            \u000a            \u000a            \u000a                \u000a                \u000a                \u000a                    \u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a        \u000a            \u000a\u000a\u000a\u000a\u000a\u000a    \u000a        \u000a            \u000a                \u000a\u000a3.5 out of 5 stars\u000a                \u000a            \u000a        \u000a        \u000a    \u000a\u000a\u000a        \u000a        \u000a        \u000a        \u000a\u000a        \u000a\u000a        \u000a            \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a            \u000a            \u000a                \u000a                    \u000a                        62 customer reviews\u000a                    \u000a                \u000a            \u000a                \u000a                    P.when('A', 'ready').execute(function(A) {\u000a                        A.declarative('acrLink-click-metrics', 'click', { "allowLinkDefault" : true }, function(event){\u000a                            if(window.ue) {\u000a                                ue.count("acrLinkClickCount", (ue.count("acrLinkClickCount") || 0) + 1);\u000a                            }\u000a                        });\u000a                    });\u000a                \u000a            \u000a            \u000a            \u000a            \u000a        \u000a        \u000a        \u000a            P.when('A', 'cf').execute(function(A) {\u000a                A.declarative('acrStarsLink-click-metrics', 'click', { "allowLinkDefault" : true },  function(event){\u000a                    if(window.ue) {\u000a                        ue.count("acrStarsLinkWithPopoverClickCount", (ue.count("acrStarsLinkWithPopoverClickCount") || 0) + 1);\u000a                    }\u000a                });\u000a            });\u000a        \u000a\u000a\u000a                \u000a            \u000a        \u000a    \u000a\u000a\u000a  3.5 out of 5 stars
+p42324
+sVShipping Weight
+p42325
+V7.8 pounds (View shipping rates and policies)
+p42326
+sVColor
+p42327
+VSilver
+p42328
+sVSeries
+p42329
+VDell Xps
+p42330
+sVNumber of USB 3.0 Ports
+p42331
+V2
+p42332
+sVFlash Memory Size
+p42333
+V1000.0
+p42334
+sVBatteries
+p42335
+V1 Lithium Polymer batteries required. (included)
+p42336
+sVCard Description
+p42337
+VDedicated
+p42338
+sVHard Drive Interface
+p42339
+VSolid State
+p42340
+sVBest Sellers Rank
+p42341
+V#1,787 in Computers & Accessories (See top 100)\u000a        \u000a              \u000a                #176 in Computers & Accessories > Laptops > Traditional Laptops
+p42342
+sVProduct Dimensions
+p42343
+V9.3 x 14.1 x 0.7 inches
+p42344
+ssg19
+(S'Dell XPS Thin and Light Laptop - 15 15.6" 4K Touch Display, Intel Core i7-7700HQ, 16 GB RAM, 1 TB SSD, GTX 1050, Aluminum Chassis, Silver - XPS9560-7369SLV-PUS - Gaming'
+p42345
+Ntp42346
+sbag1
+(g41029
+g3
+Ntp42347
+Rp42348
+(dp42349
+g7
+S'https://www.amazon.com/8th-Gen-i5-8300H-processor-GeForce-FireCuda/dp/B07BP9QG2J'
+p42350
+sg9
+V$699.00
+p42351
+sg11
+(dp42352
+VDisplay Resolution Maximum
+p42353
+V1920x1080 pixels
+p42354
+sVItem model number
+p42355
+VFX504GD-ES51
+p42356
+sVInternational Shipping
+p42357
+VThis item can be shipped to select countries outside of the U.S.  Learn More
+p42358
+sVItem Dimensions
+p42359
+V10.31 x 15.12 x 0.98 in
+p42360
+sVDate First Available
+p42361
+VApril 3, 2018
+p42362
+sVHard Drive Rotational Speed
+p42363
+V5400 RPM
+p42364
+sVProcessor Count
+p42365
+V4
+p42366
+sVRAM Size
+p42367
+V8 GB
+p42368
+sVProcessor Brand
+p42369
+VIntel
+p42370
+sVASIN
+p42371
+VB07BP9QG2J
+p42372
+sVOperating System
+p42373
+VWindows 10 Home
+p42374
+sVBrand Name
+p42375
+VAsus
+p42376
+sVHard-Drive Size
+p42377
+V1,000 GB
+p42378
+sVDisplay Technology
+p42379
+VLED-Lit
+p42380
+sVRAM
+p42381
+V8 GB DDR4 2666MHz
+p42382
+sVDomestic Shipping
+p42383
+VCurrently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.
+p42384
+sVProcessor (CPU) Manufacturer
+p42385
+VIntel
+p42386
+sVScreen Size
+p42387
+V15.6 inches
+p42388
+sVGraphics Coprocessor
+p42389
+VNVIDIA GeForce GTX 1050
+p42390
+sVOptical Drive Type
+p42391
+VNone
+p42392
+sVNumber of USB 2.0 Ports
+p42393
+V1
+p42394
+sVRAM Type
+p42395
+VDDR4 SDRAM
+p42396
+sVMax Screen Resolution
+p42397
+V1920x1080 pixels
+p42398
+sVWireless Compatibility
+p42399
+V\u2014
+p42400
+sVItem Weight
+p42401
+V5.07 pounds
+p42402
+sVItem Dimensions  L x W x H
+p42403
+V15.12 x 10.31 x 0.98 inches
+p42404
+sVHard Drive
+p42405
+V1000 GB Hybrid Drive
+p42406
+sVProcessor Speed
+p42407
+V2.3 GHz
+p42408
+sVProcessor
+p42409
+V2.3 GHz Intel Core i5
+p42410
+sVCustomer Reviews
+p42411
+V/* \u000a    * Fix for UDP-1061. Average customer reviews has a small extra line on hover \u000a    * https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\u000a    */\u000a    .noUnderline a:hover { \u000a        text-decoration: none; \u000a    }\u000a\u000a\u000a\u000a\u000a    \u000a    \u000a    \u000a    \u000a        \u000a\u000a        \u000a        \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a		\u000a		\u000a		\u000a		\u000a		        \u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		        \u000a        \u000a\u000a        \u000a            \u000a            \u000a            \u000a                \u000a                \u000a                \u000a                    \u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a        \u000a            \u000a\u000a\u000a\u000a\u000a\u000a    \u000a        \u000a            \u000a                \u000a\u000a4.0 out of 5 stars\u000a                \u000a            \u000a        \u000a        \u000a    \u000a\u000a\u000a        \u000a        \u000a        \u000a        \u000a\u000a        \u000a\u000a        \u000a            \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a            \u000a            \u000a                \u000a                    \u000a                        2 customer reviews\u000a                    \u000a                \u000a            \u000a                \u000a                    P.when('A', 'ready').execute(function(A) {\u000a                        A.declarative('acrLink-click-metrics', 'click', { "allowLinkDefault" : true }, function(event){\u000a                            if(window.ue) {\u000a                                ue.count("acrLinkClickCount", (ue.count("acrLinkClickCount") || 0) + 1);\u000a                            }\u000a                        });\u000a                    });\u000a                \u000a            \u000a            \u000a            \u000a            \u000a        \u000a        \u000a        \u000a            P.when('A', 'cf').execute(function(A) {\u000a                A.declarative('acrStarsLink-click-metrics', 'click', { "allowLinkDefault" : true },  function(event){\u000a                    if(window.ue) {\u000a                        ue.count("acrStarsLinkWithPopoverClickCount", (ue.count("acrStarsLinkWithPopoverClickCount") || 0) + 1);\u000a                    }\u000a                });\u000a            });\u000a        \u000a\u000a\u000a                \u000a            \u000a        \u000a    \u000a\u000a\u000a  4.0 out of 5 stars
+p42412
+sVComputer Memory Type
+p42413
+VDDR4 SDRAM
+p42414
+sVShipping Weight
+p42415
+V8.8 pounds (View shipping rates and policies)
+p42416
+sVNumber of USB 3.0 Ports
+p42417
+V2
+p42418
+sVFlash Memory Size
+p42419
+V8.0
+p42420
+sVGraphics Card Ram Size
+p42421
+V2 GB
+p42422
+sVBatteries
+p42423
+V1 Lithium ion batteries required. (included)
+p42424
+sVCard Description
+p42425
+VDedicated
+p42426
+sVHard Drive Interface
+p42427
+VSerial ATA
+p42428
+sVBest Sellers Rank
+p42429
+V#2,202 in Computers & Accessories (See top 100)\u000a        \u000a              \u000a                #237 in Computers & Accessories > Laptops > Traditional Laptops
+p42430
+sVProduct Dimensions
+p42431
+V15.1 x 10.3 x 1 inches
+p42432
+ssg19
+(S'ASUS TUF Gaming Laptop (FX504) 15.6\xe2\x80\x9d Full HD, 8th-Gen Intel Core i5-8300H processor (up to 3.9GHz), GeForce GTX 1050, 8GB DDR4, 1TB FireCuda'
+p42433
+Ntp42434
+sbag1
+(g41029
+g3
+Ntp42435
+Rp42436
+(dp42437
+g7
+S'https://www.amazon.com/GL703VM-Gaming-Laptop-i7-7700HQ-Keyboard/dp/B076D95R1P'
+p42438
+sg9
+V$1,558.80
+p42439
+sg11
+(dp42440
+VDisplay Resolution Maximum
+p42441
+V1920x1080 pixels
+p42442
+sVItem model number
+p42443
+VGL703VM-DB74
+p42444
+sVInternational Shipping
+p42445
+VThis item is not eligible for international shipping.  Learn More
+p42446
+sVItem Dimensions
+p42447
+V11 x 16.5 x 1 in
+p42448
+sVDate First Available
+p42449
+VOctober 18, 2017
+p42450
+sVHard Drive Rotational Speed
+p42451
+V5400 RPM
+p42452
+sVProcessor Count
+p42453
+V4
+p42454
+sVRAM Size
+p42455
+V16 GB
+p42456
+sVChipset Brand
+p42457
+Vnvidia
+p42458
+sVWireless Type
+p42459
+V802.11 A/C
+p42460
+sVHard-Drive Size
+p42461
+V1,000 GB
+p42462
+sVASIN
+p42463
+VB076D95R1P
+p42464
+sVOperating System
+p42465
+VWindows 10
+p42466
+sVBrand Name
+p42467
+VAsus
+p42468
+sVProcessor Brand
+p42469
+VIntel
+p42470
+sVDisplay Technology
+p42471
+VLED-Lit
+p42472
+sVRAM
+p42473
+V16 GB DDR4_sdram
+p42474
+sVDomestic Shipping
+p42475
+VCurrently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.
+p42476
+sVProcessor (CPU) Manufacturer
+p42477
+VIntel
+p42478
+sVScreen Size
+p42479
+V17.3 inches
+p42480
+sVGraphics Coprocessor
+p42481
+VNVIDIA GeForce GTX 1060
+p42482
+sVOptical Drive Type
+p42483
+VNone
+p42484
+sVRAM Type
+p42485
+VUnknown
+p42486
+sVMax Screen Resolution
+p42487
+V1920x1080 pixels
+p42488
+sVWireless Compatibility
+p42489
+V802.11 A/C
+p42490
+sVItem Weight
+p42491
+V6.7 pounds
+p42492
+sVItem Dimensions  L x W x H
+p42493
+V16.5 x 11 x 1 inches
+p42494
+sVHard Drive
+p42495
+V1000 GB Hybrid Drive
+p42496
+sVProcessor Speed
+p42497
+V2.8 GHz
+p42498
+sVProcessor
+p42499
+V2.8 GHz Intel Core i7
+p42500
+sVCustomer Reviews
+p42501
+V/* \u000a    * Fix for UDP-1061. Average customer reviews has a small extra line on hover \u000a    * https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\u000a    */\u000a    .noUnderline a:hover { \u000a        text-decoration: none; \u000a    }\u000a\u000a\u000a\u000a\u000a    \u000a    \u000a    \u000a    \u000a        \u000a\u000a        \u000a        \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a		\u000a		\u000a		\u000a		\u000a		        \u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		        \u000a        \u000a\u000a        \u000a            \u000a            \u000a            \u000a                \u000a                \u000a                \u000a                    \u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a        \u000a            \u000a\u000a\u000a\u000a\u000a\u000a    \u000a        \u000a            \u000a                \u000a\u000a3.8 out of 5 stars\u000a                \u000a            \u000a        \u000a        \u000a    \u000a\u000a\u000a        \u000a        \u000a        \u000a        \u000a\u000a        \u000a\u000a        \u000a            \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a            \u000a            \u000a                \u000a                    \u000a                        25 customer reviews\u000a                    \u000a                \u000a            \u000a                \u000a                    P.when('A', 'ready').execute(function(A) {\u000a                        A.declarative('acrLink-click-metrics', 'click', { "allowLinkDefault" : true }, function(event){\u000a                            if(window.ue) {\u000a                                ue.count("acrLinkClickCount", (ue.count("acrLinkClickCount") || 0) + 1);\u000a                            }\u000a                        });\u000a                    });\u000a                \u000a            \u000a            \u000a            \u000a            \u000a        \u000a        \u000a        \u000a            P.when('A', 'cf').execute(function(A) {\u000a                A.declarative('acrStarsLink-click-metrics', 'click', { "allowLinkDefault" : true },  function(event){\u000a                    if(window.ue) {\u000a                        ue.count("acrStarsLinkWithPopoverClickCount", (ue.count("acrStarsLinkWithPopoverClickCount") || 0) + 1);\u000a                    }\u000a                });\u000a            });\u000a        \u000a\u000a\u000a                \u000a            \u000a        \u000a    \u000a\u000a\u000a  3.8 out of 5 stars
+p42502
+sVShipping Weight
+p42503
+V10.6 pounds (View shipping rates and policies)
+p42504
+sVSeries
+p42505
+VAsus Rog Strix
+p42506
+sVNumber of USB 3.0 Ports
+p42507
+g42454
+sVFlash Memory Size
+p42508
+V128
+p42509
+sVGraphics Card Ram Size
+p42510
+V6 GB
+p42511
+sVBatteries
+p42512
+V1 Lithium ion batteries required. (included)
+p42513
+sVCard Description
+p42514
+VDedicated
+p42515
+sVVoltage
+p42516
+V19.5 volts
+p42517
+sVHard Drive Interface
+p42518
+VSerial ATA
+p42519
+sVBest Sellers Rank
+p42520
+V#2,238 in Computers & Accessories (See top 100)\u000a        \u000a              \u000a                #240 in Computers & Accessories > Laptops > Traditional Laptops
+p42521
+sVProduct Dimensions
+p42522
+V16.5 x 11 x 1 inches
+p42523
+ssg19
+(S'ASUS ROG Strix GL703VM Scar Edition 17.3\xe2\x80\x9d 120Hz Gaming Laptop, GTX 1060 6GB, Intel Core i7-7700HQ 2.8 GHz, 16GB DDR4 RAM, 256GB PCIe SSD + 1TB SSHD, RGB Keyboard'
+p42524
+Ntp42525
+sbag1
+(g41029
+g3
+Ntp42526
+Rp42527
+(dp42528
+g7
+S'https://www.amazon.com/MSI-GP63-Leopard-013-Performance-i7-8750H/dp/B07CCPVG5Q'
+p42529
+sg9
+V$1,499.00
+p42530
+sg11
+(dp42531
+VDisplay Resolution Maximum
+p42532
+V1920 x 1080
+p42533
+sVItem model number
+p42534
+VGP63 Leopard-013
+p42535
+sVInternational Shipping
+p42536
+VThis item is not eligible for international shipping.  Learn More
+p42537
+sVItem Dimensions
+p42538
+V11.29 x 16.49 x 1.25 in
+p42539
+sVDate First Available
+p42540
+VApril 3, 2018
+p42541
+sVHard Drive Rotational Speed
+p42542
+V7200 RPM
+p42543
+sVProcessor Count
+p42544
+V1
+p42545
+sVRAM Size
+p42546
+V16 GB
+p42547
+sVProcessor Brand
+p42548
+VIntel
+p42549
+sVASIN
+p42550
+VB07CCPVG5Q
+p42551
+sVOperating System
+p42552
+VWindows 10
+p42553
+sVBrand Name
+p42554
+VMSI
+p42555
+sVHard-Drive Size
+p42556
+V1,000 GB
+p42557
+sVDisplay Technology
+p42558
+VLCD
+p42559
+sVRAM
+p42560
+V16 GB
+p42561
+sVDomestic Shipping
+p42562
+VCurrently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.
+p42563
+sVProcessor (CPU) Manufacturer
+p42564
+VIntel
+p42565
+sVScreen Size
+p42566
+V15.6 inches
+p42567
+sVGraphics Coprocessor
+p42568
+VNVIDIA GeForce GTX 1060
+p42569
+sVOptical Drive Type
+p42570
+VNone
+p42571
+sVNumber of USB 2.0 Ports
+p42572
+g42545
+sVRAM Type
+p42573
+VUnknown
+p42574
+sVMax Screen Resolution
+p42575
+V1920 x 1080
+p42576
+sVItem Weight
+p42577
+V4.8 pounds
+p42578
+sVItem Dimensions  L x W x H
+p42579
+V16.49 x 11.29 x 1.25 inches
+p42580
+sVHard Drive
+p42581
+V1000 GB Hybrid Drive
+p42582
+sVProcessor Speed
+p42583
+V3.9 GHz
+p42584
+sVProcessor
+p42585
+V3.9 GHz Intel Core i7
+p42586
+sVCustomer Reviews
+p42587
+V/* \u000a    * Fix for UDP-1061. Average customer reviews has a small extra line on hover \u000a    * https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\u000a    */\u000a    .noUnderline a:hover { \u000a        text-decoration: none; \u000a    }\u000a\u000a\u000a\u000a\u000a    \u000a    \u000a    \u000a    \u000a        \u000a\u000a        \u000a        \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a		\u000a		\u000a		\u000a		\u000a		        \u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		        \u000a        \u000a\u000a        \u000a            \u000a            \u000a            \u000a                \u000a                \u000a                    \u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a    \u000a    \u000a        \u000a            \u000a                \u000a                    Be the first to review this item\u000a                \u000a            \u000a        \u000a    \u000a\u000a                \u000a                \u000a            \u000a        \u000a    \u000a\u000a\u000a  0.0 out of 5 stars
+p42588
+sVShipping Weight
+p42589
+V9.2 pounds (View shipping rates and policies)
+p42590
+sVSeries
+p42591
+VGP63 Leopard-013
+p42592
+sVNumber of USB 3.0 Ports
+p42593
+V3
+p42594
+sVFlash Memory Size
+p42595
+V128.0
+p42596
+sVGraphics Card Ram Size
+p42597
+V6 GB
+p42598
+sVBatteries
+p42599
+V1 Lithium ion batteries required. (included)
+p42600
+sVCard Description
+p42601
+VDedicated
+p42602
+sVHard Drive Interface
+p42603
+VSerial ATA
+p42604
+sVBest Sellers Rank
+p42605
+V#256,679 in Computers & Accessories (See top 100)\u000a        \u000a              \u000a                #56,456 in Computers & Accessories > Laptops > Traditional Laptops
+p42606
+sVProduct Dimensions
+p42607
+V16.5 x 11.3 x 1.2 inches
+p42608
+ssg19
+(S'MSI GP63 Leopard-013 120Hz 3ms 94%NTSC Performance Gaming Laptop i7-8750H (6 cores) GTX 1060 6G, 16GB 128GB + 1TB, 15.6"'
+p42609
+Ntp42610
+sbag1
+(g41029
+g3
+Ntp42611
+Rp42612
+(dp42613
+g7
+S'https://www.amazon.com/HP-Colorwheel-Touchscreen-Dual-Core-Refurbished/dp/B0794PL41P'
+p42614
+sg9
+V$349.99
+p42615
+sg11
+(dp42616
+VDisplay Resolution Maximum
+p42617
+V\u2014
+p42618
+sVItem model number
+p42619
+V15-bw014cy
+p42620
+sVInternational Shipping
+p42621
+VThis item is not eligible for international shipping.  Learn More
+p42622
+sVItem Dimensions
+p42623
+V\u2014
+p42624
+sVDate First Available
+p42625
+VJanuary 19, 2018
+p42626
+sVProcessor Count
+p42627
+V2
+p42628
+sVRAM Size
+p42629
+V4 GB
+p42630
+sVChipset Brand
+p42631
+Vamd
+p42632
+sVWireless Type
+p42633
+V802.11 A/C
+p42634
+sVHard-Drive Size
+p42635
+V1 TB
+p42636
+sVASIN
+p42637
+VB0794PL41P
+p42638
+sVOperating System
+p42639
+VWindows 10 Home
+p42640
+sVBrand Name
+p42641
+VHP
+p42642
+sVProcessor Brand
+p42643
+VAMD
+p42644
+sVDisplay Technology
+p42645
+VLED
+p42646
+sVRAM
+p42647
+V4 GB DDR4
+p42648
+sVDomestic Shipping
+p42649
+VCurrently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.
+p42650
+sVProcessor (CPU) Manufacturer
+p42651
+VAMD
+p42652
+sVScreen Size
+p42653
+V15.6 inches
+p42654
+sVGraphics Coprocessor
+p42655
+Vradeon r5
+p42656
+sVRAM Type
+p42657
+V\u2014
+p42658
+sVWireless Compatibility
+p42659
+V802.11 A/C
+p42660
+sVItem Weight
+p42661
+V6.05 pounds
+p42662
+sVHard Drive
+p42663
+V1 TB serial_ata
+p42664
+sVProcessor Speed
+p42665
+V3 GHz
+p42666
+sVProcessor
+p42667
+V3 GHz
+p42668
+sVCustomer Reviews
+p42669
+V/* \u000a    * Fix for UDP-1061. Average customer reviews has a small extra line on hover \u000a    * https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\u000a    */\u000a    .noUnderline a:hover { \u000a        text-decoration: none; \u000a    }\u000a\u000a\u000a\u000a\u000a    \u000a    \u000a    \u000a    \u000a        \u000a\u000a        \u000a        \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a		\u000a		\u000a		\u000a		\u000a		        \u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		        \u000a        \u000a\u000a        \u000a            \u000a            \u000a            \u000a                \u000a                \u000a                \u000a                    \u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a        \u000a            \u000a\u000a\u000a\u000a\u000a\u000a    \u000a        \u000a            \u000a                \u000a\u000a2.2 out of 5 stars\u000a                \u000a            \u000a        \u000a        \u000a    \u000a\u000a\u000a        \u000a        \u000a        \u000a        \u000a\u000a        \u000a\u000a        \u000a            \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a            \u000a            \u000a                \u000a                    \u000a                        7 customer reviews\u000a                    \u000a                \u000a            \u000a                \u000a                    P.when('A', 'ready').execute(function(A) {\u000a                        A.declarative('acrLink-click-metrics', 'click', { "allowLinkDefault" : true }, function(event){\u000a                            if(window.ue) {\u000a                                ue.count("acrLinkClickCount", (ue.count("acrLinkClickCount") || 0) + 1);\u000a                            }\u000a                        });\u000a                    });\u000a                \u000a            \u000a            \u000a            \u000a            \u000a        \u000a        \u000a        \u000a            P.when('A', 'cf').execute(function(A) {\u000a                A.declarative('acrStarsLink-click-metrics', 'click', { "allowLinkDefault" : true },  function(event){\u000a                    if(window.ue) {\u000a                        ue.count("acrStarsLinkWithPopoverClickCount", (ue.count("acrStarsLinkWithPopoverClickCount") || 0) + 1);\u000a                    }\u000a                });\u000a            });\u000a        \u000a\u000a\u000a                \u000a            \u000a        \u000a    \u000a\u000a\u000a  2.2 out of 5 stars
+p42670
+sVShipping Weight
+p42671
+V6.05 pounds (View shipping rates and policies)
+p42672
+sVColor
+p42673
+VSilk Gold
+p42674
+sVSeries
+p42675
+V2TZ72UAR
+p42676
+sVPackage Dimensions
+p42677
+V20.4 x 12.2 x 3.1 inches
+p42678
+sVBatteries
+p42679
+V1 Lithium ion batteries required. (included)
+p42680
+sVCard Description
+p42681
+VAMD Radeon R5 Graphics HD
+p42682
+sVBest Sellers Rank
+p42683
+V#9,301 in Computers & Accessories (See top 100)\u000a        \u000a              \u000a                #1,585 in Computers & Accessories > Laptops > Traditional Laptops
+p42684
+ssg19
+(S'HP 15.6" Colorwheel Notebook, HD Touchscreen, AMD A9-9420 3.0GHz Dual-Core, 4GB DDR4, 1TB SATA, 802.11ac, Win10H, 1-Year Office365 (Certified Refurbished) - Silk Gold'
+p42685
+Ntp42686
+sbag1
+(g41029
+g3
+Ntp42687
+Rp42688
+(dp42689
+g7
+S'https://www.amazon.com/Razer-Touchscreen-Ultrabook-Generation-i7-8550U/dp/B077C2VN4D'
+p42690
+sg9
+V$1,499.99
+p42691
+sg11
+(dp42692
+VDisplay Resolution Maximum
+p42693
+V3200 x 1800
+p42694
+sVItem model number
+p42695
+VRZ09-02393E31-R3U1
+p42696
+sVInternational Shipping
+p42697
+VThis item can be shipped to select countries outside of the U.S.  Learn More
+p42698
+sVItem Dimensions
+p42699
+V12.65 x 8.12 x 0.54 in
+p42700
+sVDate First Available
+p42701
+VNovember 14, 2017
+p42702
+sVProcessor Count
+p42703
+V4
+p42704
+sVRAM Size
+p42705
+V16 GB
+p42706
+sVProcessor Brand
+p42707
+VIntel
+p42708
+sVASIN
+p42709
+VB077C2VN4D
+p42710
+sVOperating System
+p42711
+VWindows 10 Home
+p42712
+sVBrand Name
+p42713
+VRazer
+p42714
+sVHard-Drive Size
+p42715
+V\u2014
+p42716
+sVDisplay Technology
+p42717
+VLED-Lit
+p42718
+sVRAM
+p42719
+V16 GB
+p42720
+sVDomestic Shipping
+p42721
+VCurrently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.
+p42722
+sVProcessor (CPU) Manufacturer
+p42723
+VIntel
+p42724
+sVScreen Size
+p42725
+V13.3 inches
+p42726
+sVOptical Drive Type
+p42727
+VNone
+p42728
+sVRAM Type
+p42729
+VDDR3 SDRAM
+p42730
+sVMax Screen Resolution
+p42731
+V3200 x 1800
+p42732
+sVWireless Compatibility
+p42733
+V\u2014
+p42734
+sVItem Weight
+p42735
+V2.98 pounds
+p42736
+sVItem Dimensions  L x W x H
+p42737
+V8.12 x 12.65 x 0.54 inches
+p42738
+sVHard Drive
+p42739
+VFlash Memory Solid State
+p42740
+sVProcessor Speed
+p42741
+V1.8 GHz
+p42742
+sVProcessor
+p42743
+V1.8 GHz Intel Core i7
+p42744
+sVCustomer Reviews
+p42745
+V/* \u000a    * Fix for UDP-1061. Average customer reviews has a small extra line on hover \u000a    * https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\u000a    */\u000a    .noUnderline a:hover { \u000a        text-decoration: none; \u000a    }\u000a\u000a\u000a\u000a\u000a    \u000a    \u000a    \u000a    \u000a        \u000a\u000a        \u000a        \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a		\u000a		\u000a		\u000a		\u000a		        \u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		        \u000a        \u000a\u000a        \u000a            \u000a            \u000a            \u000a                \u000a                \u000a                \u000a                    \u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a        \u000a            \u000a\u000a\u000a\u000a\u000a\u000a    \u000a        \u000a            \u000a                \u000a\u000a3.8 out of 5 stars\u000a                \u000a            \u000a        \u000a        \u000a    \u000a\u000a\u000a        \u000a        \u000a        \u000a        \u000a\u000a        \u000a\u000a        \u000a            \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a            \u000a            \u000a                \u000a                    \u000a                        66 customer reviews\u000a                    \u000a                \u000a            \u000a                \u000a                    P.when('A', 'ready').execute(function(A) {\u000a                        A.declarative('acrLink-click-metrics', 'click', { "allowLinkDefault" : true }, function(event){\u000a                            if(window.ue) {\u000a                                ue.count("acrLinkClickCount", (ue.count("acrLinkClickCount") || 0) + 1);\u000a                            }\u000a                        });\u000a                    });\u000a                \u000a            \u000a            \u000a            \u000a            \u000a        \u000a        \u000a        \u000a            P.when('A', 'cf').execute(function(A) {\u000a                A.declarative('acrStarsLink-click-metrics', 'click', { "allowLinkDefault" : true },  function(event){\u000a                    if(window.ue) {\u000a                        ue.count("acrStarsLinkWithPopoverClickCount", (ue.count("acrStarsLinkWithPopoverClickCount") || 0) + 1);\u000a                    }\u000a                });\u000a            });\u000a        \u000a\u000a\u000a                \u000a            \u000a        \u000a    \u000a\u000a\u000a  3.8 out of 5 stars
+p42746
+sVComputer Memory Type
+p42747
+VDDR3 SDRAM
+p42748
+sVShipping Weight
+p42749
+V5.45 pounds (View shipping rates and policies)
+p42750
+sVColor
+p42751
+VBlack
+p42752
+sVSeries
+p42753
+VRazer Blade
+p42754
+sVNumber of USB 3.0 Ports
+p42755
+V2
+p42756
+sVFlash Memory Size
+p42757
+V256.0
+p42758
+sVBatteries
+p42759
+V1 Lithium ion batteries required. (included)
+p42760
+sVCard Description
+p42761
+VDedicated
+p42762
+sVBest Sellers Rank
+p42763
+V#3,440 in Computers & Accessories (See top 100)\u000a        \u000a              \u000a                #438 in Computers & Accessories > Laptops > Traditional Laptops
+p42764
+sVProduct Dimensions
+p42765
+V8.1 x 12.7 x 0.5 inches
+p42766
+ssg19
+(S'Razer Blade Stealth 13.3" QHD+ Touchscreen Ultrabook (8th Generation Intel Quad Core i7-8550U, 16GB RAM, 256GB SSD)'
+p42767
+Ntp42768
+sbag1
+(g41029
+g3
+Ntp42769
+Rp42770
+(dp42771
+g7
+S'https://www.amazon.com/Alienware-AW17R4-7005SLV-PUS-Laptop-Generation-Silver/dp/B01N4BMMJK'
+p42772
+sg9
+V$1,400.00
+p42773
+sg11
+(dp42774
+VDisplay Resolution Maximum
+p42775
+V1920 x 1080
+p42776
+sVItem model number
+p42777
+VAW17R4-7005SLV-PUS
+p42778
+sVInternational Shipping
+p42779
+VThis item is not eligible for international shipping.  Learn More
+p42780
+sVItem Dimensions
+p42781
+V16.69 x 13 x 1.17 in
+p42782
+sVDate First Available
+p42783
+VJanuary 5, 2017
+p42784
+sVHard Drive Rotational Speed
+p42785
+V7200 RPM
+p42786
+sVProcessor Count
+p42787
+V4
+p42788
+sVRAM Size
+p42789
+V16 GB
+p42790
+sVChipset Brand
+p42791
+VNVIDIA GTX
+p42792
+sVHard-Drive Size
+p42793
+V1,000 GB
+p42794
+sVASIN
+p42795
+VB01N4BMMJK
+p42796
+sVOperating System
+p42797
+VWindows 10
+p42798
+sVBrand Name
+p42799
+VAlienware
+p42800
+sVProcessor Brand
+p42801
+VIntel
+p42802
+sVDisplay Technology
+p42803
+VLED-Lit
+p42804
+sVRAM
+p42805
+V16 GB
+p42806
+sVDomestic Shipping
+p42807
+VCurrently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.
+p42808
+sVProcessor (CPU) Manufacturer
+p42809
+VIntel
+p42810
+sVScreen Size
+p42811
+V17.3 inches
+p42812
+sVGraphics Coprocessor
+p42813
+VNVIDIA GeForce GTX 1060
+p42814
+sVHardware Platform
+p42815
+VPC; Notebook
+p42816
+sVOptical Drive Type
+p42817
+VNone
+p42818
+sVRAM Type
+p42819
+VDDR4 SDRAM
+p42820
+sVMax Screen Resolution
+p42821
+V1920 x 1080
+p42822
+sVWireless Compatibility
+p42823
+V\u2014
+p42824
+sVItem Weight
+p42825
+V9.7 pounds
+p42826
+sVItem Dimensions  L x W x H
+p42827
+V13 x 16.69 x 1.17 inches
+p42828
+sVHard Drive
+p42829
+V1000 GB Mechanical Hard Drive
+p42830
+sVProcessor Speed
+p42831
+V3.8 GHz
+p42832
+sVProcessor
+p42833
+V3.8 GHz Intel Core i7
+p42834
+sVCustomer Reviews
+p42835
+V/* \u000a    * Fix for UDP-1061. Average customer reviews has a small extra line on hover \u000a    * https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\u000a    */\u000a    .noUnderline a:hover { \u000a        text-decoration: none; \u000a    }\u000a\u000a\u000a\u000a\u000a    \u000a    \u000a    \u000a    \u000a        \u000a\u000a        \u000a        \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a		\u000a		\u000a		\u000a		\u000a		        \u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		        \u000a        \u000a\u000a        \u000a            \u000a            \u000a            \u000a                \u000a                \u000a                \u000a                    \u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a        \u000a            \u000a\u000a\u000a\u000a\u000a\u000a    \u000a        \u000a            \u000a                \u000a\u000a3.9 out of 5 stars\u000a                \u000a            \u000a        \u000a        \u000a    \u000a\u000a\u000a        \u000a        \u000a        \u000a        \u000a\u000a        \u000a\u000a        \u000a            \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a            \u000a            \u000a                \u000a                    \u000a                        86 customer reviews\u000a                    \u000a                \u000a            \u000a                \u000a                    P.when('A', 'ready').execute(function(A) {\u000a                        A.declarative('acrLink-click-metrics', 'click', { "allowLinkDefault" : true }, function(event){\u000a                            if(window.ue) {\u000a                                ue.count("acrLinkClickCount", (ue.count("acrLinkClickCount") || 0) + 1);\u000a                            }\u000a                        });\u000a                    });\u000a                \u000a            \u000a            \u000a            \u000a            \u000a        \u000a        \u000a        \u000a            P.when('A', 'cf').execute(function(A) {\u000a                A.declarative('acrStarsLink-click-metrics', 'click', { "allowLinkDefault" : true },  function(event){\u000a                    if(window.ue) {\u000a                        ue.count("acrStarsLinkWithPopoverClickCount", (ue.count("acrStarsLinkWithPopoverClickCount") || 0) + 1);\u000a                    }\u000a                });\u000a            });\u000a        \u000a\u000a\u000a                \u000a            \u000a        \u000a    \u000a\u000a\u000a  3.9 out of 5 stars
+p42836
+sVComputer Memory Type
+p42837
+VDDR4 SDRAM
+p42838
+sVShipping Weight
+p42839
+V14.65 pounds (View shipping rates and policies)
+p42840
+sVColor
+p42841
+VEpic Silver
+p42842
+sVSeries
+p42843
+VAlienware 17 R4
+p42844
+sVNumber of USB 3.0 Ports
+p42845
+V3
+p42846
+sVBatteries
+p42847
+V1 Lithium Polymer batteries required. (included)
+p42848
+sVCard Description
+p42849
+VDedicated
+p42850
+sVHard Drive Interface
+p42851
+VSerial ATA
+p42852
+sVBest Sellers Rank
+p42853
+V#3,363 in Computers & Accessories (See top 100)\u000a        \u000a              \u000a                #429 in Computers & Accessories > Laptops > Traditional Laptops
+p42854
+sVProduct Dimensions
+p42855
+V13 x 16.7 x 1.2 inches
+p42856
+ssg19
+(S'Alienware AW17R4-7005SLV-PUS 17" Laptop (7th Generation Intel Core i7, 16GB RAM, 1TB HDD, Silver) with NVIDIA GTX 1060'
+p42857
+Ntp42858
+sbag1
+(g41029
+g3
+Ntp42859
+Rp42860
+(dp42861
+g7
+S'https://www.amazon.com/HP-15-bs091ms-touchscreen-DVD-Writer-integrated/dp/B077HQMRVH'
+p42862
+sg9
+V$432.99
+p42863
+sg11
+(dp42864
+VDisplay Resolution Maximum
+p42865
+V1366 x 768
+p42866
+sVItem model number
+p42867
+V2UE58UA
+p42868
+sVItem Dimensions
+p42869
+V\u2014
+p42870
+sVDate First Available
+p42871
+VNovember 25, 2017
+p42872
+sVHard Drive Rotational Speed
+p42873
+V5400.00
+p42874
+sVProcessor Count
+p42875
+V2
+p42876
+sVRAM Size
+p42877
+V6 GB
+p42878
+sVProcessor Brand
+p42879
+VIntel
+p42880
+sVWireless Type
+p42881
+V802.11 A/C
+p42882
+sVASIN
+p42883
+VB077HQMRVH
+p42884
+sVOperating System
+p42885
+VWindows 10
+p42886
+sVBrand Name
+p42887
+VHP
+p42888
+sVHard-Drive Size
+p42889
+V1 TB
+p42890
+sVDisplay Technology
+p42891
+VLED
+p42892
+sVRAM
+p42893
+V6 GB DDR SDRAM
+p42894
+sVProcessor (CPU) Manufacturer
+p42895
+VIntel
+p42896
+sVScreen Size
+p42897
+V15.6 inches
+p42898
+sVPackage Dimensions
+p42899
+V19 x 12 x 2.8 inches
+p42900
+sVHardware Platform
+p42901
+VPC
+p42902
+sVRAM Type
+p42903
+VDDR3 SDRAM
+p42904
+sVMax Screen Resolution
+p42905
+V1366 x 768
+p42906
+sVWireless Compatibility
+p42907
+V802.11 A/C
+p42908
+sVItem Weight
+p42909
+V6 pounds
+p42910
+sVHard Drive
+p42911
+V1 TB mechanical_hard_drive
+p42912
+sVProcessor Speed
+p42913
+V2.4 GHz
+p42914
+sVProcessor
+p42915
+V2.4 GHz Core i3-540
+p42916
+sVCustomer Reviews
+p42917
+V/* \u000a    * Fix for UDP-1061. Average customer reviews has a small extra line on hover \u000a    * https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\u000a    */\u000a    .noUnderline a:hover { \u000a        text-decoration: none; \u000a    }\u000a\u000a\u000a\u000a\u000a    \u000a    \u000a    \u000a    \u000a        \u000a\u000a        \u000a        \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a		\u000a		\u000a		\u000a		\u000a		        \u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		        \u000a        \u000a\u000a        \u000a            \u000a            \u000a            \u000a                \u000a                \u000a                \u000a                    \u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a        \u000a            \u000a\u000a\u000a\u000a\u000a\u000a    \u000a        \u000a            \u000a                \u000a\u000a4.1 out of 5 stars\u000a                \u000a            \u000a        \u000a        \u000a    \u000a\u000a\u000a        \u000a        \u000a        \u000a        \u000a\u000a        \u000a\u000a        \u000a            \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a            \u000a            \u000a                \u000a                    \u000a                        7 customer reviews\u000a                    \u000a                \u000a            \u000a                \u000a                    P.when('A', 'ready').execute(function(A) {\u000a                        A.declarative('acrLink-click-metrics', 'click', { "allowLinkDefault" : true }, function(event){\u000a                            if(window.ue) {\u000a                                ue.count("acrLinkClickCount", (ue.count("acrLinkClickCount") || 0) + 1);\u000a                            }\u000a                        });\u000a                    });\u000a                \u000a            \u000a            \u000a            \u000a            \u000a        \u000a        \u000a        \u000a            P.when('A', 'cf').execute(function(A) {\u000a                A.declarative('acrStarsLink-click-metrics', 'click', { "allowLinkDefault" : true },  function(event){\u000a                    if(window.ue) {\u000a                        ue.count("acrStarsLinkWithPopoverClickCount", (ue.count("acrStarsLinkWithPopoverClickCount") || 0) + 1);\u000a                    }\u000a                });\u000a            });\u000a        \u000a\u000a\u000a                \u000a            \u000a        \u000a    \u000a\u000a\u000a  4.1 out of 5 stars
+p42918
+sVComputer Memory Type
+p42919
+VDDR3 SDRAM
+p42920
+sVShipping Weight
+p42921
+V6 pounds (View shipping rates and policies)
+p42922
+sVColor
+p42923
+VBlack
+p42924
+sVSeries
+p42925
+V15-bs091ms
+p42926
+sVBatteries
+p42927
+V1 Lithium Metal batteries required. (included)
+p42928
+sVHard Drive Interface
+p42929
+VSerial ATA-150
+p42930
+sVBest Sellers Rank
+p42931
+V#989 in Computers & Accessories (See top 100)\u000a        \u000a              \u000a                #92 in Computers & Accessories > Laptops > Traditional Laptops
+p42932
+ssg19
+(S'HP Laptop 15-bs091ms, 15.6-inch HD touchscreen, Intel Core i3-7100U, 8GB memory/1TB HDD, DVD-Writer, Windows 10, GA webcam with integrated digital microphone'
+p42933
+Ntp42934
+sbag1
+(g41029
+g3
+Ntp42935
+Rp42936
+(dp42937
+g7
+S'https://www.amazon.com/VivoBook-Portable-i7-8550U-Processor-N705UN-ES76/dp/B0791WV9MG'
+p42938
+sg9
+V$968.41
+p42939
+sg11
+(dp42940
+VDisplay Resolution Maximum
+p42941
+V1920x1080 pixels
+p42942
+sVItem model number
+p42943
+VN705UN-ES76
+p42944
+sVInternational Shipping
+p42945
+VThis item can be shipped to select countries outside of the U.S.  Learn More
+p42946
+sVItem Dimensions
+p42947
+V10.6 x 16.2 x 0.8 in
+p42948
+sVDate First Available
+p42949
+VJanuary 15, 2018
+p42950
+sVHard Drive Rotational Speed
+p42951
+V5400 RPM
+p42952
+sVProcessor Count
+p42953
+V4
+p42954
+sVRAM Size
+p42955
+V8 GB
+p42956
+sVChipset Brand
+p42957
+Vnvidia
+p42958
+sVWireless Type
+p42959
+V802.11 A/C
+p42960
+sVHard-Drive Size
+p42961
+V1,000 GB
+p42962
+sVASIN
+p42963
+VB0791WV9MG
+p42964
+sVOperating System
+p42965
+VWindows 10 Home
+p42966
+sVBrand Name
+p42967
+VAsus
+p42968
+sVProcessor Brand
+p42969
+VIntel
+p42970
+sVDisplay Technology
+p42971
+VLED-Lit
+p42972
+sVRAM
+p42973
+V8 GB DDR4_SDRAM
+p42974
+sVDomestic Shipping
+p42975
+VCurrently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.
+p42976
+sVProcessor (CPU) Manufacturer
+p42977
+VIntel
+p42978
+sVScreen Size
+p42979
+V17.3 inches
+p42980
+sVGraphics Coprocessor
+p42981
+VNVIDIA Geforce MX150
+p42982
+sVOptical Drive Type
+p42983
+VNone
+p42984
+sVNumber of USB 2.0 Ports
+p42985
+V2
+p42986
+sVRAM Type
+p42987
+VUnknown
+p42988
+sVMax Screen Resolution
+p42989
+V1920x1080 pixels
+p42990
+sVWireless Compatibility
+p42991
+V802.11 A/C
+p42992
+sVItem Weight
+p42993
+V4.6 pounds
+p42994
+sVItem Dimensions  L x W x H
+p42995
+V16.2 x 10.6 x 0.8 inches
+p42996
+sVHard Drive
+p42997
+V1000 GB Hybrid Drive
+p42998
+sVProcessor Speed
+p42999
+V4 GHz
+p43000
+sVProcessor
+p43001
+V4 GHz 8032
+p43002
+sVCustomer Reviews
+p43003
+V/* \u000a    * Fix for UDP-1061. Average customer reviews has a small extra line on hover \u000a    * https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\u000a    */\u000a    .noUnderline a:hover { \u000a        text-decoration: none; \u000a    }\u000a\u000a\u000a\u000a\u000a    \u000a    \u000a    \u000a    \u000a        \u000a\u000a        \u000a        \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a		\u000a		\u000a		\u000a		\u000a		        \u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		        \u000a        \u000a\u000a        \u000a            \u000a            \u000a            \u000a                \u000a                \u000a                \u000a                    \u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a        \u000a            \u000a\u000a\u000a\u000a\u000a\u000a    \u000a        \u000a            \u000a                \u000a\u000a2.9 out of 5 stars\u000a                \u000a            \u000a        \u000a        \u000a    \u000a\u000a\u000a        \u000a        \u000a        \u000a        \u000a\u000a        \u000a\u000a        \u000a            \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a        \u000a            \u000a            \u000a                \u000a                    \u000a                        2 customer reviews\u000a                    \u000a                \u000a            \u000a                \u000a                    P.when('A', 'ready').execute(function(A) {\u000a                        A.declarative('acrLink-click-metrics', 'click', { "allowLinkDefault" : true }, function(event){\u000a                            if(window.ue) {\u000a                                ue.count("acrLinkClickCount", (ue.count("acrLinkClickCount") || 0) + 1);\u000a                            }\u000a                        });\u000a                    });\u000a                \u000a            \u000a            \u000a            \u000a            \u000a        \u000a        \u000a        \u000a            P.when('A', 'cf').execute(function(A) {\u000a                A.declarative('acrStarsLink-click-metrics', 'click', { "allowLinkDefault" : true },  function(event){\u000a                    if(window.ue) {\u000a                        ue.count("acrStarsLinkWithPopoverClickCount", (ue.count("acrStarsLinkWithPopoverClickCount") || 0) + 1);\u000a                    }\u000a                });\u000a            });\u000a        \u000a\u000a\u000a                \u000a            \u000a        \u000a    \u000a\u000a\u000a  2.9 out of 5 stars
+p43004
+sVShipping Weight
+p43005
+V7.7 pounds (View shipping rates and policies)
+p43006
+sVColor
+p43007
+VStar Grey
+p43008
+sVSeries
+p43009
+VASUS VivoBook Pro
+p43010
+sVNumber of USB 3.0 Ports
+p43011
+g42986
+sVFlash Memory Size
+p43012
+V256.0
+p43013
+sVGraphics Card Ram Size
+p43014
+V2 GB
+p43015
+sVBatteries
+p43016
+V1 Lithium ion batteries required. (included)
+p43017
+sVCard Description
+p43018
+VDedicated
+p43019
+sVHard Drive Interface
+p43020
+VSerial ATA
+p43021
+sVBest Sellers Rank
+p43022
+V#2,976 in Computers & Accessories (See top 100)\u000a        \u000a              \u000a                #363 in Computers & Accessories > Laptops > Traditional Laptops
+p43023
+sVProduct Dimensions
+p43024
+V16.2 x 10.6 x 0.8 inches
+p43025
+ssg19
+(S'ASUS VivoBook Pro 17 17.3\xe2\x80\x9d Thin and Portable FHD Laptop, 8th Gen Intel Core i7-8550U Processor , NVIDIA GeForce MX150 Graphics, 8GB DDR4 RAM, 256GB SSD + 1TB HDD, USB-C, Backlit Keyboard, N705UN-ES76'
+p43026
+Ntp43027
+sbag1
+(g41029
+g3
+Ntp43028
+Rp43029
+(dp43030
+g7
+S'https://www.amazon.com/MSI-GT63-TITAN-046-EXTREME-i7-8750H/dp/B07C94H7TL'
+p43031
+sg9
+V$2,599.00
+p43032
+sg11
+(dp43033
+VDisplay Resolution Maximum
+p43034
+V1920 x 1080
+p43035
+sVItem model number
+p43036
+VGT63 TITAN-046
+p43037
+sVInternational Shipping
+p43038
+VThis item is not eligible for international shipping.  Learn More
+p43039
+sVItem Dimensions
+p43040
+V10.47 x 15.35 x 1.56 in
+p43041
+sVDate First Available
+p43042
+VApril 3, 2018
+p43043
+sVHard Drive Rotational Speed
+p43044
+V7200 RPM
+p43045
+sVProcessor Count
+p43046
+V1
+p43047
+sVRAM Size
+p43048
+V16 GB
+p43049
+sVProcessor Brand
+p43050
+VIntel
+p43051
+sVASIN
+p43052
+VB07C94H7TL
+p43053
+sVOperating System
+p43054
+VWindows 10 Professional
+p43055
+sVBrand Name
+p43056
+VMSI
+p43057
+sVHard-Drive Size
+p43058
+V1,000 GB
+p43059
+sVDisplay Technology
+p43060
+VLCD
+p43061
+sVRAM
+p43062
+V16 GB
+p43063
+sVDomestic Shipping
+p43064
+VCurrently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.
+p43065
+sVProcessor (CPU) Manufacturer
+p43066
+VIntel
+p43067
+sVScreen Size
+p43068
+V15.6 inches
+p43069
+sVGraphics Coprocessor
+p43070
+VNVIDIA GeForce GTX 1080
+p43071
+sVOptical Drive Type
+p43072
+VNone
+p43073
+sVNumber of USB 2.0 Ports
+p43074
+g43047
+sVRAM Type
+p43075
+V\u2014
+p43076
+sVMax Screen Resolution
+p43077
+V1920 x 1080
+p43078
+sVItem Weight
+p43079
+V6.48 pounds
+p43080
+sVItem Dimensions  L x W x H
+p43081
+V15.35 x 10.47 x 1.56 inches
+p43082
+sVHard Drive
+p43083
+V1000 GB Hybrid Drive
+p43084
+sVProcessor Speed
+p43085
+V3.9 GHz
+p43086
+sVProcessor
+p43087
+V3.9 GHz Intel Core i7
+p43088
+sVCustomer Reviews
+p43089
+V/* \u000a    * Fix for UDP-1061. Average customer reviews has a small extra line on hover \u000a    * https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\u000a    */\u000a    .noUnderline a:hover { \u000a        text-decoration: none; \u000a    }\u000a\u000a\u000a\u000a\u000a    \u000a    \u000a    \u000a    \u000a        \u000a\u000a        \u000a        \u000a        \u000a\u000a        \u000a        \u000a        \u000a        \u000a		\u000a		\u000a		\u000a		\u000a		        \u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		\u000a		        \u000a        \u000a\u000a        \u000a            \u000a            \u000a            \u000a                \u000a                \u000a                    \u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a    \u000a    \u000a        \u000a            \u000a                \u000a                    Be the first to review this item\u000a                \u000a            \u000a        \u000a    \u000a\u000a                \u000a                \u000a            \u000a        \u000a    \u000a\u000a\u000a  0.0 out of 5 stars
+p43090
+sVShipping Weight
+p43091
+V12.48 pounds (View shipping rates and policies)
+p43092
+sVSeries
+p43093
+VGT63 Titan 046
+p43094
+sVNumber of USB 3.0 Ports
+p43095
+V3
+p43096
+sVFlash Memory Size
+p43097
+V256.0
+p43098
+sVGraphics Card Ram Size
+p43099
+V8 GB
+p43100
+sVBatteries
+p43101
+V1 Lithium ion batteries required. (included)
+p43102
+sVCard Description
+p43103
+VDedicated
+p43104
+sVHard Drive Interface
+p43105
+VSerial ATA
+p43106
+sVBest Sellers Rank
+p43107
+V#250,353 in Computers & Accessories (See top 100)\u000a        \u000a              \u000a                #53,956 in Computers & Accessories > Laptops > Traditional Laptops
+p43108
+sVProduct Dimensions
+p43109
+V15.3 x 10.5 x 1.6 inches
+p43110
+ssg19
+(S'MSI GT63 TITAN-046 120Hz 3ms G-Sync EXTREME Gaming Laptop i7-8750H (6 cores) GTX 1080 8G, 16GB 256GB NVMe SSD +1TB, 15.6"'
+p43111
+Ntp43112
 sba.

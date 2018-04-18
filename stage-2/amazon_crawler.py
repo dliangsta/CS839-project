@@ -71,8 +71,6 @@ def begin_crawl(crawl_more):
     visited = {}
     product_dict = {}
     if crawl_more:
-        with open('amazon-products.p', 'rb') as pf:
-            product_dict = pickle.load(pf)
 
         with open(settings.a_URL_file, 'r') as w:
             urls = (w.readlines())
@@ -183,7 +181,7 @@ def fetch_listing(start, end):
         
 if __name__ == '__main__':
     if len(sys.argv) > 1 and sys.argv[1] == "crawl":
-        begin_crawl(crawl_more = False)
+        begin_crawl(crawl_more = True)
     elif len(sys.argv) > 1 and sys.argv[1] == "start":
         gather_urls(int(sys.argv[2]), int(sys.argv[3]))
         fetch_listing(int(sys.argv[2]), int(sys.argv[3]))

@@ -35,4 +35,4 @@
 
 [Link to a pdf document with the report](https://github.com/dliangsta/cs839-project/blob/master/stage-3/report.pdf)
 
-[Link to Jupyter notebook (named 'em_notebook.ipynb')](https://github.com/dliangsta/cs839-project/blob/master/stage-3/em_notebook.ipynb)
+[Link to Jupyter notebook [em_notebook.ipynb]](https://github.com/dliangsta/cs839-project/blob/master/stage-3/em_notebook.ipynb)

@@ -41,15 +41,16 @@ def main(brand):
     # pickle.dump(data, open(filename,'wb'))
     count = 0
     with open('data/'+brand+'_products.csv', 'w') as f:
-        keys = ','.join(sorted(data[0].properties.keys()))
-        print 'id,product title,' + keys + ',combo'
-        f.write('id,product title,' + keys + ',combo' + '\n')
+        keys = ','.join(sorted(data[0].properties.keys())).replace(' ','_')
+        print 'id,product_title,price,' + keys + ',extended_title'
+        f.write('id,product_title,price,' + keys + ',extended_title' + '\n')
         for item in data:
             values = ','.join([item.properties[key] for key in sorted(item.properties.keys())])
             pid = str(brand[0]) + str(count)
             try:
                 if item.price == '-' or item.price == 'N/A' or item.price == 'Missing':
-                        item.price = ''
+                    if '.' not in item.price or not any(c.isdigit() for c in list(item.price)) or len(item.price) > 10:
+                        item.price = ' '
                 if brand == 'amazon':
                     if item.title[0] == '-' or item.title[0] == 'N/A' or item.title[0] == 'Missing':
                         item.title[0] = ''
@@ -58,9 +59,9 @@ def main(brand):
                     if item.title == '-' or item.title == 'N/A' or item.title == 'Missing':
                         item.title = ''
                     title = str(item.title).replace(',' , '').replace('\\','').replace('\n','').replace('"', '')
-                item_string = title + ',' + values
-                # Combo field
-                item_string += ',' + title + ' ' + ' '.join([word for word in item_string.replace(',',' ').split(' ') if word not in title])
+                item_string = title + ',' + item.price.replace(',','.') + ',' + values
+                # extended_title field
+                item_string += ',' + title + ' ' + ' '.join([word for word in item_string.replace(',',' ').split(' ') if word not in title]).replace(',','.')
                 item_string = str(pid) + ','  + item_string
                 item_string = item_string.replace('  ', ' ').lower().replace('  ', ' ')
                 f.write(item_string + '\n')

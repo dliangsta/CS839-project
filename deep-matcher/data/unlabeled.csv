@@ -1,4 +1,4 @@
-id,ltable_id,ltable_model,ltable_extended_title,rtable_id,rtable_model,rtable_extended_title
+id,left_id,left_model,left_extended_title,right_id,right_model,right_extended_title
 0,a0,nh.q28aa.001,acer predator helios 300 15.6 full hd intel core i7 7700hq 16gb ddr4 256gb ssd geforce gtx 1060 6gb vr ready kb g3 571 77qk nh.q28aa.001 windows,w1389,nh.q1taa.001,refurbished acer 17.3 intel core i7 2.8 ghz 16 gb 1 tb hdd 256 gb ssd windows 10 nh.q1taa.001
 1,a0,nh.q28aa.001,acer predator helios 300 15.6 full hd intel core i7 7700hq 16gb ddr4 256gb ssd geforce gtx 1060 6gb vr ready kb g3 571 77qk nh.q28aa.001 windows,w1396,nh.q1aaa.001,manufacturer acer predator g9 793 79pe 17.3 intel core i7 6700hq 2.6 ghz 16gb 1tb hdd 256gb ssd windows 10 nh.q1aaa.001
 2,a0,nh.q28aa.001,acer predator helios 300 15.6 full hd intel core i7 7700hq 16gb ddr4 256gb ssd geforce gtx 1060 6gb vr ready kb g3 571 77qk nh.q28aa.001 windows,w1504,nh.q1faa.001,refurbished acer 17.3 intel core i7 2.9 ghz 32 gb 1 tb hdd 512 gb ssd windows 10 nh.q1faa.001 windows

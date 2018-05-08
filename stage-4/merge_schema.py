@@ -31,7 +31,7 @@ matches = f.readlines()[1:]
 matches = [(i.split(',')[1], i.split(',')[2]) for i in matches]
 f.close()
 
-to_print = 'a_id,w_id'
+to_print = '#a_id,w_id'
 for i in range(1, len(metadata)):	
 	meta = metadata[i]
 	if meta == 'price':

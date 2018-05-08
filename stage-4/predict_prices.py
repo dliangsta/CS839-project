@@ -65,11 +65,11 @@ def predict_prices(in_csv):
 	label_encoder = LabelEncoder()
 	onehot_encoder = OneHotEncoder(sparse=False)
 
-	# brand
-	integer_encoded = label_encoder.fit_transform(brands) # transform strings to integers
-	integer_encoded = integer_encoded.reshape(len(integer_encoded), 1)
-	onehot_encoded = onehot_encoder.fit_transform(integer_encoded) # transform integers to one-hot encoding
-	brands = onehot_encoded
+	# # brand
+	# integer_encoded = label_encoder.fit_transform(brands) # transform strings to integers
+	# integer_encoded = integer_encoded.reshape(len(integer_encoded), 1)
+	# onehot_encoded = onehot_encoder.fit_transform(integer_encoded) # transform integers to one-hot encoding
+	# brands = onehot_encoded
 
 	# os
 	integer_encoded = label_encoder.fit_transform(os_s) # transform strings to integers
@@ -77,13 +77,14 @@ def predict_prices(in_csv):
 	onehot_encoded = onehot_encoder.fit_transform(integer_encoded) # transform integers to one-hot encoding
 	os_s = onehot_encoded
 
-	# cpu manufacturer
-	integer_encoded = label_encoder.fit_transform(cpums) # transform strings to integers
-	integer_encoded = integer_encoded.reshape(len(integer_encoded), 1)
-	onehot_encoded = onehot_encoder.fit_transform(integer_encoded) # transform integers to one-hot encoding
-	cpums = onehot_encoded
+	# # cpu manufacturer
+	# integer_encoded = label_encoder.fit_transform(cpums) # transform strings to integers
+	# integer_encoded = integer_encoded.reshape(len(integer_encoded), 1)
+	# onehot_encoded = onehot_encoder.fit_transform(integer_encoded) # transform integers to one-hot encoding
+	# cpums = onehot_encoded
 
-	X = np.concatenate((X, brands, os_s, cpums), axis=1)
+	# X = np.concatenate((X, brands, os_s, cpums), axis=1)
+	X = np.concatenate((X, os_s), axis=1)
 
 	print(X[:10])
 	return  None

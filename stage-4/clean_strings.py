@@ -38,7 +38,7 @@ os_s = [['Windows 10', '64-bit Windows 10 Pro', 'Microsoft Windows', 'Microsoft 
 		['Chrome', 'Chrome OS'],
 		['Mac OS X', 'Mac OS 9.X', 'Mac OS Sierra', 'Mac OS X 10.12 Sierra', 'Mac OS X 10.2 Jaguar', 'Mac OS X 10.8 Mountain Lion', 'Mac OS X El Capitan', 'Mac OS X Mavericks', 'Mac OS X V10.11 El Capitan', 'Mac OS X v10.8 Mountain Lion', 'OS X Mavericks']]
 
-intel = ['intel', 'Intel', 'Celeron', 'celeron', 'Pentium', 'pentium', 'i5', 'i7', 'Atom', 'Core', '8032']
+intel = ['intel', 'Intel', 'Celeron', 'celeron', 'Pentium', 'pentium', 'i5', 'i7', 'Atom', 'Core', '8032', 'None', 'core_m', 'GHz']
 samsung = ['Exynos']
 rockchip = ['Rockchip']
 amd = ['AMD', 'Athlon', 'athlon']
@@ -66,7 +66,7 @@ def clean_csv(dirty_csv):
 	header = lines[0].strip().split(',')
 	title_index = header.index('product title')
 	brand_index = header.index('brand')
-	lct_index = header.index('laptop computer type')
+	#lct_index = header.index('laptop computer type')
 	os_index = header.index('operating system')
 	cpu_index = header.index('processor (cpu) manufacturer')
 
@@ -76,7 +76,7 @@ def clean_csv(dirty_csv):
 		
 		title = values[title_index]
 		brand = values[brand_index]
-		lct = values[lct_index]
+		#lct = values[lct_index]
 		os = values[os_index]
 		cpu = values[cpu_index]
 
@@ -93,11 +93,11 @@ def clean_csv(dirty_csv):
 				break
 
 		# next clean lct
-		print('cleaning lcts')
-		for l in lcts:
-			if lct in l:
-				lct = l[0]
-				break
+		#print('cleaning lcts')
+		#for l in lcts:
+		#	if lct in l:
+		#		lct = l[0]
+		#		break
 
 		# next clean os
 		print('cleaning os')
@@ -127,7 +127,7 @@ def clean_csv(dirty_csv):
 
 		# now place values back into csv
 		values[brand_index] = brand
-		values[lct_index] = lct
+		#values[lct_index] = lct
 		values[os_index] = os
 		values[cpu_index] = cpu
 

@@ -17,7 +17,7 @@ Support	LengthofSet	Frequent_Item_Set
 0.32	2	[ hard_disk_size: 512.0 GB, processor_count: 2 ]
 0.32	2	[ hard_disk_size: 512.0 GB, screen_size: 14.0 in ]
 0.84	2	[ operating_system: Windows 10, processor_(cpu)_manufacturer: Intel ]
-0.61	2	[ operating_system: Windows 10, processor_count: 2 ]
+0.62	2	[ operating_system: Windows 10, processor_count: 2 ]
 0.31	2	[ operating_system: Windows 10, ram_size: 16.0 GB ]
 0.51	2	[ operating_system: Windows 10, screen_size: 14.0 in ]
 0.69	2	[ processor_(cpu)_manufacturer: Intel, processor_count: 2 ]

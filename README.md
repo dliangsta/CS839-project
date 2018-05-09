@@ -36,3 +36,16 @@
 [Link to a pdf document with the report](https://github.com/dliangsta/cs839-project/blob/master/stage-3/report.pdf)
 
 [Link to Jupyter notebook [em_notebook.ipynb]](https://github.com/dliangsta/cs839-project/blob/master/stage-3/em_notebook.ipynb)
+
+# CS839-project Stage 4
+
+[Link to the directory that stores all of the data](https://github.com/dliangsta/cs839-project/tree/master/stage-4/data)
+
+* [Link to CSV file storing Table E](https://github.com/dliangsta/cs839-project/blob/master/stage-4/data/Table_E.csv)
+* [Link to file with the set of matches between tables A and B](https://github.com/dliangsta/cs839-project/blob/master/stage-4/data/matches.txt)
+	* Each match is of the form 'amazon id' '\t' 'walmart id' 
+* [Link to Python script that was used to merge tables A and B](https://github.com/dliangsta/cs839-project/blob/master/stage-4/merge_schema.py)
+
+[Link to the directory that stores all of the code](https://github.com/dliangsta/cs839-project/tree/master/stage-4)
+
+[Link to a pdf document with the report](https://github.com/dliangsta/cs839-project/blob/master/stage-4/report.pdf)
